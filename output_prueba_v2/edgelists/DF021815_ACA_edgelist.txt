@@ -1,0 +1,10 @@
+costo de desplazamientos,crecimiento urbano
+crecimiento urbano,asentamientos irregulares
+expectativa de especulación de la tierra,asentamientos irregulares
+desarrollo inmobiliario,crecimiento urbano
+calidad del agua,desconfianza en el agua de la llave
+desconfianza en el agua de la llave,agua embotellada
+gestión del recurso hídrico,desigualdad en el consumo de agua
+esquema tarifario del agua,desigualdad en el consumo de agua
+circuitos de la red de agua,mecanismos de control político
+mecanismos de control político,asentamientos irregulares

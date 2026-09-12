@@ -1,0 +1,107 @@
+{
+  "_comment": "Diccionario de equivalencias de variables para MEGADAPT. Formato: 'término libre' → 'término estandarizado'. Ampliar según el proceso de codificación del equipo.",
+
+  "suministro de agua": "abastecimiento de agua",
+  "agua potable": "abastecimiento de agua",
+  "red hídrica": "abastecimiento de agua",
+  "red de agua": "abastecimiento de agua",
+  "tandeo": "abastecimiento de agua",
+  "servicio de agua": "abastecimiento de agua",
+  "distribución de agua": "abastecimiento de agua",
+
+  "pozos": "extracción de agua subterránea",
+  "pozos de agua": "extracción de agua subterránea",
+  "acuífero": "extracción de agua subterránea",
+  "bombeo": "extracción de agua subterránea",
+  "sobreexplotación acuífera": "extracción de agua subterránea",
+
+  "hundimiento": "subsidencia",
+  "hundimientos del suelo": "subsidencia",
+  "colapso del suelo": "subsidencia",
+
+  "basura": "residuos sólidos",
+  "desechos": "residuos sólidos",
+  "tiradero": "residuos sólidos",
+  "residuos": "residuos sólidos",
+
+  "inundaciones": "riesgo de inundación",
+  "encharcamiento": "riesgo de inundación",
+  "anegamiento": "riesgo de inundación",
+  "desbordamiento": "riesgo de inundación",
+
+  "contaminación": "contaminación del agua",
+  "agua sucia": "contaminación del agua",
+  "agua contaminada": "contaminación del agua",
+
+  "cambio climático": "variabilidad climática",
+  "calentamiento global": "variabilidad climática",
+  "sequía": "variabilidad climática",
+
+  "lluvia": "precipitación",
+  "lluvias": "precipitación",
+  "temporada de lluvias": "precipitación",
+  "precipitación pluvial": "precipitación",
+
+  "densidad poblacional": "crecimiento urbano",
+  "expansión urbana": "crecimiento urbano",
+  "urbanización": "crecimiento urbano",
+  "asentamientos irregulares": "crecimiento urbano",
+  "invasión de predios": "crecimiento urbano",
+
+  "pobreza": "marginalidad socioeconómica",
+  "marginación": "marginalidad socioeconómica",
+  "desigualdad": "marginalidad socioeconómica",
+  "vulnerabilidad social": "marginalidad socioeconómica",
+
+  "drenaje": "infraestructura de drenaje",
+  "alcantarillado": "infraestructura de drenaje",
+  "sistema de drenaje": "infraestructura de drenaje",
+  "drenaje profundo": "infraestructura de drenaje",
+  "canal de desagüe": "infraestructura de drenaje",
+
+  "mantenimiento": "mantenimiento de infraestructura",
+  "falta de mantenimiento": "mantenimiento de infraestructura",
+  "descuido de infraestructura": "mantenimiento de infraestructura",
+
+  "inversión": "inversión en infraestructura",
+  "presupuesto": "inversión en infraestructura",
+  "gasto público": "inversión en infraestructura",
+
+  "gobierno": "capacidad institucional",
+  "autoridades": "capacidad institucional",
+  "gestión gubernamental": "capacidad institucional",
+  "políticas públicas": "capacidad institucional",
+  "toma de decisiones": "capacidad institucional",
+
+  "comunidad": "organización comunitaria",
+  "vecinos": "organización comunitaria",
+  "participación ciudadana": "organización comunitaria",
+  "organización vecinal": "organización comunitaria",
+
+  "salud": "riesgo a la salud",
+  "enfermedades": "riesgo a la salud",
+  "enfermedades gastrointestinales": "riesgo a la salud",
+  "dengue": "riesgo a la salud",
+  "riesgo sanitario": "riesgo a la salud",
+
+  "bosque": "servicios ecosistémicos",
+  "áreas verdes": "servicios ecosistémicos",
+  "recarga de acuíferos": "servicios ecosistémicos",
+  "suelo de conservación": "servicios ecosistémicos",
+  "lago": "servicios ecosistémicos",
+  "chinampas": "servicios ecosistémicos",
+
+  "pipas": "abastecimiento alternativo de agua",
+  "pipa de agua": "abastecimiento alternativo de agua",
+  "garrafones": "abastecimiento alternativo de agua",
+  "acarreo de agua": "abastecimiento alternativo de agua",
+
+  "sacmex": "gestión del agua (SACMEX)",
+  "conagua": "gestión del agua (CONAGUA)",
+  "protección civil": "gestión del riesgo",
+  "cenapred": "gestión del riesgo",
+
+  "corrupción": "corrupción e impunidad",
+  "impunidad": "corrupción e impunidad",
+  "falta de transparencia": "corrupción e impunidad"
+}

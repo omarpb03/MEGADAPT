@@ -1,0 +1,22 @@
+﻿interview_id,sector,delegation,activity,dimension,variable
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,falta_de_planeacion_urbana
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,asentamientos_humanos_irregulares_y_regulares
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,falta_de_servicios_urbanos
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,fugas
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,variabilidad_climatica
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,falta_de_presion
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,calidad_de_agua
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,causa,recursos_financieros
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,accion,inversion_en_infraestructura
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,accion,perforacion_de_pozos
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,accion,mantenimiento_de_plantas_de_tratamiento
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,accion,rebombeo_de_agua
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,accion,dotacion_por_pipas
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,accion,inversion_en_infraestructura
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,accion,captacion_de_agua_de_lluvia
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,responsabilidad,INVI
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,responsabilidad,delegacion
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,responsabilidad,gobierno federal
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,responsabilidad,CONAGUA
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,responsabilidad,SACMEX
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,responsabilidad,iniciativa privada

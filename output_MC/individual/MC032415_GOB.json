@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "interview_id": "MC032415_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Magdalena Contreras",
+    "source_file": "C:\\Users\\Usuario\\Desktop\\MEGADAPT\\LLMs-ModelosMentales\\TRANSCRIPCIONES\\Transcripciones_MC\\MC032415_GOB__T-MC032415_GOV.docx"
+  },
+  "preocupacion_principal": "La preocupación principal radica en el desabasto progresivo de agua y las dificultades para garantizar una distribución equitativa debido al envejecimiento de la infraestructura y el crecimiento urbano. Esta situación se agrava por la pérdida de agua en fugas masivas y por la parálisis de obras de modernización causada por la oposición vecinal fundada en desinformación.",
+  "causas_biofisicas": [
+    "Disminución del caudal en manantiales y fuentes de abastecimiento durante la temporada de estiaje.",
+    "Deforestación por tala clandestina en la parte alta del bosque que afecta la recarga de los mantos acuíferos.",
+    "Arrastre de lodo, basura y ramas hacia el río Magdalena y las cajas de captación durante la temporada de lluvias."
+  ],
+  "causas_socio_institucionales": [
+    "Desconfianza y oposición vecinal o de grupos comuneros hacia obras hidráulicas por la creencia de que el agua se trasvasará a otras zonas.",
+    "Limitaciones presupuestales asignadas anualmente por el Gobierno Central para obras de infraestructura.",
+    "Fallas continuas en el suministro eléctrico que suspenden el rebombeo hacia los tanques de las partes altas.",
+    "Falta de conciencia ambiental por parte de visitantes y santeros que arrojan residuos y contaminan las fuentes de agua."
+  ],
+  "causas_uso_de_suelo": [
+    "Crecimiento de la mancha urbana y densificación de viviendas (condominios) que incrementan sustancialmente la demanda de agua.",
+    "Pavimentación excesiva con concreto que impide la filtración de agua de lluvia al subsuelo.",
+    "Surgimiento de asentamientos de reciente creación que carecen de red de infraestructura hidráulica."
+  ],
+  "causas_infraestructurales": [
+    "Tuberías antiguas de plomo, asbesto cemento y fierro galvanizado que superan los 40 años de vida útil y generan sarro y fugas constantes.",
+    "Ausencia de presas de almacenamiento para captar y aprovechar el agua pluvial que se pierde en temporada de lluvias.",
+    "Taponamiento recurrente de los filtros y rejillas de las plantas potabilizadoras por acumulación de lodo y desperdicios.",
+    "Capacidad insuficiente de tanques de almacenamiento antiguos frente a la escala poblacional actual."
+  ],
+  "consecuencias": [
+    "Necesidad de racionar el abastecimiento de agua a la población mediante esquemas de tandeo y reparto a través de pipas.",
+    "Pérdida masiva de agua por fugas en tuberías deterioradas y por vertimiento del excedente pluvial no capturado.",
+    "Suspensión o demora de obras de sustitución de redes debido al bloqueo e inconformidad de las comunidades locales.",
+    "Interrupciones temporales en la operación de plantas potabilizadoras y de rebombeo por acumulación de lodo o cortes de luz."
+  ],
+  "acciones": [
+    "Subdirección de Operación Hidráulica: Distribuye agua potable a las 48 colonias mediante red continua, esquemas de tandeo y servicio gratuito de pipas.",
+    "Subdirección de Operación Hidráulica: Mantiene un programa permanente de reparación de fugas, sustitución de ramales, tomas tapadas y desinfección de tanques junto con SACMEX.",
+    "Dirección Técnica de Obras y SACMEX: Ejecutan la sustitución de tuberías antiguas de plomo y asbesto por polietileno de alta densidad.",
+    "CFE: Instala transformadores locales en estaciones de rebombeo para estabilizar el suministro eléctrico y evitar pérdidas de agua.",
+    "Delegación y Sistema de Aguas: Llevan a cabo reuniones de concertación con vecinos y comuneros para informar sobre los proyectos y resolver oposiciones.",
+    "Televisoras y sociedad civil: Realizan jornadas temporales de limpieza y mantenimiento en el cauce del río Magdalena.",
+    "SACMEX: Monitorea la calidad del agua y opera cloradoras locales en los sistemas de rebombeo y garzas de carga."
+  ],
+  "error": null
+}

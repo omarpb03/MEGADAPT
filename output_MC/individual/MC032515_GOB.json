@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "interview_id": "MC032515_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Magdalena Contreras",
+    "source_file": "C:\\Users\\Usuario\\Desktop\\MEGADAPT\\LLMs-ModelosMentales\\TRANSCRIPCIONES\\Transcripciones_MC\\MC032515_GOB__T-MC032515_GOV.docx"
+  },
+  "preocupacion_principal": "El riesgo constante de deslizamientos de talud e inundaciones en la delegación Magdalena Contreras debido a las lluvias intensas sobre una orografía montañosa, problema que se ve agravado por la proliferación de asentamientos irregulares que cortan laderas y la tala inmoderada de árboles.",
+  "causas_biofisicas": [
+    "Orografía de montaña con laderas pronunciadas",
+    "Precipitaciones de alta intensidad y volumen concentradas en la zona",
+    "Suelo compuesto de arcilla que se satura y se reblandece fácilmente con la humedad",
+    "Incendios forestales que secan vegetación y erosionan el terreno"
+  ],
+  "causas_socio_institucionales": [
+    "Imposibilidad legal de realizar obras formales de mitigación en asentamientos irregulares para no legitimar la propiedad",
+    "Falta de personal especializado como geólogos a nivel delegacional para realizar estudios de mecánica de suelos",
+    "Aspectos culturales de la población de tirar basura en ríos y barrancas"
+  ],
+  "causas_uso_de_suelo": [
+    "Crecimiento de asentamientos irregulares en zonas de cerros, ríos y barrancas",
+    "Cortes inestables al cerro y terraceo inadecuado para la construcción de viviendas o agricultura",
+    "Deforestación, poda sin control y quema de raíces de árboles por parte de residentes para ganar terreno"
+  ],
+  "causas_infraestructurales": [
+    "Uso de letrinas y descargas directas de aguas residuales hacia barrancas o al suelo sin canalización",
+    "Obstrucción de la red de drenaje y rejillas por acumulación de granizo, hojas y basura",
+    "Capacidad insuficiente de la estructura hidráulica ante lluvias extraordinarias",
+    "Viviendas construidas por debajo del nivel de la carretera",
+    "Sustracción de rejillas del drenaje pluvial"
+  ],
+  "consecuencias": [
+    "Deslizamientos de talud y desprendimiento de laderas",
+    "Inundaciones y encharcamientos en domicilios y zonas urbanas",
+    "Desbordamiento de barrancas",
+    "Daños materiales a las viviendas y pertenencias de la población",
+    "Riesgos de contaminación e infecciones sanitarias por contacto con agua residual o encharcada",
+    "Degradación y erosión del suelo natural"
+  ],
+  "acciones": [
+    "Protección Civil: Emite opiniones técnicas y notifica por escrito a los residentes sobre las condiciones de alto riesgo y medidas preventivas.",
+    "Protección Civil: Realiza recorridos de inspección, monitoreo constante de ríos y barrancas, y cubre taludes inestables con plástico de polipropileno.",
+    "Protección Civil: Actúa en emergencias dividiendo el personal en 4 grupos operativos para destapar coladeras y achicar agua en viviendas inundadas.",
+    "Protección Civil: Imparte talleres y distribuye trípticos informativos para promover la cultura de la prevención en sismos, lluvias e incendios.",
+    "Delegación (Ecología y Obras): Ejecuta programas de desazolve del drenaje y jornadas de limpieza para retirar basura, llantas y escombros de ríos y barrancas.",
+    "Delegación (Tenencia de la Tierra): Efectúa recorridos de vigilancia para frenar el crecimiento de asentamientos irregulares y retirar construcciones no autorizadas.",
+    "Jurisdicción Sanitaria: Realiza labores de evacuación sanitaria, desinfección con cloro y cal en viviendas afectadas y aplica vacunas a la población.",
+    "Vecinos: Modifican y cortan cerros para construir viviendas sin técnica de canalización adecuada.",
+    "Vecinos: Arrojan residuos sólidos y basura en ríos y barrancas."
+  ],
+  "error": null
+}

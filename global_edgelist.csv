@@ -1,0 +1,206 @@
+﻿cause,effect,frequency
+variabilidad climática,Escasez de agua,2
+Proyectos de desarrollo urbano,Abastecimiento de agua,1
+Proyectos de desarrollo urbano,riesgo de inundación,1
+Programas sociales de vivienda,Abastecimiento de agua,1
+Disponibilidad de agua y lluvias,Abastecimiento de agua,1
+Inversión de la iniciativa privada,Presupuesto para infraestructura,1
+Rehabilitación de redes y fugas,Abastecimiento de agua,1
+Plantas potabilizadoras,Calidad del agua,1
+Crecimiento de la ciudad,Ocupación de zonas de recarga,1
+Ocupación de zonas de recarga,Disminución de la recarga de agua,1
+Control político y clientelismo,Asentamientos informales,1
+Asentamientos informales,Ocupación de suelo de conservación,1
+Extracción y sobreexplotación de mantos acuíferos,Hundimiento de la ciudad,1
+Pérdidas en la red hidráulica,Déficit de dotación y tandeo,1
+Corrupción y decisiones políticas,Inadecuada planeación urbana,1
+Falta de información y opacidad estadística,Dificultad para la toma de decisiones,1
+Inversión privada y concesiones,Operación de servicios urbanos,1
+Control político y clientelismo,Manejo político del agua,1
+Falta de coordinación institucional,Abastecimiento de agua,1
+Desigualdad socioeconómica,Precios altos del agua para la gente pobre,1
+Corrupción en permisos de construcción,Vivienda informal y autogestionada,1
+Presión política y movilizaciones sociales,Abastecimiento de agua,1
+Producción social de vivienda,Ubicación de la vivienda y distancia a centros de trabajo,1
+Pobre calidad del agua,Precios altos del agua para la gente pobre,1
+Movimiento urbano popular,Servicios urbanos y agua,1
+Movimiento urbano popular,Calidad de vida y seguridad,1
+Política de desarrollo urbano,Riesgo y vulnerabilidad,1
+Inversión privada,Política de desarrollo urbano,1
+Movilización social y protesta,Incidencia política,1
+Aprendizaje normativo y legal,Incidencia política,1
+Sismos de 1985,Conciencia social,1
+Clientelismo y apoyo político,Recursos y créditos,1
+Autonomía política de la CDMX,Decisiones locales,1
+Movilización social y protesta,Negociación de leyes,1
+Especulación inmobiliaria,Asentamientos humanos irregulares,1
+Asentamientos humanos irregulares,Presión urbana,1
+Presión urbana,Suelo de conservación,1
+Descoordinación institucional,Escasez de agua,1
+Escasez de agua,Grupos de piperos,1
+Desmantelamiento de las políticas rurales,Suelo de conservación,1
+Organizaciones comunitarias,Suelo de conservación,1
+Políticas de vivienda,Gentrificación,1
+Captación de agua de lluvia,Escasez de agua,1
+Asentamientos humanos irregulares,Escasez de agua,1
+costo de desplazamientos,crecimiento urbano,1
+crecimiento urbano,asentamientos irregulares,1
+expectativa de especulación de la tierra,asentamientos irregulares,1
+desarrollo inmobiliario,crecimiento urbano,1
+calidad del agua,desconfianza en el agua de la llave,1
+desconfianza en el agua de la llave,agua embotellada,1
+gestión del recurso hídrico,desigualdad en el consumo de agua,1
+esquema tarifario del agua,desigualdad en el consumo de agua,1
+circuitos de la red de agua,mecanismos de control político,1
+mecanismos de control político,asentamientos irregulares,1
+Complejidad urbana regional,Movilidad poblacional,1
+Unidades político administrativas,Complejidad urbana regional,1
+Movilidad poblacional,Uso de servicios,1
+Zona conurbada,Problematica de agua,1
+Fuentes de abastecimiento,Problematica de agua,1
+Acuífero metropolitano,Abastecimiento de agua,1
+Acuífero de Cuautitlán Pachuca,Abastecimiento de agua,1
+Zona conurbada,Escasez de agua,1
+Escasez de agua,Crisis del agua,1
+riesgo de inundación,Riesgo hídrico,1
+Complejidad urbana regional,Escasez de agua,1
+Complejidad urbana regional,riesgo de inundación,1
+Falta de interés gubernamental,Falta de vigilancia y normatividad,1
+Falta de vigilancia y normatividad,Corrupción,1
+Corrupción,Tandeo y distribución inequitativa,1
+Escasez de agua,Tandeo y distribución inequitativa,1
+Uso de aguas grises y tratadas,Salinización del agua,1
+Uso intensivo de agroquímicos,Contaminación ambiental,1
+Arraigo de pueblos originarios,Persistencia de la agricultura,1
+marginalidad socioeconómica,Corrupción,1
+Crecimiento de la población,Demanda de agua,1
+Crecimiento de la población,Asentamientos irregulares,1
+Demanda de agua,Abastecimiento de agua,1
+Extracción de acuíferos,Abastecimiento de agua,1
+Asentamientos irregulares,Vulnerabilidad social y física,1
+Vulnerabilidad social y física,Enfermedades,1
+Calidad del agua,Enfermedades,1
+Fallas en tuberías,Abastecimiento de agua,1
+Recolección de agua de lluvia,riesgo de inundación,1
+Infraestructura hidráulica,riesgo de inundación,1
+Defensa de la tierra y el agua,Organización comunitaria,1
+Desarrollo inmobiliario,Construcción vertical,1
+Poder adquisitivo,Protestas vecinales,1
+Compra de votos y redes clientelares,Designación de puestos políticos,1
+Designación de puestos políticos,Incompetencia técnica en secretarías,1
+Secretaría de Obras Públicas,Impacto ambiental,1
+Discrecionalidad en el control de válvulas de agua,Escasez y desabastecimiento de agua,1
+Construcción vertical,Escasez y desabastecimiento de agua,1
+Duplicidad y vacancia habitacional,Demanda artificial de vivienda,1
+Población flotante,Uso intensivo de infraestructura hidráulica,1
+Tandeo de agua,Racionamiento del consumo del agua,1
+Información oficial,Índice de vulnerabilidad de inundación,1
+Validación de datos,Información oficial,1
+Datos de la Secretaría de Salud,Índice de vulnerabilidad de inundación,1
+Declaratorias de desastre y emergencia,Índice de vulnerabilidad de inundación,1
+Zonas susceptibles de inundación,Mapas de peligro,1
+Infografías y divulgación,Difusión del conocimiento,1
+Basura en la vía pública,Sistema de drenaje y alcantarillado,1
+Sistema de drenaje y alcantarillado,Zonas susceptibles de inundación,1
+Jornadas regionales y retroalimentación,Índice de vulnerabilidad de inundación,1
+Inundaciones súbitas,Declaratorias de desastre y emergencia,1
+variabilidad climática,riesgo de inundación,1
+riesgo de inundación,Enfermedades de la piel,1
+riesgo de inundación,Irritación de mucosas,1
+riesgo de inundación,Intoxicación por químicos,1
+Poder adquisitivo,Vulnerabilidad de la población,1
+Falta de servicios sanitarios,Vulnerabilidad de la población,1
+Falta de cultura de asistir al médico,Subregistro epidemiológico,1
+Acciones de Protección Civil,Prevención de epidemias,1
+Apoyo gubernamental,Retorno a la normalidad,1
+Infraestructura de drenaje deficiente,riesgo de inundación,1
+Exposición directa al agua de inundación,Enfermedades de la piel,1
+Crecimiento urbano,Suelo de conservación,1
+Deforestación,Suelo de conservación,1
+Incendios forestales,Suelo de conservación,1
+Apoyos económicos y sociales,Suelo de conservación,1
+Suelo de conservación,Infiltración de agua,1
+Crecimiento urbano,Demanda de agua,1
+Tecnología y urbanización,Demanda de agua,1
+Cultura del agua,Demanda de agua,1
+Demanda de agua,abastecimiento de agua,1
+Producción forestal y viveros,Suelo de conservación,1
+Asentamientos irregulares,Falta de abastecimiento de agua,1
+Falta de abastecimiento de agua,Lucha social,1
+Uso político del agua,Lucha social,1
+Extracción por pozos,Hundimientos y grietas,1
+abastecimiento de agua,Falta de abastecimiento de agua,1
+Mala calidad del agua,Compra de garrafones,1
+Lucha social,Condonación de pagos,1
+Corrupción,Desperdicio de agua,1
+Falta de políticas públicas,Desperdicio de agua,1
+Presupuesto gubernamental,Falta de abastecimiento de agua,1
+Cosecha de agua de lluvia,Falta de abastecimiento de agua,1
+Bosques y zonas naturales,Recarga de acuíferos,1
+Crecimiento de la población,abastecimiento de agua,1
+Crecimiento de la población,Aguas residuales,1
+Extracción de agua,Hundimientos,1
+Hundimientos,Infraestructura hidráulica,1
+Infraestructura hidráulica,Calidad del agua,1
+Infraestructura hidráulica,abastecimiento de agua,1
+Importación de agua Lerma-Cutzamala,abastecimiento de agua,1
+Educación ambiental,Alternativas sustentables,1
+Organización comunitaria,Alternativas sustentables,1
+Alternativas sustentables,abastecimiento de agua,1
+Gestión gubernamental,abastecimiento de agua,1
+Crecimiento urbano y expropiación,Pérdida de zona agrícola,1
+Crecimiento urbano y expropiación,Dotación de servicios públicos,1
+Crecimiento urbano y expropiación,Pérdida de usos y costumbres rurales,1
+Fugas en la red hidráulica,Escasez de agua,1
+Tandeo del agua,Escasez de agua,1
+Escasez de agua,Conflictos por la distribución del agua,1
+Captación de agua de lluvia y tinas ciegas,Recarga de mantos acuíferos,1
+Presas de almacenamiento,Prevención de inundaciones,1
+Organización comunitaria y ejidal,Dotación de servicios públicos,1
+Programas de apoyo al campo y CORENA,Actividad agrícola y producción de oxígeno,1
+Crecimiento urbano y expropiación,Tráfico y aumento de población,1
+Falta de autonomía del DF,Escasez de recursos delegacionales,1
+Escasez de recursos delegacionales,Infraestructura hidráulica antigua y obsoleta,1
+Infraestructura hidráulica antigua y obsoleta,Fugas en la red de agua,1
+Pavimentación excesiva,Infiltración de agua de lluvia,1
+Extracción de agua de pozos,Hundimientos y agrietamiento del suelo,1
+Zonas de riesgo por sismos y lagos,Hundimientos y agrietamiento del suelo,1
+Megaproyectos urbanos,Rompimiento del tejido social,1
+Rompimiento del tejido social,Delincuencia y narcomenudeo,1
+Organización vecinal y seguridad,Delincuencia y narcomenudeo,1
+Modelo de desarrollo extractivista,Mala administración del agua,1
+Conciencia ambiental y territorial,Organización vecinal y seguridad,1
+Captación y filtración pluvial,Infiltración de agua de lluvia,1
+Orografía de montañas y barrancas,Asentamientos irregulares,1
+Corte de cerros y terraceo,Deslizamientos de talud,1
+Quema y poda inadecuada de árboles,Saturación y reblandecimiento del suelo,1
+Uso de letrinas y mala canalización,Saturación y reblandecimiento del suelo,1
+Saturación y reblandecimiento del suelo,Deslizamientos de talud,1
+Lluvias extraordinarias,Deslizamientos de talud,1
+Lluvias extraordinarias,Inundaciones y encharcamientos,1
+Basura en ríos y barrancas,Taponamiento de drenaje y coladeras,1
+Taponamiento de drenaje y coladeras,Inundaciones y encharcamientos,1
+Programas de prevención y notificación de riesgos,Acciones de mitigación,1
+"Limpieza de ríos, barrancas y desazolve",Inundaciones y encharcamientos,1
+Administraciones de corto plazo,Falta de consecutividad en proyectos,1
+Gobierno tolerante,Invasión de la zona lacustre,1
+Invasión de la zona lacustre,Descargas de aguas negras,1
+Falta de drenaje en asentamientos,Descargas de aguas negras,1
+Descargas de aguas negras,Contaminación de la zona lacustre,1
+Deterioro de la infraestructura de drenaje,riesgo de inundación,1
+Hundimientos y levantamientos del subsuelo,Pérdida de agua por escurrimiento,1
+Falta de oxigenación y circulación del agua,Contaminación de la zona lacustre,1
+Cambios de uso de suelo,Crecimiento de la mancha urbana,1
+Corrupción,Invasión de la zona lacustre,1
+Historia agrícola,Uso de suelo,1
+crecimiento urbano,Uso de suelo,1
+Racionalidad tecnológica y económica,Uso de suelo,1
+Organización social y cultural,Uso de suelo,1
+Uso de suelo,Disponibilidad de agua,1
+Extracción de acuíferos,Disponibilidad de agua,1
+crecimiento urbano,Desplazamiento de la agricultura,1
+Competencia de mercados agrícolas,Desplazamiento de la agricultura,1
+Migración y mano de obra,Uso de suelo,1
+Regulación y gobernanza del agua,Disponibilidad de agua,1
+Movimientos sociales,Regulación y gobernanza del agua,1
+Uso de agua tratada,Disponibilidad de agua,1

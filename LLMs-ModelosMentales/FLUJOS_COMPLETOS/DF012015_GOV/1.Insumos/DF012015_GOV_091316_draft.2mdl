@@ -1,0 +1,167 @@
+{UTF-8}
+"400 mil habitantes en Iztapalapa"  = A FUNCTION OF( "Pozos (con mala calidad de agua)"\
+		,problemas de abastecimiento de agua)
+	~	
+	~		|
+
+proyecto de rehabilitación de las redes  = A FUNCTION OF( tema de fugas)
+	~	
+	~		|
+
+baja persión de agua  = A FUNCTION OF( )
+	~	
+	~		|
+
+proyecto de plantas potabilizadoras  = A FUNCTION OF( tema mala calidad de agua)
+	~	
+	~		|
+
+Construir una planta potabilizadora  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Pozos (con mala calidad de agua)"  = A FUNCTION OF( Construir una planta potabilizadora\
+		)
+	~	
+	~		|
+
+tema mala calidad de agua  = A FUNCTION OF( )
+	~	
+	~		|
+
+Meses sin lluvia  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Obras de captación (agua de lluvia)"  = A FUNCTION OF( Meses sin lluvia)
+	~	
+	~		|
+
+"proyecto de re-bombeos"  = A FUNCTION OF( baja persión de agua)
+	~	
+	~		|
+
+tandeo  = A FUNCTION OF( )
+	~	
+	~		|
+
+problemas de abastecimiento de agua  = A FUNCTION OF( Proyectos de DU no contemplan inversión en infraestrucrura hidráulida\
+		,tandeo)
+	~	
+	~		|
+
+tema de fugas  = A FUNCTION OF( )
+	~	
+	~		|
+
+Aumento del costo de la vivienda  = A FUNCTION OF( "Construir obras de agua: Pozos y Plantas potabilizadoras"\
+		)
+	~	
+	~		|
+
+"Construir obras de agua: Pozos y Plantas potabilizadoras"  = A FUNCTION OF( Proyectos de DU no contemplan inversión en infraestrucrura hidráulida\
+		)
+	~	
+	~		|
+
+Infraestructura hidráulicas  = A FUNCTION OF( Presupuestos destinados)
+	~	
+	~		|
+
+Inundaciones  = A FUNCTION OF( Proyectos de DU no contemplan inversión en infraestrucrura hidráulida\
+		)
+	~	
+	~		|
+
+Presupuestos destinados  = A FUNCTION OF( )
+	~	
+	~		|
+
+Proyectos de DU no contemplan inversión en infraestrucrura hidráulida  = A FUNCTION OF\
+		( )
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 100
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 330
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+10,1,Presupuestos destinados,253,707,43,19,8,3,0,0,0,0,0,0
+10,2,Infraestructura hidráulicas,472,705,46,19,8,3,0,0,0,0,0,0
+10,3,Proyectos de DU no contemplan inversión en infraestrucrura hidráulida,291,213,78,28,8,3,0,0,0,0,0,0
+10,4,problemas de abastecimiento de agua,517,335,74,19,8,3,0,0,0,0,0,0
+10,5,Inundaciones,233,385,42,11,8,3,0,0,0,0,0,0
+1,6,1,2,0,0,0,0,0,64,0,-1--1--1,,1|(354,706)|
+1,7,3,5,0,0,0,0,0,64,0,-1--1--1,,1|(261,300)|
+1,8,3,4,0,0,0,0,0,64,0,-1--1--1,,1|(405,275)|
+10,9,"Construir obras de agua: Pozos y Plantas potabilizadoras",562,186,78,28,8,3,0,0,0,0,0,0
+10,10,Aumento del costo de la vivienda,738,274,60,19,8,3,0,0,0,0,0,0
+1,11,9,10,0,0,0,0,0,64,0,-1--1--1,,1|(652,231)|
+1,12,3,9,0,0,0,0,0,64,0,-1--1--1,,1|(419,200)|
+10,13,"Obras de captación (agua de lluvia)",807,186,63,19,8,3,0,0,0,0,0,0
+10,14,Meses sin lluvia,804,74,49,11,8,3,0,0,0,0,0,0
+1,15,14,13,0,0,0,0,0,64,0,-1--1--1,,1|(804,119)|
+10,16,tandeo,412,420,23,11,8,3,0,0,0,0,0,0
+10,17,"400 mil habitantes en Iztapalapa",656,522,67,19,8,3,0,0,0,0,0,0
+10,18,"Pozos (con mala calidad de agua)",426,516,53,19,8,3,0,0,0,0,0,0
+1,19,18,17,0,0,0,0,0,64,0,-1--1--1,,1|(527,518)|
+10,20,Construir una planta potabilizadora,179,508,64,19,8,3,0,2,0,0,0,0,-1--1--1,0-0-0,|0||255-0-0
+1,21,20,18,0,0,0,0,0,64,0,-1--1--1,,1|(301,511)|
+1,22,4,17,0,0,0,0,0,64,0,-1--1--1,,1|(581,422)|
+1,23,16,4,0,0,0,0,0,64,0,-1--1--1,,1|(453,385)|
+10,24,tema de fugas,242,772,44,11,8,3,0,0,0,0,0,0
+10,25,proyecto de rehabilitación de las redes,469,778,62,28,8,3,0,0,0,0,0,0
+10,26,tema mala calidad de agua,270,849,57,19,8,3,0,0,0,0,0,0
+10,27,proyecto de plantas potabilizadoras,499,861,63,19,8,3,0,0,0,0,0,0
+10,28,baja persión de agua,278,907,49,19,8,3,0,0,0,0,0,0
+10,29,"proyecto de re-bombeos",511,919,40,19,8,3,0,0,0,0,0,0
+1,30,24,25,0,0,0,0,0,64,0,-1--1--1,,1|(339,774)|
+1,31,26,27,0,0,0,0,0,64,0,-1--1--1,,1|(374,853)|
+1,32,28,29,0,0,0,0,0,64,0,-1--1--1,,1|(392,912)|
+///---\\\
+:L<%^E!@
+9:Current
+23:0
+15:0,0,0,0,0,0
+19:100,0
+27:2,
+34:0,
+5:proyecto de rehabilitación de las redes
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:2
+41:0
+42:1
+24:0
+25:0
+26:0

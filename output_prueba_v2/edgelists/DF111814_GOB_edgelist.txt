@@ -1,0 +1,11 @@
+Crecimiento urbano,Suelo de conservación
+Deforestación,Suelo de conservación
+Incendios forestales,Suelo de conservación
+Apoyos económicos y sociales,Suelo de conservación
+Suelo de conservación,Infiltración de agua
+Crecimiento urbano,Demanda de agua
+Tecnología y urbanización,Demanda de agua
+Cultura del agua,Demanda de agua
+Demanda de agua,abastecimiento de agua
+variabilidad climática,Escasez de agua
+Producción forestal y viveros,Suelo de conservación

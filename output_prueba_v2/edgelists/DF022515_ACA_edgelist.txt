@@ -1,0 +1,12 @@
+Complejidad urbana regional,Movilidad poblacional
+Unidades político administrativas,Complejidad urbana regional
+Movilidad poblacional,Uso de servicios
+Zona conurbada,Problematica de agua
+Fuentes de abastecimiento,Problematica de agua
+Acuífero metropolitano,Abastecimiento de agua
+Acuífero de Cuautitlán Pachuca,Abastecimiento de agua
+Zona conurbada,Escasez de agua
+Escasez de agua,Crisis del agua
+riesgo de inundación,Riesgo hídrico
+Complejidad urbana regional,Escasez de agua
+Complejidad urbana regional,riesgo de inundación

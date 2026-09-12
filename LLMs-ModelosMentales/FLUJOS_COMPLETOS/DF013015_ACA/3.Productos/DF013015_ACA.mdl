@@ -1,0 +1,383 @@
+{UTF-8}
+"% de pob de tandeo"  = A FUNCTION OF( )
+	~	
+	~		|
+
+"% de vivienda formal desocupada"  = A FUNCTION OF( Calidad de vivienda)
+	~	
+	~		|
+
+Abandono de vivienda  = A FUNCTION OF( )
+	~	
+	~		|
+
+abastecimiento del agua  = A FUNCTION OF( años en consolidación urbano,dotación de servicios\
+		,Extracción de agua subteranea,nivel de actividad económica formal,nivel de ingreso de la población\
+		)
+	~	
+	~		|
+
+años en consolidación urbano  = A FUNCTION OF( )
+	~	
+	~		|
+
+apoyo de INVI  = A FUNCTION OF( Tipo de oficio económico,Titulo de terreno)
+	~	
+	~		|
+
+Calidad de vivienda  = A FUNCTION OF( "disponabilidad de \"Llave en mano\"",Inversión en producción social de la vivienda\
+		)
+	~	
+	~		|
+
+captación de aguas de lluvia  = A FUNCTION OF( )
+	~	
+	~		|
+
+compra de votos  = A FUNCTION OF( movilización social)
+	~	
+	~		|
+
+"Conocimiento político-institucional"  = A FUNCTION OF( )
+	~	
+	~		|
+
+Construcción de vivienda formal  = A FUNCTION OF( financimiento para construcción formal\
+		,Permisos delegacionales y municipales para construcción)
+	~	
+	~		|
+
+construcción informal  = A FUNCTION OF( superficie para construir casas)
+	~	
+	~		|
+
+Contaminación en barrancas  = A FUNCTION OF( Construcción de vivienda formal,construcción informal\
+		,Industria sin regulación)
+	~	
+	~		|
+
+Corrupción  = A FUNCTION OF( )
+	~	
+	~		|
+
+crédito INFONAVIT  = A FUNCTION OF( Tipo de oficio económico,Titulo de terreno)
+	~	
+	~		|
+
+demanda para el agua  = A FUNCTION OF( abastecimiento del agua,Construcción de vivienda formal\
+		,construcción informal)
+	~	
+	~		|
+
+"disponabilidad de \"Llave en mano\""  = A FUNCTION OF( Construcción de vivienda formal\
+		)
+	~	
+	~		|
+
+disponabilidad de crédito FOSVISTE  = A FUNCTION OF( falta de coordinación institucional\
+		,Tipo de oficio económico,Titulo de terreno)
+	~	
+	~		|
+
+Disponabilidad de tierra  = A FUNCTION OF( Reforma agraria 1994)
+	~	
+	~		|
+
+dotación de servicios  = A FUNCTION OF( Reputación política de funcionarios)
+	~	
+	~		|
+
+Extracción de agua subteranea  = A FUNCTION OF( perforación de pozos)
+	~	
+	~		|
+
+falta de coordinación institucional  = A FUNCTION OF( fragmentación en responsibilidad agua y vivienda\
+		)
+	~	
+	~		|
+
+financimiento para construcción formal  = A FUNCTION OF( apoyo de INVI,crédito INFONAVIT\
+		,disponabilidad de crédito FOSVISTE,Inversión en producción social de la vivienda\
+		)
+	~	
+	~		|
+
+fragmentación en responsibilidad agua y vivienda  = A FUNCTION OF( )
+	~	
+	~		|
+
+Gasto del hogar en agua  = A FUNCTION OF( "precio del agua (m3)")
+	~	
+	~		|
+
+Grietas  = A FUNCTION OF( Extracción de agua subteranea)
+	~	
+	~		|
+
+impermeabilidad en suelos  = A FUNCTION OF( )
+	~	
+	~		|
+
+Industria sin regulación  = A FUNCTION OF( )
+	~	
+	~		|
+
+inundaciones  = A FUNCTION OF( captación de aguas de lluvia,impermeabilidad en suelos\
+		,orígen lacustre,volumen de basura en barrancas)
+	~	
+	~		|
+
+Inversión en producción social de la vivienda  = A FUNCTION OF( Disponabilidad de tierra\
+		,Titulo de terreno)
+	~	
+	~		|
+
+mala calidad  = A FUNCTION OF( )
+	~	
+	~		|
+
+modificaciónes del hogar  = A FUNCTION OF( inundaciones)
+	~	
+	~		|
+
+movilización social  = A FUNCTION OF( compra de votos,"Conocimiento político-institucional"\
+		,demanda para el agua)
+	~	
+	~		|
+
+nivel de actividad económica formal  = A FUNCTION OF( )
+	~	
+	~		|
+
+Nivel de capacitación profesional  = A FUNCTION OF( )
+	~	
+	~		|
+
+nivel de ingreso de la población  = A FUNCTION OF( )
+	~	
+	~		|
+
+orígen lacustre  = A FUNCTION OF( )
+	~	
+	~		|
+
+perforación de pozos  = A FUNCTION OF( )
+	~	
+	~		|
+
+Permisos delegacionales y municipales para construcción  = A FUNCTION OF( Corrupción\
+		,Nivel de capacitación profesional,Requisito para estudios de impactos)
+	~	
+	~		|
+
+"precio del agua (m3)"  = A FUNCTION OF( volumen comprada de agua potable)
+	~	
+	~		|
+
+Reforma agraria 1994  = A FUNCTION OF( )
+	~	
+	~		|
+
+Reputación política de funcionarios  = A FUNCTION OF( demanda para el agua,movilización social\
+		)
+	~	
+	~		|
+
+Requisito para estudios de impactos  = A FUNCTION OF( Tamaño propuesta de la vivienda\
+		)
+	~	
+	~		|
+
+superficie para construir casas  = A FUNCTION OF( volumen de basura en barrancas)
+	~	
+	~		|
+
+Tamaño propuesta de la vivienda  = A FUNCTION OF( Corrupción)
+	~	
+	~		|
+
+Tipo de oficio económico  = A FUNCTION OF( )
+	~	
+	~		|
+
+Titulo de terreno  = A FUNCTION OF( Reforma agraria 1994)
+	~	
+	~		|
+
+volumen comprada de agua potable  = A FUNCTION OF( "% de pob de tandeo",abastecimiento del agua\
+		,mala calidad)
+	~	
+	~		|
+
+volumen de basura en barrancas  = A FUNCTION OF( Contaminación en barrancas)
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 100
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,75,0
+10,1,orígen lacustre,1329,143,51,11,8,3,0,0,0,0,0,0
+10,2,nivel de ingreso de la población,443,218,64,19,8,3,0,0,0,0,0,0
+10,3,años en consolidación urbano,582,147,73,19,8,3,0,0,0,0,0,0
+10,4,abastecimiento del agua,700,253,80,11,8,3,0,0,0,0,0,0
+1,5,3,4,0,0,0,0,0,64,0,-1--1--1,,1|(639,199)|
+1,6,2,4,0,0,0,0,0,64,0,-1--1--1,,1|(556,233)|
+10,7,falta de coordinación institucional,1876,459,72,19,8,3,0,0,0,0,0,0
+10,8,nivel de actividad económica formal,752,140,61,19,8,3,0,0,0,0,0,0
+1,9,8,4,0,0,0,0,0,64,0,-1--1--1,,1|(727,194)|
+10,10,"precio del agua (m3)",445,412,69,11,8,3,0,0,0,0,0,0
+10,11,volumen comprada de agua potable,551,331,65,19,8,3,0,0,0,0,0,0
+10,12,mala calidad,676,447,44,11,8,3,0,0,0,0,0,0
+10,13,"% de pob de tandeo",572,519,67,11,8,3,0,0,0,0,0,0
+1,14,13,11,0,0,0,0,0,64,0,-1--1--1,,1|(562,435)|
+1,15,12,11,0,0,0,0,0,64,0,-1--1--1,,1|(623,397)|
+1,16,11,10,0,0,0,0,0,64,0,-1--1--1,,1|(498,371)|
+10,17,Gasto del hogar en agua,391,491,55,19,8,3,0,0,0,0,0,0
+1,18,10,17,0,0,0,0,0,64,0,-1--1--1,,1|(424,441)|
+10,19,fragmentación en responsibilidad agua y vivienda,2113,427,76,28,8,3,0,0,0,0,0,0
+1,20,19,7,0,0,0,0,0,64,0,-1--1--1,,1|(1999,442)|
+10,21,financimiento para construcción formal,1408,524,69,19,8,3,0,0,0,0,0,0
+10,22,construcción informal,1125,327,73,11,8,3,0,0,0,0,0,0
+10,23,disponabilidad de crédito FOSVISTE,1645,488,65,19,8,3,0,0,0,0,0,0
+1,24,7,23,0,0,0,0,0,64,0,-1--1--1,,1|(1763,472)|
+1,25,23,21,0,0,0,0,0,64,0,-1--1--1,,1|(1535,503)|
+10,26,Tipo de oficio económico,1795,567,48,19,8,3,0,0,0,0,0,0
+1,27,26,23,0,0,0,0,0,64,0,-1--1--1,,1|(1726,530)|
+10,28,crédito INFONAVIT,1607,608,69,11,8,3,0,0,0,0,0,0
+1,29,26,28,0,0,0,0,0,64,0,-1--1--1,,1|(1709,585)|
+1,30,28,21,0,0,0,0,0,64,0,-1--1--1,,1|(1523,572)|
+10,31,apoyo de INVI,1595,545,51,11,8,3,0,0,0,0,0,0
+1,32,26,31,0,0,0,0,0,64,0,-1--1--1,,1|(1703,556)|
+1,33,31,21,0,0,0,0,0,64,0,-1--1--1,,1|(1517,536)|
+10,34,"disponabilidad de \"Llave en mano\"",1435,696,60,19,8,3,0,0,0,0,0,0
+10,35,Inversión en producción social de la vivienda,1628,684,79,28,8,3,0,0,0,0,0,0
+10,36,Titulo de terreno,1925,647,56,11,8,3,0,0,0,0,0,0
+1,37,36,35,0,0,0,0,0,64,0,-1--1--1,,1|(1794,662)|
+1,38,35,21,0,0,0,0,0,64,0,-1--1--1,,1|(1517,603)|
+10,39,Calidad de vivienda,1595,773,67,11,8,3,0,0,0,0,0,0
+1,40,35,39,1,0,0,0,0,64,0,-1--1--1,,1|(1631,728)|
+1,41,34,39,0,0,0,0,0,64,0,-1--1--1,,1|(1516,735)|
+10,42,"% de vivienda formal desocupada",1675,908,64,19,8,3,0,0,0,0,0,0
+1,43,39,42,0,0,0,0,0,64,0,-1--1--1,,1|(1628,830)|
+10,44,Permisos delegacionales y municipales para construcción,1185,728,89,28,8,3,0,0,0,0,0,0
+10,45,Construcción de vivienda formal,1289,597,56,19,8,3,0,0,0,0,0,0
+1,46,21,45,0,0,0,0,0,64,0,-1--1--1,,1|(1354,556)|
+1,47,45,34,0,0,0,0,0,64,0,-1--1--1,,1|(1355,642)|
+1,48,44,45,0,0,0,0,0,64,0,-1--1--1,,1|(1235,663)|
+10,49,Nivel de capacitación profesional,1099,975,73,19,8,3,0,0,0,0,0,0
+10,50,Corrupción,1231,884,40,11,8,3,0,0,0,0,0,0
+1,51,49,44,0,0,0,0,0,64,0,-1--1--1,,1|(1137,862)|
+1,52,50,44,1,0,0,0,0,64,0,-1--1--1,,1|(1187,825)|
+10,53,Tamaño propuesta de la vivienda,1387,928,63,19,8,3,0,0,0,0,0,0
+10,54,Requisito para estudios de impactos,1421,816,71,19,8,3,0,0,0,0,0,0
+1,55,53,54,1,0,0,0,0,64,0,-1--1--1,,1|(1475,888)|
+1,56,54,44,1,0,0,0,0,64,0,-1--1--1,,1|(1331,739)|
+1,57,50,53,1,0,0,0,0,64,0,-1--1--1,,1|(1280,928)|
+1,58,36,28,0,0,0,0,0,64,0,-1--1--1,,1|(1779,629)|
+1,59,36,23,1,0,0,0,0,64,0,-1--1--1,,1|(1884,581)|
+1,60,36,31,1,0,0,0,0,64,0,-1--1--1,,1|(1766,598)|
+10,61,Reforma agraria 1994,2100,679,73,11,8,3,0,0,0,0,0,0
+1,62,61,36,0,0,0,0,0,64,0,-1--1--1,,1|(2017,663)|
+10,63,Disponabilidad de tierra,1932,731,52,19,8,3,0,0,0,0,0,0
+1,64,61,63,0,0,0,0,0,64,0,-1--1--1,,1|(2031,700)|
+1,65,63,35,0,0,0,0,0,64,0,-1--1--1,,1|(1800,710)|
+10,66,Contaminación en barrancas,1209,461,63,19,8,3,0,0,0,0,0,0
+1,67,22,66,0,0,0,0,0,64,0,-1--1--1,,1|(1160,384)|
+1,68,45,66,0,0,0,0,0,64,0,-1--1--1,,1|(1252,535)|
+10,69,Industria sin regulación,1571,408,79,11,8,3,0,0,0,0,0,0
+1,70,69,66,0,0,0,0,0,64,0,-1--1--1,,1|(1390,434)|
+10,71,movilización social,888,669,65,11,8,3,0,0,0,0,0,0
+10,72,compra de votos,699,660,56,11,8,3,0,0,0,0,0,0
+1,73,72,71,1,0,0,0,0,64,0,-1--1--1,,1|(756,595)|
+1,74,71,72,1,0,0,0,0,64,0,-1--1--1,,1|(805,812)|
+10,75,"Conocimiento político-institucional",936,823,71,19,8,3,0,0,0,0,0,0
+1,76,75,71,1,0,0,0,0,64,0,-1--1--1,,1|(949,720)|
+10,77,Reputación política de funcionarios,907,481,67,19,8,3,0,0,0,0,0,0
+1,78,71,77,1,0,0,0,0,64,0,-1--1--1,,1|(919,567)|
+10,79,dotación de servicios,753,381,71,11,8,3,0,0,0,0,0,0
+1,80,77,79,0,0,0,0,0,64,0,-1--1--1,,1|(829,430)|
+1,81,79,4,0,0,0,0,0,64,0,-1--1--1,,1|(729,323)|
+10,82,Extracción de agua subteranea,1009,165,65,19,8,3,0,0,0,0,0,0
+10,83,Grietas,1084,27,27,11,8,3,0,0,0,0,0,0
+1,84,82,83,0,0,0,0,0,64,0,-1--1--1,,1|(1045,98)|
+10,85,Abandono de vivienda,1553,979,76,11,8,3,0,0,0,0,0,0
+10,86,perforación de pozos,1196,91,71,11,8,3,0,0,0,0,0,0
+1,87,86,82,0,0,0,0,0,64,0,-1--1--1,,1|(1119,121)|
+10,88,inundaciones,1516,237,45,11,8,3,0,0,0,0,0,0
+10,89,impermeabilidad en suelos,1561,327,57,19,8,3,0,0,0,0,0,0
+10,90,captación de aguas de lluvia,1717,192,64,19,8,3,0,0,0,0,0,0
+10,91,modificaciónes del hogar,1495,143,52,19,8,3,0,0,0,0,0,0
+10,92,volumen de basura en barrancas,1356,376,64,19,8,3,0,0,0,0,0,0
+10,93,superficie para construir casas,1311,280,51,19,8,3,0,0,0,0,0,0
+1,94,4,11,0,0,0,0,0,64,0,-1--1--1,,1|(639,284)|
+1,95,82,4,0,0,0,0,0,64,0,-1--1--1,,1|(847,210)|
+10,96,demanda para el agua,881,320,72,11,8,3,0,0,0,0,0,0
+1,97,4,96,0,0,0,0,0,64,0,-1--1--1,,1|(783,284)|
+1,98,22,96,0,0,0,0,0,64,0,-1--1--1,,1|(1009,323)|
+1,99,45,96,1,0,0,0,0,64,0,-1--1--1,,1|(1117,443)|
+1,100,96,77,1,0,0,0,0,64,0,-1--1--1,,1|(933,372)|
+1,101,96,71,1,0,0,0,0,64,0,-1--1--1,,1|(935,651)|
+1,102,66,92,0,0,0,0,0,64,0,-1--1--1,,1|(1275,421)|
+1,103,92,93,0,0,0,0,0,64,0,-1--1--1,,1|(1336,334)|
+1,104,93,22,1,0,0,0,0,64,0,-1--1--1,,1|(1227,293)|
+1,105,92,88,0,0,0,0,0,64,0,-1--1--1,,1|(1434,307)|
+1,106,89,88,0,0,0,0,0,64,0,-1--1--1,,1|(1539,284)|
+1,107,90,88,0,0,0,0,0,64,0,-1--1--1,,1|(1613,214)|
+1,108,88,91,0,0,0,0,0,64,0,-1--1--1,,1|(1508,200)|
+1,109,1,88,0,0,0,0,0,64,0,-1--1--1,,1|(1415,186)|
+///---\\\
+:L<%^E!@
+9:Current
+22:$,Dollar,Dollars,$s
+22:Hour,Hours
+22:Month,Months
+22:Person,People,Persons
+22:Unit,Units
+22:Week,Weeks
+22:Year,Years
+22:Day,Days
+23:0
+15:0,0,0,0,0,0
+19:75,0
+27:2,
+34:0,
+5:años en consolidación urbano
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:2
+41:0
+42:1
+24:0
+25:0
+26:0

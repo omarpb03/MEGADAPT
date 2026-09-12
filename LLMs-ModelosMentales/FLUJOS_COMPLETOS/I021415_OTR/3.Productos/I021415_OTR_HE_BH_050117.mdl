@@ -1,0 +1,317 @@
+{UTF-8}
+flotadores  = A FUNCTION OF( politica de desarrollo social)
+	~	
+	~		|
+
+politica de desarrollo social  = A FUNCTION OF( Corrupción)
+	~	
+	~		|
+
+"Re-utillizar el agua"  = A FUNCTION OF( Cultura del agua,Tandeo)
+	~	
+	~		|
+
+Sistema de condonación  = A FUNCTION OF( Tandeo)
+	~	
+	~		|
+
+Cultura del agua  = A FUNCTION OF( Escasez de agua,"Re-utillizar el agua")
+	~	
+	~		|
+
+Colección de agua de lluvia  = A FUNCTION OF( Tandeo)
+	~	
+	~		|
+
+Desperdicio de agua  = A FUNCTION OF( Cultura del agua)
+	~	
+	~		|
+
+Sistemas de infiltración  = A FUNCTION OF( Captura y uso de agua)
+	~	
+	~		|
+
+Captura y uso de agua  = A FUNCTION OF( Cultura del agua)
+	~	
+	~		|
+
+Movilizaciones  = A FUNCTION OF( Calidad de agua,Escasez de agua)
+	~	
+	~		|
+
+Calidad de agua  = A FUNCTION OF( Mantenimiento de la red hidráulica,Mezcla de drenaje y agua\
+		,Sistemas de infiltración)
+	~	
+	~		|
+
+Demanda de agua  = A FUNCTION OF( Crecimiento urbano)
+	~	
+	~		|
+
+Agua como bandera política  = A FUNCTION OF( Garantizar votos)
+	~	
+	~		|
+
+Asentamientos humanos irregulares  = A FUNCTION OF( )
+	~	
+	~		|
+
+Basura  = A FUNCTION OF( )
+	~	
+	~		|
+
+Bien negociable  = A FUNCTION OF( Garantizar votos)
+	~	
+	~		|
+
+"Construcción/Cisternas y tinacos"  = A FUNCTION OF( Tandeo)
+	~	
+	~		|
+
+Colapsa el drenaje  = A FUNCTION OF( Basura)
+	~	
+	~		|
+
+Compra de garrafones  = A FUNCTION OF( Calidad de agua,Tandeo)
+	~	
+	~		|
+
+Corrupción  = A FUNCTION OF( Garantizar votos)
+	~	
+	~		|
+
+Crecimiento urbano  = A FUNCTION OF( Asentamientos humanos irregulares)
+	~	
+	~		|
+
+Distribución de recursos económicos  = A FUNCTION OF( )
+	~	
+	~		|
+
+Dotación de pipas  = A FUNCTION OF( Escasez de agua,Presión a la Delegación,"Promesas electorales (Campañas)"\
+		)
+	~	
+	~		|
+
+Encharcamientos  = A FUNCTION OF( Escurrimiento de agua de lluvia,Inundaciones en la parte baja\
+		)
+	~	
+	~		|
+
+Escasez de agua  = A FUNCTION OF( Demanda de agua,Estiaje,Manejo y distribución de agua\
+		)
+	~	
+	~		|
+
+Escurrimiento de agua de lluvia  = A FUNCTION OF( )
+	~	
+	~		|
+
+Estiaje  = A FUNCTION OF( )
+	~	
+	~		|
+
+Extracción de agua por pozos  = A FUNCTION OF( Demanda de agua)
+	~	
+	~		|
+
+Garantizar votos  = A FUNCTION OF( Dotación de pipas)
+	~	
+	~		|
+
+Grietas  = A FUNCTION OF( Extracción de agua por pozos)
+	~	
+	~		|
+
+Inundaciones en la parte baja  = A FUNCTION OF( Basura,Colapsa el drenaje,Escurrimiento de agua de lluvia\
+		,Luvias,Mantenimiento de pozos de absorción)
+	~	
+	~		|
+
+Luvias  = A FUNCTION OF( )
+	~	
+	~		|
+
+Manejo y distribución de agua  = A FUNCTION OF( Distribución de recursos económicos\
+		)
+	~	
+	~		|
+
+Mantenimiento de la red hidráulica  = A FUNCTION OF( )
+	~	
+	~		|
+
+Mantenimiento de pozos de absorción  = A FUNCTION OF( )
+	~	
+	~		|
+
+Mezcla de drenaje y agua  = A FUNCTION OF( Colapsa el drenaje)
+	~	
+	~		|
+
+Presión a la Delegación  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Promesas electorales (Campañas)"  = A FUNCTION OF( )
+	~	
+	~		|
+
+Tandeo  = A FUNCTION OF( Manejo y distribución de agua)
+	~	
+	~		|
+
+Transporte hacia sus casa  = A FUNCTION OF( Encharcamientos)
+	~	
+	~		|
+
+Volumen de agua por persona  = A FUNCTION OF( Distribución de recursos económicos)
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 100
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 1000
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+10,1,Demanda de agua,203,485,60,11,8,3,0,0,0,0,0,0
+10,2,Dotación de pipas,428,489,73,16,8,131,0,0,0,0,0,0
+10,3,Movilizaciones,563,383,55,17,8,131,0,0,0,0,0,0
+10,4,Presión a la Delegación,585,482,37,19,8,3,0,0,0,0,0,0
+10,5,Agua como bandera política,696,653,59,29,8,131,0,0,0,0,0,0
+10,6,Tandeo,552,211,25,11,8,3,0,0,0,0,0,0
+10,7,"Construcción/Cisternas y tinacos",525,65,74,19,8,131,0,0,0,0,0,0
+10,8,Sistema de condonación,366,90,57,19,8,131,0,0,0,0,0,0
+10,9,Calidad de agua,776,446,56,11,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|B|0-0-0
+10,10,Mantenimiento de la red hidráulica,996,547,65,19,8,131,0,0,0,0,0,0
+10,11,"Promesas electorales (Campañas)",314,554,60,32,8,131,0,0,0,0,0,0
+10,12,Garantizar votos,482,562,64,16,8,131,0,0,0,0,0,0
+10,13,Bien negociable,302,665,59,21,8,131,0,0,0,0,0,0
+10,14,Escasez de agua,342,380,57,11,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|B|0-0-0
+10,15,Luvias,1089,599,23,11,8,3,0,0,0,0,0,0
+10,16,Estiaje,268,308,23,11,8,3,0,0,0,0,0,0
+10,17,Extracción de agua por pozos,170,400,61,19,8,3,0,0,0,0,0,0
+10,18,Grietas,124,328,24,11,8,3,0,0,0,0,0,0
+10,19,Manejo y distribución de agua,407,223,64,19,8,3,0,0,0,0,0,0
+10,20,Volumen de agua por persona,184,105,56,19,8,3,0,0,0,0,0,0
+10,21,Cultura del agua,501,320,51,11,8,131,0,0,0,0,0,0
+10,22,Captura y uso de agua,767,261,52,24,8,131,0,0,0,0,0,0
+10,23,Compra de garrafones,957,165,37,19,8,3,0,0,0,0,0,0
+10,24,"Re-utillizar el agua",666,233,40,28,8,131,0,0,0,0,0,0
+10,25,Desperdicio de agua,765,348,52,19,8,131,0,0,0,0,0,0
+10,26,Corrupción,499,700,37,11,8,3,0,0,0,0,0,0
+10,27,Distribución de recursos económicos,188,189,67,19,8,3,0,0,0,0,0,0
+10,28,Colección de agua de lluvia,673,82,66,27,8,131,0,0,0,0,0,0
+10,29,Inundaciones en la parte baja,1099,696,66,19,8,3,0,16,0,0,0,0,-1--1--1,0-0-0,|12|B|0-0-0
+10,30,Transporte hacia sus casa,1375,700,55,19,8,3,0,0,0,0,0,0
+10,31,Escurrimiento de agua de lluvia,1283,780,54,19,8,3,0,0,0,0,0,0
+10,32,Encharcamientos,1237,582,53,11,8,3,0,0,0,0,0,0
+10,33,Basura,996,788,23,11,8,3,0,0,0,0,0,0
+10,34,Mezcla de drenaje y agua,794,546,59,19,8,3,0,0,0,0,0,0
+10,35,Colapsa el drenaje,875,672,52,28,8,131,0,0,0,0,0,0
+10,36,Mantenimiento de pozos de absorción,1138,840,62,19,8,131,0,0,0,0,0,0
+10,37,Asentamientos humanos irregulares,123,678,63,19,8,3,0,0,0,0,0,0
+10,38,Crecimiento urbano,139,588,39,19,8,3,0,0,0,0,0,0
+1,39,38,1,0,0,0,0,0,64,0,-1--1--1,,1|(169,538)|
+1,40,1,17,0,0,0,0,0,64,0,-1--1--1,,1|(190,452)|
+1,41,4,2,0,0,0,0,0,64,0,-1--1--1,,1|(531,483)|
+1,42,1,14,0,0,0,0,0,64,0,-1--1--1,,1|(266,436)|
+1,43,19,14,0,0,0,0,0,64,0,-1--1--1,,1|(375,299)|
+1,44,35,34,0,0,0,0,0,64,0,-1--1--1,,1|(835,610)|
+1,45,29,32,0,0,0,0,0,64,0,-1--1--1,,1|(1167,639)|
+1,46,32,30,0,0,0,0,0,64,0,-1--1--1,,1|(1295,632)|
+1,47,31,32,0,0,0,0,0,64,0,-1--1--1,,1|(1260,683)|
+1,48,35,29,0,0,0,0,0,64,0,-1--1--1,,1|(973,681)|
+1,49,33,35,0,0,0,0,0,64,0,-1--1--1,,1|(949,743)|
+1,50,33,29,0,0,0,0,0,64,0,-1--1--1,,1|(1037,750)|
+1,51,34,9,0,0,0,0,0,64,0,-1--1--1,,1|(785,498)|
+1,52,10,9,0,0,0,0,0,64,0,-1--1--1,,1|(883,495)|
+1,53,6,7,0,0,0,0,0,64,0,-1--1--1,,1|(540,148)|
+1,54,37,38,0,0,0,0,0,64,0,-1--1--1,,1|(129,639)|
+1,55,21,22,0,0,0,0,0,64,0,-1--1--1,,1|(625,292)|
+1,56,21,24,1,0,0,0,0,64,0,-1--1--1,,1|(553,262)|
+1,57,21,25,0,0,0,0,0,64,0,-1--1--1,,1|(625,332)|
+1,58,27,19,0,0,0,0,0,64,0,-1--1--1,,1|(292,204)|
+1,59,15,29,0,0,0,0,0,64,0,-1--1--1,,1|(1092,636)|
+1,60,16,14,0,0,0,0,0,64,0,-1--1--1,,1|(299,339)|
+1,61,9,23,1,0,0,0,0,64,0,-1--1--1,,1|(966,383)|
+1,62,6,23,1,0,0,0,0,64,0,-1--1--1,,1|(746,136)|
+1,63,9,3,0,0,0,0,0,64,0,-1--1--1,,1|(685,418)|
+1,64,14,2,0,0,0,0,0,64,0,-1--1--1,,1|(378,426)|
+1,65,11,2,0,0,0,0,0,64,0,-1--1--1,,1|(378,517)|
+1,66,2,12,0,0,0,0,0,64,0,-1--1--1,,1|(450,519)|
+1,67,12,5,0,0,0,0,0,64,0,-1--1--1,,1|(571,599)|
+1,68,12,13,0,0,0,0,0,64,0,-1--1--1,,1|(402,607)|
+1,69,12,26,0,0,0,0,0,64,0,-1--1--1,,1|(489,626)|
+1,70,19,6,0,0,0,0,0,64,0,-1--1--1,,1|(492,216)|
+1,71,27,20,0,0,0,0,0,64,0,-1--1--1,,1|(186,153)|
+1,72,17,18,0,0,0,0,0,64,0,-1--1--1,,1|(148,365)|
+10,73,Sistemas de infiltración,926,339,39,39,8,131,0,0,0,0,0,0
+1,74,31,29,0,0,0,0,0,64,0,-1--1--1,,1|(1197,740)|
+1,75,36,29,0,0,0,0,0,64,0,-1--1--1,,1|(1120,774)|
+1,76,73,9,1,0,0,0,0,64,0,-1--1--1,,1|(868,386)|
+1,77,14,21,0,0,0,0,0,64,0,-1--1--1,,1|(414,352)|
+1,78,14,3,0,0,0,0,0,64,0,-1--1--1,,1|(446,380)|
+1,79,22,73,1,0,0,0,0,64,0,-1--1--1,,1|(917,312)|
+1,80,6,8,0,0,0,0,0,64,0,-1--1--1,,1|(471,158)|
+1,81,6,24,0,0,0,0,0,64,0,-1--1--1,,1|(594,218)|
+1,82,6,28,0,0,0,0,0,64,0,-1--1--1,,1|(599,159)|
+1,83,24,21,1,0,0,0,0,64,0,-1--1--1,,1|(581,283)|
+10,84,politica de desarrollo social,565,778,52,19,8,3,0,0,0,0,0,0
+10,85,flotadores,693,860,32,11,8,3,0,0,0,0,0,0
+1,86,26,84,0,0,0,0,0,64,0,-1--1--1,,1|(523,729)|
+1,87,84,85,0,0,0,0,0,64,0,-1--1--1,,1|(628,819)|
+///---\\\
+:L<%^E!@
+9:Current
+22:$,Dollar,Dollars,$s
+22:Hour,Hours
+22:Month,Months
+22:Person,People,Persons
+22:Unit,Units
+22:Week,Weeks
+22:Year,Years
+22:Day,Days
+23:0
+15:0,0,0,0,0,0
+19:100,0
+27:2,
+34:0,
+5:Distribución de recursos económicos
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:2
+41:0
+42:1
+24:0
+25:0
+26:0

@@ -1,0 +1,12 @@
+variabilidad climática,riesgo de inundación
+variabilidad climática,Escasez de agua
+riesgo de inundación,Enfermedades de la piel
+riesgo de inundación,Irritación de mucosas
+riesgo de inundación,Intoxicación por químicos
+Poder adquisitivo,Vulnerabilidad de la población
+Falta de servicios sanitarios,Vulnerabilidad de la población
+Falta de cultura de asistir al médico,Subregistro epidemiológico
+Acciones de Protección Civil,Prevención de epidemias
+Apoyo gubernamental,Retorno a la normalidad
+Infraestructura de drenaje deficiente,riesgo de inundación
+Exposición directa al agua de inundación,Enfermedades de la piel

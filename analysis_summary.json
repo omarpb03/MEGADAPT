@@ -1,0 +1,1298 @@
+[
+  {
+    "interview_id": "DF012015_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF012015_GOB__T-DF012015_GOV.docx",
+    "variables": [
+      "Infraestructura hidráulica",
+      "Presupuesto para infraestructura",
+      "Proyectos de desarrollo urbano",
+      "Abastecimiento de agua",
+      "riesgo de inundación",
+      "Calidad del agua",
+      "Programas sociales de vivienda",
+      "Costo de la vivienda y servicios",
+      "Disponibilidad de agua y lluvias",
+      "Uso de pipas de agua",
+      "Inversión de la iniciativa privada",
+      "Rehabilitación de redes y fugas",
+      "Plantas potabilizadoras"
+    ],
+    "edgelist": [
+      [
+        "Proyectos de desarrollo urbano",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Proyectos de desarrollo urbano",
+        "riesgo de inundación"
+      ],
+      [
+        "Programas sociales de vivienda",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Disponibilidad de agua y lluvias",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Inversión de la iniciativa privada",
+        "Presupuesto para infraestructura"
+      ],
+      [
+        "Rehabilitación de redes y fugas",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Plantas potabilizadoras",
+        "Calidad del agua"
+      ]
+    ],
+    "summary": "El participante del sector gubernamental destaca que los principales retos en la Ciudad de México son el abastecimiento de agua, las inundaciones y la calidad del agua, los cuales están estrechamente vinculados a la falta de planeación en los desarrollos urbanos y los programas de vivienda social. Señala que existen diagnósticos precisos y proyectos a largo plazo debidamente presupuestados para atender estas problemáticas a través de infraestructura, plantas potabilizadoras y rehabilitación de redes. Asimismo, enfatiza la necesidad de incorporar a la iniciativa privada para complementar los recursos públicos insuficientes. Finalmente, critica la falta de rigor técnico y la descontextualización en algunos estudios académicos y documentales sobre la crisis hídrica.",
+    "error": null
+  },
+  {
+    "interview_id": "DF012815_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF012815_ACA__T-DF012815_ACA.docx",
+    "variables": [
+      "Crecimiento de la ciudad",
+      "Asentamientos informales",
+      "Suelo de conservación",
+      "Control político y clientelismo",
+      "Extracción y sobreexplotación de mantos acuíferos",
+      "Pérdidas en la red hidráulica",
+      "Déficit de dotación y tandeo",
+      "Inversión privada y concesiones",
+      "Corrupción y decisiones políticas",
+      "Falta de información y opacidad estadística",
+      "Inadecuada planeación urbana"
+    ],
+    "edgelist": [
+      [
+        "Crecimiento de la ciudad",
+        "Ocupación de zonas de recarga"
+      ],
+      [
+        "Ocupación de zonas de recarga",
+        "Disminución de la recarga de agua"
+      ],
+      [
+        "Control político y clientelismo",
+        "Asentamientos informales"
+      ],
+      [
+        "Asentamientos informales",
+        "Ocupación de suelo de conservación"
+      ],
+      [
+        "Extracción y sobreexplotación de mantos acuíferos",
+        "Hundimiento de la ciudad"
+      ],
+      [
+        "Pérdidas en la red hidráulica",
+        "Déficit de dotación y tandeo"
+      ],
+      [
+        "Corrupción y decisiones políticas",
+        "Inadecuada planeación urbana"
+      ],
+      [
+        "Falta de información y opacidad estadística",
+        "Dificultad para la toma de decisiones"
+      ],
+      [
+        "Inversión privada y concesiones",
+        "Operación de servicios urbanos"
+      ],
+      [
+        "Control político y clientelismo",
+        "Manejo político del agua"
+      ]
+    ],
+    "summary": "La entrevista analiza la compleja problemática del agua en la Ciudad de México, destacando cómo el crecimiento urbano desordenado y los asentamientos informales han invadido las zonas de recarga acuífera. El participante enfatiza que la toma de decisiones está fuertemente dominada por intereses políticos y clientelares, donde el suministro de agua y los servicios se utilizan como moneda de cambio para obtener votos. Asimismo, señala deficiencias operativas graves, como la pérdida masiva de agua en las redes y la opacidad estadística oficial, lo que dificulta una planeación urbana y hídrica efectiva. Finalmente, se discute la necesidad de incorporar tecnología, modernizar la información y replantear la participación de la inversión privada bajo marcos regulatorios más sólidos.",
+    "error": null
+  },
+  {
+    "interview_id": "DF013015_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF013015_ACA__T-DF013015_ACA.docx",
+    "variables": [
+      "Abastecimiento de agua",
+      "Falta de coordinación institucional",
+      "Precios altos del agua para la gente pobre",
+      "Producción social de vivienda",
+      "Vivienda informal y autogestionada",
+      "Corrupción en permisos de construcción",
+      "Presión política y movilizaciones sociales",
+      "Desigualdad socioeconómica",
+      "Pobre calidad del agua",
+      "Ubicación de la vivienda y distancia a centros de trabajo"
+    ],
+    "edgelist": [
+      [
+        "Falta de coordinación institucional",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Desigualdad socioeconómica",
+        "Precios altos del agua para la gente pobre"
+      ],
+      [
+        "Corrupción en permisos de construcción",
+        "Vivienda informal y autogestionada"
+      ],
+      [
+        "Presión política y movilizaciones sociales",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Producción social de vivienda",
+        "Ubicación de la vivienda y distancia a centros de trabajo"
+      ],
+      [
+        "Pobre calidad del agua",
+        "Precios altos del agua para la gente pobre"
+      ]
+    ],
+    "summary": "La participante explica que la problemática hídrica y de vivienda en la Ciudad de México está profundamente marcada por la desigualdad social, la fragmentación institucional y la corrupción en los permisos de desarrollo urbano. Señala que las zonas periféricas y de bajos ingresos sufren de escasez, mala calidad del agua y costos más elevados para su obtención en comparación con las zonas centrales. Asimismo, destaca que ante la ineficacia gubernamental y la falta de servicios, los habitantes recurren a la organización comunitaria y a la presión política mediante marchas y protestas para gestionar sus necesidades básicas. Finalmente, contrasta la vivienda formal inaccesible o mal ubicada con los procesos de producción social de vivienda, los cuales logran mejores condiciones a través de largos procesos de autogestión.",
+    "error": null
+  },
+  {
+    "interview_id": "DF020415_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF020415_ACA__T-DF020415_ACA.docx",
+    "variables": [
+      "Movimiento urbano popular",
+      "Organizaciones vecinales",
+      "Inversión privada",
+      "Política de desarrollo urbano",
+      "Riesgo y vulnerabilidad",
+      "Servicios urbanos y agua",
+      "Calidad de vida y seguridad",
+      "Clientelismo y apoyo político",
+      "Movilización social y protesta",
+      "Aprendizaje normativo y legal",
+      "Sismos de 1985",
+      "Autonomía política de la CDMX"
+    ],
+    "edgelist": [
+      [
+        "Movimiento urbano popular",
+        "Servicios urbanos y agua"
+      ],
+      [
+        "Movimiento urbano popular",
+        "Calidad de vida y seguridad"
+      ],
+      [
+        "Política de desarrollo urbano",
+        "Riesgo y vulnerabilidad"
+      ],
+      [
+        "Inversión privada",
+        "Política de desarrollo urbano"
+      ],
+      [
+        "Movilización social y protesta",
+        "Incidencia política"
+      ],
+      [
+        "Aprendizaje normativo y legal",
+        "Incidencia política"
+      ],
+      [
+        "Sismos de 1985",
+        "Conciencia social"
+      ],
+      [
+        "Clientelismo y apoyo político",
+        "Recursos y créditos"
+      ],
+      [
+        "Autonomía política de la CDMX",
+        "Decisiones locales"
+      ],
+      [
+        "Movilización social y protesta",
+        "Negociación de leyes"
+      ]
+    ],
+    "summary": "El participante, un académico experto en actores políticos y sociales, analiza cómo la ciudadanía, el movimiento urbano popular y las organizaciones vecinales influyen en la construcción de la ciudad y en la gestión del riesgo. Explica que frente a una política de desarrollo urbano orientada a la inversión privada, los actores sociales recurren a la movilización, la protesta y el aprendizaje normativo para incidir en las decisiones de gobierno. Asimismo, destaca hitos históricos como los sismos de 1985 y el desarrollo de la autonomía política como catalizadores de cambios en la conciencia social y en la demanda de seguridad y servicios urbanos.",
+    "error": null
+  },
+  {
+    "interview_id": "DF021215_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF021215_ACA__T-DF021215_ACA.docx",
+    "variables": [
+      "Asentamientos humanos irregulares",
+      "Especulación inmobiliaria",
+      "Presión urbana",
+      "Suelo de conservación",
+      "Descoordinación institucional",
+      "Escasez de agua",
+      "Grupos de piperos",
+      "Captación de agua de lluvia",
+      "Organizaciones comunitarias",
+      "Desmantelamiento de las políticas rurales",
+      "Políticas de vivienda",
+      "Gentrificación"
+    ],
+    "edgelist": [
+      [
+        "Especulación inmobiliaria",
+        "Asentamientos humanos irregulares"
+      ],
+      [
+        "Asentamientos humanos irregulares",
+        "Presión urbana"
+      ],
+      [
+        "Presión urbana",
+        "Suelo de conservación"
+      ],
+      [
+        "Descoordinación institucional",
+        "Escasez de agua"
+      ],
+      [
+        "Escasez de agua",
+        "Grupos de piperos"
+      ],
+      [
+        "Desmantelamiento de las políticas rurales",
+        "Suelo de conservación"
+      ],
+      [
+        "Organizaciones comunitarias",
+        "Suelo de conservación"
+      ],
+      [
+        "Políticas de vivienda",
+        "Gentrificación"
+      ],
+      [
+        "Captación de agua de lluvia",
+        "Escasez de agua"
+      ],
+      [
+        "Asentamientos humanos irregulares",
+        "Escasez de agua"
+      ]
+    ],
+    "summary": "El participante aborda la compleja problemática socioambiental en las zonas de conservación del sur de la Ciudad de México, destacando la tensión entre la expansión de asentamientos humanos irregulares impulsados por la especulación inmobiliaria y los esfuerzos de conservación ecológica. Señala que la descoordinación institucional y el desmantelamiento de las políticas rurales agravan la vulnerabilidad hídrica y territorial en las comunidades. Asimismo, resalta la importancia de fortalecer las organizaciones comunitarias y fomentar prácticas locales de adaptación, como la captación de agua de lluvia, frente a las deficiencias de la gestión gubernamental.",
+    "error": null
+  },
+  {
+    "interview_id": "DF021815_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF021815_ACA__T-DF021815_ACA.docx",
+    "variables": [
+      "cambios sociodemográficos",
+      "costo de desplazamientos",
+      "crecimiento urbano",
+      "zona de conservación",
+      "asentamientos irregulares",
+      "expectativa de especulación de la tierra",
+      "desarrollo inmobiliario",
+      "esquema tarifario del agua",
+      "calidad del agua",
+      "desconfianza en el agua de la llave",
+      "agua embotellada",
+      "gestión del recurso hídrico",
+      "circuitos de la red de agua",
+      "mecanismos de control político",
+      "desigualdad en el consumo de agua"
+    ],
+    "edgelist": [
+      [
+        "costo de desplazamientos",
+        "crecimiento urbano"
+      ],
+      [
+        "crecimiento urbano",
+        "asentamientos irregulares"
+      ],
+      [
+        "expectativa de especulación de la tierra",
+        "asentamientos irregulares"
+      ],
+      [
+        "desarrollo inmobiliario",
+        "crecimiento urbano"
+      ],
+      [
+        "calidad del agua",
+        "desconfianza en el agua de la llave"
+      ],
+      [
+        "desconfianza en el agua de la llave",
+        "agua embotellada"
+      ],
+      [
+        "gestión del recurso hídrico",
+        "desigualdad en el consumo de agua"
+      ],
+      [
+        "esquema tarifario del agua",
+        "desigualdad en el consumo de agua"
+      ],
+      [
+        "circuitos de la red de agua",
+        "mecanismos de control político"
+      ],
+      [
+        "mecanismos de control político",
+        "asentamientos irregulares"
+      ]
+    ],
+    "summary": "El participante explica que la dinámica demográfica y el aumento en los costos de desplazamiento han transformado los patrones de crecimiento urbano de la Ciudad de México, impulsando la expansión hacia las zonas de conservación mediante asentamientos irregulares. Asimismo, señala que la escasez y los problemas hídricos no derivan de una falta física de agua, sino de deficiencias graves en la gestión institucional, la opacidad técnica de los circuitos de distribución y un esquema tarifario injusto. Estos factores de gobernanza generan profundas desigualdades en el acceso al recurso, mientras que la mala calidad del agua de la red fomenta la desconfianza ciudadana y el consumo de agua embotellada.",
+    "error": null
+  },
+  {
+    "interview_id": "DF022515_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF022515_ACA__T-DF022515_ACA.docx",
+    "variables": [
+      "Complejidad urbana regional",
+      "Unidades político administrativas",
+      "Población flotante",
+      "Movilidad poblacional",
+      "Problematica de agua",
+      "Zona conurbada",
+      "Fuentes de abastecimiento",
+      "Acuífero metropolitano",
+      "Acuífero de Cuautitlán Pachuca",
+      "Escasez de agua",
+      "Abundancia de agua",
+      "riesgo de inundación",
+      "Crisis del agua",
+      "Riesgo hídrico"
+    ],
+    "edgelist": [
+      [
+        "Complejidad urbana regional",
+        "Movilidad poblacional"
+      ],
+      [
+        "Unidades político administrativas",
+        "Complejidad urbana regional"
+      ],
+      [
+        "Movilidad poblacional",
+        "Uso de servicios"
+      ],
+      [
+        "Zona conurbada",
+        "Problematica de agua"
+      ],
+      [
+        "Fuentes de abastecimiento",
+        "Problematica de agua"
+      ],
+      [
+        "Acuífero metropolitano",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Acuífero de Cuautitlán Pachuca",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Zona conurbada",
+        "Escasez de agua"
+      ],
+      [
+        "Escasez de agua",
+        "Crisis del agua"
+      ],
+      [
+        "riesgo de inundación",
+        "Riesgo hídrico"
+      ],
+      [
+        "Complejidad urbana regional",
+        "Escasez de agua"
+      ],
+      [
+        "Complejidad urbana regional",
+        "riesgo de inundación"
+      ]
+    ],
+    "summary": "El participante argumenta que la problemática del agua en la Ciudad de México no puede entenderse de manera aislada, sino como un fenómeno urbano regional que abarca a toda la zona conurbada y a su alta movilidad poblacional. Explica que las fuentes de abastecimiento y los acuíferos trascienden los límites político-administrativos del Distrito Federal. Señala que la crisis no es uniforme, sino un mosaico complejo donde coexisten simultáneamente zonas con escasez y zonas con abundancia o inundaciones. Concluye que la crisis del agua y los riesgos hídricos ya son una realidad que ocurre de manera diferenciada en el territorio.",
+    "error": null
+  },
+  {
+    "interview_id": "DF022615_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF022615_ACA__T-DF022615_ACA.docx",
+    "variables": [
+      "Escasez de agua",
+      "Falta de cultura del agua",
+      "Falta de interés gubernamental",
+      "Falta de vigilancia y normatividad",
+      "Corrupción",
+      "Uso de aguas grises y tratadas",
+      "Salinización del agua",
+      "Uso intensivo de agroquímicos",
+      "Desperdicios orgánicos y estiércol",
+      "Arraigo de pueblos originarios",
+      "marginalidad socioeconómica",
+      "Tandeo y distribución inequitativa"
+    ],
+    "edgelist": [
+      [
+        "Falta de interés gubernamental",
+        "Falta de vigilancia y normatividad"
+      ],
+      [
+        "Falta de vigilancia y normatividad",
+        "Corrupción"
+      ],
+      [
+        "Corrupción",
+        "Tandeo y distribución inequitativa"
+      ],
+      [
+        "Escasez de agua",
+        "Tandeo y distribución inequitativa"
+      ],
+      [
+        "Uso de aguas grises y tratadas",
+        "Salinización del agua"
+      ],
+      [
+        "Uso intensivo de agroquímicos",
+        "Contaminación ambiental"
+      ],
+      [
+        "Arraigo de pueblos originarios",
+        "Persistencia de la agricultura"
+      ],
+      [
+        "marginalidad socioeconómica",
+        "Corrupción"
+      ]
+    ],
+    "summary": "La entrevista aborda la problemática del agua, la producción agrícola y pecuaria en zonas vulnerables de la Ciudad de México como Iztapalapa y Xochimilco. Los participantes discuten cómo la falta de interés del gobierno y la corrupción generan una distribución inequitativa del recurso a través de tandeos y pipas. Asimismo, se analiza el impacto ambiental del uso de agroquímicos y la gestión de desechos orgánicos en la agricultura urbana. Finalmente, se destaca el papel fundamental del arraigo de los pueblos originarios en la preservación de las tradiciones agrícolas frente a las adversidades socioambientales.",
+    "error": null
+  },
+  {
+    "interview_id": "DF042115_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF042115_GOB__T-DF042115_GOV.docx",
+    "variables": [
+      "Crecimiento de la población",
+      "Demanda de agua",
+      "Abastecimiento de agua",
+      "Extracción de acuíferos",
+      "Asentamientos irregulares",
+      "Vulnerabilidad social y física",
+      "Calidad del agua",
+      "Enfermedades",
+      "Fallas en tuberías",
+      "Recolección de agua de lluvia",
+      "riesgo de inundación",
+      "Infraestructura hidráulica",
+      "Coordinación institucional"
+    ],
+    "edgelist": [
+      [
+        "Crecimiento de la población",
+        "Demanda de agua"
+      ],
+      [
+        "Crecimiento de la población",
+        "Asentamientos irregulares"
+      ],
+      [
+        "Demanda de agua",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Extracción de acuíferos",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Asentamientos irregulares",
+        "Vulnerabilidad social y física"
+      ],
+      [
+        "Vulnerabilidad social y física",
+        "Enfermedades"
+      ],
+      [
+        "Calidad del agua",
+        "Enfermedades"
+      ],
+      [
+        "Fallas en tuberías",
+        "Abastecimiento de agua"
+      ],
+      [
+        "Recolección de agua de lluvia",
+        "riesgo de inundación"
+      ],
+      [
+        "Infraestructura hidráulica",
+        "riesgo de inundación"
+      ]
+    ],
+    "summary": "El participante aborda la problemática hídrica en el Valle de México destacando la presión que ejerce el crecimiento poblacional y los asentamientos irregulares sobre los recursos y la infraestructura. Explica cómo la falta de abastecimiento adecuado y el deficiente mantenimiento de los sistemas de almacenamiento y distribución incrementan la vulnerabilidad sanitaria de la población en la periferia. Asimismo, analiza el rol de las obras de mitigación y la gestión de la infraestructura frente a eventos extremos como inundaciones y sismos. Finalmente, señala que existe una limitación en la coordinación y colaboración técnica entre los niveles de gobierno federal y local debido a dinámicas administrativas e ideológicas.",
+    "error": null
+  },
+  {
+    "interview_id": "DF031215_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF031215_ACA__T-DF031215_ACA.docx",
+    "variables": [
+      "Organización comunitaria",
+      "Defensa de la tierra y el agua",
+      "Desarrollo inmobiliario",
+      "Construcción vertical",
+      "Protestas vecinales",
+      "Poder adquisitivo",
+      "Compra de votos y redes clientelares",
+      "Designación de puestos políticos",
+      "Secretaría de Obras Públicas",
+      "Secretaría del Medio Ambiente",
+      "Impacto ambiental",
+      "Discrecionalidad en el control de válvulas de agua",
+      "Escasez y desabastecimiento de agua",
+      "Programas de mejoramiento barrial",
+      "Duplicidad y vacancia habitacional",
+      "Población flotante",
+      "Infraestructura hidráulica",
+      "Tandeo de agua"
+    ],
+    "edgelist": [
+      [
+        "Defensa de la tierra y el agua",
+        "Organización comunitaria"
+      ],
+      [
+        "Desarrollo inmobiliario",
+        "Construcción vertical"
+      ],
+      [
+        "Poder adquisitivo",
+        "Protestas vecinales"
+      ],
+      [
+        "Compra de votos y redes clientelares",
+        "Designación de puestos políticos"
+      ],
+      [
+        "Designación de puestos políticos",
+        "Incompetencia técnica en secretarías"
+      ],
+      [
+        "Secretaría de Obras Públicas",
+        "Impacto ambiental"
+      ],
+      [
+        "Discrecionalidad en el control de válvulas de agua",
+        "Escasez y desabastecimiento de agua"
+      ],
+      [
+        "Construcción vertical",
+        "Escasez y desabastecimiento de agua"
+      ],
+      [
+        "Duplicidad y vacancia habitacional",
+        "Demanda artificial de vivienda"
+      ],
+      [
+        "Población flotante",
+        "Uso intensivo de infraestructura hidráulica"
+      ],
+      [
+        "Tandeo de agua",
+        "Racionamiento del consumo del agua"
+      ]
+    ],
+    "summary": "El participante analiza la dinámica urbana y el riesgo hídrico en la Ciudad de México destacando las diferencias de organización y respuesta social entre colonias populares y zonas de altos ingresos. Explica cómo el capital inmobiliario y las decisiones de secretarías como Obras Públicas impulsan grandes proyectos urbanos por encima de las políticas ambientales y de la infraestructura disponible. Asimismo, señala que la escasez de agua está vinculada tanto a la presión demográfica y el uso comercial como al manejo discrecional y político de las redes de distribución. Finalmente, discute cómo la duplicidad habitacional y la población flotante generan una demanda artificial que sobrecarga los servicios urbanos.",
+    "error": null
+  },
+  {
+    "interview_id": "DF042215_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF042215_GOB__T-DF042215_GOV.docx",
+    "variables": [
+      "Zonas susceptibles de inundación",
+      "Información oficial",
+      "Índice de vulnerabilidad de inundación",
+      "Inundaciones súbitas",
+      "Declaratorias de desastre y emergencia",
+      "Datos de la Secretaría de Salud",
+      "Mapas de peligro",
+      "Infografías y divulgación",
+      "Validación de datos",
+      "Sistema de drenaje y alcantarillado",
+      "Basura en la vía pública",
+      "Jornadas regionales y retroalimentación"
+    ],
+    "edgelist": [
+      [
+        "Información oficial",
+        "Índice de vulnerabilidad de inundación"
+      ],
+      [
+        "Validación de datos",
+        "Información oficial"
+      ],
+      [
+        "Datos de la Secretaría de Salud",
+        "Índice de vulnerabilidad de inundación"
+      ],
+      [
+        "Declaratorias de desastre y emergencia",
+        "Índice de vulnerabilidad de inundación"
+      ],
+      [
+        "Zonas susceptibles de inundación",
+        "Mapas de peligro"
+      ],
+      [
+        "Infografías y divulgación",
+        "Difusión del conocimiento"
+      ],
+      [
+        "Basura en la vía pública",
+        "Sistema de drenaje y alcantarillado"
+      ],
+      [
+        "Sistema de drenaje y alcantarillado",
+        "Zonas susceptibles de inundación"
+      ],
+      [
+        "Jornadas regionales y retroalimentación",
+        "Índice de vulnerabilidad de inundación"
+      ],
+      [
+        "Inundaciones súbitas",
+        "Declaratorias de desastre y emergencia"
+      ]
+    ],
+    "summary": "La funcionaria del CENAPRED detalla el proceso de identificación y mapeo de zonas susceptibles a distintos tipos de inundaciones a nivel nacional, destacando la transición hacia el uso exclusivo de fuentes de información oficial para construir y validar el índice de vulnerabilidad de inundación. Asimismo, explica la importancia de la divulgación accesible mediante infografías dirigidas a la población y la colaboración con autoridades locales para mejorar los registros de riesgo. Finalmente, señala que problemas urbanos como la saturación del sistema de drenaje y la acumulación de basura agravan las inundaciones locales.",
+    "error": null
+  },
+  {
+    "interview_id": "DF042415_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF042415_GOB__T-DF042415_GOB.docx",
+    "variables": [
+      "riesgo de inundación",
+      "Escasez de agua",
+      "variabilidad climática",
+      "Vulnerabilidad de la población",
+      "Poder adquisitivo",
+      "Enfermedades de la piel",
+      "Enfermedades gástricas",
+      "Irritación de mucosas",
+      "Intoxicación por químicos",
+      "Acciones de Protección Civil",
+      "Apoyo gubernamental",
+      "Subregistro epidemiológico",
+      "Género",
+      "Grupos vulnerables",
+      "Infraestructura de drenaje",
+      "Condiciones de la vivienda"
+    ],
+    "edgelist": [
+      [
+        "variabilidad climática",
+        "riesgo de inundación"
+      ],
+      [
+        "variabilidad climática",
+        "Escasez de agua"
+      ],
+      [
+        "riesgo de inundación",
+        "Enfermedades de la piel"
+      ],
+      [
+        "riesgo de inundación",
+        "Irritación de mucosas"
+      ],
+      [
+        "riesgo de inundación",
+        "Intoxicación por químicos"
+      ],
+      [
+        "Poder adquisitivo",
+        "Vulnerabilidad de la población"
+      ],
+      [
+        "Falta de servicios sanitarios",
+        "Vulnerabilidad de la población"
+      ],
+      [
+        "Falta de cultura de asistir al médico",
+        "Subregistro epidemiológico"
+      ],
+      [
+        "Acciones de Protección Civil",
+        "Prevención de epidemias"
+      ],
+      [
+        "Apoyo gubernamental",
+        "Retorno a la normalidad"
+      ],
+      [
+        "Infraestructura de drenaje deficiente",
+        "riesgo de inundación"
+      ],
+      [
+        "Exposición directa al agua de inundación",
+        "Enfermedades de la piel"
+      ]
+    ],
+    "summary": "El participante explica cómo el cambio climático intensifica las inundaciones y la escasez de agua en la Ciudad de México, afectando principalmente a poblaciones con menor poder adquisitivo y viviendas precarias. Detalla que la exposición directa al agua de inundación provoca problemas de salud como dermatitis e irritación de mucosas, además de riesgos por el uso inadecuado de productos de limpieza. Asimismo, señala que existe un importante subregistro epidemiológico debido a la falta de cultura para acudir al médico, destacando la labor preventiva y de apoyo que realizan las instituciones de gobierno y protección civil para mitigar estos impactos.",
+    "error": null
+  },
+  {
+    "interview_id": "DF111814_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Ciudad de México (gobierno)",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\DF111814_GOB__T-DF111814_GOV.docx",
+    "variables": [
+      "Suelo de conservación",
+      "Crecimiento urbano",
+      "Deforestación",
+      "Incendios forestales",
+      "Apoyos económicos y sociales",
+      "Infiltración de agua",
+      "Demanda de agua",
+      "Cultura del agua",
+      "Tecnología y urbanización",
+      "variabilidad climática",
+      "Producción forestal y viveros",
+      "Reglas de operación y normatividad"
+    ],
+    "edgelist": [
+      [
+        "Crecimiento urbano",
+        "Suelo de conservación"
+      ],
+      [
+        "Deforestación",
+        "Suelo de conservación"
+      ],
+      [
+        "Incendios forestales",
+        "Suelo de conservación"
+      ],
+      [
+        "Apoyos económicos y sociales",
+        "Suelo de conservación"
+      ],
+      [
+        "Suelo de conservación",
+        "Infiltración de agua"
+      ],
+      [
+        "Crecimiento urbano",
+        "Demanda de agua"
+      ],
+      [
+        "Tecnología y urbanización",
+        "Demanda de agua"
+      ],
+      [
+        "Cultura del agua",
+        "Demanda de agua"
+      ],
+      [
+        "Demanda de agua",
+        "abastecimiento de agua"
+      ],
+      [
+        "variabilidad climática",
+        "Escasez de agua"
+      ],
+      [
+        "Producción forestal y viveros",
+        "Suelo de conservación"
+      ]
+    ],
+    "summary": "El participante, funcionario de CORENA, explica que el objetivo central de la institución es proteger y conservar el suelo de conservación frente a presiones como el crecimiento urbano y la deforestación. Detalla que para lograr esto implementan programas de apoyo económico y actividades de reforestación mediante viveros forestales, lo cual favorece la infiltración del agua y la salud de los bosques. Asimismo, señala que el principal problema hídrico no es la falta física del recurso, sino la alta demanda impulsada por el desarrollo urbano y la falta de una cultura de uso racional. Finalmente, destaca que la colaboración con grupos agrarios y la presencia constante en campo son claves para mitigar los riesgos ambientales en la Ciudad de México.",
+    "error": null
+  },
+  {
+    "interview_id": "I021415_OTR",
+    "activity_type": "int",
+    "sector": "Otro/ONG",
+    "delegation": "Iztapalapa",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\I021415_OTR__T-I021415_OTR.docx",
+    "variables": [
+      "Asentamientos irregulares",
+      "Falta de abastecimiento de agua",
+      "Uso político del agua",
+      "Lucha social",
+      "abastecimiento de agua",
+      "Mala calidad del agua",
+      "Condonación de pagos",
+      "Extracción por pozos",
+      "Hundimientos y grietas",
+      "Cosecha de agua de lluvia",
+      "Desperdicio de agua",
+      "Compra de garrafones",
+      "Corrupción",
+      "Falta de políticas públicas",
+      "Iniciativa de privatización",
+      "Presupuesto gubernamental"
+    ],
+    "edgelist": [
+      [
+        "Asentamientos irregulares",
+        "Falta de abastecimiento de agua"
+      ],
+      [
+        "Falta de abastecimiento de agua",
+        "Lucha social"
+      ],
+      [
+        "Uso político del agua",
+        "Lucha social"
+      ],
+      [
+        "Extracción por pozos",
+        "Hundimientos y grietas"
+      ],
+      [
+        "abastecimiento de agua",
+        "Falta de abastecimiento de agua"
+      ],
+      [
+        "Mala calidad del agua",
+        "Compra de garrafones"
+      ],
+      [
+        "Lucha social",
+        "Condonación de pagos"
+      ],
+      [
+        "Corrupción",
+        "Desperdicio de agua"
+      ],
+      [
+        "Falta de políticas públicas",
+        "Desperdicio de agua"
+      ],
+      [
+        "Presupuesto gubernamental",
+        "Falta de abastecimiento de agua"
+      ],
+      [
+        "Cosecha de agua de lluvia",
+        "Falta de abastecimiento de agua"
+      ]
+    ],
+    "summary": "La narrativa central expone la problemática histórica de escasez y mala calidad del agua en colonias periféricas e irregulares de Iztapalapa, donde el recurso es utilizado como botín político y moneda de cambio electoral. Ante la deficiencia en el suministro por tandeo y la contaminación del agua de red, los residentes han organizado protestas para exigir la condonación de pagos y la mejora de servicios, adoptando prácticas locales de recolección y reutilización. Asimismo, los participantes critican la sobreexplotación de los mantos acuíferos por medio de pozos que generan graves grietas en el suelo, evidenciando una falta de políticas públicas efectivas y una priorización del gasto gubernamental ajena a las necesidades reales de la población.",
+    "error": null
+  },
+  {
+    "interview_id": "MC031915_OTR",
+    "activity_type": "int",
+    "sector": "Otro/ONG",
+    "delegation": "Magdalena Contreras",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\MC031915_OTR__T-MC031915_otr.docx",
+    "variables": [
+      "Crecimiento urbano y expropiación",
+      "Pérdida de zona agrícola",
+      "Dotación de servicios públicos",
+      "Escasez de agua",
+      "Tandeo del agua",
+      "Fugas en la red hidráulica",
+      "Captación de agua de lluvia y tinas ciegas",
+      "Presas de almacenamiento",
+      "Tráfico y aumento de población",
+      "Pérdida de usos y costumbres rurales",
+      "Programas de apoyo al campo y CORENA",
+      "Conflictos por la distribución del agua",
+      "Actividad agrícola y producción de oxígeno",
+      "Organización comunitaria y ejidal"
+    ],
+    "edgelist": [
+      [
+        "Crecimiento urbano y expropiación",
+        "Pérdida de zona agrícola"
+      ],
+      [
+        "Crecimiento urbano y expropiación",
+        "Dotación de servicios públicos"
+      ],
+      [
+        "Crecimiento urbano y expropiación",
+        "Pérdida de usos y costumbres rurales"
+      ],
+      [
+        "Fugas en la red hidráulica",
+        "Escasez de agua"
+      ],
+      [
+        "Tandeo del agua",
+        "Escasez de agua"
+      ],
+      [
+        "Escasez de agua",
+        "Conflictos por la distribución del agua"
+      ],
+      [
+        "Captación de agua de lluvia y tinas ciegas",
+        "Recarga de mantos acuíferos"
+      ],
+      [
+        "Presas de almacenamiento",
+        "Prevención de inundaciones"
+      ],
+      [
+        "Organización comunitaria y ejidal",
+        "Dotación de servicios públicos"
+      ],
+      [
+        "Programas de apoyo al campo y CORENA",
+        "Actividad agrícola y producción de oxígeno"
+      ],
+      [
+        "Crecimiento urbano y expropiación",
+        "Tráfico y aumento de población"
+      ]
+    ],
+    "summary": "El participante narra la transformación histórica del ejido de San Bernabé desde una zona rural agrícola hasta su expropiación y urbanización a partir de la década de 1980. Explica cómo este proceso trajo consigo la dotación tardía de servicios, la pérdida de tradiciones rurales y graves problemas de escasez y tandeo de agua. Asimismo, destaca la importancia de la organización comunitaria para gestionar recursos, la implementación de medidas de captación pluvial y la defensa actual de sus espacios ecológicos y agrícolas frente al crecimiento de la ciudad.",
+    "error": null
+  },
+  {
+    "interview_id": "I032615_OTR",
+    "activity_type": "int",
+    "sector": "Otro/ONG",
+    "delegation": "Iztapalapa",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\I032615_OTR__T-I032615_otr1RA PARTE.docx",
+    "variables": [
+      "Autogestión comunitaria",
+      "Falta de autonomía del DF",
+      "Infraestructura hidráulica antigua y obsoleta",
+      "Fugas en la red de agua",
+      "Pavimentación excesiva",
+      "Infiltración de agua de lluvia",
+      "Extracción de agua de pozos",
+      "Hundimientos y agrietamiento del suelo",
+      "Zonas de riesgo por sismos y lagos",
+      "Escasez de recursos delegacionales",
+      "Megaproyectos urbanos",
+      "Rompimiento del tejido social",
+      "Delincuencia y narcomenudeo",
+      "Organización vecinal y seguridad",
+      "Mala administración del agua",
+      "Modelo de desarrollo extractivista",
+      "Conciencia ambiental y territorial",
+      "Captación y filtración pluvial"
+    ],
+    "edgelist": [
+      [
+        "Falta de autonomía del DF",
+        "Escasez de recursos delegacionales"
+      ],
+      [
+        "Escasez de recursos delegacionales",
+        "Infraestructura hidráulica antigua y obsoleta"
+      ],
+      [
+        "Infraestructura hidráulica antigua y obsoleta",
+        "Fugas en la red de agua"
+      ],
+      [
+        "Pavimentación excesiva",
+        "Infiltración de agua de lluvia"
+      ],
+      [
+        "Extracción de agua de pozos",
+        "Hundimientos y agrietamiento del suelo"
+      ],
+      [
+        "Zonas de riesgo por sismos y lagos",
+        "Hundimientos y agrietamiento del suelo"
+      ],
+      [
+        "Megaproyectos urbanos",
+        "Rompimiento del tejido social"
+      ],
+      [
+        "Rompimiento del tejido social",
+        "Delincuencia y narcomenudeo"
+      ],
+      [
+        "Organización vecinal y seguridad",
+        "Delincuencia y narcomenudeo"
+      ],
+      [
+        "Modelo de desarrollo extractivista",
+        "Mala administración del agua"
+      ],
+      [
+        "Conciencia ambiental y territorial",
+        "Organización vecinal y seguridad"
+      ],
+      [
+        "Captación y filtración pluvial",
+        "Infiltración de agua de lluvia"
+      ]
+    ],
+    "summary": "El participante narra el proceso histórico de autogestión y organización comunitaria en la zona del Predio El Molino en Iztapalapa, destacando la lucha contra megaproyectos y la inseguridad. Explica que la problemática hídrica de la Ciudad de México no responde a una verdadera escasez, sino a un modelo de desarrollo extractivista, pavimentación excesiva y una infraestructura hidráulica obsoleta que genera fugas y hundimientos. Propone soluciones basadas en la recuperación de la memoria biocultural, la captación de agua de lluvia y la infiltración al subsuelo mediante la participación ciudadana y la planeación territorial.",
+    "error": null
+  },
+  {
+    "interview_id": "MC032415_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Magdalena Contreras",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\MC032415_GOB__T-MC032415_GOV.docx",
+    "variables": [],
+    "edgelist": [],
+    "summary": "",
+    "error": "Error inesperado: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 5.11112213s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.5-flash-lite'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}"
+  },
+  {
+    "interview_id": "MC032515_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Magdalena Contreras",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\MC032515_GOB__T-MC032515_GOV.docx",
+    "variables": [
+      "Orografía de montañas y barrancas",
+      "Asentamientos irregulares",
+      "Corte de cerros y terraceo",
+      "Quema y poda inadecuada de árboles",
+      "Uso de letrinas y mala canalización",
+      "Saturación y reblandecimiento del suelo",
+      "Deslizamientos de talud",
+      "Lluvias extraordinarias",
+      "Basura en ríos y barrancas",
+      "Taponamiento de drenaje y coladeras",
+      "Inundaciones y encharcamientos",
+      "Programas de prevención y notificación de riesgos",
+      "Limpieza de ríos, barrancas y desazolve",
+      "Acciones de mitigación"
+    ],
+    "edgelist": [
+      [
+        "Orografía de montañas y barrancas",
+        "Asentamientos irregulares"
+      ],
+      [
+        "Corte de cerros y terraceo",
+        "Deslizamientos de talud"
+      ],
+      [
+        "Quema y poda inadecuada de árboles",
+        "Saturación y reblandecimiento del suelo"
+      ],
+      [
+        "Uso de letrinas y mala canalización",
+        "Saturación y reblandecimiento del suelo"
+      ],
+      [
+        "Saturación y reblandecimiento del suelo",
+        "Deslizamientos de talud"
+      ],
+      [
+        "Lluvias extraordinarias",
+        "Deslizamientos de talud"
+      ],
+      [
+        "Lluvias extraordinarias",
+        "Inundaciones y encharcamientos"
+      ],
+      [
+        "Basura en ríos y barrancas",
+        "Taponamiento de drenaje y coladeras"
+      ],
+      [
+        "Taponamiento de drenaje y coladeras",
+        "Inundaciones y encharcamientos"
+      ],
+      [
+        "Programas de prevención y notificación de riesgos",
+        "Acciones de mitigación"
+      ],
+      [
+        "Limpieza de ríos, barrancas y desazolve",
+        "Inundaciones y encharcamientos"
+      ]
+    ],
+    "summary": "El participante, funcionario de Protección Civil en Magdalena Contreras, destaca que la orografía montañosa y los asentamientos irregulares son los principales factores de vulnerabilidad ante la temporada de lluvias. Explica que actividades humanas como el corte de cerros, la quema de árboles y la mala disposición de aguas residuales debilitan el suelo, provocando graves deslizamientos de talud. Asimismo, señala que las lluvias extraordinarias y la acumulación de basura generan taponamientos en el drenaje, derivando en inundaciones. Para contrarrestar esto, la dependencia implementa acciones preventivas como la notificación a vecinos, recorridos de monitoreo y limpieza de cauces junto con otras áreas operativas.",
+    "error": null
+  },
+  {
+    "interview_id": "X011915_GOB",
+    "activity_type": "int",
+    "sector": "Gobierno",
+    "delegation": "Xochimilco",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\X011915_GOB__T-X011915_GOV.docx",
+    "variables": [
+      "Contaminación de la zona lacustre",
+      "Administraciones de corto plazo",
+      "Falta de consecutividad en proyectos",
+      "Invasión de la zona lacustre",
+      "Falta de drenaje en asentamientos",
+      "Descargas de aguas negras",
+      "Gobierno tolerante",
+      "Conflicto social",
+      "Crecimiento de la mancha urbana",
+      "Cambios de uso de suelo",
+      "Acumulación de lirios",
+      "Deterioro de la infraestructura de drenaje",
+      "Hundimientos y levantamientos del subsuelo",
+      "Pérdida de agua por escurrimiento",
+      "Contradicción de leyes y términos",
+      "Falta de oxigenación y circulación del agua",
+      "Corrupción"
+    ],
+    "edgelist": [
+      [
+        "Administraciones de corto plazo",
+        "Falta de consecutividad en proyectos"
+      ],
+      [
+        "Gobierno tolerante",
+        "Invasión de la zona lacustre"
+      ],
+      [
+        "Invasión de la zona lacustre",
+        "Descargas de aguas negras"
+      ],
+      [
+        "Falta de drenaje en asentamientos",
+        "Descargas de aguas negras"
+      ],
+      [
+        "Descargas de aguas negras",
+        "Contaminación de la zona lacustre"
+      ],
+      [
+        "Deterioro de la infraestructura de drenaje",
+        "riesgo de inundación"
+      ],
+      [
+        "Hundimientos y levantamientos del subsuelo",
+        "Pérdida de agua por escurrimiento"
+      ],
+      [
+        "Falta de oxigenación y circulación del agua",
+        "Contaminación de la zona lacustre"
+      ],
+      [
+        "Cambios de uso de suelo",
+        "Crecimiento de la mancha urbana"
+      ],
+      [
+        "Corrupción",
+        "Invasión de la zona lacustre"
+      ]
+    ],
+    "summary": "El funcionario de gobierno detalla la compleja problemática ambiental y social que afecta a la zona lacustre de Xochimilco. Explica que la invasión irregular de la zona chinampera, combinada con miles de descargas domiciliarias de aguas negras y una infraestructura de drenaje obsoleta, genera una severa contaminación en los canales. Asimismo, señala que factores como los hundimientos diferenciales del suelo, la falta de circulación del agua y las contradicciones normativas entre instituciones agravan la crisis hídrica. Finalmente, destaca que la falta de continuidad en las administraciones y la tolerancia gubernamental impulsada por la evitación de conflictos sociales fomentan la corrupción y el crecimiento urbano desordenado.",
+    "error": null
+  },
+  {
+    "interview_id": "X022415_ACA",
+    "activity_type": "int",
+    "sector": "Académico",
+    "delegation": "Xochimilco",
+    "source_file": "LLMs-ModelosMentales\\TRANSCRIPCIONES\\_TRANSCRIPCIONES_35\\X022415_ACA__T-X022415_ACA.docx",
+    "variables": [
+      "Uso de suelo",
+      "Historia agrícola",
+      "crecimiento urbano",
+      "Racionalidad tecnológica y económica",
+      "Organización social y cultural",
+      "Disponibilidad de agua",
+      "Regulación y gobernanza del agua",
+      "Uso de agua tratada",
+      "Competencia de mercados agrícolas",
+      "Movimientos sociales",
+      "Extracción de acuíferos",
+      "Desplazamiento de la agricultura",
+      "Migración y mano de obra"
+    ],
+    "edgelist": [
+      [
+        "Historia agrícola",
+        "Uso de suelo"
+      ],
+      [
+        "crecimiento urbano",
+        "Uso de suelo"
+      ],
+      [
+        "Racionalidad tecnológica y económica",
+        "Uso de suelo"
+      ],
+      [
+        "Organización social y cultural",
+        "Uso de suelo"
+      ],
+      [
+        "Uso de suelo",
+        "Disponibilidad de agua"
+      ],
+      [
+        "Extracción de acuíferos",
+        "Disponibilidad de agua"
+      ],
+      [
+        "crecimiento urbano",
+        "Desplazamiento de la agricultura"
+      ],
+      [
+        "Competencia de mercados agrícolas",
+        "Desplazamiento de la agricultura"
+      ],
+      [
+        "Migración y mano de obra",
+        "Uso de suelo"
+      ],
+      [
+        "Regulación y gobernanza del agua",
+        "Disponibilidad de agua"
+      ],
+      [
+        "Movimientos sociales",
+        "Regulación y gobernanza del agua"
+      ],
+      [
+        "Uso de agua tratada",
+        "Disponibilidad de agua"
+      ]
+    ],
+    "summary": "El participante argumenta que la gestión y problemática del agua en la Ciudad de México deben entenderse a través de una perspectiva histórico-geográfica y de la coexistencia de distintos usos de suelo. Explica que la expansión urbana y las racionalidades económicas y tecnológicas han transformado los paisajes agrícolas tradicionales como las chinampas y los bosques. Asimismo, destaca que la organización social, la cultura local y la cercanía al mercado urbano influyen en las decisiones de los productores respecto al uso del agua y la tierra. Finalmente, señala que la falta de una regulación metropolitana efectiva y de un control en el uso del agua agrícola complica la sustentabilidad a largo plazo de la región.",
+    "error": null
+  }
+]

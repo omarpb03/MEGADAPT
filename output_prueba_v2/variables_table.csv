@@ -1,0 +1,15 @@
+﻿interview_id,sector,delegation,activity,variable
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Tala clandestina
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Deforestación
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Urbanización y crecimiento de la mancha urbana
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Pavimentación y pérdida de infiltración
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Capacidad de recarga de acuíferos
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Disminución del gasto de los manantiales
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Disminución de fuentes de abastecimiento externas
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Fugas por tuberías obsoletas
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Sustitución de tuberías
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Obstrucción de plantas potabilizadoras por basura y lodos
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Fallas en el suministro de energía eléctrica
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Conflictos sociales y desconfianza vecinal
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Sistemas de tandeo y escasez de agua
+MC032415_GOB,Gobierno,Magdalena Contreras,int,Entrega gratuita de pipas

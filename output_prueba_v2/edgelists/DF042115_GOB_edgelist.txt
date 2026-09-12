@@ -1,0 +1,10 @@
+Crecimiento de la población,Demanda de agua
+Crecimiento de la población,Asentamientos irregulares
+Demanda de agua,Abastecimiento de agua
+Extracción de acuíferos,Abastecimiento de agua
+Asentamientos irregulares,Vulnerabilidad social y física
+Vulnerabilidad social y física,Enfermedades
+Calidad del agua,Enfermedades
+Fallas en tuberías,Abastecimiento de agua
+Recolección de agua de lluvia,riesgo de inundación
+Infraestructura hidráulica,riesgo de inundación

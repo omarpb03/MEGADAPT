@@ -1,0 +1,263 @@
+﻿interview_id,sector,delegation,activity,variable
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Infraestructura hidráulica
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Presupuesto para infraestructura
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Proyectos de desarrollo urbano
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Abastecimiento de agua
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,riesgo de inundación
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Calidad del agua
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Programas sociales de vivienda
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Costo de la vivienda y servicios
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Disponibilidad de agua y lluvias
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Uso de pipas de agua
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Inversión de la iniciativa privada
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Rehabilitación de redes y fugas
+DF012015_GOB,Gobierno,Ciudad de México (gobierno),int,Plantas potabilizadoras
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Crecimiento de la ciudad
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Asentamientos informales
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Suelo de conservación
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Control político y clientelismo
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Extracción y sobreexplotación de mantos acuíferos
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Pérdidas en la red hidráulica
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Déficit de dotación y tandeo
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Inversión privada y concesiones
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Corrupción y decisiones políticas
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Falta de información y opacidad estadística
+DF012815_ACA,Académico,Ciudad de México (gobierno),int,Inadecuada planeación urbana
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Abastecimiento de agua
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Falta de coordinación institucional
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Precios altos del agua para la gente pobre
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Producción social de vivienda
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Vivienda informal y autogestionada
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Corrupción en permisos de construcción
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Presión política y movilizaciones sociales
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Desigualdad socioeconómica
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Pobre calidad del agua
+DF013015_ACA,Académico,Ciudad de México (gobierno),int,Ubicación de la vivienda y distancia a centros de trabajo
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Movimiento urbano popular
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Organizaciones vecinales
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Inversión privada
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Política de desarrollo urbano
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Riesgo y vulnerabilidad
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Servicios urbanos y agua
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Calidad de vida y seguridad
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Clientelismo y apoyo político
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Movilización social y protesta
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Aprendizaje normativo y legal
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Sismos de 1985
+DF020415_ACA,Académico,Ciudad de México (gobierno),int,Autonomía política de la CDMX
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Asentamientos humanos irregulares
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Especulación inmobiliaria
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Presión urbana
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Suelo de conservación
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Descoordinación institucional
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Escasez de agua
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Grupos de piperos
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Captación de agua de lluvia
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Organizaciones comunitarias
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Desmantelamiento de las políticas rurales
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Políticas de vivienda
+DF021215_ACA,Académico,Ciudad de México (gobierno),int,Gentrificación
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,cambios sociodemográficos
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,costo de desplazamientos
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,crecimiento urbano
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,zona de conservación
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,asentamientos irregulares
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,expectativa de especulación de la tierra
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,desarrollo inmobiliario
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,esquema tarifario del agua
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,calidad del agua
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,desconfianza en el agua de la llave
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,agua embotellada
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,gestión del recurso hídrico
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,circuitos de la red de agua
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,mecanismos de control político
+DF021815_ACA,Académico,Ciudad de México (gobierno),int,desigualdad en el consumo de agua
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Complejidad urbana regional
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Unidades político administrativas
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Población flotante
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Movilidad poblacional
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Problematica de agua
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Zona conurbada
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Fuentes de abastecimiento
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Acuífero metropolitano
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Acuífero de Cuautitlán Pachuca
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Escasez de agua
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Abundancia de agua
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,riesgo de inundación
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Crisis del agua
+DF022515_ACA,Académico,Ciudad de México (gobierno),int,Riesgo hídrico
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Escasez de agua
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Falta de cultura del agua
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Falta de interés gubernamental
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Falta de vigilancia y normatividad
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Corrupción
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Uso de aguas grises y tratadas
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Salinización del agua
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Uso intensivo de agroquímicos
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Desperdicios orgánicos y estiércol
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Arraigo de pueblos originarios
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,marginalidad socioeconómica
+DF022615_ACA,Académico,Ciudad de México (gobierno),int,Tandeo y distribución inequitativa
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Crecimiento de la población
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Demanda de agua
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Abastecimiento de agua
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Extracción de acuíferos
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Asentamientos irregulares
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Vulnerabilidad social y física
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Calidad del agua
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Enfermedades
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Fallas en tuberías
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Recolección de agua de lluvia
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,riesgo de inundación
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Infraestructura hidráulica
+DF042115_GOB,Gobierno,Ciudad de México (gobierno),int,Coordinación institucional
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Organización comunitaria
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Defensa de la tierra y el agua
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Desarrollo inmobiliario
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Construcción vertical
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Protestas vecinales
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Poder adquisitivo
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Compra de votos y redes clientelares
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Designación de puestos políticos
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Secretaría de Obras Públicas
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Secretaría del Medio Ambiente
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Impacto ambiental
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Discrecionalidad en el control de válvulas de agua
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Escasez y desabastecimiento de agua
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Programas de mejoramiento barrial
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Duplicidad y vacancia habitacional
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Población flotante
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Infraestructura hidráulica
+DF031215_ACA,Académico,Ciudad de México (gobierno),int,Tandeo de agua
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Zonas susceptibles de inundación
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Información oficial
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Índice de vulnerabilidad de inundación
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Inundaciones súbitas
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Declaratorias de desastre y emergencia
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Datos de la Secretaría de Salud
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Mapas de peligro
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Infografías y divulgación
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Validación de datos
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Sistema de drenaje y alcantarillado
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Basura en la vía pública
+DF042215_GOB,Gobierno,Ciudad de México (gobierno),int,Jornadas regionales y retroalimentación
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,riesgo de inundación
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Escasez de agua
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,variabilidad climática
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Vulnerabilidad de la población
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Poder adquisitivo
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Enfermedades de la piel
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Enfermedades gástricas
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Irritación de mucosas
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Intoxicación por químicos
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Acciones de Protección Civil
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Apoyo gubernamental
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Subregistro epidemiológico
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Género
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Grupos vulnerables
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Infraestructura de drenaje
+DF042415_GOB,Gobierno,Ciudad de México (gobierno),int,Condiciones de la vivienda
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Suelo de conservación
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Crecimiento urbano
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Deforestación
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Incendios forestales
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Apoyos económicos y sociales
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Infiltración de agua
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Demanda de agua
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Cultura del agua
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Tecnología y urbanización
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,variabilidad climática
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Producción forestal y viveros
+DF111814_GOB,Gobierno,Ciudad de México (gobierno),int,Reglas de operación y normatividad
+I021415_OTR,Otro/ONG,Iztapalapa,int,Asentamientos irregulares
+I021415_OTR,Otro/ONG,Iztapalapa,int,Falta de abastecimiento de agua
+I021415_OTR,Otro/ONG,Iztapalapa,int,Uso político del agua
+I021415_OTR,Otro/ONG,Iztapalapa,int,Lucha social
+I021415_OTR,Otro/ONG,Iztapalapa,int,abastecimiento de agua
+I021415_OTR,Otro/ONG,Iztapalapa,int,Mala calidad del agua
+I021415_OTR,Otro/ONG,Iztapalapa,int,Condonación de pagos
+I021415_OTR,Otro/ONG,Iztapalapa,int,Extracción por pozos
+I021415_OTR,Otro/ONG,Iztapalapa,int,Hundimientos y grietas
+I021415_OTR,Otro/ONG,Iztapalapa,int,Cosecha de agua de lluvia
+I021415_OTR,Otro/ONG,Iztapalapa,int,Desperdicio de agua
+I021415_OTR,Otro/ONG,Iztapalapa,int,Compra de garrafones
+I021415_OTR,Otro/ONG,Iztapalapa,int,Corrupción
+I021415_OTR,Otro/ONG,Iztapalapa,int,Falta de políticas públicas
+I021415_OTR,Otro/ONG,Iztapalapa,int,Iniciativa de privatización
+I021415_OTR,Otro/ONG,Iztapalapa,int,Presupuesto gubernamental
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Crecimiento urbano y expropiación
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Pérdida de zona agrícola
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Dotación de servicios públicos
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Escasez de agua
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Tandeo del agua
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Fugas en la red hidráulica
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Captación de agua de lluvia y tinas ciegas
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Presas de almacenamiento
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Tráfico y aumento de población
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Pérdida de usos y costumbres rurales
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Programas de apoyo al campo y CORENA
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Conflictos por la distribución del agua
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Actividad agrícola y producción de oxígeno
+MC031915_OTR,Otro/ONG,Magdalena Contreras,int,Organización comunitaria y ejidal
+I032615_OTR,Otro/ONG,Iztapalapa,int,Autogestión comunitaria
+I032615_OTR,Otro/ONG,Iztapalapa,int,Falta de autonomía del DF
+I032615_OTR,Otro/ONG,Iztapalapa,int,Infraestructura hidráulica antigua y obsoleta
+I032615_OTR,Otro/ONG,Iztapalapa,int,Fugas en la red de agua
+I032615_OTR,Otro/ONG,Iztapalapa,int,Pavimentación excesiva
+I032615_OTR,Otro/ONG,Iztapalapa,int,Infiltración de agua de lluvia
+I032615_OTR,Otro/ONG,Iztapalapa,int,Extracción de agua de pozos
+I032615_OTR,Otro/ONG,Iztapalapa,int,Hundimientos y agrietamiento del suelo
+I032615_OTR,Otro/ONG,Iztapalapa,int,Zonas de riesgo por sismos y lagos
+I032615_OTR,Otro/ONG,Iztapalapa,int,Escasez de recursos delegacionales
+I032615_OTR,Otro/ONG,Iztapalapa,int,Megaproyectos urbanos
+I032615_OTR,Otro/ONG,Iztapalapa,int,Rompimiento del tejido social
+I032615_OTR,Otro/ONG,Iztapalapa,int,Delincuencia y narcomenudeo
+I032615_OTR,Otro/ONG,Iztapalapa,int,Organización vecinal y seguridad
+I032615_OTR,Otro/ONG,Iztapalapa,int,Mala administración del agua
+I032615_OTR,Otro/ONG,Iztapalapa,int,Modelo de desarrollo extractivista
+I032615_OTR,Otro/ONG,Iztapalapa,int,Conciencia ambiental y territorial
+I032615_OTR,Otro/ONG,Iztapalapa,int,Captación y filtración pluvial
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Orografía de montañas y barrancas
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Asentamientos irregulares
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Corte de cerros y terraceo
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Quema y poda inadecuada de árboles
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Uso de letrinas y mala canalización
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Saturación y reblandecimiento del suelo
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Deslizamientos de talud
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Lluvias extraordinarias
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Basura en ríos y barrancas
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Taponamiento de drenaje y coladeras
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Inundaciones y encharcamientos
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Programas de prevención y notificación de riesgos
+MC032515_GOB,Gobierno,Magdalena Contreras,int,"Limpieza de ríos, barrancas y desazolve"
+MC032515_GOB,Gobierno,Magdalena Contreras,int,Acciones de mitigación
+X011915_GOB,Gobierno,Xochimilco,int,Contaminación de la zona lacustre
+X011915_GOB,Gobierno,Xochimilco,int,Administraciones de corto plazo
+X011915_GOB,Gobierno,Xochimilco,int,Falta de consecutividad en proyectos
+X011915_GOB,Gobierno,Xochimilco,int,Invasión de la zona lacustre
+X011915_GOB,Gobierno,Xochimilco,int,Falta de drenaje en asentamientos
+X011915_GOB,Gobierno,Xochimilco,int,Descargas de aguas negras
+X011915_GOB,Gobierno,Xochimilco,int,Gobierno tolerante
+X011915_GOB,Gobierno,Xochimilco,int,Conflicto social
+X011915_GOB,Gobierno,Xochimilco,int,Crecimiento de la mancha urbana
+X011915_GOB,Gobierno,Xochimilco,int,Cambios de uso de suelo
+X011915_GOB,Gobierno,Xochimilco,int,Acumulación de lirios
+X011915_GOB,Gobierno,Xochimilco,int,Deterioro de la infraestructura de drenaje
+X011915_GOB,Gobierno,Xochimilco,int,Hundimientos y levantamientos del subsuelo
+X011915_GOB,Gobierno,Xochimilco,int,Pérdida de agua por escurrimiento
+X011915_GOB,Gobierno,Xochimilco,int,Contradicción de leyes y términos
+X011915_GOB,Gobierno,Xochimilco,int,Falta de oxigenación y circulación del agua
+X011915_GOB,Gobierno,Xochimilco,int,Corrupción
+X022415_ACA,Académico,Xochimilco,int,Uso de suelo
+X022415_ACA,Académico,Xochimilco,int,Historia agrícola
+X022415_ACA,Académico,Xochimilco,int,crecimiento urbano
+X022415_ACA,Académico,Xochimilco,int,Racionalidad tecnológica y económica
+X022415_ACA,Académico,Xochimilco,int,Organización social y cultural
+X022415_ACA,Académico,Xochimilco,int,Disponibilidad de agua
+X022415_ACA,Académico,Xochimilco,int,Regulación y gobernanza del agua
+X022415_ACA,Académico,Xochimilco,int,Uso de agua tratada
+X022415_ACA,Académico,Xochimilco,int,Competencia de mercados agrícolas
+X022415_ACA,Académico,Xochimilco,int,Movimientos sociales
+X022415_ACA,Académico,Xochimilco,int,Extracción de acuíferos
+X022415_ACA,Académico,Xochimilco,int,Desplazamiento de la agricultura
+X022415_ACA,Académico,Xochimilco,int,Migración y mano de obra

@@ -1,0 +1,11 @@
+﻿cause,effect,frequency
+falta_de_planeacion_urbana,falta_de_servicios_urbanos,1
+asentamientos_humanos_irregulares_y_regulares,falta_de_abastecimiento,1
+fugas,falta_de_abastecimiento,1
+recursos_financieros,inversion_en_infraestructura,1
+mantenimiento_de_plantas_de_tratamiento,calidad_de_agua,1
+rebombeo_de_agua,falta_de_presion,1
+variabilidad_climatica,escasez_de_agua,1
+inversion_en_infraestructura,fugas,1
+dotacion_por_pipas,falta_de_abastecimiento,1
+falta_de_servicios_urbanos,inundaciones,1
