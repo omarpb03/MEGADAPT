@@ -1,0 +1,8 @@
+google-genai
+python-docx
+pandas
+tqdm
+tenacity
+pydantic
+python-dotenv
+openpyxl
