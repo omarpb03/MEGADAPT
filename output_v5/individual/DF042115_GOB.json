@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Inundaciones en la ciudad",
+    "Crecimiento poblacional descontrolado"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Extracción de acuíferos",
+    "Construcción desmedida",
+    "Falta de mantenimiento en infraestructura"
+  ],
+  "Consecuencias": [
+    "Afectaciones a la salud",
+    "Enfermedades respiratorias",
+    "Problemas de higiene",
+    "Conflictos por escasez de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de lagunas de regulación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalación de estaciones meteorológicas"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Mantenimiento del drenaje profundo"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Monitoreo de calidad del agua"
+    }
+  ],
+  "input_tokens": 10304,
+  "output_tokens": 193,
+  "error": null
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Fugas en la red",
+    "Mala calidad del agua",
+    "Inundaciones por basura"
+  ],
+  "Causas_principales": [
+    "Tuberías viejas y dañadas",
+    "Deforestación y tala clandestina",
+    "Falta de reforestación",
+    "Basura en ríos y cauces"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua",
+    "Contaminación del agua",
+    "Inundaciones en viviendas",
+    "Conflictos por percepción de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de cauces y ríos"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Participación en reforestación"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Monitoreo de calidad del agua"
+    }
+  ],
+  "input_tokens": 12268,
+  "output_tokens": 193,
+  "error": null
+}

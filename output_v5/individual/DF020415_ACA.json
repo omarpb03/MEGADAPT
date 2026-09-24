@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Riesgo hídrico en la ciudad",
+    "Calidad de vida",
+    "Acceso a bienes urbanos",
+    "Construcción del hábitat"
+  ],
+  "Causas_principales": [
+    "Política de desarrollo urbano",
+    "Inversión privada en vivienda",
+    "Corrupción en construcción",
+    "Falta de coordinación institucional"
+  ],
+  "Consecuencias": [
+    "Alteración del medio ambiente",
+    "Aumento de riesgo en asentamientos",
+    "Desigualdad en acceso a servicios",
+    "Conflictos por uso de suelo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimientos urbanos",
+      "accion": "Proponen cambios en políticas"
+    },
+    {
+      "actor": "ONGs de vivienda",
+      "accion": "Asesoran en proyectos urbanos"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementa programas de vivienda"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncian afectaciones ambientales"
+    }
+  ],
+  "input_tokens": 7115,
+  "output_tokens": 190,
+  "error": null
+}

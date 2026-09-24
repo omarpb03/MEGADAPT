@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Contaminación de fuentes",
+    "Inundaciones en zonas urbanas",
+    "Acceso desigual al agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Asentamientos irregulares",
+    "Falta de regulación en uso de agua",
+    "Urbanización descontrolada"
+  ],
+  "Consecuencias": [
+    "Deterioro de ríos",
+    "Conflictos por acceso al agua",
+    "Impacto en la salud pública",
+    "Desplazamiento de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SACMEX",
+      "accion": "Administra el sistema de agua"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Regula el uso de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven la educación ambiental"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementa políticas de agua"
+    }
+  ],
+  "input_tokens": 20321,
+  "output_tokens": 194,
+  "error": null
+}

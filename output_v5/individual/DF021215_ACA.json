@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Inundaciones por urbanización",
+    "Calidad del agua",
+    "Asentamientos humanos irregulares"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios",
+    "Descoordinación institucional",
+    "Asentamientos humanos irregulares",
+    "Fugas en la red de agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Conflictos por agua",
+    "Gentrificación de zonas",
+    "Desigualdad en acceso a agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestiona distribución de agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Implementan proyectos de captación de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan filtración de agua"
+    },
+    {
+      "actor": "Instituciones comunitarias",
+      "accion": "Fortalecen gestión de recursos"
+    }
+  ],
+  "input_tokens": 10152,
+  "output_tokens": 189,
+  "error": null
+}

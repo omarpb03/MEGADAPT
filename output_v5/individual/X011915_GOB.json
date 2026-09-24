@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Inundaciones en la zona",
+    "Escasez de agua potable",
+    "Hundimiento de chinampas"
+  ],
+  "Causas_principales": [
+    "Descargas de aguas residuales",
+    "Falta de infraestructura de drenaje",
+    "Asentamientos irregulares",
+    "Corrupción en la gestión"
+  ],
+  "Consecuencias": [
+    "Daños a la salud pública",
+    "Pérdida de biodiversidad",
+    "Conflictos sociales por agua",
+    "Contaminación del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de México",
+      "accion": "Monitorea calidad del agua"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Implementa programas de limpieza"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Financia proyectos de conservación"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Participan en limpieza de canales"
+    }
+  ],
+  "input_tokens": 24832,
+  "output_tokens": 195,
+  "error": null
+}

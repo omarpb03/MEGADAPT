@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Inundaciones en la zona",
+    "Contaminación del agua",
+    "Hundimientos diferenciales"
+  ],
+  "Causas_principales": [
+    "Explotación de acuíferos",
+    "Asentamientos irregulares",
+    "Fugas en la red",
+    "Falta de mantenimiento en coladeras"
+  ],
+  "Consecuencias": [
+    "Daños a la salud",
+    "Conflictos entre vecinos",
+    "Costos por comprar agua",
+    "Pérdida de tierras productivas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro de humedales como RAMSAR"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Implementan programas de conservación"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Mantienen la producción agrícola"
+    },
+    {
+      "actor": "Gobierno francés",
+      "accion": "Financia proyectos de infraestructura"
+    }
+  ],
+  "input_tokens": 14199,
+  "output_tokens": 185,
+  "error": null
+}

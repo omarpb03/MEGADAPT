@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en Iztapalapa",
+    "Escasez de agua en colonias",
+    "Mala calidad del agua",
+    "Distribución desigual del agua"
+  ],
+  "Causas_principales": [
+    "Construcción vertical desmedida",
+    "Fugas en la red",
+    "Asentamientos irregulares",
+    "Falta de infraestructura hidráulica"
+  ],
+  "Consecuencias": [
+    "Daños a la vivienda",
+    "Conflictos por el agua",
+    "Desabasto en colonias populares",
+    "Grietas en viviendas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Actúa en inundaciones"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en tambos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Provee agua a colonias"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Defiende obras que afectan el agua"
+    }
+  ],
+  "input_tokens": 12713,
+  "output_tokens": 191,
+  "error": null
+}

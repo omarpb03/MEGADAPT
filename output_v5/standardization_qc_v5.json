@@ -1,0 +1,37 @@
+{
+  "preocupacion": {
+    "frases_totales": 91,
+    "unicas_antes": 50,
+    "unicas_despues": 49,
+    "palabras_promedio": 3.6,
+    "pct_de_4_a_6_palabras": 52.7
+  },
+  "causa": {
+    "frases_totales": 91,
+    "unicas_antes": 72,
+    "unicas_despues": 60,
+    "palabras_promedio": 3.8,
+    "pct_de_4_a_6_palabras": 52.7
+  },
+  "consecuencia": {
+    "frases_totales": 90,
+    "unicas_antes": 74,
+    "unicas_despues": 56,
+    "palabras_promedio": 3.7,
+    "pct_de_4_a_6_palabras": 58.9
+  },
+  "accion": {
+    "frases_totales": 88,
+    "unicas_antes": 87,
+    "unicas_despues": 59,
+    "palabras_promedio": 4.0,
+    "pct_de_4_a_6_palabras": 75.0
+  },
+  "actor": {
+    "frases_totales": 88,
+    "unicas_antes": 47,
+    "unicas_despues": 42,
+    "palabras_promedio": 2.0,
+    "pct_de_4_a_6_palabras": 12.5
+  }
+}

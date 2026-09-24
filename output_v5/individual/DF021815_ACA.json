@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Inundaciones en Iztapalapa",
+    "Escasez de agua",
+    "Fugas en la red"
+  ],
+  "Causas_principales": [
+    "Corrupción en el sistema",
+    "Falta de mantenimiento en drenajes",
+    "Crecimiento urbano descontrolado",
+    "Desigualdad en distribución de agua"
+  ],
+  "Consecuencias": [
+    "Desconfianza en el agua potable",
+    "Afectaciones a la salud",
+    "Inundaciones recurrentes",
+    "Conflictos entre comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controla la distribución de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Negocia con desarrolladores inmobiliarios"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Protestan por falta de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Demandan calidad del agua"
+    }
+  ],
+  "input_tokens": 14339,
+  "output_tokens": 190,
+  "error": null
+}
