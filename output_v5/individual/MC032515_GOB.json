@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud",
+    "Inundaciones en asentamientos",
+    "Contaminación del agua",
+    "Cortes en cerros"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Corte de árboles",
+    "Terraceo de cerros",
+    "Mala canalización de agua"
+  ],
+  "Consecuencias": [
+    "Daños a viviendas",
+    "Riesgo para la salud",
+    "Desbordamientos de barrancas",
+    "Deterioro del suelo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notifica a vecinos en riesgo"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Realiza podas de árboles"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Evita crecimiento de asentamientos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Limpia drenajes y coladeras"
+    }
+  ],
+  "input_tokens": 9580,
+  "output_tokens": 186,
+  "error": null
+}

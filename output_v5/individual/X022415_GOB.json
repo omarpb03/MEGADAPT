@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad del agua",
+    "Escasez de agua",
+    "Contaminación por invernaderos",
+    "Inundaciones en asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Fugas en la red",
+    "Asentamientos irregulares",
+    "Contaminación por agroquímicos",
+    "Hundimientos diferenciales"
+  ],
+  "Consecuencias": [
+    "Daños a la salud",
+    "Pérdidas económicas en producción",
+    "Deterioro del ecosistema",
+    "Impacto negativo en turismo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio",
+      "accion": "Coordina esfuerzos con académicos"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan tratamientos de agua"
+    },
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Colabora en proyectos de conservación"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Maneja el suministro de agua"
+    }
+  ],
+  "input_tokens": 12623,
+  "output_tokens": 198,
+  "error": null
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Tandeo en el suministro",
+    "Fugas en la red",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Urbanización descontrolada",
+    "Tuberías viejas",
+    "Falta de mantenimiento",
+    "Expropiación de tierras"
+  ],
+  "Consecuencias": [
+    "Dificultad para obtener agua",
+    "Compra de agua en pipas",
+    "Conflictos por el agua",
+    "Desperdicio de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Repara fugas en la red"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Captan agua de lluvia"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Proporciona recursos para proyectos"
+    }
+  ],
+  "input_tokens": 9936,
+  "output_tokens": 183,
+  "error": null
+}

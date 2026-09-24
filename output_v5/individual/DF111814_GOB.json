@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro de agua",
+    "Escasez en temporada seca",
+    "Demanda excesiva de agua",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Uso abusivo del agua",
+    "Falta de cultura del agua",
+    "Crecimiento urbano desmedido"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en comunidades",
+    "Conflictos por el agua",
+    "Afectación a la salud",
+    "Desarrollo urbano descontrolado"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Incentiva conservación del suelo"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Maneja suministro de agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Otorga apoyos económicos"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Mantienen áreas de humedad"
+    }
+  ],
+  "input_tokens": 14779,
+  "output_tokens": 186,
+  "error": null
+}

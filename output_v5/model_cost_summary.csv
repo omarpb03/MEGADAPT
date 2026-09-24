@@ -1,0 +1,6 @@
+﻿modelo,context_window,precio_in_por_1M,precio_out_por_1M,max_pct_contexto,entrevistas_que_exceden_90pct,costo_total_usd_estimado
+gpt-4o,128000,2.5,10.0,19.4,0,0.95
+gpt-4o-mini,128000,0.15,0.6,19.4,0,0.06
+gpt-4.1,1047576,2.0,8.0,2.4,0,0.76
+gpt-4.1-mini,1047576,0.4,1.6,2.4,0,0.15
+gpt-4.1-nano,1047576,0.1,0.4,2.4,0,0.04

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones en la ciudad",
+    "Hundimientos y grietas"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Mala gestión del agua",
+    "Antigüedad de la red hidráulica",
+    "Urbanización descontrolada"
+  ],
+  "Consecuencias": [
+    "Menor abastecimiento de agua",
+    "Mejor calidad de vida demeritada",
+    "Conflictos por el suministro",
+    "Riesgos en viviendas por grietas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Atiende problemas de grietas"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Forman comités de grietas"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Instala plantas potabilizadoras"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Proponen alternativas sustentables"
+    }
+  ],
+  "input_tokens": 12920,
+  "output_tokens": 191,
+  "error": null
+}

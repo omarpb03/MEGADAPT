@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Falta de coordinación institucional",
+    "Inundaciones en Iztapalapa"
+  ],
+  "Causas_principales": [
+    "Sobreexplotación del acuífero",
+    "Falta de planeación urbana",
+    "Corrupción en permisos",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Consecuencias": [
+    "Grietas en viviendas",
+    "Costos altos por agua",
+    "Conflictos entre vecinos",
+    "Deterioro de la salud"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestiona servicios básicos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de mejoramiento"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Distribuye agua a colonias"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan marchas por agua"
+    }
+  ],
+  "input_tokens": 18619,
+  "output_tokens": 187,
+  "error": null
+}

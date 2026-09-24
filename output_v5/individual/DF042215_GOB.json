@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en zonas urbanas",
+    "Escasez de información sobre inundaciones",
+    "Mala calidad del drenaje",
+    "Cambio climático y lluvias intensas"
+  ],
+  "Causas_principales": [
+    "Basura en drenajes",
+    "Falta de mantenimiento en drenajes",
+    "Crecimiento urbano descontrolado",
+    "Asentamientos en zonas vulnerables"
+  ],
+  "Consecuencias": [
+    "Daños a la infraestructura",
+    "Afectaciones a la movilidad",
+    "Pérdidas humanas por inundaciones",
+    "Confusión en la población sobre riesgos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Elabora mapas de inundación"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite recomendaciones para prevención"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Proporciona datos sobre inundaciones"
+    },
+    {
+      "actor": "Sedartu",
+      "accion": "Financia atlas de riesgos"
+    }
+  ],
+  "input_tokens": 15483,
+  "output_tokens": 196,
+  "error": null
+}

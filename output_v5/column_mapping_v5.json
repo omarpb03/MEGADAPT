@@ -1,0 +1,1672 @@
+{
+  "preocupacion": {
+    "Escasez de agua": {
+      "frecuencia": 12,
+      "variantes": [
+        "Escasez de agua"
+      ]
+    },
+    "Mala calidad del agua": {
+      "frecuencia": 9,
+      "variantes": [
+        "Mala calidad del agua"
+      ]
+    },
+    "Fugas en la red": {
+      "frecuencia": 6,
+      "variantes": [
+        "Fugas en la red"
+      ]
+    },
+    "Calidad del agua": {
+      "frecuencia": 5,
+      "variantes": [
+        "Calidad del agua"
+      ]
+    },
+    "Contaminación del agua": {
+      "frecuencia": 4,
+      "variantes": [
+        "Contaminación del agua"
+      ]
+    },
+    "Inundaciones en la ciudad": {
+      "frecuencia": 4,
+      "variantes": [
+        "Inundaciones en la Ciudad",
+        "Inundaciones en la ciudad"
+      ]
+    },
+    "Abastecimiento de agua": {
+      "frecuencia": 3,
+      "variantes": [
+        "Abastecimiento de agua"
+      ]
+    },
+    "Inundaciones en Iztapalapa": {
+      "frecuencia": 3,
+      "variantes": [
+        "Inundaciones en Iztapalapa"
+      ]
+    },
+    "Inundaciones en la zona": {
+      "frecuencia": 3,
+      "variantes": [
+        "Inundaciones en la zona"
+      ]
+    },
+    "Escasez de agua potable": {
+      "frecuencia": 2,
+      "variantes": [
+        "Escasez de agua potable"
+      ]
+    },
+    "Inundaciones en zonas urbanas": {
+      "frecuencia": 2,
+      "variantes": [
+        "Inundaciones en zonas urbanas"
+      ]
+    },
+    "Acceso a bienes urbanos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Acceso a bienes urbanos"
+      ]
+    },
+    "Acceso desigual al agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Acceso desigual al agua"
+      ]
+    },
+    "Asentamientos humanos irregulares": {
+      "frecuencia": 1,
+      "variantes": [
+        "Asentamientos humanos irregulares"
+      ]
+    },
+    "Calidad de vida": {
+      "frecuencia": 1,
+      "variantes": [
+        "Calidad de vida"
+      ]
+    },
+    "Cambio climático y lluvias intensas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Cambio climático y lluvias intensas"
+      ]
+    },
+    "Complejidad del sistema hídrico": {
+      "frecuencia": 1,
+      "variantes": [
+        "Complejidad del sistema hídrico"
+      ]
+    },
+    "Construcción del hábitat": {
+      "frecuencia": 1,
+      "variantes": [
+        "Construcción del hábitat"
+      ]
+    },
+    "Contaminación de fuentes": {
+      "frecuencia": 1,
+      "variantes": [
+        "Contaminación de fuentes"
+      ]
+    },
+    "Contaminación de los canales": {
+      "frecuencia": 1,
+      "variantes": [
+        "Contaminación de los canales"
+      ]
+    },
+    "Contaminación por invernaderos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Contaminación por invernaderos"
+      ]
+    },
+    "Corrupción en el manejo del agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Corrupción en el manejo del agua"
+      ]
+    },
+    "Cortes en cerros": {
+      "frecuencia": 1,
+      "variantes": [
+        "Cortes en cerros"
+      ]
+    },
+    "Crecimiento poblacional descontrolado": {
+      "frecuencia": 1,
+      "variantes": [
+        "Crecimiento poblacional descontrolado"
+      ]
+    },
+    "Demanda excesiva de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Demanda excesiva de agua"
+      ]
+    },
+    "Deslizamientos de talud": {
+      "frecuencia": 1,
+      "variantes": [
+        "Deslizamientos de talud"
+      ]
+    },
+    "Distribución desigual del agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Distribución desigual del agua"
+      ]
+    },
+    "Enfermedades derivadas del agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Enfermedades derivadas del agua"
+      ]
+    },
+    "Escasez de agua en colonias": {
+      "frecuencia": 1,
+      "variantes": [
+        "Escasez de agua en colonias"
+      ]
+    },
+    "Escasez de agua en Iztapalapa": {
+      "frecuencia": 1,
+      "variantes": [
+        "Escasez de agua en Iztapalapa"
+      ]
+    },
+    "Escasez de información sobre inundaciones": {
+      "frecuencia": 1,
+      "variantes": [
+        "Escasez de información sobre inundaciones"
+      ]
+    },
+    "Escasez en temporada seca": {
+      "frecuencia": 1,
+      "variantes": [
+        "Escasez en temporada seca"
+      ]
+    },
+    "Falta de coordinación institucional": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de coordinación institucional"
+      ]
+    },
+    "Hundimiento de chinampas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Hundimiento de chinampas"
+      ]
+    },
+    "Hundimientos diferenciales": {
+      "frecuencia": 1,
+      "variantes": [
+        "Hundimientos diferenciales"
+      ]
+    },
+    "Hundimientos y grietas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Hundimientos y grietas"
+      ]
+    },
+    "Inundaciones en asentamientos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones en asentamientos"
+      ]
+    },
+    "Inundaciones en asentamientos irregulares": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones en asentamientos irregulares"
+      ]
+    },
+    "Inundaciones en ciertas zonas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones en ciertas zonas"
+      ]
+    },
+    "Inundaciones en comunidades": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones en comunidades"
+      ]
+    },
+    "Inundaciones en épocas de lluvia": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones en épocas de lluvia"
+      ]
+    },
+    "Inundaciones por basura": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones por basura"
+      ]
+    },
+    "Inundaciones por urbanización": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones por urbanización"
+      ]
+    },
+    "Mala calidad del drenaje": {
+      "frecuencia": 1,
+      "variantes": [
+        "Mala calidad del drenaje"
+      ]
+    },
+    "Riesgo hídrico en la ciudad": {
+      "frecuencia": 1,
+      "variantes": [
+        "Riesgo hídrico en la ciudad"
+      ]
+    },
+    "Suministro de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Suministro de agua"
+      ]
+    },
+    "Tandeo en el suministro": {
+      "frecuencia": 1,
+      "variantes": [
+        "Tandeo en el suministro"
+      ]
+    },
+    "Tandeo en la distribución": {
+      "frecuencia": 1,
+      "variantes": [
+        "Tandeo en la distribución"
+      ]
+    },
+    "Tandeo en las colonias": {
+      "frecuencia": 1,
+      "variantes": [
+        "Tandeo en las colonias"
+      ]
+    }
+  },
+  "causa": {
+    "Asentamientos irregulares": {
+      "frecuencia": 9,
+      "variantes": [
+        "Asentamientos irregulares"
+      ]
+    },
+    "Crecimiento urbano descontrolado": {
+      "frecuencia": 5,
+      "variantes": [
+        "Crecimiento urbano descontrolado",
+        "Urbanización descontrolada"
+      ]
+    },
+    "Crecimiento de la población": {
+      "frecuencia": 3,
+      "variantes": [
+        "Crecimiento de la población"
+      ]
+    },
+    "Falta de mantenimiento en la red": {
+      "frecuencia": 3,
+      "variantes": [
+        "Falta de mantenimiento en la red",
+        "Tuberías viejas",
+        "Tuberías viejas y dañadas"
+      ]
+    },
+    "Falta de planeación urbana": {
+      "frecuencia": 3,
+      "variantes": [
+        "Falta de planeación urbana",
+        "Política de desarrollo urbano",
+        "Problemas de planificación urbana"
+      ]
+    },
+    "Fugas en la red": {
+      "frecuencia": 3,
+      "variantes": [
+        "Fugas en la red"
+      ]
+    },
+    "Asentamientos humanos irregulares": {
+      "frecuencia": 2,
+      "variantes": [
+        "Asentamientos humanos irregulares",
+        "Urbanización y asentamientos irregulares"
+      ]
+    },
+    "Construcción desmedida": {
+      "frecuencia": 2,
+      "variantes": [
+        "Construcción desmedida",
+        "Terraceo de cerros"
+      ]
+    },
+    "Corrupción en la distribución": {
+      "frecuencia": 2,
+      "variantes": [
+        "Corrupción en la distribución"
+      ]
+    },
+    "Descargas de aguas residuales": {
+      "frecuencia": 2,
+      "variantes": [
+        "Descargas de aguas residuales",
+        "Uso de aguas negras para riego"
+      ]
+    },
+    "Desigualdad en el acceso al agua": {
+      "frecuencia": 2,
+      "variantes": [
+        "Desigualdad en el acceso al agua",
+        "Uso abusivo del agua"
+      ]
+    },
+    "Explotación de acuíferos": {
+      "frecuencia": 2,
+      "variantes": [
+        "Explotación de acuíferos",
+        "Sobreexplotación del acuífero"
+      ]
+    },
+    "Extracción de acuíferos": {
+      "frecuencia": 2,
+      "variantes": [
+        "Extracción de acuíferos"
+      ]
+    },
+    "Falta de acceso a servicios": {
+      "frecuencia": 2,
+      "variantes": [
+        "Falta de acceso a servicios",
+        "Urbanización sin servicios"
+      ]
+    },
+    "Falta de mantenimiento en drenajes": {
+      "frecuencia": 2,
+      "variantes": [
+        "Falta de mantenimiento en drenajes"
+      ]
+    },
+    "Falta de regulación en uso de agua": {
+      "frecuencia": 2,
+      "variantes": [
+        "Falta de regulación en uso de agua",
+        "Políticas públicas inadecuadas"
+      ]
+    },
+    "Fugas en la red de agua": {
+      "frecuencia": 2,
+      "variantes": [
+        "Fugas en la red de agua"
+      ]
+    },
+    "Acuífero metropolitano limitado": {
+      "frecuencia": 1,
+      "variantes": [
+        "Acuífero metropolitano limitado"
+      ]
+    },
+    "Antigüedad de la red hidráulica": {
+      "frecuencia": 1,
+      "variantes": [
+        "Antigüedad de la red hidráulica"
+      ]
+    },
+    "Asentamientos en zonas de riesgo": {
+      "frecuencia": 1,
+      "variantes": [
+        "Asentamientos en zonas de riesgo"
+      ]
+    },
+    "Asentamientos en zonas vulnerables": {
+      "frecuencia": 1,
+      "variantes": [
+        "Asentamientos en zonas vulnerables"
+      ]
+    },
+    "Basura en drenajes": {
+      "frecuencia": 1,
+      "variantes": [
+        "Basura en drenajes"
+      ]
+    },
+    "Basura en ríos y cauces": {
+      "frecuencia": 1,
+      "variantes": [
+        "Basura en ríos y cauces"
+      ]
+    },
+    "Cambio climático": {
+      "frecuencia": 1,
+      "variantes": [
+        "Cambio climático"
+      ]
+    },
+    "Construcción vertical desmedida": {
+      "frecuencia": 1,
+      "variantes": [
+        "Construcción vertical desmedida"
+      ]
+    },
+    "Contaminación por agroquímicos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Contaminación por agroquímicos"
+      ]
+    },
+    "Corrupción en construcción": {
+      "frecuencia": 1,
+      "variantes": [
+        "Corrupción en construcción"
+      ]
+    },
+    "Corrupción en el sistema": {
+      "frecuencia": 1,
+      "variantes": [
+        "Corrupción en el sistema"
+      ]
+    },
+    "Corrupción en la gestión": {
+      "frecuencia": 1,
+      "variantes": [
+        "Corrupción en la gestión"
+      ]
+    },
+    "Corrupción en permisos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Corrupción en permisos"
+      ]
+    },
+    "Corte de árboles": {
+      "frecuencia": 1,
+      "variantes": [
+        "Corte de árboles"
+      ]
+    },
+    "Crecimiento descontrolado de la ciudad": {
+      "frecuencia": 1,
+      "variantes": [
+        "Crecimiento descontrolado de la ciudad"
+      ]
+    },
+    "Crecimiento urbano desmedido": {
+      "frecuencia": 1,
+      "variantes": [
+        "Crecimiento urbano desmedido"
+      ]
+    },
+    "Deforestación y tala clandestina": {
+      "frecuencia": 1,
+      "variantes": [
+        "Deforestación y tala clandestina"
+      ]
+    },
+    "Descoordinación institucional": {
+      "frecuencia": 1,
+      "variantes": [
+        "Descoordinación institucional"
+      ]
+    },
+    "Desigualdad en distribución de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desigualdad en distribución de agua"
+      ]
+    },
+    "Desperdicio de agua por fugas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desperdicio de agua por fugas"
+      ]
+    },
+    "Expropiación de tierras": {
+      "frecuencia": 1,
+      "variantes": [
+        "Expropiación de tierras"
+      ]
+    },
+    "Falta de coordinación institucional": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de coordinación institucional"
+      ]
+    },
+    "Falta de cultura del agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de cultura del agua"
+      ]
+    },
+    "Falta de infiltración de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de infiltración de agua"
+      ]
+    },
+    "Falta de infraestructura adecuada": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de infraestructura adecuada"
+      ]
+    },
+    "Falta de infraestructura de drenaje": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de infraestructura de drenaje"
+      ]
+    },
+    "Falta de infraestructura hidráulica": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de infraestructura hidráulica"
+      ]
+    },
+    "Falta de interés del gobierno": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de interés del gobierno"
+      ]
+    },
+    "Falta de inversión en infraestructura": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de inversión en infraestructura"
+      ]
+    },
+    "Falta de mantenimiento": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de mantenimiento"
+      ]
+    },
+    "Falta de mantenimiento en coladeras": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de mantenimiento en coladeras"
+      ]
+    },
+    "Falta de mantenimiento en infraestructura": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de mantenimiento en infraestructura"
+      ]
+    },
+    "Falta de reforestación": {
+      "frecuencia": 1,
+      "variantes": [
+        "Falta de reforestación"
+      ]
+    },
+    "Fuentes de abastecimiento diversas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Fuentes de abastecimiento diversas"
+      ]
+    },
+    "Hundimientos diferenciales": {
+      "frecuencia": 1,
+      "variantes": [
+        "Hundimientos diferenciales"
+      ]
+    },
+    "Infraestructura hidráulica obsoleta": {
+      "frecuencia": 1,
+      "variantes": [
+        "Infraestructura hidráulica obsoleta"
+      ]
+    },
+    "Infraestructura insuficiente": {
+      "frecuencia": 1,
+      "variantes": [
+        "Infraestructura insuficiente"
+      ]
+    },
+    "Intereses inmobiliarios": {
+      "frecuencia": 1,
+      "variantes": [
+        "Intereses inmobiliarios"
+      ]
+    },
+    "Inversión privada en vivienda": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inversión privada en vivienda"
+      ]
+    },
+    "Mala canalización de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Mala canalización de agua"
+      ]
+    },
+    "Mala gestión del agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Mala gestión del agua"
+      ]
+    },
+    "Pavimentación excesiva": {
+      "frecuencia": 1,
+      "variantes": [
+        "Pavimentación excesiva"
+      ]
+    },
+    "Población flotante": {
+      "frecuencia": 1,
+      "variantes": [
+        "Población flotante"
+      ]
+    }
+  },
+  "consecuencia": {
+    "Afectaciones a la salud": {
+      "frecuencia": 9,
+      "variantes": [
+        "Afectaciones a la salud",
+        "Afectación a la salud",
+        "Problemas de salud",
+        "Problemas de salud en niños",
+        "Problemas de salud por calidad",
+        "Problemas de salud por contaminación",
+        "Riesgo para la salud"
+      ]
+    },
+    "Conflictos por agua": {
+      "frecuencia": 5,
+      "variantes": [
+        "Conflictos por agua",
+        "Conflictos por el agua"
+      ]
+    },
+    "Original": {
+      "frecuencia": 5,
+      "variantes": [
+        "Pérdidas económicas en producción",
+        "Pérdidas económicas por escasez",
+        "Pérdidas humanas por inundaciones",
+        "Riesgo hídrico en ciertas áreas",
+        "Subregistro de enfermedades"
+      ]
+    },
+    "Conflictos por acceso al agua": {
+      "frecuencia": 4,
+      "variantes": [
+        "Conflictos por acceso al agua"
+      ]
+    },
+    "Daños a la salud": {
+      "frecuencia": 4,
+      "variantes": [
+        "Daños a la salud",
+        "Daños a la salud pública"
+      ]
+    },
+    "Grietas en viviendas": {
+      "frecuencia": 4,
+      "variantes": [
+        "Grietas en viviendas",
+        "Riesgos en viviendas por grietas"
+      ]
+    },
+    "Alteración del medio ambiente": {
+      "frecuencia": 3,
+      "variantes": [
+        "Alteración del medio ambiente",
+        "Pérdida de biodiversidad",
+        "Pérdida de tierras productivas"
+      ]
+    },
+    "Conflictos entre vecinos": {
+      "frecuencia": 3,
+      "variantes": [
+        "Conflictos entre vecinos",
+        "Quejas de vecinos por agua"
+      ]
+    },
+    "Contaminación del agua": {
+      "frecuencia": 3,
+      "variantes": [
+        "Contaminación del agua"
+      ]
+    },
+    "Daños a la vivienda": {
+      "frecuencia": 2,
+      "variantes": [
+        "Daños a la vivienda",
+        "Daños a viviendas"
+      ]
+    },
+    "Desigualdad en acceso a agua": {
+      "frecuencia": 2,
+      "variantes": [
+        "Desigualdad en acceso a agua",
+        "Desigualdad en el acceso al agua"
+      ]
+    },
+    "Desperdicio de agua": {
+      "frecuencia": 2,
+      "variantes": [
+        "Desperdicio de agua"
+      ]
+    },
+    "Afectaciones a la movilidad": {
+      "frecuencia": 1,
+      "variantes": [
+        "Afectaciones a la movilidad"
+      ]
+    },
+    "Aumento de riesgo en asentamientos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Aumento de riesgo en asentamientos"
+      ]
+    },
+    "Compra de agua en pipas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Compra de agua en pipas"
+      ]
+    },
+    "Conflictos entre comunidades": {
+      "frecuencia": 1,
+      "variantes": [
+        "Conflictos entre comunidades"
+      ]
+    },
+    "Conflictos por suministro de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Conflictos por el suministro"
+      ]
+    },
+    "Conflictos por escasez de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Conflictos por escasez de agua"
+      ]
+    },
+    "Conflictos por percepción de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Conflictos por percepción de agua"
+      ]
+    },
+    "Conflictos por uso de suelo": {
+      "frecuencia": 1,
+      "variantes": [
+        "Conflictos por uso de suelo"
+      ]
+    },
+    "Conflictos sociales por agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Conflictos sociales por agua"
+      ]
+    },
+    "Confusión sobre riesgos hídricos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Confusión en la población sobre riesgos"
+      ]
+    },
+    "Costos altos de vivienda": {
+      "frecuencia": 1,
+      "variantes": [
+        "Costos altos de vivienda"
+      ]
+    },
+    "Costos altos por agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Costos altos por agua"
+      ]
+    },
+    "Costos por comprar agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Costos por comprar agua"
+      ]
+    },
+    "Crisis del agua en zonas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Crisis del agua en zonas"
+      ]
+    },
+    "Daños a la infraestructura": {
+      "frecuencia": 1,
+      "variantes": [
+        "Daños a la infraestructura"
+      ]
+    },
+    "Dependencia de pipas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Dependencia de pipas"
+      ]
+    },
+    "Desabasto de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desabasto de agua"
+      ]
+    },
+    "Desabasto en colonias populares": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desabasto en colonias populares"
+      ]
+    },
+    "Desarrollo urbano descontrolado": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desarrollo urbano descontrolado"
+      ]
+    },
+    "Desbordamientos de barrancas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desbordamientos de barrancas"
+      ]
+    },
+    "Desconfianza en el agua potable": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desconfianza en el agua potable"
+      ]
+    },
+    "Desigualdad en acceso a servicios": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desigualdad en acceso a servicios"
+      ]
+    },
+    "Desperdicio de agua en pipas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desperdicio de agua en pipas"
+      ]
+    },
+    "Desplazamiento de comunidades": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desplazamiento de comunidades"
+      ]
+    },
+    "Deterioro de la salud": {
+      "frecuencia": 1,
+      "variantes": [
+        "Deterioro de la salud"
+      ]
+    },
+    "Deterioro de ríos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Deterioro de ríos"
+      ]
+    },
+    "Deterioro del ecosistema": {
+      "frecuencia": 1,
+      "variantes": [
+        "Deterioro del ecosistema"
+      ]
+    },
+    "Deterioro del suelo": {
+      "frecuencia": 1,
+      "variantes": [
+        "Deterioro del suelo"
+      ]
+    },
+    "Dificultad para obtener agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Dificultad para obtener agua"
+      ]
+    },
+    "Dificultades en el transporte": {
+      "frecuencia": 1,
+      "variantes": [
+        "Dificultades en el transporte"
+      ]
+    },
+    "Dificultades en la recuperación": {
+      "frecuencia": 1,
+      "variantes": [
+        "Dificultades en la recuperación"
+      ]
+    },
+    "Enfermedades de la piel": {
+      "frecuencia": 1,
+      "variantes": [
+        "Enfermedades de la piel"
+      ]
+    },
+    "Enfermedades respiratorias": {
+      "frecuencia": 1,
+      "variantes": [
+        "Enfermedades respiratorias"
+      ]
+    },
+    "Escasez de agua en colonias": {
+      "frecuencia": 1,
+      "variantes": [
+        "Escasez de agua en colonias"
+      ]
+    },
+    "Escasez de agua en comunidades": {
+      "frecuencia": 1,
+      "variantes": [
+        "Escasez de agua en comunidades"
+      ]
+    },
+    "Gentrificación de zonas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Gentrificación de zonas"
+      ]
+    },
+    "Impacto en la salud pública": {
+      "frecuencia": 1,
+      "variantes": [
+        "Impacto en la salud pública"
+      ]
+    },
+    "Impacto negativo en turismo": {
+      "frecuencia": 1,
+      "variantes": [
+        "Impacto negativo en turismo"
+      ]
+    },
+    "Infecciones gastrointestinales": {
+      "frecuencia": 1,
+      "variantes": [
+        "Infecciones gastrointestinales"
+      ]
+    },
+    "Inundaciones en viviendas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones en viviendas"
+      ]
+    },
+    "Inundaciones recurrentes": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inundaciones recurrentes"
+      ]
+    },
+    "Mejor calidad de vida demeritada": {
+      "frecuencia": 1,
+      "variantes": [
+        "Mejor calidad de vida demeritada"
+      ]
+    },
+    "Menor abastecimiento de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Menor abastecimiento de agua"
+      ]
+    },
+    "Problemas de higiene": {
+      "frecuencia": 1,
+      "variantes": [
+        "Problemas de higiene"
+      ]
+    }
+  },
+  "accion": {
+    "Original": {
+      "frecuencia": 19,
+      "variantes": [
+        "Otorga apoyos económicos",
+        "Participación en reforestación",
+        "Participan en limpieza de canales",
+        "Plantea problemas de agua",
+        "Programa de desalinización de parcelas",
+        "Promueve restauración ecológica",
+        "Promueven la educación ambiental",
+        "Proponen alternativas sustentables",
+        "Proponen cambios en políticas",
+        "Proporciona agua potable embotellada",
+        "Proporciona recursos para proyectos",
+        "Provee agua a la ciudad",
+        "Proyectos de rehabilitación de redes",
+        "Realiza podas de árboles",
+        "Registro de humedales como RAMSAR",
+        "Regula el uso de agua",
+        "Repara fugas en la red",
+        "Sustitución de tuberías viejas",
+        "Traen agua de otras cuencas"
+      ]
+    },
+    "Organización de marchas por agua": {
+      "frecuencia": 4,
+      "variantes": [
+        "Organizan marchas por agua",
+        "Organizan protestas por agua",
+        "Protestan por el agua",
+        "Protestan por falta de agua"
+      ]
+    },
+    "Monitoreo de calidad del agua": {
+      "frecuencia": 3,
+      "variantes": [
+        "Monitorea calidad del agua",
+        "Monitoreo de calidad del agua"
+      ]
+    },
+    "Captación de agua de lluvia": {
+      "frecuencia": 2,
+      "variantes": [
+        "Captan agua de lluvia",
+        "Promueven captación de agua"
+      ]
+    },
+    "Control del tandeo de agua": {
+      "frecuencia": 2,
+      "variantes": [
+        "Controla el tandeo de agua",
+        "Regula el tandeo de agua"
+      ]
+    },
+    "Distribución de agua a colonias": {
+      "frecuencia": 2,
+      "variantes": [
+        "Distribuye agua a colonias",
+        "Provee agua a colonias"
+      ]
+    },
+    "Elaboración de mapas de inundación": {
+      "frecuencia": 2,
+      "variantes": [
+        "Elabora mapas de inundación",
+        "Proporciona datos sobre inundaciones"
+      ]
+    },
+    "Emisión de recomendaciones para prevención": {
+      "frecuencia": 2,
+      "variantes": [
+        "Emite recomendaciones para prevención",
+        "Realiza campañas de prevención"
+      ]
+    },
+    "Manejo del suministro de agua": {
+      "frecuencia": 2,
+      "variantes": [
+        "Maneja el suministro de agua",
+        "Maneja suministro de agua"
+      ]
+    },
+    "Acciones frente a inundaciones": {
+      "frecuencia": 1,
+      "variantes": [
+        "Actúa en inundaciones"
+      ]
+    },
+    "Gestión del sistema de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Administra el sistema de agua"
+      ]
+    },
+    "Almacenamiento de agua en cisternas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Almacenan agua en cisternas"
+      ]
+    },
+    "Almacenamiento de agua en tambos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Almacenan agua en tambos"
+      ]
+    },
+    "Asesoría en proyectos urbanos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Asesoran en proyectos urbanos"
+      ]
+    },
+    "Atención a problemas de grietas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Atiende problemas de grietas"
+      ]
+    },
+    "Colaboración en proyectos de conservación": {
+      "frecuencia": 1,
+      "variantes": [
+        "Colabora en proyectos de conservación"
+      ]
+    },
+    "Condonación de pagos de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Condonan pagos de agua"
+      ]
+    },
+    "Construcción de lagunas de regulación": {
+      "frecuencia": 1,
+      "variantes": [
+        "Construcción de lagunas de regulación"
+      ]
+    },
+    "Construcción de cisternas de ferrocemento": {
+      "frecuencia": 1,
+      "variantes": [
+        "Construyen cisternas de ferrocemento"
+      ]
+    },
+    "Control de la distribución de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Controla la distribución de agua"
+      ]
+    },
+    "Coordinación con académicos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Coordina esfuerzos con académicos"
+      ]
+    },
+    "Defensa de obras que afectan el agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Defiende obras que afectan el agua"
+      ]
+    },
+    "Defensa del derecho al agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Defienden el derecho al agua"
+      ]
+    },
+    "Demanda de calidad del agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Demandan calidad del agua"
+      ]
+    },
+    "Denuncia de afectaciones ambientales": {
+      "frecuencia": 1,
+      "variantes": [
+        "Denuncian afectaciones ambientales"
+      ]
+    },
+    "Desarrollo de plantas potabilizadoras": {
+      "frecuencia": 1,
+      "variantes": [
+        "Desarrollo de plantas potabilizadoras"
+      ]
+    },
+    "Emisión de recomendaciones de salud": {
+      "frecuencia": 1,
+      "variantes": [
+        "Emite recomendaciones de salud"
+      ]
+    },
+    "Evacuación de población afectada": {
+      "frecuencia": 1,
+      "variantes": [
+        "Evacua a la población afectada"
+      ]
+    },
+    "Prevención del crecimiento de asentamientos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Evita crecimiento de asentamientos"
+      ]
+    },
+    "Financiamiento de atlas de riesgos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Financia atlas de riesgos"
+      ]
+    },
+    "Financiamiento de proyectos de conservación": {
+      "frecuencia": 1,
+      "variantes": [
+        "Financia proyectos de conservación"
+      ]
+    },
+    "Financiamiento de proyectos de infraestructura": {
+      "frecuencia": 1,
+      "variantes": [
+        "Financia proyectos de infraestructura"
+      ]
+    },
+    "Formación de comités de grietas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Forman comités de grietas"
+      ]
+    },
+    "Fortalecimiento de gestión de recursos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Fortalecen gestión de recursos"
+      ]
+    },
+    "Gestión de distribución de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Gestiona distribución de agua"
+      ]
+    },
+    "Gestión de servicios básicos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Gestiona servicios básicos"
+      ]
+    },
+    "Implementación de políticas de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementa políticas de agua"
+      ]
+    },
+    "Implementación de programas de infraestructura": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementa programas de infraestructura"
+      ]
+    },
+    "Implementación de programas de limpieza": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementa programas de limpieza"
+      ]
+    },
+    "Implementación de programas de mejoramiento": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementa programas de mejoramiento"
+      ]
+    },
+    "Implementación de programas de vivienda": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementa programas de vivienda"
+      ]
+    },
+    "Implementación de programas de conservación": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementan programas de conservación"
+      ]
+    },
+    "Implementación de proyectos de captación de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementan proyectos de captación de agua"
+      ]
+    },
+    "Implementación de tratamientos de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Implementan tratamientos de agua"
+      ]
+    },
+    "Incentivo a la conservación del suelo": {
+      "frecuencia": 1,
+      "variantes": [
+        "Incentiva conservación del suelo"
+      ]
+    },
+    "Instalación de plantas potabilizadoras": {
+      "frecuencia": 1,
+      "variantes": [
+        "Instala plantas potabilizadoras"
+      ]
+    },
+    "Instalación de pozos de absorción": {
+      "frecuencia": 1,
+      "variantes": [
+        "Instala pozos de absorción"
+      ]
+    },
+    "Instalación de estaciones meteorológicas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Instalación de estaciones meteorológicas"
+      ]
+    },
+    "Inversión en infraestructura hidráulica": {
+      "frecuencia": 1,
+      "variantes": [
+        "Inversión en infraestructura hidráulica"
+      ]
+    },
+    "Limpieza de drenajes y coladeras": {
+      "frecuencia": 1,
+      "variantes": [
+        "Limpia drenajes y coladeras"
+      ]
+    },
+    "Limpieza de cauces y ríos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Limpieza de cauces y ríos"
+      ]
+    },
+    "Manejo de pozos de extracción": {
+      "frecuencia": 1,
+      "variantes": [
+        "Maneja pozos de extracción"
+      ]
+    },
+    "Manejo de presupuestos autónomos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Manejo de presupuestos autónomos"
+      ]
+    },
+    "Mantenimiento del drenaje profundo": {
+      "frecuencia": 1,
+      "variantes": [
+        "Mantenimiento del drenaje profundo"
+      ]
+    },
+    "Mantenimiento de la producción agrícola": {
+      "frecuencia": 1,
+      "variantes": [
+        "Mantienen la producción agrícola"
+      ]
+    },
+    "Mantenimiento de áreas de humedad": {
+      "frecuencia": 1,
+      "variantes": [
+        "Mantienen áreas de humedad"
+      ]
+    },
+    "Negociación con desarrolladores inmobiliarios": {
+      "frecuencia": 1,
+      "variantes": [
+        "Negocia con desarrolladores inmobiliarios"
+      ]
+    },
+    "Notificación a vecinos en riesgo": {
+      "frecuencia": 1,
+      "variantes": [
+        "Notifica a vecinos en riesgo"
+      ]
+    },
+    "Organización de filtración de agua": {
+      "frecuencia": 1,
+      "variantes": [
+        "Organizan filtración de agua"
+      ]
+    }
+  },
+  "actor": {
+    "Vecinos": {
+      "frecuencia": 10,
+      "variantes": [
+        "Vecinos"
+      ]
+    },
+    "SACMEX": {
+      "frecuencia": 7,
+      "variantes": [
+        "SACMEX"
+      ]
+    },
+    "Gobierno": {
+      "frecuencia": 6,
+      "variantes": [
+        "Gobierno"
+      ]
+    },
+    "Gobierno del Distrito Federal": {
+      "frecuencia": 6,
+      "variantes": [
+        "Gobierno del D.F",
+        "Gobierno del DF",
+        "Gobierno del Distrito Federal"
+      ]
+    },
+    "Organizaciones civiles": {
+      "frecuencia": 5,
+      "variantes": [
+        "Organizaciones civiles"
+      ]
+    },
+    "Protección Civil": {
+      "frecuencia": 5,
+      "variantes": [
+        "Protección Civil"
+      ]
+    },
+    "Delegaciones": {
+      "frecuencia": 4,
+      "variantes": [
+        "Delegaciones",
+        "Delegación",
+        "Delegación Iztapalapa"
+      ]
+    },
+    "No especificado": {
+      "frecuencia": 4,
+      "variantes": [
+        "No especificado"
+      ]
+    },
+    "CONAGUA": {
+      "frecuencia": 3,
+      "variantes": [
+        "CONAGUA",
+        "Conagua"
+      ]
+    },
+    "Sistema de Aguas": {
+      "frecuencia": 3,
+      "variantes": [
+        "Sistema de Aguas"
+      ]
+    },
+    "Cenapred": {
+      "frecuencia": 2,
+      "variantes": [
+        "Cenapred"
+      ]
+    },
+    "Comunidades": {
+      "frecuencia": 2,
+      "variantes": [
+        "Comunidades"
+      ]
+    },
+    "Secretaría de Medio Ambiente": {
+      "frecuencia": 2,
+      "variantes": [
+        "Secretaría de Medio Ambiente"
+      ]
+    },
+    "Autoridad de la Zona Patrimonio": {
+      "frecuencia": 1,
+      "variantes": [
+        "Autoridad de la Zona Patrimonio"
+      ]
+    },
+    "Autoridades locales": {
+      "frecuencia": 1,
+      "variantes": [
+        "Autoridades locales"
+      ]
+    },
+    "Chinamperos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Chinamperos"
+      ]
+    },
+    "Comisión de Cuenca": {
+      "frecuencia": 1,
+      "variantes": [
+        "Comisión de Cuenca"
+      ]
+    },
+    "CORENA": {
+      "frecuencia": 1,
+      "variantes": [
+        "CORENA"
+      ]
+    },
+    "Ecología": {
+      "frecuencia": 1,
+      "variantes": [
+        "Ecología"
+      ]
+    },
+    "Ejidatarios": {
+      "frecuencia": 1,
+      "variantes": [
+        "Ejidatarios"
+      ]
+    },
+    "Ejército": {
+      "frecuencia": 1,
+      "variantes": [
+        "Ejército"
+      ]
+    },
+    "Gobierno francés": {
+      "frecuencia": 1,
+      "variantes": [
+        "Gobierno francés"
+      ]
+    },
+    "Gobierno local": {
+      "frecuencia": 1,
+      "variantes": [
+        "Gobierno local"
+      ]
+    },
+    "Instituciones comunitarias": {
+      "frecuencia": 1,
+      "variantes": [
+        "Instituciones comunitarias"
+      ]
+    },
+    "Instituto de Biología de la UNAM": {
+      "frecuencia": 1,
+      "variantes": [
+        "Instituto de Biología de la UNAM"
+      ]
+    },
+    "Movimiento Urbano Popular": {
+      "frecuencia": 1,
+      "variantes": [
+        "Movimiento Urbano Popular"
+      ]
+    },
+    "Movimientos urbanos": {
+      "frecuencia": 1,
+      "variantes": [
+        "Movimientos urbanos"
+      ]
+    },
+    "ONGs": {
+      "frecuencia": 1,
+      "variantes": [
+        "ONGs"
+      ]
+    },
+    "ONGs de vivienda": {
+      "frecuencia": 1,
+      "variantes": [
+        "ONGs de vivienda"
+      ]
+    },
+    "Organizaciones vecinales": {
+      "frecuencia": 1,
+      "variantes": [
+        "Organizaciones vecinales"
+      ]
+    },
+    "Organización REDES": {
+      "frecuencia": 1,
+      "variantes": [
+        "Organización REDES"
+      ]
+    },
+    "Productores": {
+      "frecuencia": 1,
+      "variantes": [
+        "Productores"
+      ]
+    },
+    "Salud": {
+      "frecuencia": 1,
+      "variantes": [
+        "Salud"
+      ]
+    },
+    "Secretaría de Salud": {
+      "frecuencia": 1,
+      "variantes": [
+        "Secretaría de Salud"
+      ]
+    },
+    "Sedartu": {
+      "frecuencia": 1,
+      "variantes": [
+        "Sedartu"
+      ]
+    },
+    "SEDEREC": {
+      "frecuencia": 1,
+      "variantes": [
+        "SEDEREC"
+      ]
+    },
+    "SEMARNAT": {
+      "frecuencia": 1,
+      "variantes": [
+        "SEMARNAT"
+      ]
+    },
+    "Sistema de Aguas de la Ciudad de México": {
+      "frecuencia": 1,
+      "variantes": [
+        "Sistema de Aguas de la Ciudad de México"
+      ]
+    },
+    "Sistemas de Aguas": {
+      "frecuencia": 1,
+      "variantes": [
+        "Sistemas de Aguas"
+      ]
+    },
+    "Sistemas de Aguas de la Ciudad de México": {
+      "frecuencia": 1,
+      "variantes": [
+        "Sistemas de Aguas de la Ciudad de México"
+      ]
+    },
+    "Tenencia de la Tierra": {
+      "frecuencia": 1,
+      "variantes": [
+        "Tenencia de la Tierra"
+      ]
+    },
+    "UAM-Xochimilco": {
+      "frecuencia": 1,
+      "variantes": [
+        "UAM-Xochimilco"
+      ]
+    }
+  }
+}
