@@ -1,55 +1,96 @@
-﻿interview_id,preocupacion_principal,causas_biofisicas,causas_socio_institucionales,causas_uso_de_suelo,causas_infraestructurales,consecuencias,acciones
-DF012015_GOB,"Deficiencias en el abastecimiento, mala calidad del agua y vulnerabilidad ante inundaciones en la Ciudad de México","Estacionalidad marcada de las precipitaciones con seis meses de estiaje
-Altitud y lejanía geográfica respecto a fuentes naturales superficiales
-Presencia de minerales como hierro y manganeso en aguas subterráneas","Falta de coordinación entre políticas de vivienda social del INVI y planeación hidráulica
-Presupuestos públicos insuficientes frente a los costos reales de introducción de servicios
-Políticas de financiamiento desarticuladas entre delegaciones y el organismo central de agua","Expansión urbana periférica en terrenos carentes de factibilidad y servicios
-Adquisición de predios económicos no aptos o vulnerables a inundaciones para desarrollo habitacional
-Crecimiento de la mancha urbana hacia zonas de difícil acceso topográfico","Fugas continuas en las redes de distribución de agua potable
-Falta de plantas potabilizadoras para tratar pozos con agua de mala calidad
-Presión insuficiente en la red y necesidad de sistemas de rebombeo","Racionamiento y servicio por tandeo para cientos de miles de habitantes
-Suministro de agua con mala calidad química en puntos focalizados
-Inundaciones recurrentes durante la temporada de lluvias
-Sobrecosto económico elevado para dotar de servicios a colonias periféricas
-Dependencia del abastecimiento mediante camiones cisterna (pipas)","SACMEX: Plan de inversión a 20 años para rehabilitación de redes, control de fugas y rebombeos
-SACMEX: Construcción de plantas potabilizadoras focalizadas para remover metales de los pozos
-Delegaciones: Distribución de agua mediante pipas a colonias con desabasto
-Gobierno de la Ciudad de México: Exigencia de autorizaciones integrales de servicios antes de aprobar proyectos de vivienda"
-DF012815_ACA,"Crisis en la obtención, distribución y recarga del agua debido a la sobreexplotación del acuífero, el crecimiento descontrolado y el manejo político de los servicios.","Ubicación en cuenca lacustre con hundimientos diferenciales del suelo.
-Extracción de agua subterránea a un ritmo mayor que la recarga natural.
-Desfase en la recarga por parteaguas geo-hidrológico que drena hacia otras cuencas.
-Periodos recurrentes de sequía severa.","Clientelismo y manipulación del suministro de agua y asentamientos a cambio de votos.
-Toma de decisiones políticas que ignoran la opinión y criterios técnicos.
-Falta de autonomía técnica de SACMEX frente a intereses delegacionales y políticos.
-Opacidad y maquillaje de estadísticas oficiales sobre consumo y pérdidas de agua.
-Falta de recursos económicos y trabas ideológicas para renovar la gestión de servicios.","Ocupación y urbanización acelerada sobre el suelo de conservación y zonas clave de recarga.
-Proliferación de asentamientos irregulares promovidos por componendas políticas.
-Planes de desarrollo urbano desactualizados que no reflejan la dinámica urbana.
-Densificación y crecimiento vertical autorizados sin evaluar la factibilidad hídrica.","Tuberías obsoletas y fracturadas con fugas estimadas de entre 30% y 50%.
-Falta de medidores confiables y generalizados para calcular el consumo real.
-Infraestructura insuficiente en macrodesarrollos que obliga al uso de pipas.
-Alta complejidad técnica y costo para bombear agua desde cuencas lejanas (Lerma y Cutzamala).","Racionamiento crónico mediante tandeo y dependencia del suministro por pipas.
-Desigualdad severa en el acceso y calidad del agua, afectando principalmente al oriente de la ciudad.
-Hundimiento progresivo del suelo urbano por compactación de sedimentos lacustres.
-Conflictos interregionales y protestas sociales en cuencas externas por la exportación de agua a la capital.
-Altos costos de operación para abastecer zonas irregulares en detrimento del mantenimiento general.","Gobierno de la Ciudad de México: Profesionalizar e incorporar técnicos capacitados con visión moderna en los organismos operadores.
-SACMEX: Construir y transparentar un sistema de información y monitoreo riguroso sobre consumo, pozos y redes hidráulicas.
-Gobierno de la Ciudad de México e inversionistas privados: Modernizar y sustituir la infraestructura obsoleta de drenaje y agua potable para eliminar fugas masivas.
-Asamblea Legislativa: Supeditar la aprobación de programas y usos del suelo a factibilidades técnicas reales de dotación hídrica.
-Académicos e investigadores: Desarrollar censos independientes de consumo y balances hidrológicos para la toma de decisiones racionales."
-DF031215_ACA,Inequidad y discrecionalidad en el acceso al agua potable frente al crecimiento inmobiliario desmedido y la falta de actualizacion de la infraestructura hidraulica,"Caracteristicas naturales lacustres salinas en Texcoco
-Vulnerabilidad ambiental de los humedales en Xochimilco","Manejo discrecional y clientelar de valvulas por coordinadores territoriales
-Opacidad del Sistema de Aguas y subordinacion de la Secretaria de Medio Ambiente ante Obras Publicas
-Influencia de intereses inmobiliarios en las decisiones de la Secretaria de Desarrollo Urbano
-Uso del acceso a servicios publicos como moneda de cambio electoral y politico","Boom de construccion vertical y redensificacion sin planificacion integral
-Proliferacion de desarrollos comerciales y de servicios con alta demanda de agua
-Proyeccion de autopistas e infraestructura vial sobre zonas de conservacion y humedales","Falta de modernizacion y ampliacion de las redes de distribucion de agua potable y drenaje
-Presencia de cisternas sobredimensionadas en viviendas particulares que acaparan el suministro
-Gestion del agua basada en tandeo irregular y sin medicion adecuada","Disminucion de la presion y reduccion del volumen de agua disponible para residentes preexistentes
-Agudizacion de la desigualdad en el suministro entre sectores populares y zonas afluentes
-Tensiones y conflictos sociales entre avecindados y comunidades locales
-Amenaza de deterioro ecologico en zonas de humedales por megaproyectos","Academicos y sociedad civil: frenaron la manifestacion de impacto ambiental de la Autopista Urbana Oriente y defienden proyectos de mejoramiento barrial
-Comunidades de Texcoco: mantienen tecnicas tradicionales de manejo de agua y recuperacion de sal
-Vecinos organizados: realizan movilizaciones publicas contra proyectos urbanos e incrementos tributarios
-Coordinadores territoriales: manipulan manualmente la apertura de valvulas en las redes locales
-Secretaria de Obras y SEDUVI: promueven proyectos de infraestructura vial y autorizan edificaciones en altura mediante concesiones privadas"
+﻿Id_entrevista,Preocupacion_principal_acerca_del_agua,Causas_principales,Consecuencias,Acciones_y_Actores_que_realizan_dichas_acciones
+DF012015_GOB,"El abastecimiento de agua, las inundaciones y los problemas con la mala calidad del agua","Proyectos de desarrollo urbano del gobierno federal que no contemplan la inversión de infraestructura hidráulica
+Programas sociales de vivienda donde los terrenos se consiguen baratos en zonas sin servicios, inundables y sin agua
+Condición climática donde la ciudad pasa seis meses continuos sin lluvias
+Recursos públicos insuficientes para atender la problemática hidráulica
+Ubicación lejana respecto a las fuentes de agua en comparación con otras ciudades
+Presencia de hierro, fierro, manganeso y nitrógeno en pozos de agua
+Fugas en redes secundarias y deficiencias en las presiones de la red","Comunidades que sufren desabasto de agua e inundaciones
+Costo de introducción de agua y pozos con plantas potabilizadoras que supera el costo de la propia vivienda
+Población de 400 mil habitantes en Iztapalapa bajo sistema de tandeo y recibiendo muy poca agua a la semana
+Mala calidad del agua focalizada en pozos específicos
+Dependencia del suministro de agua potable mediante pipas en las delegaciones","Gobierno / INVI: maneja fondos para vivienda social sin garantizar previamente los recursos e infraestructura de agua requeridos
+Delegaciones: atienden el desabasto mediante la contratación y distribución de pipas con su propio presupuesto autónomo
+Ingeniero Ramón Aguirre y técnicos especialistas: proyectan un programa de inversión de 18 mil millones de pesos a 20 años con rehabilitación de redes para recuperar caudales de fugas, plantas potabilizadoras y sistemas de rebombeo
+Iniciativa privada / Pedro Arrojo: plantean incorporar financiamiento privado con retribución comercial regulada por el gobierno para obras donde los recursos públicos no alcanzan
+Técnicos especialistas (UNAM, CONAGUA): realizan diagnósticos, estudios técnicos y emiten opiniones especializadas para documentar el origen del problema y diseñar obras de solución"
+DF012815_ACA,"Obtención, distribución y calidad del agua","Crecimiento de la ciudad
+Crecimiento en lugares inadecuados en las zonas de recarga más importantes
+Construcción de asentamientos sin previsión adecuada de dotar de servicios de drenaje
+Velocidad de extracción mayor que la velocidad de recarga
+Superficie urbanizada donde el agua captada se va a las coladeras y al drenaje
+Toma de decisiones políticas sin tomar en cuenta la opinión de los expertos
+Control político y permisividad de asentamientos informales en suelo de conservación a cambio de votos
+Infraestructura obsoleta del siglo pasado
+Pérdidas de agua en ductos y tuberías fracturadas de casi el 30% a más del 50%
+Periodos de sequía fuertes
+Programas de desarrollo urbano atrasados y desactualizados","Proceso de hundimiento de la ciudad
+Crisis de inundación que no se han eliminado
+Introducción de servicios muy problemática
+Escasez de agua
+Dotación de agua por tandeo y por pipas
+Agua sucia y en poca cantidad en zonas como el oriente
+Necesidad de traer agua de cuencas externas como Lerma y Cutzamala
+Protestas de la población vecina para frenar la exportación de agua a la Ciudad de México
+Desarrollos inmobiliarios como Santa Fe que funcionan sin red de agua ni drenaje, abastecidos con pipas
+Cobros de agua por promedios que generan desigualdades","Políticos y autoridades: permiten la ocupación de suelo de conservación a cambio de votos
+Jefes delegacionales y coordinadores territoriales: regulan la entrega de agua por tandeo y pipas con manejo político
+Comisión Hidrológica de la Cuenca del Valle de México y Sistema de Aguas (SACMEX): realizan la extracción de pozos profundos y dotación operativa
+Jefe de gobierno Ebrard: cambió la infraestructura del Centro Histórico para turismo e inversión inmobiliaria
+Pobladores de cuencas vecinas: protestan y exigen que dejen de exportar agua hacia la Ciudad de México
+Empresa privada concesionada: colocó medidores de agua que funcionan a medias
+Asamblea Legislativa: modifica y autoriza usos de suelo y densidades por decisiones políticas y no técnicas"
+DF021815_ACA,Desconfianza en la calidad del agua de la red y desigualdad en su distribución y cobro,"Incapacidad en la gestión del recurso
+Falta de manejo de la demanda
+Opacidad absoluta de la gestión técnica de los circuitos de distribución
+Visión patrimonialista del puesto público y negocios de particulares involucrados
+Mecanismos de control político sobre comunidades a través del suministro selectivo
+Poder centralizado en el Sistema de Aguas y negociaciones con el jefe de gobierno
+Protección a lobbies de refresqueras y grandes desarrollos inmobiliarios del poniente
+Esquema de tarifas y cobro fijo que transfiere costos a grupos desfavorecidos
+Intereses de la industria de agua embotellada surgida tras brotes de cólera","La población ya no toma agua de la llave por desconfianza justificada
+Agua que sale turbia o con olor
+Centrar el servicio en provisión para bañarse y no en calidad potable
+Disparidad extrema en el abasto entre zonas como Iztapalapa y Miguel Hidalgo
+Tandeos y suspensión del servicio por semanas o meses
+Obligación de recurrir a la compra y negociación de pipas
+Pago más elevado por litro consumido para los sectores más vulnerables
+Afectación y falta de interlocución ciudadana frente al sistema de agua","Director General de Construcción y Operación Hidráulica (DGCOH): frena revisiones y auditorías sobre el esquema tarifario
+Sistema de Aguas de la Ciudad de México: otorga licencias y factibilidades de agua para desarrollos inmobiliarios
+Director del Sistema de Aguas: negocia directamente con el jefe de gobierno y grupos de poder
+Grupo de académicos y ciudadanos: definen atender la provisión del servicio antes que la calidad del agua
+Pobladores de Iztapalapa: negocian el abasto de agua a través de pipas
+Contraloría: solicita opiniones técnicas para auditar el esquema de tarifas
+Ejidatarios: venden parcelas y terrenos ante la presión de la urbanización"
+DF022615_ACA,"Escasez y falta de agua en colonias urbanas, desperdicio por falta de reciclaje y problemas de contaminacion y salinizacion del recurso hidrico","Construccion de viviendas sin diseno para el reciclo del agua
+Falta de interes del gobierno y carencia de una cultura del agua
+Ruptura de los flujos naturales del agua a causa del desarrollo de la ciudad
+Falta de salida natural del lago que propicia la acumulacion de sales
+Falta de vigilancia, aplicacion y supervision de las leyes y normas ambientales existentes
+Corrupcion y adelgazamiento de las estructuras gubernamentales
+Existencia de fugas en la red y bebederos
+Urbanizacion sobre zonas bajas que anteriormente formaban parte del lago
+Riego indiscriminado y falta de conocimiento de las laminas de riego apropiadas","Desperdicio masivo del agua que entra a la ciudad
+Abastecimiento discontinuo por tandeo, recibiendo agua solo dos dias a la semana
+Habituacion de la poblacion a vivir sin agua y necesidad de recolectarla en cubetas o tambos
+Imposibilidad de tomar agua directo de la llave sin hervir y dependencia de la compra de agua embotellada
+Quejas y conflictos vecinales por el consumo de agua en establos
+Alto grado de salinizacion del agua y del suelo en la zona de Xochimilco
+Contaminacion de ojos de agua limpios al mezclarse en superficie con aguas negras
+Mortandad de abejas por el uso intensivo de insecticidas y agroquimicos asociados a los cultivos
+Aparicion de hongos en invernaderos por exceso de humedad constante
+Inundaciones con aguas negras en colonias de zonas bajas durante la temporada de lluvias
+Filas prolongadas de botes en esquinas esperando el llenado por pipas
+Aparicion de practicas de corrupcion, cobro indebido y control politico sobre la distribucion de agua y llaves publicas","Gente de biotecnologia o ingenieria industrial: Propusieron reutilizar el agua de fregaderos y regaderas para el riego de jardines interiores
+Gobierno: Sustituyo el riego de jardines con agua potable por el uso de aguas tratadas, negras o grises
+Gobierno: Opera la planta de tratamiento del Cerro de la Estrella para abastecer la cienega del lago de Xochimilco
+Vecinos y habitantes: Almacenan agua en cisternas y tambos, hierven el agua o compran agua embotellada
+Vecinos de Iztapalapa: Colocan botes en las esquinas a la espera del suministro mediante pipas
+Asociacion de lecheros y autoridades: Establecen acuerdos politicos no oficiales para mantener el abastecimiento constante de agua a establos
+Productores lecheros: Colectan el estiercol y lo transportan hacia Xochimilco y Milpa Alta para su venta o composteo
+Productores de Xochimilco: Fabrican suelo artificial a base de excreta animal y elaboran filtros con tepetate y piedras para regar sus flores
+Productores de invernaderos: Vierten antifungales mezclados directamente con el agua de riego
+Grupo de la UAM-Xochimilco: Implemento un programa para desalinizar parcelas agricolas
+Organizacion REDES: Realiza labores de restauracion ecologica en una parcela de Xochimilco
+Pueblos originarios: Conservan estructuras organizativas tradicionales y comunitarias para restringir la venta de tierras y proteger sus recursos
+Operadores de pipas o intermediarios: Cobran por el acceso a tomas publicas y priorizan el llenado de cisternas particulares sobre los botes comunitarios"
