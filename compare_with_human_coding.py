@@ -30,7 +30,8 @@ except Exception as e:
         exit()
 
 col_id_llm = 'Id_entrevista' if 'Id_entrevista' in df_llm.columns else df_llm.columns[0]
-df_llm['ID_Normalizado'] = df_llm[col_id_llm].astype(str).str.replace('_GOB', 'GOV').str.replace('_OTR', 'OTR').str.replace('_', '').str.upper()
+df_llm['ID_Normalizado'] = df_llm[col_id_llm].astype(str).str.replace(
+    '_GOB', 'GOV').str.replace('_OTR', 'OTR').str.replace('_', '').str.upper()
 
 # 3. Cruzar la información (Merge)
 df_merged = pd.merge(df_human, df_llm, on='ID_Normalizado', how='inner')
