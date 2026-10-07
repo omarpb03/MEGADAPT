@@ -1,0 +1,358 @@
+﻿Id_entrevista,Preocupacion_principal_acerca_del_agua,Causas_principales,Consecuencias,Acciones_y_Actores_que_realizan_dichas_acciones,Actores,bleu_recall_preocupacion,bleu_prec_preocupacion,bleu_f1_preocupacion,bleu_recall_causa,bleu_prec_causa,bleu_f1_causa,bleu_recall_consecuencia,bleu_prec_consecuencia,bleu_f1_consecuencia,bleu_recall_accion,bleu_prec_accion,bleu_f1_accion,chrf_recall_preocupacion,chrf_prec_preocupacion,chrf_f1_preocupacion,chrf_recall_causa,chrf_prec_causa,chrf_f1_causa,chrf_recall_consecuencia,chrf_prec_consecuencia,chrf_f1_consecuencia,chrf_recall_accion,chrf_prec_accion,chrf_f1_accion,bleu_recall_TOTAL,bleu_prec_TOTAL,bleu_f1_TOTAL,chrf_recall_TOTAL,chrf_prec_TOTAL,chrf_f1_TOTAL
+DF012015_GOB,"Abastecimiento de agua
+Inundaciones en comunidades
+Mala calidad del agua
+Fugas en la red","Falta de inversión en infraestructura
+Falta de acceso a servicios
+Asentamientos en zonas de riesgo
+Falta de planeación urbana","Costos altos de vivienda
+Escasez de agua en colonias
+Afectaciones a la salud
+Conflictos por acceso al agua","Gobierno: Inversión en infraestructura hidráulica
+CONAGUA: Desarrollo de plantas potabilizadoras
+Delegaciones: Manejo de presupuestos autónomos
+No especificado: Original","Gobierno
+CONAGUA
+Delegaciones
+No especificado",0.2825,0.1017,0.1496,0.0,0.0,0.0,0.0029,0.0013,0.0018,0.0812,0.0203,0.0325,0.4976,0.2337,0.318,0.0453,0.0409,0.043,0.0794,0.0591,0.0678,0.3729,0.1551,0.2191,0.0916,0.0308,0.046,0.2488,0.1222,0.162
+DF012815_ACA,"Escasez de agua
+Inundaciones en la ciudad
+Mala calidad del agua
+Tandeo en las colonias","Crecimiento descontrolado de la ciudad
+Asentamientos irregulares
+Fugas en la red de agua
+Falta de infraestructura adecuada","Conflictos por acceso al agua
+Daños a la salud
+Desigualdad en acceso a agua
+Original","SACMEX: Original
+Gobierno local: Control del tandeo de agua
+Vecinos: Organización de marchas por agua
+No especificado: Original","SACMEX
+Gobierno local
+Vecinos
+No especificado",0.1244,0.0622,0.0829,0.0699,0.0579,0.0633,0.1169,0.0585,0.078,0.1269,0.1198,0.1232,0.1512,0.094,0.116,0.1869,0.1553,0.1696,0.246,0.1447,0.1822,0.1884,0.1484,0.1661,0.1095,0.0746,0.0868,0.1931,0.1356,0.1585
+DF013015_ACA,"Escasez de agua
+Mala calidad del agua
+Falta de coordinación institucional
+Inundaciones en Iztapalapa","Explotación de acuíferos
+Falta de planeación urbana
+Corrupción en permisos
+Desigualdad en el acceso al agua","Grietas en viviendas
+Costos altos por agua
+Conflictos entre vecinos
+Deterioro de la salud","Movimiento Urbano Popular: Gestión de servicios básicos
+Gobierno: Implementación de programas de mejoramiento
+SACMEX: Distribución de agua a colonias
+Vecinos: Organización de marchas por agua","Movimiento Urbano Popular
+Gobierno
+SACMEX
+Vecinos",0.0458,0.0322,0.0378,0.0521,0.0435,0.0474,0.0458,0.0208,0.0286,0.0958,0.0818,0.0882,0.1659,0.1015,0.126,0.1678,0.1291,0.1459,0.0977,0.0774,0.0864,0.2589,0.2189,0.2372,0.0599,0.0446,0.0505,0.1726,0.1317,0.1489
+DF020415_ACA,"Riesgo hídrico en la ciudad
+Calidad de vida
+Acceso a bienes urbanos
+Construcción del hábitat","Falta de planeación urbana
+Inversión privada en vivienda
+Corrupción en construcción
+Falta de coordinación institucional","Alteración del medio ambiente
+Aumento de riesgo en asentamientos
+Desigualdad en acceso a servicios
+Conflictos por uso de suelo","Movimientos urbanos: Original
+ONGs de vivienda: Asesoría en proyectos urbanos
+Gobierno del Distrito Federal: Implementación de programas de vivienda
+Organizaciones vecinales: Denuncia de afectaciones ambientales","Movimientos urbanos
+ONGs de vivienda
+Gobierno del Distrito Federal
+Organizaciones vecinales",0.0,0.0,0.0,0.0377,0.0377,0.0377,0.1068,0.0534,0.0712,,,,0.0794,0.0684,0.0735,0.3003,0.2148,0.2504,0.2388,0.1444,0.18,,,,0.0482,0.0304,0.0363,0.2062,0.1425,0.168
+DF021215_ACA,"Escasez de agua
+Inundaciones por urbanización
+Calidad del agua
+Asentamientos humanos irregulares","Intereses inmobiliarios
+Descoordinación institucional
+Asentamientos humanos irregulares
+Fugas en la red de agua","Afectaciones a la salud
+Conflictos por agua
+Gentrificación de zonas
+Desigualdad en acceso a agua","Sistema de Aguas de la Ciudad de México: Gestión de distribución de agua
+ONGs: Implementación de proyectos de captación de agua
+Vecinos: Organización de filtración de agua
+Instituciones comunitarias: Fortalecimiento de gestión de recursos","Sistema de Aguas de la Ciudad de México
+ONGs
+Vecinos
+Instituciones comunitarias",0.0725,0.0363,0.0484,0.0754,0.0204,0.0321,0.0914,0.0623,0.0741,0.1562,0.1025,0.1237,0.1578,0.1175,0.1347,0.2194,0.1369,0.1686,0.1792,0.1381,0.156,0.2962,0.2528,0.2727,0.0989,0.0554,0.0696,0.2132,0.1613,0.183
+DF021815_ACA,"Mala calidad del agua
+Inundaciones en Iztapalapa
+Escasez de agua
+Fugas en la red","Corrupción en el sistema
+Falta de mantenimiento en drenajes
+Crecimiento urbano descontrolado
+Desigualdad en distribución de agua","Desconfianza en el agua potable
+Afectaciones a la salud
+Inundaciones recurrentes
+Conflictos entre comunidades","Sistemas de Aguas: Control de la distribución de agua
+Gobierno: Negociación con desarrolladores inmobiliarios
+Vecinos: Organización de marchas por agua
+Organizaciones civiles: Demanda de calidad del agua","Sistemas de Aguas
+Gobierno
+Vecinos
+Organizaciones civiles",0.0755,0.074,0.0747,0.0112,0.0064,0.0081,0.048,0.0234,0.0315,0.0763,0.0704,0.0732,0.1456,0.1119,0.1266,0.1689,0.0955,0.122,0.1201,0.0971,0.1074,0.2166,0.2006,0.2083,0.0527,0.0435,0.0469,0.1628,0.1263,0.1411
+DF022515_ACA,"Escasez de agua
+Inundaciones en ciertas zonas
+Complejidad del sistema hídrico","Población flotante
+Fuentes de abastecimiento diversas
+Acuífero metropolitano limitado","Crisis del agua en zonas
+Original",,,0.2349,0.1566,0.1879,0.0433,0.0323,0.037,,,,,,,0.2181,0.1776,0.1958,0.1475,0.1483,0.1479,,,,,,,0.1391,0.0944,0.1125,0.1828,0.1629,0.1719
+DF022615_ACA,"Escasez de agua en Iztapalapa
+Contaminación del agua
+Fugas en la red
+Inundaciones en épocas de lluvia","Falta de interés del gobierno
+Corrupción en la distribución
+Asentamientos humanos irregulares
+Descargas de aguas residuales","Conflictos entre vecinos
+Afectaciones a la salud
+Desperdicio de agua en pipas
+Conflictos por acceso al agua","Gobierno: Original
+Vecinos: Almacenamiento de agua en cisternas
+Organización REDES: Original
+UAM-Xochimilco: Original","Gobierno
+Vecinos
+Organización REDES
+UAM-Xochimilco",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0743,0.064,0.0687,0.1223,0.1272,0.1247,0.0896,0.0744,0.0813,0.0969,0.0792,0.0871,0.0,0.0,0.0,0.0958,0.0862,0.0905
+DF031215_ACA,"Inundaciones en Iztapalapa
+Escasez de agua en colonias
+Mala calidad del agua
+Distribución desigual del agua","Construcción vertical desmedida
+Fugas en la red
+Asentamientos irregulares
+Falta de infraestructura hidráulica","Daños a la vivienda
+Conflictos por agua
+Desabasto en colonias populares
+Grietas en viviendas","Protección Civil: Acciones frente a inundaciones
+Vecinos: Almacenamiento de agua en tambos
+SACMEX: Distribución de agua a colonias
+Secretaría de Medio Ambiente: Defensa de obras que afectan el agua","Protección Civil
+Vecinos
+SACMEX
+Secretaría de Medio Ambiente",0.0661,0.1586,0.0933,0.0436,0.0475,0.0455,0.0472,0.0472,0.0472,0.0309,0.0394,0.0346,0.1805,0.2459,0.2082,0.1908,0.2289,0.2081,0.179,0.1713,0.1751,0.128,0.1232,0.1256,0.0469,0.0732,0.0551,0.1696,0.1923,0.1792
+DF042115_GOB,"Abastecimiento de agua
+Calidad del agua
+Inundaciones en la ciudad
+Crecimiento poblacional descontrolado","Crecimiento de la población
+Extracción de acuíferos
+Construcción desmedida
+Falta de mantenimiento en infraestructura","Afectaciones a la salud
+Enfermedades respiratorias
+Problemas de higiene
+Conflictos por escasez de agua","Gobierno del Distrito Federal: Construcción de lagunas de regulación
+Cenapred: Instalación de estaciones meteorológicas
+Gobierno del Distrito Federal: Mantenimiento del drenaje profundo
+CONAGUA: Monitoreo de calidad del agua","Gobierno del Distrito Federal
+Cenapred
+CONAGUA",0.0695,0.0234,0.035,0.0067,0.0025,0.0036,0.0063,0.0028,0.0039,0.0686,0.0731,0.0708,0.413,0.2088,0.2774,0.1788,0.1152,0.1401,0.1184,0.0783,0.0943,0.2218,0.2313,0.2264,0.0378,0.0255,0.0283,0.233,0.1584,0.1845
+DF042215_GOB,"Inundaciones en zonas urbanas
+Escasez de información sobre inundaciones
+Mala calidad del drenaje
+Cambio climático y lluvias intensas","Basura en drenajes
+Falta de mantenimiento en drenajes
+Crecimiento urbano descontrolado
+Asentamientos en zonas vulnerables","Daños a la infraestructura
+Afectaciones a la movilidad
+Original
+Confusión sobre riesgos hídricos","Cenapred: Elaboración de mapas de inundación
+Protección Civil: Emisión de recomendaciones para prevención
+SACMEX: Elaboración de mapas de inundación
+Sedartu: Financiamiento de atlas de riesgos","Cenapred
+Protección Civil
+SACMEX
+Sedartu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0958,0.0689,0.0802,0.1047,0.0933,0.0987,0.0951,0.0908,0.0929,0.1473,0.1596,0.1532,0.0,0.0,0.0,0.1107,0.1031,0.1062
+DF042415_GOB,"Inundaciones en la ciudad
+Escasez de agua
+Calidad del agua
+Enfermedades derivadas del agua","Infraestructura insuficiente
+Cambio climático
+Asentamientos irregulares
+Falta de acceso a servicios","Enfermedades de la piel
+Infecciones gastrointestinales
+Original
+Dificultades en la recuperación","Secretaría de Salud: Original
+Protección Civil: Emisión de recomendaciones de salud
+Ejército: Evacuación de población afectada
+Salud: Emisión de recomendaciones para prevención","Secretaría de Salud
+Protección Civil
+Ejército
+Salud",0.0252,0.0551,0.0345,0.0036,0.0009,0.0014,0.0062,0.0031,0.0041,0.0502,0.0436,0.0467,0.1791,0.1506,0.1636,0.166,0.0756,0.1039,0.1763,0.0921,0.121,0.1932,0.174,0.1831,0.0213,0.0257,0.0217,0.1787,0.1231,0.1429
+DF111814_GOB,"Suministro de agua
+Escasez en temporada seca
+Demanda excesiva de agua
+Contaminación del agua","Crecimiento de la población
+Desigualdad en el acceso al agua
+Falta de cultura del agua
+Crecimiento urbano desmedido","Escasez de agua en comunidades
+Conflictos por agua
+Afectaciones a la salud
+Desarrollo urbano descontrolado","CORENA: Incentivo a la conservación del suelo
+Sistema de Aguas: Manejo del suministro de agua
+Secretaría de Medio Ambiente: Original
+Comunidades: Mantenimiento de áreas de humedad","CORENA
+Sistema de Aguas
+Secretaría de Medio Ambiente
+Comunidades",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1393,0.1231,0.1307,0.1393,0.0912,0.1102,0.1001,0.0714,0.0834,0.1044,0.1041,0.1043,0.0,0.0,0.0,0.1208,0.0975,0.1072
+I021415_OTR,"Abastecimiento de agua
+Mala calidad del agua
+Tandeo en la distribución
+Corrupción en el manejo del agua","Asentamientos irregulares
+Falta de mantenimiento en la red
+Corrupción en la distribución
+Falta de regulación en uso de agua","Afectaciones a la salud
+Desperdicio de agua
+Conflictos por agua
+Dificultades en el transporte","Vecinos: Organización de marchas por agua
+Organizaciones civiles: Defensa del derecho al agua
+Delegaciones: Instalación de pozos de absorción
+No especificado: Condonación de pagos de agua","Vecinos
+Organizaciones civiles
+Delegaciones
+No especificado",0.0111,0.0056,0.0074,0.0426,0.0338,0.0377,0.0725,0.0363,0.0484,0.0519,0.0693,0.0593,0.2155,0.1328,0.1643,0.2293,0.2011,0.2143,0.1058,0.0898,0.0972,0.2198,0.2389,0.229,0.0445,0.0362,0.0382,0.1926,0.1656,0.1762
+I032615_OTR,"Mala calidad del agua
+Escasez de agua
+Inundaciones en la ciudad
+Hundimientos y grietas","Crecimiento de la población
+Mala gestión del agua
+Antigüedad de la red hidráulica
+Crecimiento urbano descontrolado","Menor abastecimiento de agua
+Mejor calidad de vida demeritada
+Conflictos por suministro de agua
+Grietas en viviendas","Protección Civil: Atención a problemas de grietas
+Vecinos: Formación de comités de grietas
+Gobierno del Distrito Federal: Instalación de plantas potabilizadoras
+Organizaciones civiles: Original","Protección Civil
+Vecinos
+Gobierno del Distrito Federal
+Organizaciones civiles",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I032615_OTR_1RA_PARTE,"Mala calidad del agua
+Inundaciones en la zona
+Fugas en la red
+Escasez de agua potable","Infraestructura hidráulica obsoleta
+Desperdicio de agua por fugas
+Pavimentación excesiva
+Falta de infiltración de agua","Grietas en viviendas
+Afectaciones a la salud
+Dependencia de pipas
+Contaminación del agua","Vecinos: Construcción de cisternas de ferrocemento
+Organizaciones civiles: Captación de agua de lluvia
+Gobierno: Implementación de programas de infraestructura
+CONAGUA: Manejo de pozos de extracción","Vecinos
+Organizaciones civiles
+Gobierno
+CONAGUA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MC031915_OTR,"Escasez de agua
+Tandeo en el suministro
+Fugas en la red
+Calidad del agua","Crecimiento urbano descontrolado
+Falta de mantenimiento en la red
+Falta de mantenimiento
+Expropiación de tierras","Dificultad para obtener agua
+Compra de agua en pipas
+Conflictos por agua
+Desperdicio de agua","Delegaciones: Control del tandeo de agua
+Sistema de Aguas: Original
+Ejidatarios: Captación de agua de lluvia
+Gobierno: Original","Delegaciones
+Sistema de Aguas
+Ejidatarios
+Gobierno",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0363,0.0689,0.0475,0.0333,0.0221,0.0266,0.0607,0.0562,0.0583,0.0846,0.0943,0.0892,0.1386,0.1108,0.1231,0.0091,0.0172,0.0119,0.0793,0.0708,0.0743
+MC032415_GOB,"Escasez de agua
+Fugas en la red
+Mala calidad del agua
+Inundaciones por basura","Falta de mantenimiento en la red
+Deforestación y tala clandestina
+Falta de reforestación
+Basura en ríos y cauces","Desabasto de agua
+Contaminación del agua
+Inundaciones en viviendas
+Conflictos por percepción de agua","Sistema de Aguas: Original
+Delegaciones: Limpieza de cauces y ríos
+Comunidades: Original
+No especificado: Monitoreo de calidad del agua","Sistema de Aguas
+Delegaciones
+Comunidades
+No especificado",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0087,0.0187,0.0119,0.1019,0.097,0.0994,0.083,0.0991,0.0904,0.0938,0.0793,0.086,0.0795,0.0845,0.0819,0.0022,0.0047,0.003,0.0896,0.09,0.0894
+MC032515_GOB,"Deslizamientos de talud
+Inundaciones en asentamientos
+Contaminación del agua
+Cortes en cerros","Asentamientos irregulares
+Corte de árboles
+Construcción desmedida
+Mala canalización de agua","Daños a la vivienda
+Afectaciones a la salud
+Desbordamientos de barrancas
+Deterioro del suelo","Protección Civil: Notificación a vecinos en riesgo
+Ecología: Original
+Tenencia de la Tierra: Prevención del crecimiento de asentamientos
+SACMEX: Limpieza de drenajes y coladeras","Protección Civil
+Ecología
+Tenencia de la Tierra
+SACMEX",0.0,0.0,0.0,0.0075,0.0022,0.0034,0.2825,0.0706,0.113,0.0606,0.0433,0.0505,0.2714,0.14,0.1847,0.1438,0.0797,0.1026,0.2711,0.1413,0.1858,0.2453,0.1628,0.1957,0.0876,0.029,0.0417,0.2329,0.131,0.1672
+X011915_GOB,"Contaminación de los canales
+Inundaciones en la zona
+Escasez de agua potable
+Hundimiento de chinampas","Descargas de aguas residuales
+Falta de infraestructura de drenaje
+Asentamientos irregulares
+Corrupción en la gestión","Daños a la salud
+Alteración del medio ambiente
+Conflictos sociales por agua
+Contaminación del agua","Sistemas de Aguas de la Ciudad de México: Monitoreo de calidad del agua
+Gobierno del Distrito Federal: Implementación de programas de limpieza
+SEDEREC: Financiamiento de proyectos de conservación
+Vecinos: Original","Sistemas de Aguas de la Ciudad de México
+Gobierno del Distrito Federal
+SEDEREC
+Vecinos",0.2628,0.1886,0.2196,0.0003,0.0001,0.0002,0.0,0.0,0.0,0.0281,0.0151,0.0196,0.2289,0.1692,0.1946,0.0638,0.0485,0.0551,0.107,0.0816,0.0926,0.1785,0.1156,0.1403,0.0728,0.0509,0.0599,0.1445,0.1037,0.1207
+X022415_ACA,"Escasez de agua
+Contaminación de fuentes
+Inundaciones en zonas urbanas
+Acceso desigual al agua","Extracción de acuíferos
+Asentamientos irregulares
+Falta de regulación en uso de agua
+Crecimiento urbano descontrolado","Deterioro de ríos
+Conflictos por acceso al agua
+Impacto en la salud pública
+Desplazamiento de comunidades","SACMEX: Gestión del sistema de agua
+Comisión de Cuenca: Original
+Organizaciones civiles: Original
+Gobierno del Distrito Federal: Implementación de políticas de agua","SACMEX
+Comisión de Cuenca
+Organizaciones civiles
+Gobierno del Distrito Federal",0.0144,0.0211,0.0171,0.0085,0.003,0.0045,0.0214,0.0256,0.0233,0.0023,0.0015,0.0018,0.1222,0.123,0.1226,0.119,0.0907,0.103,0.1177,0.1017,0.1091,0.1134,0.0838,0.0964,0.0117,0.0128,0.0117,0.1181,0.0998,0.1078
+X022415_GOB,"Calidad del agua
+Escasez de agua
+Contaminación por invernaderos
+Inundaciones en asentamientos irregulares","Fugas en la red
+Asentamientos irregulares
+Contaminación por agroquímicos
+Hundimientos diferenciales","Daños a la salud
+Original
+Deterioro del ecosistema
+Impacto negativo en turismo","Autoridad de la Zona Patrimonio: Coordinación con académicos
+Productores: Implementación de tratamientos de agua
+Instituto de Biología de la UNAM: Colaboración en proyectos de conservación
+SACMEX: Manejo del suministro de agua","Autoridad de la Zona Patrimonio
+Productores
+Instituto de Biología de la UNAM
+SACMEX",0.1451,0.0544,0.0791,0.0,0.0,0.0,0.0014,0.0004,0.0007,0.0151,0.0097,0.0118,0.3667,0.2184,0.2737,0.0861,0.0452,0.0593,0.0518,0.0364,0.0428,0.1138,0.1077,0.1107,0.0404,0.0161,0.0229,0.1546,0.1019,0.1216
+X042315_GOB,"Escasez de agua
+Inundaciones en la zona
+Contaminación del agua
+Hundimientos diferenciales","Explotación de acuíferos
+Asentamientos irregulares
+Fugas en la red
+Falta de mantenimiento en coladeras","Daños a la salud
+Conflictos entre vecinos
+Costos por comprar agua
+Alteración del medio ambiente","SEMARNAT: Original
+Autoridades locales: Implementación de programas de conservación
+Chinamperos: Mantenimiento de la producción agrícola
+Gobierno francés: Financiamiento de proyectos de infraestructura","SEMARNAT
+Autoridades locales
+Chinamperos
+Gobierno francés",0.0267,0.0067,0.0107,0.0003,0.0001,0.0002,0.0062,0.0046,0.0053,0.0,0.0,0.0,0.0908,0.0688,0.0783,0.1098,0.0624,0.0796,0.1053,0.0639,0.0795,0.1324,0.0974,0.1122,0.0083,0.0029,0.004,0.1096,0.0731,0.0874

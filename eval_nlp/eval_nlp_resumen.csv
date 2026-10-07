@@ -1,0 +1,6 @@
+﻿corrida,columna,bleu_recall,bleu_precision,bleu_f1,chrf_recall,chrf_precision,chrf_f1,bertscore_recall,bertscore_precision,bertscore_f1,n_entrevistas
+v5,accion,0.0468,0.0409,0.0419,0.1814,0.1499,0.1617,0.7214,0.7092,0.7151,20
+v5,causa,0.0192,0.0137,0.0153,0.1445,0.1112,0.1236,0.7136,0.698,0.7055,21
+v5,consecuencia,0.0428,0.0205,0.0266,0.1328,0.0964,0.1105,0.7455,0.7279,0.7365,20
+v5,preocupacion,0.0694,0.0465,0.0513,0.1871,0.1303,0.1506,0.7579,0.7325,0.7446,21
+v5,TODAS,0.0445,0.0303,0.0337,0.1613,0.1216,0.1363,0.7348,0.717,0.7256,21

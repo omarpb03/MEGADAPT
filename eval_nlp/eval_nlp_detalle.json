@@ -1,0 +1,1714 @@
+[
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF031215_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Manejo político y distribución",
+      "Tandeo",
+      "Inundación en aumento (frecuencia)",
+      "Problema de grietas",
+      "zonas de alto riesgo",
+      "Suministro de agua",
+      "Asentamientos irregulares",
+      "Capital está moviendo urbanización"
+    ],
+    "items_modelo": [
+      "Inundaciones en Iztapalapa",
+      "Escasez de agua en colonias",
+      "Mala calidad del agua",
+      "Distribución desigual del agua"
+    ],
+    "bleu_recall": 0.0661,
+    "bleu_precision": 0.1586,
+    "bleu_f1": 0.0933,
+    "chrf_recall": 0.1805,
+    "chrf_precision": 0.2459,
+    "chrf_f1": 0.2082
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF031215_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Sumnistro no es transparente",
+      "desigual",
+      "Falta infraestructura para redistribución",
+      "Falta construcción de pozos de absorción",
+      "Sesgo presupuestal",
+      "Desarrollo sector inmobiliario (SEDUVI y SOBSE)",
+      "Redensificación"
+    ],
+    "items_modelo": [
+      "Construcción vertical desmedida",
+      "Fugas en la red",
+      "Asentamientos irregulares",
+      "Falta de infraestructura hidráulica"
+    ],
+    "bleu_recall": 0.0436,
+    "bleu_precision": 0.0475,
+    "bleu_f1": 0.0455,
+    "chrf_recall": 0.1908,
+    "chrf_precision": 0.2289,
+    "chrf_f1": 0.2081
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF031215_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Conflictos por agua (comuneros y avecindados)",
+      "Infraestructura insuficiente",
+      "Falta demanda nuevas construcciones",
+      "Conjuntos habitacionales vacios"
+    ],
+    "items_modelo": [
+      "Daños a la vivienda",
+      "Conflictos por agua",
+      "Desabasto en colonias populares",
+      "Grietas en viviendas"
+    ],
+    "bleu_recall": 0.0472,
+    "bleu_precision": 0.0472,
+    "bleu_f1": 0.0472,
+    "chrf_recall": 0.179,
+    "chrf_precision": 0.1713,
+    "chrf_f1": 0.1751
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF031215_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "Control de válvulas agua potable (Coordinador Territorial)",
+      "Edificios (cisternas y tinacos)",
+      "Más obras aprobadas por SOBSE"
+    ],
+    "items_modelo": [
+      "Protección Civil: Acciones frente a inundaciones",
+      "Vecinos: Almacenamiento de agua en tambos",
+      "SACMEX: Distribución de agua a colonias",
+      "Secretaría de Medio Ambiente: Defensa de obras que afectan el agua"
+    ],
+    "bleu_recall": 0.0309,
+    "bleu_precision": 0.0394,
+    "bleu_f1": 0.0346,
+    "chrf_recall": 0.128,
+    "chrf_precision": 0.1232,
+    "chrf_f1": 0.1256
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042115_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Abastecimiento de agua, Falta de agua y Calidad de agua"
+    ],
+    "items_modelo": [
+      "Abastecimiento de agua",
+      "Calidad del agua",
+      "Inundaciones en la ciudad",
+      "Crecimiento poblacional descontrolado"
+    ],
+    "bleu_recall": 0.0695,
+    "bleu_precision": 0.0234,
+    "bleu_f1": 0.035,
+    "chrf_recall": 0.413,
+    "chrf_precision": 0.2088,
+    "chrf_f1": 0.2774
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042115_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "Biofísicos: Acuíferos sobreexplotados, Sociales:Crecimiento de la población, Infraestructura: importación de agua de otras cuencas, fracturas en tuberias"
+    ],
+    "items_modelo": [
+      "Crecimiento de la población",
+      "Extracción de acuíferos",
+      "Construcción desmedida",
+      "Falta de mantenimiento en infraestructura"
+    ],
+    "bleu_recall": 0.0067,
+    "bleu_precision": 0.0025,
+    "bleu_f1": 0.0036,
+    "chrf_recall": 0.1788,
+    "chrf_precision": 0.1152,
+    "chrf_f1": 0.1401
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042115_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Problemas de salud, contrucción de viviendas en zonas de peligro, Desconfianza en agua potable, problemas de salud"
+    ],
+    "items_modelo": [
+      "Afectaciones a la salud",
+      "Enfermedades respiratorias",
+      "Problemas de higiene",
+      "Conflictos por escasez de agua"
+    ],
+    "bleu_recall": 0.0063,
+    "bleu_precision": 0.0028,
+    "bleu_f1": 0.0039,
+    "chrf_recall": 0.1184,
+    "chrf_precision": 0.0783,
+    "chrf_f1": 0.0943
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042115_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "Govermente: contrucción de drenaje profundo, TEO",
+      "Local people: Almacenar agua potable, compra de agua",
+      "Secretaría de Salud del DF: cuadrillas especiales de epidemiología (inundaciones)"
+    ],
+    "items_modelo": [
+      "Gobierno del Distrito Federal: Construcción de lagunas de regulación",
+      "Cenapred: Instalación de estaciones meteorológicas",
+      "Gobierno del Distrito Federal: Mantenimiento del drenaje profundo",
+      "CONAGUA: Monitoreo de calidad del agua"
+    ],
+    "bleu_recall": 0.0686,
+    "bleu_precision": 0.0731,
+    "bleu_f1": 0.0708,
+    "chrf_recall": 0.2218,
+    "chrf_precision": 0.2313,
+    "chrf_f1": 0.2264
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042215_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Floods in whole Mexico"
+    ],
+    "items_modelo": [
+      "Inundaciones en zonas urbanas",
+      "Escasez de información sobre inundaciones",
+      "Mala calidad del drenaje",
+      "Cambio climático y lluvias intensas"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0958,
+    "chrf_precision": 0.0689,
+    "chrf_f1": 0.0802
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042215_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "Sawage is not enough, thrash",
+      "garbage in drenes, lack of mantenimeitno del alcantarillado, garbage in barrancas impide infiltración"
+    ],
+    "items_modelo": [
+      "Basura en drenajes",
+      "Falta de mantenimiento en drenajes",
+      "Crecimiento urbano descontrolado",
+      "Asentamientos en zonas vulnerables"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1047,
+    "chrf_precision": 0.0933,
+    "chrf_f1": 0.0987
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042215_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Floods",
+      "intensity of raining",
+      "Encharcamientos"
+    ],
+    "items_modelo": [
+      "Daños a la infraestructura",
+      "Afectaciones a la movilidad",
+      "Original",
+      "Confusión sobre riesgos hídricos"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0951,
+    "chrf_precision": 0.0908,
+    "chrf_f1": 0.0929
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042215_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "Recomendations",
+      "modifications in infraestructure",
+      "better maps of risk",
+      "Goverment should give information about floods to local people"
+    ],
+    "items_modelo": [
+      "Cenapred: Elaboración de mapas de inundación",
+      "Protección Civil: Emisión de recomendaciones para prevención",
+      "SACMEX: Elaboración de mapas de inundación",
+      "Sedartu: Financiamiento de atlas de riesgos"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1473,
+    "chrf_precision": 0.1596,
+    "chrf_f1": 0.1532
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042415_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Health risk (enfermedades)",
+      "Epidemias",
+      "Ejemplo, exposición directa con agua contaminada"
+    ],
+    "items_modelo": [
+      "Inundaciones en la ciudad",
+      "Escasez de agua",
+      "Calidad del agua",
+      "Enfermedades derivadas del agua"
+    ],
+    "bleu_recall": 0.0252,
+    "bleu_precision": 0.0551,
+    "bleu_f1": 0.0345,
+    "chrf_recall": 0.1791,
+    "chrf_precision": 0.1506,
+    "chrf_f1": 0.1636
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042415_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "Floods, Exposición directa al agua contaminada, Capacidad de desfogue de las aguas, basura, Infraestructura no es suficientemente apta"
+    ],
+    "items_modelo": [
+      "Infraestructura insuficiente",
+      "Cambio climático",
+      "Asentamientos irregulares",
+      "Falta de acceso a servicios"
+    ],
+    "bleu_recall": 0.0036,
+    "bleu_precision": 0.0009,
+    "bleu_f1": 0.0014,
+    "chrf_recall": 0.166,
+    "chrf_precision": 0.0756,
+    "chrf_f1": 0.1039
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042415_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Problemas de salud (enfermedades) Piel-Dermatitis, gastrointerintestinales, Conjuntivitis, infecciones en las vías respiratorias"
+    ],
+    "items_modelo": [
+      "Enfermedades de la piel",
+      "Infecciones gastrointestinales",
+      "Original",
+      "Dificultades en la recuperación"
+    ],
+    "bleu_recall": 0.0062,
+    "bleu_precision": 0.0031,
+    "bleu_f1": 0.0041,
+    "chrf_recall": 0.1763,
+    "chrf_precision": 0.0921,
+    "chrf_f1": 0.121
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF042415_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "Secretaría de Salud: After floods distribución de materiales para limpieza, campañas de vacunación, evacuación",
+      "People: Atención médica (depende de la magnitud del daño)"
+    ],
+    "items_modelo": [
+      "Secretaría de Salud: Original",
+      "Protección Civil: Emisión de recomendaciones de salud",
+      "Ejército: Evacuación de población afectada",
+      "Salud: Emisión de recomendaciones para prevención"
+    ],
+    "bleu_recall": 0.0502,
+    "bleu_precision": 0.0436,
+    "bleu_f1": 0.0467,
+    "chrf_recall": 0.1932,
+    "chrf_precision": 0.174,
+    "chrf_f1": 0.1831
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "I021415_OTR",
+    "columna": "preocupacion",
+    "items_humano": [
+      "abastecimiento de agua, tandeo, calidad de agua (Falta de calidad y la dotación del servicio)"
+    ],
+    "items_modelo": [
+      "Abastecimiento de agua",
+      "Mala calidad del agua",
+      "Tandeo en la distribución",
+      "Corrupción en el manejo del agua"
+    ],
+    "bleu_recall": 0.0111,
+    "bleu_precision": 0.0056,
+    "bleu_f1": 0.0074,
+    "chrf_recall": 0.2155,
+    "chrf_precision": 0.1328,
+    "chrf_f1": 0.1643
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "I021415_OTR",
+    "columna": "causa",
+    "items_humano": [
+      "Red de agua está sucia (no hay mantenimiento)",
+      "Sedimentos",
+      "El agua de las coladeras se mezclan con los pozos de absorción"
+    ],
+    "items_modelo": [
+      "Asentamientos irregulares",
+      "Falta de mantenimiento en la red",
+      "Corrupción en la distribución",
+      "Falta de regulación en uso de agua"
+    ],
+    "bleu_recall": 0.0426,
+    "bleu_precision": 0.0338,
+    "bleu_f1": 0.0377,
+    "chrf_recall": 0.2293,
+    "chrf_precision": 0.2011,
+    "chrf_f1": 0.2143
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "I021415_OTR",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Grietas provocadas por los pozos de extracción"
+    ],
+    "items_modelo": [
+      "Afectaciones a la salud",
+      "Desperdicio de agua",
+      "Conflictos por agua",
+      "Dificultades en el transporte"
+    ],
+    "bleu_recall": 0.0725,
+    "bleu_precision": 0.0363,
+    "bleu_f1": 0.0484,
+    "chrf_recall": 0.1058,
+    "chrf_precision": 0.0898,
+    "chrf_f1": 0.0972
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "I021415_OTR",
+    "columna": "accion",
+    "items_humano": [
+      "Cultura de agua (gente en general): cuando llega el agua hay un tiradero de agua",
+      "Personas: compra de garrafones",
+      "Reusan el agua",
+      "colecta el agua de lluvia",
+      "Movilizaciones"
+    ],
+    "items_modelo": [
+      "Vecinos: Organización de marchas por agua",
+      "Organizaciones civiles: Defensa del derecho al agua",
+      "Delegaciones: Instalación de pozos de absorción",
+      "No especificado: Condonación de pagos de agua"
+    ],
+    "bleu_recall": 0.0519,
+    "bleu_precision": 0.0693,
+    "bleu_f1": 0.0593,
+    "chrf_recall": 0.2198,
+    "chrf_precision": 0.2389,
+    "chrf_f1": 0.229
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032515_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Los deslizamientos provocados por las lluvias"
+    ],
+    "items_modelo": [
+      "Deslizamientos de talud",
+      "Inundaciones en asentamientos",
+      "Contaminación del agua",
+      "Cortes en cerros"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.2714,
+    "chrf_precision": 0.14,
+    "chrf_f1": 0.1847
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032515_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "Lluvias de gran intensidad, los cortes a los cerros, el terraceo, sautración de agua del suelo"
+    ],
+    "items_modelo": [
+      "Asentamientos irregulares",
+      "Corte de árboles",
+      "Construcción desmedida",
+      "Mala canalización de agua"
+    ],
+    "bleu_recall": 0.0075,
+    "bleu_precision": 0.0022,
+    "bleu_f1": 0.0034,
+    "chrf_recall": 0.1438,
+    "chrf_precision": 0.0797,
+    "chrf_f1": 0.1026
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032515_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Redoblamiento del suelo y deslizamientos"
+    ],
+    "items_modelo": [
+      "Daños a la vivienda",
+      "Afectaciones a la salud",
+      "Desbordamientos de barrancas",
+      "Deterioro del suelo"
+    ],
+    "bleu_recall": 0.2825,
+    "bleu_precision": 0.0706,
+    "bleu_f1": 0.113,
+    "chrf_recall": 0.2711,
+    "chrf_precision": 0.1413,
+    "chrf_f1": 0.1858
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032515_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "Protección civil: Mitigar y emitir recomendaciones a las zonas en riesgo",
+      "Delegación: campañas de información en epocas de lluvia, época invernal, etc"
+    ],
+    "items_modelo": [
+      "Protección Civil: Notificación a vecinos en riesgo",
+      "Ecología: Original",
+      "Tenencia de la Tierra: Prevención del crecimiento de asentamientos",
+      "SACMEX: Limpieza de drenajes y coladeras"
+    ],
+    "bleu_recall": 0.0606,
+    "bleu_precision": 0.0433,
+    "bleu_f1": 0.0505,
+    "chrf_recall": 0.2453,
+    "chrf_precision": 0.1628,
+    "chrf_f1": 0.1957
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC031915_OTR",
+    "columna": "preocupacion",
+    "items_humano": [
+      "land use change? not clear,It was an informative interview we mostly discussed history of urbanization and process of getting services in San Bernabe"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Tandeo en el suministro",
+      "Fugas en la red",
+      "Calidad del agua"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0333,
+    "chrf_precision": 0.0221,
+    "chrf_f1": 0.0266
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC031915_OTR",
+    "columna": "causa",
+    "items_humano": [
+      "Government expropriated ejido, which led ejidatarios to sell their agricultural fields from 1980-2000"
+    ],
+    "items_modelo": [
+      "Crecimiento urbano descontrolado",
+      "Falta de mantenimiento en la red",
+      "Falta de mantenimiento",
+      "Expropiación de tierras"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0607,
+    "chrf_precision": 0.0562,
+    "chrf_f1": 0.0583
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC031915_OTR",
+    "columna": "consecuencia",
+    "items_humano": [
+      "reduced forest area",
+      "urban expansion",
+      "lost practices and customs, loss of social cohesion in community"
+    ],
+    "items_modelo": [
+      "Dificultad para obtener agua",
+      "Compra de agua en pipas",
+      "Conflictos por agua",
+      "Desperdicio de agua"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0846,
+    "chrf_precision": 0.0943,
+    "chrf_f1": 0.0892
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC031915_OTR",
+    "columna": "accion",
+    "items_humano": [
+      "Ecotourism: Ejido has small forest reserve",
+      "Fought with Delegation to get services"
+    ],
+    "items_modelo": [
+      "Delegaciones: Control del tandeo de agua",
+      "Sistema de Aguas: Original",
+      "Ejidatarios: Captación de agua de lluvia",
+      "Gobierno: Original"
+    ],
+    "bleu_recall": 0.0363,
+    "bleu_precision": 0.0689,
+    "bleu_f1": 0.0475,
+    "chrf_recall": 0.1386,
+    "chrf_precision": 0.1108,
+    "chrf_f1": 0.1231
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF111814_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "water demand",
+      "abuse (but we mostly talked about land use change)"
+    ],
+    "items_modelo": [
+      "Suministro de agua",
+      "Escasez en temporada seca",
+      "Demanda excesiva de agua",
+      "Contaminación del agua"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1393,
+    "chrf_precision": 0.1231,
+    "chrf_f1": 0.1307
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF111814_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "lack of culture, population growth"
+    ],
+    "items_modelo": [
+      "Crecimiento de la población",
+      "Desigualdad en el acceso al agua",
+      "Falta de cultura del agua",
+      "Crecimiento urbano desmedido"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1393,
+    "chrf_precision": 0.0912,
+    "chrf_f1": 0.1102
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF111814_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "center of the city most affected"
+    ],
+    "items_modelo": [
+      "Escasez de agua en comunidades",
+      "Conflictos por agua",
+      "Afectaciones a la salud",
+      "Desarrollo urbano descontrolado"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1001,
+    "chrf_precision": 0.0714,
+    "chrf_f1": 0.0834
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF111814_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "combat forest fires, reforestation projects, financial incentives (apoyos) for conservation. Feels there is little they can do in the watershed to improve the problem",
+      "the problem is demand, not waterhsed management"
+    ],
+    "items_modelo": [
+      "CORENA: Incentivo a la conservación del suelo",
+      "Sistema de Aguas: Manejo del suministro de agua",
+      "Secretaría de Medio Ambiente: Original",
+      "Comunidades: Mantenimiento de áreas de humedad"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1044,
+    "chrf_precision": 0.1041,
+    "chrf_f1": 0.1043
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032415_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "political",
+      "institutional, infrastructure: water sources",
+      "management"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Fugas en la red",
+      "Mala calidad del agua",
+      "Inundaciones por basura"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1019,
+    "chrf_precision": 0.097,
+    "chrf_f1": 0.0994
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032415_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "old plumbing made of asbestos",
+      "a storm in 1997 damaged plumbing, reduced water pressure (?)",
+      "trash clogging drains, water treatment plants, and water capture plants",
+      "low budgets in central govt for replacing infrastructure",
+      "misinformed public stops infrastructure projects (concern about taking water to other delegations)",
+      "population growth",
+      "horizontal urban growth",
+      "comuneros",
+      "ejidatarios sell land for urban use, people buy in good faith and dont know it is irregular"
+    ],
+    "items_modelo": [
+      "Falta de mantenimiento en la red",
+      "Deforestación y tala clandestina",
+      "Falta de reforestación",
+      "Basura en ríos y cauces"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.083,
+    "chrf_precision": 0.0991,
+    "chrf_f1": 0.0904
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032415_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "fugas, floods, encharcamientos, urban expansion"
+    ],
+    "items_modelo": [
+      "Desabasto de agua",
+      "Contaminación del agua",
+      "Inundaciones en viviendas",
+      "Conflictos por percepción de agua"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0938,
+    "chrf_precision": 0.0793,
+    "chrf_f1": 0.086
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "MC032415_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "Infrastructure maintenance: delegation maintains infrastructure (fugas, tramos tapados, ramales)",
+      "Sacmex disinfects",
+      "cleans tanks, has slowly been replacing old plumbing (starting 1998). Sacmex deals with drain blockages, put nets around springs. delegation and sacmex remove tons of trash from barrancas"
+    ],
+    "items_modelo": [
+      "Sistema de Aguas: Original",
+      "Delegaciones: Limpieza de cauces y ríos",
+      "Comunidades: Original",
+      "No especificado: Monitoreo de calidad del agua"
+    ],
+    "bleu_recall": 0.0087,
+    "bleu_precision": 0.0187,
+    "bleu_f1": 0.0119,
+    "chrf_recall": 0.0795,
+    "chrf_precision": 0.0845,
+    "chrf_f1": 0.0819
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF022615_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Water quality"
+    ],
+    "items_modelo": [
+      "Escasez de agua en Iztapalapa",
+      "Contaminación del agua",
+      "Fugas en la red",
+      "Inundaciones en épocas de lluvia"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0743,
+    "chrf_precision": 0.064,
+    "chrf_f1": 0.0687
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF022615_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "1985 earthquake",
+      "high salts in water in Xochimilco",
+      "high insectide use",
+      "corruption"
+    ],
+    "items_modelo": [
+      "Falta de interés del gobierno",
+      "Corrupción en la distribución",
+      "Asentamientos humanos irregulares",
+      "Descargas de aguas residuales"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1223,
+    "chrf_precision": 0.1272,
+    "chrf_f1": 0.1247
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF022615_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "bad water quality"
+    ],
+    "items_modelo": [
+      "Conflictos entre vecinos",
+      "Afectaciones a la salud",
+      "Desperdicio de agua en pipas",
+      "Conflictos por acceso al agua"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0896,
+    "chrf_precision": 0.0744,
+    "chrf_f1": 0.0813
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF022615_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "farmers use manure over salted soils and to add soil moisture",
+      "some farmers filter water with tepetate",
+      "residents boil water for human consumption",
+      "in some areas grow low water crops (nopal)",
+      "maintain prehispanic traditions",
+      "link to land & culture"
+    ],
+    "items_modelo": [
+      "Gobierno: Original",
+      "Vecinos: Almacenamiento de agua en cisternas",
+      "Organización REDES: Original",
+      "UAM-Xochimilco: Original"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0969,
+    "chrf_precision": 0.0792,
+    "chrf_f1": 0.0871
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012015_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "abstecimiento de agua, inundaciones"
+    ],
+    "items_modelo": [
+      "Abastecimiento de agua",
+      "Inundaciones en comunidades",
+      "Mala calidad del agua",
+      "Fugas en la red"
+    ],
+    "bleu_recall": 0.2825,
+    "bleu_precision": 0.1017,
+    "bleu_f1": 0.1496,
+    "chrf_recall": 0.4976,
+    "chrf_precision": 0.2337,
+    "chrf_f1": 0.318
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012015_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "Naturales (los acuiferos no son suficientes, tiempo de lluvia es muy corta, cuando llueve regresa los lago viejos), sociales (alta demanda de la poblacion, asentimiento humanos irregulares), finanzas (es mas caro drenar que potibilizar el agua de la cuidad)"
+    ],
+    "items_modelo": [
+      "Falta de inversión en infraestructura",
+      "Falta de acceso a servicios",
+      "Asentamientos en zonas de riesgo",
+      "Falta de planeación urbana"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0453,
+    "chrf_precision": 0.0409,
+    "chrf_f1": 0.043
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012015_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "falta de agua, y se require mucho inversion para resolverlo con la infraestructure necesaria. Inundaciones en las casa (problema hidrosanitario) y en vialidades"
+    ],
+    "items_modelo": [
+      "Costos altos de vivienda",
+      "Escasez de agua en colonias",
+      "Afectaciones a la salud",
+      "Conflictos por acceso al agua"
+    ],
+    "bleu_recall": 0.0029,
+    "bleu_precision": 0.0013,
+    "bleu_f1": 0.0018,
+    "chrf_recall": 0.0794,
+    "chrf_precision": 0.0591,
+    "chrf_f1": 0.0678
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012015_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "contstruir mas pozos y planta potabilizadoras"
+    ],
+    "items_modelo": [
+      "Gobierno: Inversión en infraestructura hidráulica",
+      "CONAGUA: Desarrollo de plantas potabilizadoras",
+      "Delegaciones: Manejo de presupuestos autónomos",
+      "No especificado: Original"
+    ],
+    "bleu_recall": 0.0812,
+    "bleu_precision": 0.0203,
+    "bleu_f1": 0.0325,
+    "chrf_recall": 0.3729,
+    "chrf_precision": 0.1551,
+    "chrf_f1": 0.2191
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X011915_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "descarga de agua negras",
+      "falta de drenaje",
+      "falta de platas tratadoras de agua"
+    ],
+    "items_modelo": [
+      "Contaminación de los canales",
+      "Inundaciones en la zona",
+      "Escasez de agua potable",
+      "Hundimiento de chinampas"
+    ],
+    "bleu_recall": 0.2628,
+    "bleu_precision": 0.1886,
+    "bleu_f1": 0.2196,
+    "chrf_recall": 0.2289,
+    "chrf_precision": 0.1692,
+    "chrf_f1": 0.1946
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X011915_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "sociales (descargas son causadas por 11 mil casas de urbanization no ligitima, falta de educacion ambiental a los turista que tiran basura) institutcionales (el inversion no se ven en xochimilco)"
+    ],
+    "items_modelo": [
+      "Descargas de aguas residuales",
+      "Falta de infraestructura de drenaje",
+      "Asentamientos irregulares",
+      "Corrupción en la gestión"
+    ],
+    "bleu_recall": 0.0003,
+    "bleu_precision": 0.0001,
+    "bleu_f1": 0.0002,
+    "chrf_recall": 0.0638,
+    "chrf_precision": 0.0485,
+    "chrf_f1": 0.0551
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X011915_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "dermatitis en los ninos"
+    ],
+    "items_modelo": [
+      "Daños a la salud",
+      "Alteración del medio ambiente",
+      "Conflictos sociales por agua",
+      "Contaminación del agua"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.107,
+    "chrf_precision": 0.0816,
+    "chrf_f1": 0.0926
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X011915_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "10 plantas tratadores de agua, dragar y llevar sedimentos al distrito del riego (la cienaga grande)"
+    ],
+    "items_modelo": [
+      "Sistemas de Aguas de la Ciudad de México: Monitoreo de calidad del agua",
+      "Gobierno del Distrito Federal: Implementación de programas de limpieza",
+      "SEDEREC: Financiamiento de proyectos de conservación",
+      "Vecinos: Original"
+    ],
+    "bleu_recall": 0.0281,
+    "bleu_precision": 0.0151,
+    "bleu_f1": 0.0196,
+    "chrf_recall": 0.1785,
+    "chrf_precision": 0.1156,
+    "chrf_f1": 0.1403
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X042315_GOV",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Los canales de Xochimilco, valor patrimonial de las Chinampas"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Inundaciones en la zona",
+      "Contaminación del agua",
+      "Hundimientos diferenciales"
+    ],
+    "bleu_recall": 0.0267,
+    "bleu_precision": 0.0067,
+    "bleu_f1": 0.0107,
+    "chrf_recall": 0.0908,
+    "chrf_precision": 0.0688,
+    "chrf_f1": 0.0783
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X042315_GOV",
+    "columna": "causa",
+    "items_humano": [
+      "La política de SACMEX no tiene visión de re-aprovechamiento, Las descargas de drenaje de asentamientos irregulares a los canales de Xochimilco, aumento de los a sentamientos irregulares en la zona de las chinampas"
+    ],
+    "items_modelo": [
+      "Explotación de acuíferos",
+      "Asentamientos irregulares",
+      "Fugas en la red",
+      "Falta de mantenimiento en coladeras"
+    ],
+    "bleu_recall": 0.0003,
+    "bleu_precision": 0.0001,
+    "bleu_f1": 0.0002,
+    "chrf_recall": 0.1098,
+    "chrf_precision": 0.0624,
+    "chrf_f1": 0.0796
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X042315_GOV",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Deficit del agua, incremento en la explotación de ojos de agua y pozos, hundimientos diferenciales"
+    ],
+    "items_modelo": [
+      "Daños a la salud",
+      "Conflictos entre vecinos",
+      "Costos por comprar agua",
+      "Alteración del medio ambiente"
+    ],
+    "bleu_recall": 0.0062,
+    "bleu_precision": 0.0046,
+    "bleu_f1": 0.0053,
+    "chrf_recall": 0.1053,
+    "chrf_precision": 0.0639,
+    "chrf_f1": 0.0795
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X042315_GOV",
+    "columna": "accion",
+    "items_humano": [
+      "Las acciones son propuestas, aun no se aplican"
+    ],
+    "items_modelo": [
+      "SEMARNAT: Original",
+      "Autoridades locales: Implementación de programas de conservación",
+      "Chinamperos: Mantenimiento de la producción agrícola",
+      "Gobierno francés: Financiamiento de proyectos de infraestructura"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.1324,
+    "chrf_precision": 0.0974,
+    "chrf_f1": 0.1122
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_GOB",
+    "columna": "preocupacion",
+    "items_humano": [
+      "La contaminación, la calidad del agua"
+    ],
+    "items_modelo": [
+      "Calidad del agua",
+      "Escasez de agua",
+      "Contaminación por invernaderos",
+      "Inundaciones en asentamientos irregulares"
+    ],
+    "bleu_recall": 0.1451,
+    "bleu_precision": 0.0544,
+    "bleu_f1": 0.0791,
+    "chrf_recall": 0.3667,
+    "chrf_precision": 0.2184,
+    "chrf_f1": 0.2737
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_GOB",
+    "columna": "causa",
+    "items_humano": [
+      "Asentamientos regulares e irregulares sin drenaje, la gente no apoya los proyectos, falta de información y comunicación con los vecinos Causas principales: Deficiencia de las plantas de tratamiento, descargas de drenames de asentamientos irregulares y regulares y las actividades productivas"
+    ],
+    "items_modelo": [
+      "Fugas en la red",
+      "Asentamientos irregulares",
+      "Contaminación por agroquímicos",
+      "Hundimientos diferenciales"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0861,
+    "chrf_precision": 0.0452,
+    "chrf_f1": 0.0593
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_GOB",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Hundimientos desiguales, contaminación de los canales, mala calidad del agua, Desinterés en las Chinampas, abandono y venta de tierras"
+    ],
+    "items_modelo": [
+      "Daños a la salud",
+      "Original",
+      "Deterioro del ecosistema",
+      "Impacto negativo en turismo"
+    ],
+    "bleu_recall": 0.0014,
+    "bleu_precision": 0.0004,
+    "bleu_f1": 0.0007,
+    "chrf_recall": 0.0518,
+    "chrf_precision": 0.0364,
+    "chrf_f1": 0.0428
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_GOB",
+    "columna": "accion",
+    "items_humano": [
+      "Propuesta: Convencer a SACMEX de que el manjeo del agua en Xochimilco debe ser diferente, ampliar el lago central y hacer turismo diferente"
+    ],
+    "items_modelo": [
+      "Autoridad de la Zona Patrimonio: Coordinación con académicos",
+      "Productores: Implementación de tratamientos de agua",
+      "Instituto de Biología de la UNAM: Colaboración en proyectos de conservación",
+      "SACMEX: Manejo del suministro de agua"
+    ],
+    "bleu_recall": 0.0151,
+    "bleu_precision": 0.0097,
+    "bleu_f1": 0.0118,
+    "chrf_recall": 0.1138,
+    "chrf_precision": 0.1077,
+    "chrf_f1": 0.1107
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "No lo dice concretamente, pero me parece que es el abastecimietno de agua en la agricultura, porque menciona mucho los cultivos",
+      "Calidad de agua en los canales, abastecimiento de agua, inundaciones"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Contaminación de fuentes",
+      "Inundaciones en zonas urbanas",
+      "Acceso desigual al agua"
+    ],
+    "bleu_recall": 0.0144,
+    "bleu_precision": 0.0211,
+    "bleu_f1": 0.0171,
+    "chrf_recall": 0.1222,
+    "chrf_precision": 0.123,
+    "chrf_f1": 0.1226
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Socio-institucional: Percepción del agua varia por la cultura, Cambio de uso de sulo (urbanización) Infraestructural: Construcción de pista de canotaje",
+      "Uso de suelo: Asentamientos humanos irregulares, abandono de las chinampas. Socio-institucionales: descargas de aguas negras clandestinas, falta de inversión en las chinampas"
+    ],
+    "items_modelo": [
+      "Extracción de acuíferos",
+      "Asentamientos irregulares",
+      "Falta de regulación en uso de agua",
+      "Crecimiento urbano descontrolado"
+    ],
+    "bleu_recall": 0.0085,
+    "bleu_precision": 0.003,
+    "bleu_f1": 0.0045,
+    "chrf_recall": 0.119,
+    "chrf_precision": 0.0907,
+    "chrf_f1": 0.103
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "El crecimiento urbano y la falta de agua para los cultivos",
+      "Calidad y disponibilidad de agua, hundimientos, inundaciones y problemas a la salud, cambio de uso de suelo"
+    ],
+    "items_modelo": [
+      "Deterioro de ríos",
+      "Conflictos por acceso al agua",
+      "Impacto en la salud pública",
+      "Desplazamiento de comunidades"
+    ],
+    "bleu_recall": 0.0214,
+    "bleu_precision": 0.0256,
+    "bleu_f1": 0.0233,
+    "chrf_recall": 0.1177,
+    "chrf_precision": 0.1017,
+    "chrf_f1": 0.1091
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "X022415_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "No dice exactamente, menciona algo de Manejo ambiental a través de una Comisión de Cuencas, la regulación de agua de drenaje hacia los canales (son acciones que le gustaría que pasaran). Diseño ambiental con Arquitectos",
+      "Contruir más pozos y plantas potabilizadoras"
+    ],
+    "items_modelo": [
+      "SACMEX: Gestión del sistema de agua",
+      "Comisión de Cuenca: Original",
+      "Organizaciones civiles: Original",
+      "Gobierno del Distrito Federal: Implementación de políticas de agua"
+    ],
+    "bleu_recall": 0.0023,
+    "bleu_precision": 0.0015,
+    "bleu_f1": 0.0018,
+    "chrf_recall": 0.1134,
+    "chrf_precision": 0.0838,
+    "chrf_f1": 0.0964
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012815_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Abastecimiento: Inequidades en acceso"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Inundaciones en la ciudad",
+      "Mala calidad del agua",
+      "Tandeo en las colonias"
+    ],
+    "bleu_recall": 0.1244,
+    "bleu_precision": 0.0622,
+    "bleu_f1": 0.0829,
+    "chrf_recall": 0.1512,
+    "chrf_precision": 0.094,
+    "chrf_f1": 0.116
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012815_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Biofísico: Origen lacustre de la ciudad, procesos geológicos",
+      "Institucional: Falta de planeación, falta de información y control sobre urbanización",
+      "Político: manipulación de votos y colusión entre gob y sector privado"
+    ],
+    "items_modelo": [
+      "Crecimiento descontrolado de la ciudad",
+      "Asentamientos irregulares",
+      "Fugas en la red de agua",
+      "Falta de infraestructura adecuada"
+    ],
+    "bleu_recall": 0.0699,
+    "bleu_precision": 0.0579,
+    "bleu_f1": 0.0633,
+    "chrf_recall": 0.1869,
+    "chrf_precision": 0.1553,
+    "chrf_f1": 0.1696
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012815_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Falta de servicios en agua",
+      "inequidades en aceso"
+    ],
+    "items_modelo": [
+      "Conflictos por acceso al agua",
+      "Daños a la salud",
+      "Desigualdad en acceso a agua",
+      "Original"
+    ],
+    "bleu_recall": 0.1169,
+    "bleu_precision": 0.0585,
+    "bleu_f1": 0.078,
+    "chrf_recall": 0.246,
+    "chrf_precision": 0.1447,
+    "chrf_f1": 0.1822
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF012815_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "Población: manifestaciónes sociales",
+      "Gobierno: compra de votos y estimulos a la urbanización"
+    ],
+    "items_modelo": [
+      "SACMEX: Original",
+      "Gobierno local: Control del tandeo de agua",
+      "Vecinos: Organización de marchas por agua",
+      "No especificado: Original"
+    ],
+    "bleu_recall": 0.1269,
+    "bleu_precision": 0.1198,
+    "bleu_f1": 0.1232,
+    "chrf_recall": 0.1884,
+    "chrf_precision": 0.1484,
+    "chrf_f1": 0.1661
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF013015_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Abastecimiento: Aceso para calidad de vivienda y barrio"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Mala calidad del agua",
+      "Falta de coordinación institucional",
+      "Inundaciones en Iztapalapa"
+    ],
+    "bleu_recall": 0.0458,
+    "bleu_precision": 0.0322,
+    "bleu_f1": 0.0378,
+    "chrf_recall": 0.1659,
+    "chrf_precision": 0.1015,
+    "chrf_f1": 0.126
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF013015_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Institucional: Falta de capacidad y coordinación en administración urbana",
+      "Política: influencia de interés económicos en vivienda y servicios de la ciudad"
+    ],
+    "items_modelo": [
+      "Explotación de acuíferos",
+      "Falta de planeación urbana",
+      "Corrupción en permisos",
+      "Desigualdad en el acceso al agua"
+    ],
+    "bleu_recall": 0.0521,
+    "bleu_precision": 0.0435,
+    "bleu_f1": 0.0474,
+    "chrf_recall": 0.1678,
+    "chrf_precision": 0.1291,
+    "chrf_f1": 0.1459
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF013015_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "inequidad en aceso a servicios y calidad de vida"
+    ],
+    "items_modelo": [
+      "Grietas en viviendas",
+      "Costos altos por agua",
+      "Conflictos entre vecinos",
+      "Deterioro de la salud"
+    ],
+    "bleu_recall": 0.0458,
+    "bleu_precision": 0.0208,
+    "bleu_f1": 0.0286,
+    "chrf_recall": 0.0977,
+    "chrf_precision": 0.0774,
+    "chrf_f1": 0.0864
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF013015_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "Población: mobilización social",
+      "Entrevistada: Organización social y gestión de proyectos"
+    ],
+    "items_modelo": [
+      "Movimiento Urbano Popular: Gestión de servicios básicos",
+      "Gobierno: Implementación de programas de mejoramiento",
+      "SACMEX: Distribución de agua a colonias",
+      "Vecinos: Organización de marchas por agua"
+    ],
+    "bleu_recall": 0.0958,
+    "bleu_precision": 0.0818,
+    "bleu_f1": 0.0882,
+    "chrf_recall": 0.2589,
+    "chrf_precision": 0.2189,
+    "chrf_f1": 0.2372
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF020415_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Niinguna"
+    ],
+    "items_modelo": [
+      "Riesgo hídrico en la ciudad",
+      "Calidad de vida",
+      "Acceso a bienes urbanos",
+      "Construcción del hábitat"
+    ],
+    "bleu_recall": 0.0,
+    "bleu_precision": 0.0,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0794,
+    "chrf_precision": 0.0684,
+    "chrf_f1": 0.0735
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF020415_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Institucional: falta de información y normas",
+      "Políticos: corrupción y presión social"
+    ],
+    "items_modelo": [
+      "Falta de planeación urbana",
+      "Inversión privada en vivienda",
+      "Corrupción en construcción",
+      "Falta de coordinación institucional"
+    ],
+    "bleu_recall": 0.0377,
+    "bleu_precision": 0.0377,
+    "bleu_f1": 0.0377,
+    "chrf_recall": 0.3003,
+    "chrf_precision": 0.2148,
+    "chrf_f1": 0.2504
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF020415_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Riesgos en vivienda"
+    ],
+    "items_modelo": [
+      "Alteración del medio ambiente",
+      "Aumento de riesgo en asentamientos",
+      "Desigualdad en acceso a servicios",
+      "Conflictos por uso de suelo"
+    ],
+    "bleu_recall": 0.1068,
+    "bleu_precision": 0.0534,
+    "bleu_f1": 0.0712,
+    "chrf_recall": 0.2388,
+    "chrf_precision": 0.1444,
+    "chrf_f1": 0.18
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021215_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Abastecimiento: inequidades en aceso al agua"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Inundaciones por urbanización",
+      "Calidad del agua",
+      "Asentamientos humanos irregulares"
+    ],
+    "bleu_recall": 0.0725,
+    "bleu_precision": 0.0363,
+    "bleu_f1": 0.0484,
+    "chrf_recall": 0.1578,
+    "chrf_precision": 0.1175,
+    "chrf_f1": 0.1347
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021215_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Institucional: falta de coordinación política en urbanización",
+      "Política: corrupción en procesos de urbanización"
+    ],
+    "items_modelo": [
+      "Intereses inmobiliarios",
+      "Descoordinación institucional",
+      "Asentamientos humanos irregulares",
+      "Fugas en la red de agua"
+    ],
+    "bleu_recall": 0.0754,
+    "bleu_precision": 0.0204,
+    "bleu_f1": 0.0321,
+    "chrf_recall": 0.2194,
+    "chrf_precision": 0.1369,
+    "chrf_f1": 0.1686
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021215_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "Falta de agua en zonas peri urbanas"
+    ],
+    "items_modelo": [
+      "Afectaciones a la salud",
+      "Conflictos por agua",
+      "Gentrificación de zonas",
+      "Desigualdad en acceso a agua"
+    ],
+    "bleu_recall": 0.0914,
+    "bleu_precision": 0.0623,
+    "bleu_f1": 0.0741,
+    "chrf_recall": 0.1792,
+    "chrf_precision": 0.1381,
+    "chrf_f1": 0.156
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021215_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "Población: captura de agua de lluvia"
+    ],
+    "items_modelo": [
+      "Sistema de Aguas de la Ciudad de México: Gestión de distribución de agua",
+      "ONGs: Implementación de proyectos de captación de agua",
+      "Vecinos: Organización de filtración de agua",
+      "Instituciones comunitarias: Fortalecimiento de gestión de recursos"
+    ],
+    "bleu_recall": 0.1562,
+    "bleu_precision": 0.1025,
+    "bleu_f1": 0.1237,
+    "chrf_recall": 0.2962,
+    "chrf_precision": 0.2528,
+    "chrf_f1": 0.2727
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021815_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Abastecimiento: inequidades en aceso al agua"
+    ],
+    "items_modelo": [
+      "Mala calidad del agua",
+      "Inundaciones en Iztapalapa",
+      "Escasez de agua",
+      "Fugas en la red"
+    ],
+    "bleu_recall": 0.0755,
+    "bleu_precision": 0.074,
+    "bleu_f1": 0.0747,
+    "chrf_recall": 0.1456,
+    "chrf_precision": 0.1119,
+    "chrf_f1": 0.1266
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021815_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Politica: Influencia del sector privada en la distribución, influencia de grupos políticos en manejo del agua"
+    ],
+    "items_modelo": [
+      "Corrupción en el sistema",
+      "Falta de mantenimiento en drenajes",
+      "Crecimiento urbano descontrolado",
+      "Desigualdad en distribución de agua"
+    ],
+    "bleu_recall": 0.0112,
+    "bleu_precision": 0.0064,
+    "bleu_f1": 0.0081,
+    "chrf_recall": 0.1689,
+    "chrf_precision": 0.0955,
+    "chrf_f1": 0.122
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021815_ACA",
+    "columna": "consecuencia",
+    "items_humano": [
+      "inequidad en aceso a servicios y calidad de vida"
+    ],
+    "items_modelo": [
+      "Desconfianza en el agua potable",
+      "Afectaciones a la salud",
+      "Inundaciones recurrentes",
+      "Conflictos entre comunidades"
+    ],
+    "bleu_recall": 0.048,
+    "bleu_precision": 0.0234,
+    "bleu_f1": 0.0315,
+    "chrf_recall": 0.1201,
+    "chrf_precision": 0.0971,
+    "chrf_f1": 0.1074
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF021815_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "Gobierno: inversiones en infraestructura y imuebles donde la gente tiene recursos",
+      "Población (pobre): compra de agua potable"
+    ],
+    "items_modelo": [
+      "Sistemas de Aguas: Control de la distribución de agua",
+      "Gobierno: Negociación con desarrolladores inmobiliarios",
+      "Vecinos: Organización de marchas por agua",
+      "Organizaciones civiles: Demanda de calidad del agua"
+    ],
+    "bleu_recall": 0.0763,
+    "bleu_precision": 0.0704,
+    "bleu_f1": 0.0732,
+    "chrf_recall": 0.2166,
+    "chrf_precision": 0.2006,
+    "chrf_f1": 0.2083
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF022515_ACA",
+    "columna": "preocupacion",
+    "items_humano": [
+      "Abastecimiento: inequidades en aceso al agua",
+      "falta de agua potable"
+    ],
+    "items_modelo": [
+      "Escasez de agua",
+      "Inundaciones en ciertas zonas",
+      "Complejidad del sistema hídrico"
+    ],
+    "bleu_recall": 0.2349,
+    "bleu_precision": 0.1566,
+    "bleu_f1": 0.1879,
+    "chrf_recall": 0.2181,
+    "chrf_precision": 0.1776,
+    "chrf_f1": 0.1958
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF022515_ACA",
+    "columna": "causa",
+    "items_humano": [
+      "Biofisico: disminuación en caudales y acuiferos",
+      "Político: manipulación político de distribución",
+      "Institucional: fomento de vivienda en zonas de problemas en abastecimiento"
+    ],
+    "items_modelo": [
+      "Población flotante",
+      "Fuentes de abastecimiento diversas",
+      "Acuífero metropolitano limitado"
+    ],
+    "bleu_recall": 0.0433,
+    "bleu_precision": 0.0323,
+    "bleu_f1": 0.037,
+    "chrf_recall": 0.1475,
+    "chrf_precision": 0.1483,
+    "chrf_f1": 0.1479
+  },
+  {
+    "corrida": "output_v5",
+    "Id_humano": "DF022515_ACA",
+    "columna": "accion",
+    "items_humano": [
+      "Gobierno: Politica de vivienda (Banda II ) y inversiones en infrastructura donde hay interes immobilarias"
+    ],
+    "items_modelo": [],
+    "bleu_recall": 0.0,
+    "bleu_precision": null,
+    "bleu_f1": 0.0,
+    "chrf_recall": 0.0,
+    "chrf_precision": null,
+    "chrf_f1": 0.0
+  }
+]
