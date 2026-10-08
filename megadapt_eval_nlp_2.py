@@ -4,10 +4,12 @@ MEGADAPT - Evaluación NLP de la codificación cualitativa (v3)
 Calcula BLEU, chrF++ y BERTScore para comparar la salida del pipeline
 contra la codificación humana (hoja «Integracion» del Excel).
 
-Estas métricas complementan las métricas léxicas/LLM de megadapt_compare_human.py:
+Estas métricas evalúan la extracción cruda (raw) de cada corrida:
   • BLEU:    precisión de n-gramas de palabras (sacrebleu).
   • chrF++:  F-score de n-gramas de caracteres Y palabras (sacrebleu).
   • BERTScore: similitud semántica mediante embeddings contextuales.
+              Es la métrica estrella del proyecto: evalúa sin alterar las
+              frases originales del LLM, evitando sesgos de estandarización.
 
 ─── Por qué adaptamos las métricas ───────────────────────────────────────────
 BLEU y chrF++ fueron diseñadas para traducción (una hipótesis vs. una referencia).
@@ -27,22 +29,22 @@ Aquí tenemos CONJUNTOS de frases cortas por campo y entrevista. La adaptación:
 ─── Modos de uso ─────────────────────────────────────────────────────────────
 
 # Resumen por corrida (genera CSVs + Excel directivo):
-python megadapt_eval_nlp.py \
+python megadapt_eval_nlp_2.py \
     --human "2.Análisis Cualitativo Integración.xlsx" \
-    --llm v5=output_v5/analysis_standardized_v5.csv \
-        v6=output_v6/analysis_standardized_v6.csv \
+    --llm v5=output_v5/analysis_v5.csv \
+        haiku=output_haiku/analysis_haiku.csv \
     --out ./eval_nlp --metrics bleu chrf --xlsx
 
 # Enriquecer el CSV del pipeline:
-python megadapt_eval_nlp.py \
+python megadapt_eval_nlp_2.py \
     --human "2.Análisis Cualitativo Integración.xlsx" \
-    --llm output_v5/analysis_standardized_v5.csv \
+    --llm output_v5/analysis_v5.csv \
     --out ./eval_nlp --metrics bleu chrf --enrich
 
-# Con BERTScore (descarga ~440 MB la primera vez):
-python megadapt_eval_nlp.py \
+# Con BERTScore + Excel (métrica primaria automática = bertscore):
+python megadapt_eval_nlp_2.py \
     --human "2.Análisis Cualitativo Integración.xlsx" \
-    --llm v5=output_v5/analysis_standardized_v5.csv \
+    --llm v5=output_v5/analysis_v5.csv \
     --out ./eval_nlp --metrics bleu chrf bertscore \
     --bertscore-model dccuchile/bert-base-spanish-wwm-cased \
     --lang es --xlsx
@@ -188,6 +190,7 @@ def load_human(path: str, sheet: str = "Integracion") -> dict[str, dict[str, lis
 
 
 def load_llm(path: str) -> dict[str, dict[str, list[str]]]:
+    """Carga el CSV crudo generado por el pipeline (analysis_v5.csv o analysis_haiku.csv)."""
     df = pd.read_csv(path, dtype=str, encoding="utf-8-sig").fillna("")
     out: dict[str, dict[str, list[str]]] = {}
     for _, r in df.iterrows():
@@ -760,7 +763,7 @@ def enrich_csv(
     device: str = "cpu",
 ) -> pd.DataFrame:
     """
-    Carga el CSV del pipeline, añade columnas de métricas NLP por campo y
+    Carga el CSV crudo del pipeline, añade columnas de métricas NLP por campo y
     guarda el resultado como <nombre_original>_con_metricas.csv en out_dir.
 
     Columnas añadidas por cada métrica M y campo C:
@@ -864,24 +867,24 @@ if __name__ == "__main__":
 Ejemplos de uso:
 
   # Comparar dos corridas + exportar Excel directivo:
-  python megadapt_eval_nlp.py \\
+  python megadapt_eval_nlp_2.py \\
       --human "integracion.xlsx" \\
-      --llm v5=output_v5/analysis_standardized_v5.csv \\
-            v6=output_v6/analysis_standardized_v6.csv \\
+      --llm v5=output_v5/analysis_v5.csv \\
+            haiku=output_haiku/analysis_haiku.csv \\
       --metrics bleu chrf --xlsx
 
   # Con BERTScore + Excel (métrica primaria automática = bertscore):
-  python megadapt_eval_nlp.py \\
+  python megadapt_eval_nlp_2.py \\
       --human "integracion.xlsx" \\
-      --llm v5=output_v5/analysis_standardized_v5.csv \\
+      --llm v5=output_v5/analysis_v5.csv \\
       --metrics bleu chrf bertscore \\
       --bertscore-model dccuchile/bert-base-spanish-wwm-cased \\
       --xlsx
 
-  # Enriquecer CSV del pipeline (modo --enrich, sin --xlsx):
-  python megadapt_eval_nlp.py \\
+  # Enriquecer CSV del pipeline con métricas por campo (modo --enrich, sin --xlsx):
+  python megadapt_eval_nlp_2.py \\
       --human "integracion.xlsx" \\
-      --llm output_v5/analysis_standardized_v5.csv \\
+      --llm output_v5/analysis_v5.csv \\
       --metrics bleu chrf --enrich
 """,
     )
@@ -889,7 +892,7 @@ Ejemplos de uso:
                     help="Excel de codificación humana (hoja Integracion)")
     ap.add_argument("--llm", nargs="+", required=True,
                     help=(
-                        "CSV(s) del pipeline. "
+                        "CSV(s) del pipeline (analysis_v5.csv, analysis_haiku.csv, etc.). "
                         "Formato: nombre=ruta.csv  (o solo ruta.csv para nombre automático). "
                         "Se pueden pasar varios para comparar corridas."
                     ))
@@ -898,7 +901,7 @@ Ejemplos de uso:
     ap.add_argument(
         "--metrics", nargs="+", default=["bleu", "chrf"],
         choices=["bleu", "chrf", "bertscore"],
-        help="Métricas a calcular (default: bleu chrf).",
+        help="Métricas a calcular (default: bleu chrf). BERTScore es la métrica estrella del proyecto.",
     )
     ap.add_argument("--sheet", default="Integracion",
                     help="Nombre de la hoja en el Excel humano (default: Integracion)")

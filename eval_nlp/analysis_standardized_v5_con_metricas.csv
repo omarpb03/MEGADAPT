@@ -14,7 +14,7 @@ Delegaciones: Manejo de presupuestos autónomos
 No especificado: Original","Gobierno
 CONAGUA
 Delegaciones
-No especificado",0.2825,0.1017,0.1496,0.0,0.0,0.0,0.0029,0.0013,0.0018,0.0812,0.0203,0.0325,0.4976,0.2337,0.318,0.0453,0.0409,0.043,0.0794,0.0591,0.0678,0.3729,0.1551,0.2191,0.0916,0.0308,0.046,0.2488,0.1222,0.162
+No especificado",0.2825,0.1017,0.1496,0,0,0,0.0029,0.0013,0.0018,0.0812,0.0203,0.0325,0.4976,0.2337,0.318,0.0453,0.0409,0.043,0.0794,0.0591,0.0678,0.3729,0.1551,0.2191,0.0916,0.0308,0.046,0.2488,0.1222,0.162
 DF012815_ACA,"Escasez de agua
 Inundaciones en la ciudad
 Mala calidad del agua
@@ -62,7 +62,7 @@ Gobierno del Distrito Federal: Implementación de programas de vivienda
 Organizaciones vecinales: Denuncia de afectaciones ambientales","Movimientos urbanos
 ONGs de vivienda
 Gobierno del Distrito Federal
-Organizaciones vecinales",0.0,0.0,0.0,0.0377,0.0377,0.0377,0.1068,0.0534,0.0712,,,,0.0794,0.0684,0.0735,0.3003,0.2148,0.2504,0.2388,0.1444,0.18,,,,0.0482,0.0304,0.0363,0.2062,0.1425,0.168
+Organizaciones vecinales",0,0,0,0.0377,0.0377,0.0377,0.1068,0.0534,0.0712,,,,0.0794,0.0684,0.0735,0.3003,0.2148,0.2504,0.2388,0.1444,0.18,,,,0.0482,0.0304,0.0363,0.2062,0.1425,0.168
 DF021215_ACA,"Escasez de agua
 Inundaciones por urbanización
 Calidad del agua
@@ -116,7 +116,7 @@ Organización REDES: Original
 UAM-Xochimilco: Original","Gobierno
 Vecinos
 Organización REDES
-UAM-Xochimilco",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0743,0.064,0.0687,0.1223,0.1272,0.1247,0.0896,0.0744,0.0813,0.0969,0.0792,0.0871,0.0,0.0,0.0,0.0958,0.0862,0.0905
+UAM-Xochimilco",0,0,0,0,0,0,0,0,0,0,0,0,0.0743,0.064,0.0687,0.1223,0.1272,0.1247,0.0896,0.0744,0.0813,0.0969,0.0792,0.0871,0,0,0,0.0958,0.0862,0.0905
 DF031215_ACA,"Inundaciones en Iztapalapa
 Escasez de agua en colonias
 Mala calidad del agua
@@ -163,7 +163,7 @@ SACMEX: Elaboración de mapas de inundación
 Sedartu: Financiamiento de atlas de riesgos","Cenapred
 Protección Civil
 SACMEX
-Sedartu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0958,0.0689,0.0802,0.1047,0.0933,0.0987,0.0951,0.0908,0.0929,0.1473,0.1596,0.1532,0.0,0.0,0.0,0.1107,0.1031,0.1062
+Sedartu",0,0,0,0,0,0,0,0,0,0,0,0,0.0958,0.0689,0.0802,0.1047,0.0933,0.0987,0.0951,0.0908,0.0929,0.1473,0.1596,0.1532,0,0,0,0.1107,0.1031,0.1062
 DF042415_GOB,"Inundaciones en la ciudad
 Escasez de agua
 Calidad del agua
@@ -195,7 +195,7 @@ Secretaría de Medio Ambiente: Original
 Comunidades: Mantenimiento de áreas de humedad","CORENA
 Sistema de Aguas
 Secretaría de Medio Ambiente
-Comunidades",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1393,0.1231,0.1307,0.1393,0.0912,0.1102,0.1001,0.0714,0.0834,0.1044,0.1041,0.1043,0.0,0.0,0.0,0.1208,0.0975,0.1072
+Comunidades",0,0,0,0,0,0,0,0,0,0,0,0,0.1393,0.1231,0.1307,0.1393,0.0912,0.1102,0.1001,0.0714,0.0834,0.1044,0.1041,0.1043,0,0,0,0.1208,0.0975,0.1072
 I021415_OTR,"Abastecimiento de agua
 Mala calidad del agua
 Tandeo en la distribución
@@ -259,7 +259,7 @@ Ejidatarios: Captación de agua de lluvia
 Gobierno: Original","Delegaciones
 Sistema de Aguas
 Ejidatarios
-Gobierno",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0363,0.0689,0.0475,0.0333,0.0221,0.0266,0.0607,0.0562,0.0583,0.0846,0.0943,0.0892,0.1386,0.1108,0.1231,0.0091,0.0172,0.0119,0.0793,0.0708,0.0743
+Gobierno",0,0,0,0,0,0,0,0,0,0.0363,0.0689,0.0475,0.0333,0.0221,0.0266,0.0607,0.0562,0.0583,0.0846,0.0943,0.0892,0.1386,0.1108,0.1231,0.0091,0.0172,0.0119,0.0793,0.0708,0.0743
 MC032415_GOB,"Escasez de agua
 Fugas en la red
 Mala calidad del agua
@@ -275,7 +275,7 @@ Comunidades: Original
 No especificado: Monitoreo de calidad del agua","Sistema de Aguas
 Delegaciones
 Comunidades
-No especificado",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0087,0.0187,0.0119,0.1019,0.097,0.0994,0.083,0.0991,0.0904,0.0938,0.0793,0.086,0.0795,0.0845,0.0819,0.0022,0.0047,0.003,0.0896,0.09,0.0894
+No especificado",0,0,0,0,0,0,0,0,0,0.0087,0.0187,0.0119,0.1019,0.097,0.0994,0.083,0.0991,0.0904,0.0938,0.0793,0.086,0.0795,0.0845,0.0819,0.0022,0.0047,0.003,0.0896,0.09,0.0894
 MC032515_GOB,"Deslizamientos de talud
 Inundaciones en asentamientos
 Contaminación del agua
@@ -291,7 +291,7 @@ Tenencia de la Tierra: Prevención del crecimiento de asentamientos
 SACMEX: Limpieza de drenajes y coladeras","Protección Civil
 Ecología
 Tenencia de la Tierra
-SACMEX",0.0,0.0,0.0,0.0075,0.0022,0.0034,0.2825,0.0706,0.113,0.0606,0.0433,0.0505,0.2714,0.14,0.1847,0.1438,0.0797,0.1026,0.2711,0.1413,0.1858,0.2453,0.1628,0.1957,0.0876,0.029,0.0417,0.2329,0.131,0.1672
+SACMEX",0,0,0,0.0075,0.0022,0.0034,0.2825,0.0706,0.113,0.0606,0.0433,0.0505,0.2714,0.14,0.1847,0.1438,0.0797,0.1026,0.2711,0.1413,0.1858,0.2453,0.1628,0.1957,0.0876,0.029,0.0417,0.2329,0.131,0.1672
 X011915_GOB,"Contaminación de los canales
 Inundaciones en la zona
 Escasez de agua potable
@@ -307,7 +307,7 @@ SEDEREC: Financiamiento de proyectos de conservación
 Vecinos: Original","Sistemas de Aguas de la Ciudad de México
 Gobierno del Distrito Federal
 SEDEREC
-Vecinos",0.2628,0.1886,0.2196,0.0003,0.0001,0.0002,0.0,0.0,0.0,0.0281,0.0151,0.0196,0.2289,0.1692,0.1946,0.0638,0.0485,0.0551,0.107,0.0816,0.0926,0.1785,0.1156,0.1403,0.0728,0.0509,0.0599,0.1445,0.1037,0.1207
+Vecinos",0.2628,0.1886,0.2196,0.0003,0.0001,0.0002,0,0,0,0.0281,0.0151,0.0196,0.2289,0.1692,0.1946,0.0638,0.0485,0.0551,0.107,0.0816,0.0926,0.1785,0.1156,0.1403,0.0728,0.0509,0.0599,0.1445,0.1037,0.1207
 X022415_ACA,"Escasez de agua
 Contaminación de fuentes
 Inundaciones en zonas urbanas
@@ -339,7 +339,7 @@ Instituto de Biología de la UNAM: Colaboración en proyectos de conservación
 SACMEX: Manejo del suministro de agua","Autoridad de la Zona Patrimonio
 Productores
 Instituto de Biología de la UNAM
-SACMEX",0.1451,0.0544,0.0791,0.0,0.0,0.0,0.0014,0.0004,0.0007,0.0151,0.0097,0.0118,0.3667,0.2184,0.2737,0.0861,0.0452,0.0593,0.0518,0.0364,0.0428,0.1138,0.1077,0.1107,0.0404,0.0161,0.0229,0.1546,0.1019,0.1216
+SACMEX",0.1451,0.0544,0.0791,0,0,0,0.0014,0.0004,0.0007,0.0151,0.0097,0.0118,0.3667,0.2184,0.2737,0.0861,0.0452,0.0593,0.0518,0.0364,0.0428,0.1138,0.1077,0.1107,0.0404,0.0161,0.0229,0.1546,0.1019,0.1216
 X042315_GOB,"Escasez de agua
 Inundaciones en la zona
 Contaminación del agua
@@ -355,4 +355,4 @@ Chinamperos: Mantenimiento de la producción agrícola
 Gobierno francés: Financiamiento de proyectos de infraestructura","SEMARNAT
 Autoridades locales
 Chinamperos
-Gobierno francés",0.0267,0.0067,0.0107,0.0003,0.0001,0.0002,0.0062,0.0046,0.0053,0.0,0.0,0.0,0.0908,0.0688,0.0783,0.1098,0.0624,0.0796,0.1053,0.0639,0.0795,0.1324,0.0974,0.1122,0.0083,0.0029,0.004,0.1096,0.0731,0.0874
+Gobierno francés",0.0267,0.0067,0.0107,0.0003,0.0001,0.0002,0.0062,0.0046,0.0053,0,0,0,0.0908,0.0688,0.0783,0.1098,0.0624,0.0796,0.1053,0.0639,0.0795,0.1324,0.0974,0.1122,0.0083,0.0029,0.004,0.1096,0.0731,0.0874

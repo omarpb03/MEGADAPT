@@ -1,25 +1,31 @@
 """
 MEGADAPT - Pipeline de análisis cualitativo automatizado, v5 (OpenAI)
 
+Extrae cuatro campos cualitativos de cada transcripción de entrevista y
+guarda el consolidado directamente como `analysis_v5.csv`.
+
+La fase de estandarización fue eliminada: el CSV resultante contiene las
+frases exactamente como las devuelve el LLM (output "crudo"), lo que
+permite evaluar la extracción con BERTScore sin introducir sesgos derivados
+de alterar el texto antes de la comparación.
+
 Cambios respecto a v4 (Gemini):
   1. Proveedor OpenAI (GPT-4o y variantes) con salida estructurada (Pydantic).
   2. Prompt con definiciones explícitas de Preocupación, Causa, Consecuencia,
      Acción y Actor, con ejemplos tomados de la codificación humana.
   3. Cada elemento se devuelve resumido en 4-5 palabras (como lo hace el equipo humano).
   4. Todo en español (si la entrevista está en inglés, el modelo traduce).
-  5. Etapa de estandarización de columnas con el LLM: frases sinónimas se agrupan
-     bajo una etiqueta canónica (4-5 palabras), con archivo de mapeo auditable.
-  6. Sin truncado a 30,000 caracteres: se manda la transcripción completa y se
+  5. Sin truncado a 30,000 caracteres: se manda la transcripción completa y se
      verifica contra el context window del modelo.
-  7. Modo --count-only: palabras, tokens, % del context window y costo estimado
+  6. Modo --count-only: palabras, tokens, % del context window y costo estimado
      por entrevista y por modelo, SIN llamar a la API.
-  8. Reanudación (--resume): no vuelve a pagar tokens por entrevistas ya procesadas.
-  9. Registro de tokens reales usados y costo estimado.
+  7. Reanudación (--resume): no vuelve a pagar tokens por entrevistas ya procesadas.
+  8. Registro de tokens reales usados y costo estimado.
 
 Uso:
   python megadapt_qualitative_pipeline_v5.py --folder ./transcripciones --count-only
   python megadapt_qualitative_pipeline_v5.py --folder ./transcripciones --model gpt-4o-mini
-  python megadapt_qualitative_pipeline_v5.py --out ./output_v5 --only-standardize
+  python megadapt_qualitative_pipeline_v5.py --folder ./transcripciones --model claude-haiku-3-5
 
 Requiere OPENAI_API_KEY en .env (salvo con --count-only).
 """
@@ -31,7 +37,6 @@ import logging
 import os
 import re
 import threading
-from collections import OrderedDict, defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import asdict, dataclass, field
 from datetime import datetime
@@ -50,12 +55,11 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format="%(asctime)s  %(levelname)-8s  %(message)s", datefmt="%H:%M:%S")
 log = logging.getLogger(__name__)
 
-# 
+# ──────────────────────────────────────────────────────────────────────────────
 # 0. Catálogo de modelos (context window y precios de REFERENCIA)
-# 
+# ──────────────────────────────────────────────────────────────────────────────
 # USD por 1M de tokens. Son valores de referencia: CONFIRMAR en la página de
-# precios de OpenAI y en Settings > Limits del proyecto de LATE Lab (allí se ve
-# qué modelos están habilitados) antes de una corrida grande. Editar aquí.
+# precios de OpenAI antes de una corrida grande. Editar aquí si cambian.
 @dataclass(frozen=True)
 class ModelInfo:
     context: int
@@ -78,7 +82,9 @@ PROMPT_OVERHEAD_TOKENS = 350   # esquema JSON + mensajes del sistema de la API (
 EST_OUTPUT_TOKENS = 1_000      # salida típica por entrevista (aprox.)
 CONTEXT_SAFETY = 0.90          # se marca "excede" si la entrada usa >90% del contexto
 
+# ──────────────────────────────────────────────────────────────────────────────
 # 1. Estructuras de datos y schemas
+# ──────────────────────────────────────────────────────────────────────────────
 @dataclass
 class InterviewMetadata:
     Id_entrevista: str
@@ -110,16 +116,9 @@ class QualitativeAnalysisSchema(BaseModel):
     Acciones_y_Actores_que_realizan_dichas_acciones: list[AccionActor] = Field(
         description="Acciones realizadas o propuestas, con el actor que las realiza.")
 
-
-class MapItem(BaseModel):
-    original: str
-    canonica: str
-
-
-class MapBatch(BaseModel):
-    mapeo: list[MapItem]
-
+# ──────────────────────────────────────────────────────────────────────────────
 # 2. Lectura y preprocesamiento
+# ──────────────────────────────────────────────────────────────────────────────
 def load_transcript(path: Path) -> str:
     if path.suffix.lower() == ".docx":
         from docx import Document
@@ -141,17 +140,19 @@ def parse_interview_id(filename: str) -> InterviewMetadata:
 
 
 def preprocess(text: str) -> str:
-    """Limpieza ligera. Ya NO trunca: la transcripción completa se envía al modelo."""
+    """Limpieza ligera. No trunca: la transcripción completa se envía al modelo."""
     text = re.sub(r"\[.*?\]", "", text)   # notas del transcriptor, marcas de tiempo
     text = re.sub(r"\(.*?\)", "", text)   # acotaciones tipo (risas)
-    # Etiquetas de hablante solo al inicio de línea (evita cambiar "...SACMEX: ...")
+    # Etiquetas de hablante solo al inicio de línea
     text = re.sub(r"(?m)^\s*E:\s*", "Entrevistador: ", text)
     text = re.sub(r"(?m)^\s*R:\s*", "Respondente: ", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     return text
 
+# ──────────────────────────────────────────────────────────────────────────────
 # 3. Conteo de palabras y tokens
+# ──────────────────────────────────────────────────────────────────────────────
 _ENCODER = None          # None = sin intentar, False = no disponible
 TOKEN_MODE = "sin inicializar"
 
@@ -163,7 +164,7 @@ def _get_encoder():
             import tiktoken
             _ENCODER = tiktoken.get_encoding("o200k_base")   # GPT-4o, 4.1 y posteriores
             TOKEN_MODE = "exacto (tiktoken o200k_base)"
-        except Exception as exc:  # sin internet para bajar el vocabulario, o no instalado
+        except Exception as exc:
             log.warning(f"tiktoken no disponible ({type(exc).__name__}); se usa aproximación 1.5 tokens/palabra.")
             _ENCODER = False
             TOKEN_MODE = "APROXIMADO (1.5 tokens/palabra)"
@@ -240,13 +241,14 @@ def count_only(folder: str, out_dir: str, models: list[str]) -> pd.DataFrame:
           f"tokens de entrada totales: {df['tokens_entrada_total'].sum():,}")
     print(f"Por entrevista -> palabras: mediana {int(df['palabras'].median()):,}, máx {df['palabras'].max():,} | "
           f"tokens: mediana {int(df['tokens_entrada_total'].median()):,}, máx {df['tokens_entrada_total'].max():,}")
-    print(f"(costo asume {EST_OUTPUT_TOKENS} tokens de salida por entrevista; no incluye la estandarización)")
+    print(f"(costo asume {EST_OUTPUT_TOKENS} tokens de salida por entrevista)")
     print(sdf.to_string(index=False))
     print("\nPrecios de referencia: verificar en la página de precios de OpenAI antes de correr.")
     return df
 
-#
+# ──────────────────────────────────────────────────────────────────────────────
 # 4. Prompt de extracción
+# ──────────────────────────────────────────────────────────────────────────────
 SYSTEM_PROMPT = """
 Eres un analista socio-ambiental cualitativo, especializado en gestión del agua y riesgo hídrico en zonas urbanas de la Ciudad de México (inundaciones, escasez, calidad del agua, distribución).
 
@@ -274,7 +276,9 @@ FORMATO (muy importante):
 
 USER_TEMPLATE = "=== TRANSCRIPCIÓN ===\n{transcript}\n=== FIN DE TRANSCRIPCIÓN ==="
 
+# ──────────────────────────────────────────────────────────────────────────────
 # 5. Cliente OpenAI con reintentos
+# ──────────────────────────────────────────────────────────────────────────────
 class UsageTracker:
     """Acumula tokens reales y costo estimado (para vigilar el presupuesto)."""
     def __init__(self, model: str):
@@ -295,7 +299,7 @@ class UsageTracker:
 
 def _is_retryable(exc: BaseException) -> bool:
     import openai
-    if getattr(exc, "code", None) == "insufficient_quota":   # sin saldo: reintentar no ayuda
+    if getattr(exc, "code", None) == "insufficient_quota":
         return False
     if isinstance(exc, (openai.RateLimitError, openai.APIConnectionError,
                         openai.APITimeoutError, openai.InternalServerError)):
@@ -341,7 +345,9 @@ def dedupe(items: list[str]) -> list[str]:
             out.append(x)
     return out
 
+# ──────────────────────────────────────────────────────────────────────────────
 # 6. Extracción por entrevista
+# ──────────────────────────────────────────────────────────────────────────────
 def analyze_transcript(text: str, metadata: InterviewMetadata, client, model: str,
                        tracker: UsageTracker, temperature: Optional[float] = 0.2) -> InterviewResult:
     result = InterviewResult(metadata=metadata)
@@ -369,12 +375,13 @@ def analyze_transcript(text: str, metadata: InterviewMetadata, client, model: st
         result.error = str(exc)
     return result
 
-# 7. Salidas: CSV crudo, CSV estandarizado
-COL_PREOC = "Preocupacion_principal_acerca_del_agua"
+# ──────────────────────────────────────────────────────────────────────────────
+# 7. Salidas: CSV consolidado
+# ──────────────────────────────────────────────────────────────────────────────
+COL_PREOC  = "Preocupacion_principal_acerca_del_agua"
 COL_CAUSAS = "Causas_principales"
 COL_CONSEC = "Consecuencias"
-COL_ACC = "Acciones_y_Actores_que_realizan_dichas_acciones"
-COL_ACTORES = "Actores"
+COL_ACC    = "Acciones_y_Actores_que_realizan_dichas_acciones"
 
 
 def _fmt_action(a: dict) -> str:
@@ -386,10 +393,10 @@ def results_to_dataframe(results: list[InterviewResult]) -> pd.DataFrame:
     for r in sorted((r for r in results if not r.error), key=lambda r: r.metadata.Id_entrevista):
         rows.append({
             "Id_entrevista": r.metadata.Id_entrevista,
-            COL_PREOC: "\n".join(r.Preocupacion_principal_acerca_del_agua),
+            COL_PREOC:  "\n".join(r.Preocupacion_principal_acerca_del_agua),
             COL_CAUSAS: "\n".join(r.Causas_principales),
             COL_CONSEC: "\n".join(r.Consecuencias),
-            COL_ACC: "\n".join(_fmt_action(a) for a in r.Acciones_y_Actores_que_realizan_dichas_acciones),
+            COL_ACC:    "\n".join(_fmt_action(a) for a in r.Acciones_y_Actores_que_realizan_dichas_acciones),
         })
     return pd.DataFrame(rows)
 
@@ -398,13 +405,14 @@ _checkpoint_lock = threading.Lock()
 
 
 def save_checkpoints(result: InterviewResult, all_results: list[InterviewResult], out_dir: Path):
+    """Guarda el JSON individual y regenera el CSV consolidado con los resultados disponibles hasta el momento."""
     d = out_dir / "individual"
     d.mkdir(parents=True, exist_ok=True)
     (d / f"{result.metadata.Id_entrevista}.json").write_text(
         json.dumps(asdict(result), ensure_ascii=False, indent=2), encoding="utf-8")
     df = results_to_dataframe(all_results)
     if not df.empty:
-        df.to_csv(out_dir / "analysis_raw_v5.csv", index=False, encoding="utf-8-sig")
+        df.to_csv(out_dir / "analysis_v5.csv", index=False, encoding="utf-8-sig")
 
 
 def load_existing_result(out_dir: Path, interview_id: str) -> Optional[InterviewResult]:
@@ -420,126 +428,9 @@ def load_existing_result(out_dir: Path, interview_id: str) -> Optional[Interview
     except Exception:
         return None
 
-
-def load_all_individual(out_dir: Path) -> list[InterviewResult]:
-    res = []
-    for p in sorted((out_dir / "individual").glob("*.json")):
-        r = load_existing_result(out_dir, p.stem)
-        if r:
-            res.append(r)
-    return res
-
-# 8. Estandarización de columnas con el LLM
-STD_SYSTEM = """
-Eres un analista cualitativo que estandariza etiquetas de codificación de entrevistas sobre agua y riesgo hídrico en la Ciudad de México.
-
-Recibirás un JSON con:
-- "tipo": el tipo de etiqueta ({tipo_desc}).
-- "etiquetas_existentes": etiquetas canónicas ya definidas.
-- "frases": frases nuevas por estandarizar.
-
-Para CADA frase devuelve su etiqueta canónica:
-- Si la frase significa lo mismo que una etiqueta existente, usa EXACTAMENTE esa etiqueta.
-- Si ninguna aplica, crea una etiqueta nueva de 4 o 5 palabras (máximo 6), en español, clara y general.
-- Frases sinónimas o casi idénticas deben recibir la misma etiqueta (por ejemplo "Tandeo", "Distribución por tandeo" y "Agua por tandeo en colonias").
-- NO fusiones conceptos distintos (por ejemplo "Escasez de agua" y "Mala calidad del agua" son distintos; "Inundaciones" y "Hundimientos" también).
-- No inventes información. Devuelve "original" copiando exactamente la frase recibida.
-""".strip()
-
-STD_TIPOS = {
-    "preocupacion": "preocupaciones principales sobre el agua",
-    "causa": "causas del problema del agua",
-    "consecuencia": "consecuencias del problema del agua",
-    "accion": "acciones realizadas o propuestas frente al problema del agua",
-    "actor": "actores (personas, instituciones u organizaciones); usa el nombre más común, por ejemplo SACMEX, Protección Civil, Vecinos, Gobierno de la CDMX",
-}
-
-
-def standardize_phrases(phrases: list[str], tipo: str, client, model: str, tracker: UsageTracker,
-                        batch_size: int = 60) -> dict[str, str]:
-    """Devuelve {frase_original: etiqueta_canónica}. Procesa por lotes y arrastra el vocabulario."""
-    uniq = sorted({p for p in phrases if p}, key=str.lower)   # ordenadas: las parecidas quedan juntas
-    system = STD_SYSTEM.format(tipo_desc=STD_TIPOS[tipo])
-    vocab: OrderedDict[str, None] = OrderedDict()
-    mapping: dict[str, str] = {}
-    for i in range(0, len(uniq), batch_size):
-        batch = uniq[i:i + batch_size]
-        user = json.dumps({"tipo": tipo, "etiquetas_existentes": list(vocab), "frases": batch}, ensure_ascii=False)
-        try:
-            parsed, usage = _call_structured(client, model, system, user, MapBatch, temperature=0.0)
-            tracker.add(usage)
-            got = {m.original.strip().lower(): clean_phrase(m.canonica) for m in parsed.mapeo}
-        except Exception as exc:
-            log.error(f"  Estandarización '{tipo}' lote {i // batch_size + 1} falló: {exc}. Se conservan las frases originales.")
-            got = {}
-        for p in batch:
-            canon = got.get(p.strip().lower()) or p
-            mapping[p] = canon
-            vocab.setdefault(canon, None)
-    return mapping
-
-
-def standardize_results(results: list[InterviewResult], client, model: str, tracker: UsageTracker,
-                        out_dir: Path) -> pd.DataFrame:
-    ok = [r for r in results if not r.error]
-    columns = {
-        "preocupacion": [x for r in ok for x in r.Preocupacion_principal_acerca_del_agua],
-        "causa": [x for r in ok for x in r.Causas_principales],
-        "consecuencia": [x for r in ok for x in r.Consecuencias],
-        "accion": [a["accion"] for r in ok for a in r.Acciones_y_Actores_que_realizan_dichas_acciones],
-        "actor": [a["actor"] for r in ok for a in r.Acciones_y_Actores_que_realizan_dichas_acciones],
-    }
-    maps: dict[str, dict[str, str]] = {}
-    for tipo, phrases in columns.items():
-        log.info(f"Estandarizando '{tipo}': {len(set(phrases))} frases únicas")
-        maps[tipo] = standardize_phrases(phrases, tipo, client, model, tracker)
-
-    # Mapeo auditable: etiqueta canónica -> variantes originales y frecuencia
-    audit = {}
-    for tipo, mp in maps.items():
-        groups: dict[str, list[str]] = defaultdict(list)
-        for orig, canon in mp.items():
-            groups[canon].append(orig)
-        freq = defaultdict(int)
-        for p in columns[tipo]:
-            freq[mp.get(p, p)] += 1
-        audit[tipo] = {c: {"frecuencia": freq[c], "variantes": sorted(v)}
-                       for c, v in sorted(groups.items(), key=lambda kv: -freq[kv[0]])}
-    (out_dir / "column_mapping_v5.json").write_text(json.dumps(audit, ensure_ascii=False, indent=2), encoding="utf-8")
-
-    rows = []
-    for r in sorted(ok, key=lambda r: r.metadata.Id_entrevista):
-        acc = [{"actor": maps["actor"].get(a["actor"], a["actor"]),
-                "accion": maps["accion"].get(a["accion"], a["accion"])}
-               for a in r.Acciones_y_Actores_que_realizan_dichas_acciones]
-        acc_txt = dedupe([_fmt_action(a) for a in acc])
-        rows.append({
-            "Id_entrevista": r.metadata.Id_entrevista,
-            COL_PREOC: "\n".join(dedupe([maps["preocupacion"].get(x, x) for x in r.Preocupacion_principal_acerca_del_agua])),
-            COL_CAUSAS: "\n".join(dedupe([maps["causa"].get(x, x) for x in r.Causas_principales])),
-            COL_CONSEC: "\n".join(dedupe([maps["consecuencia"].get(x, x) for x in r.Consecuencias])),
-            COL_ACC: "\n".join(acc_txt),
-            COL_ACTORES: "\n".join(dedupe([a["actor"] for a in acc])),
-        })
-    df = pd.DataFrame(rows)
-    df.to_csv(out_dir / "analysis_standardized_v5.csv", index=False, encoding="utf-8-sig")
-
-    # Control de calidad: longitud de las frases (objetivo 4-5 palabras) y reducción de vocabulario
-    qc = {}
-    for tipo, phrases in columns.items():
-        if not phrases:
-            continue
-        canon = [maps[tipo].get(p, p) for p in phrases]
-        lens = [len(c.split()) for c in canon]
-        qc[tipo] = {"frases_totales": len(phrases), "unicas_antes": len(set(phrases)),
-                    "unicas_despues": len(set(canon)),
-                    "palabras_promedio": round(sum(lens) / len(lens), 1),
-                    "pct_de_4_a_6_palabras": round(100 * sum(4 <= n <= 6 for n in lens) / len(lens), 1)}
-    (out_dir / "standardization_qc_v5.json").write_text(json.dumps(qc, ensure_ascii=False, indent=2), encoding="utf-8")
-    log.info("Control de calidad de la estandarización:\n" + json.dumps(qc, ensure_ascii=False, indent=2))
-    return df
-
-# 9. Pipeline principal
+# ──────────────────────────────────────────────────────────────────────────────
+# 8. Pipeline principal
+# ──────────────────────────────────────────────────────────────────────────────
 def _process_single_file(fpath: Path, client, model: str, out_path: Path,
                          all_results: list[InterviewResult], tracker: UsageTracker, resume: bool):
     metadata = parse_interview_id(fpath.name)
@@ -569,64 +460,113 @@ def make_client():
     return OpenAI(api_key=key)
 
 
-def run_pipeline(input_folder: Optional[str], output_folder: str, model: str, std_model: Optional[str] = None,
-                 max_workers: int = 2, resume: bool = True, standardize: bool = True,
-                 only_standardize: bool = False, client=None):
+def run_pipeline(input_folder: str, output_folder: str, model: str,
+                 max_workers: int = 2, resume: bool = True, client=None):
+    """
+    Ejecuta la extracción sobre todas las transcripciones en `input_folder`
+    y guarda el CSV consolidado en `output_folder/analysis_v5.csv`.
+
+    Parámetros
+    ----------
+    input_folder  : carpeta con archivos .docx / .txt / .md
+    output_folder : directorio de salida
+    model         : modelo OpenAI para la extracción
+    max_workers   : hilos concurrentes (ajustar según rate limit de la API)
+    resume        : si True, omite entrevistas cuyo JSON individual ya existe
+    client        : instancia OpenAI opcional (se crea desde .env si no se pasa)
+    """
     client = client or make_client()
     out_path = Path(output_folder)
     out_path.mkdir(parents=True, exist_ok=True)
-    std_model = std_model or model
     tracker = UsageTracker(model)
-    std_tracker = UsageTracker(std_model)
-    log.info(f"Modelo de extracción: {model} | modelo de estandarización: {std_model}")
+    log.info(f"Modelo de extracción: {model}")
 
-    if only_standardize:
-        all_results = load_all_individual(out_path)
-        log.info(f"Se cargaron {len(all_results)} resultados previos de {out_path/'individual'}")
+    files = list_transcripts(input_folder)
+    if not files:
+        raise SystemExit(f"No se encontraron transcripciones en {input_folder}")
+    log.info(f"Transcripciones encontradas: {len(files)}")
+
+    all_results: list[InterviewResult] = []
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {
+            executor.submit(_process_single_file, f, client, model, out_path,
+                            all_results, tracker, resume): f
+            for f in files
+        }
+        for fut in tqdm(as_completed(futures), total=len(futures), desc="Analizando"):
+            try:
+                fut.result()
+            except Exception as exc:
+                log.error(f"Error fatal en {futures[fut].name}: {exc}")
+
+    failed = [r.metadata.Id_entrevista for r in all_results if r.error]
+    if failed:
+        log.warning(f"{len(failed)} entrevistas con error: {failed}")
+
+    # CSV consolidado final (también se va escribiendo como checkpoint en save_checkpoints)
+    df = results_to_dataframe(all_results)
+    if not df.empty:
+        out_csv = out_path / "analysis_v5.csv"
+        df.to_csv(out_csv, index=False, encoding="utf-8-sig")
+        log.info(f"CSV consolidado guardado en: {out_csv.resolve()}")
+        log.info(f"Entrevistas en el CSV: {len(df)}")
     else:
-        files = list_transcripts(input_folder)
-        all_results: list[InterviewResult] = []
-        with ThreadPoolExecutor(max_workers=max_workers) as executor:
-            futures = {executor.submit(_process_single_file, f, client, model, out_path, all_results, tracker, resume): f
-                       for f in files}
-            for fut in tqdm(as_completed(futures), total=len(futures), desc="Analizando"):
-                try:
-                    fut.result()
-                except Exception as exc:
-                    log.error(f"Error fatal en {futures[fut].name}: {exc}")
-        failed = [r.metadata.Id_entrevista for r in all_results if r.error]
-        if failed:
-            log.warning(f"{len(failed)} entrevistas con error: {failed}")
+        log.warning("No se generaron resultados válidos; el CSV no fue creado.")
 
-    if standardize and any(not r.error for r in all_results):
-        standardize_results(all_results, client, std_model, std_tracker, out_path)
-
+    # Registro de uso acumulativo (una línea por corrida)
     usage = {
-        "extraccion": {"modelo": model, "tokens_entrada": tracker.input, "tokens_salida": tracker.output,
-                       "costo_usd_estimado": tracker.cost()},
-        "estandarizacion": {"modelo": std_model, "tokens_entrada": std_tracker.input,
-                            "tokens_salida": std_tracker.output, "costo_usd_estimado": std_tracker.cost()},
+        "fecha": datetime.now().isoformat(timespec="seconds"),
+        "extraccion": {
+            "modelo": model,
+            "tokens_entrada": tracker.input,
+            "tokens_salida": tracker.output,
+            "costo_usd_estimado": tracker.cost(),
+        },
     }
-    # Registro acumulativo (una línea por corrida) para llevar el gasto total del proyecto
-    usage["fecha"] = datetime.now().isoformat(timespec="seconds")
     with open(out_path / "usage_log_v5.jsonl", "a", encoding="utf-8") as fh:
         fh.write(json.dumps(usage, ensure_ascii=False) + "\n")
-    log.info("Uso de tokens y costo estimado de esta corrida:\n" + json.dumps(usage, ensure_ascii=False, indent=2))
+    log.info("Uso de tokens y costo estimado de esta corrida:\n"
+             + json.dumps(usage, ensure_ascii=False, indent=2))
     return all_results
 
 
+# ──────────────────────────────────────────────────────────────────────────────
+# CLI
+# ──────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Pipeline MEGADAPT v5 (OpenAI)")
+    parser = argparse.ArgumentParser(
+        description="Pipeline MEGADAPT v5 — extracción cualitativa de entrevistas (OpenAI)",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Ejemplos de uso:
+
+  # Estimar costo y tokens antes de lanzar:
+  python megadapt_qualitative_pipeline_v5.py \\
+      --folder ./transcripciones --count-only
+
+  # Correr extracción completa con gpt-4o-mini:
+  python megadapt_qualitative_pipeline_v5.py \\
+      --folder ./transcripciones --model gpt-4o-mini --out ./output_v5
+
+  # Re-procesar todo (ignorar checkpoints):
+  python megadapt_qualitative_pipeline_v5.py \\
+      --folder ./transcripciones --model gpt-4o-mini --no-resume
+
+  # Salida: output_v5/analysis_v5.csv
+""",
+    )
     parser.add_argument("--folder", help="Carpeta con transcripciones (.docx/.txt/.md)")
-    parser.add_argument("--out", default="./output_v5")
-    parser.add_argument("--model", default="gpt-4o-mini", help="Modelo de extracción")
-    parser.add_argument("--std-model", default=None, help="Modelo para estandarizar (por defecto, el mismo)")
-    parser.add_argument("--workers", type=int, default=2)
-    parser.add_argument("--count-only", action="store_true", help="Solo contar palabras/tokens/costo; no llama a la API")
-    parser.add_argument("--models", default=",".join(MODEL_CATALOG), help="Modelos a comparar en --count-only")
-    parser.add_argument("--no-resume", action="store_true", help="Reprocesar aunque ya exista el JSON individual")
-    parser.add_argument("--no-standardize", action="store_true")
-    parser.add_argument("--only-standardize", action="store_true", help="Estandarizar a partir de out/individual sin re-extraer")
+    parser.add_argument("--out", default="./output_v5", help="Directorio de salida (default: ./output_v5)")
+    parser.add_argument("--model", default="gpt-4o-mini",
+                        help=f"Modelo de extracción. Opciones: {', '.join(MODEL_CATALOG)}")
+    parser.add_argument("--workers", type=int, default=2,
+                        help="Hilos concurrentes (ajustar según rate limit, default: 2)")
+    parser.add_argument("--count-only", action="store_true",
+                        help="Solo cuenta palabras/tokens/costo estimado; no llama a la API")
+    parser.add_argument("--models", default=",".join(MODEL_CATALOG),
+                        help="Modelos a comparar en --count-only (separados por coma)")
+    parser.add_argument("--no-resume", action="store_true",
+                        help="Reprocesar todas las entrevistas aunque ya exista su JSON individual")
     args = parser.parse_args()
 
     if args.count_only:
@@ -637,8 +577,10 @@ if __name__ == "__main__":
             parser.error(f"Modelos fuera del catálogo (agrégalos a MODEL_CATALOG): {unknown}")
         count_only(args.folder, args.out, args.models.split(","))
     else:
-        if not args.folder and not args.only_standardize:
-            parser.error("Falta --folder (o usa --only-standardize)")
-        run_pipeline(args.folder, args.out, args.model, args.std_model, args.workers,
-                     resume=not args.no_resume, standardize=not args.no_standardize,
-                     only_standardize=args.only_standardize)
+        if not args.folder:
+            parser.error("Falta --folder con la ruta a las transcripciones")
+        run_pipeline(
+            args.folder, args.out, args.model,
+            max_workers=args.workers,
+            resume=not args.no_resume,
+        )

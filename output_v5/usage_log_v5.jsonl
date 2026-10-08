@@ -1,1 +1,3 @@
 {"extraccion": {"modelo": "gpt-4o-mini", "tokens_entrada": 286483, "tokens_salida": 4305, "costo_usd_estimado": 0.04555545}, "estandarizacion": {"modelo": "gpt-4o-mini", "tokens_entrada": 7014, "tokens_salida": 6167, "costo_usd_estimado": 0.004752299999999999}, "fecha": "2026-09-24T10:17:36"}
+{"fecha": "2026-10-08T10:55:30", "extraccion": {"modelo": "gpt-4o-mini", "tokens_entrada": 0, "tokens_salida": 0, "costo_usd_estimado": 0.0}}
+{"fecha": "2026-10-08T11:17:15", "extraccion": {"modelo": "gpt-4o-mini", "tokens_entrada": 0, "tokens_salida": 0, "costo_usd_estimado": 0.0}}
