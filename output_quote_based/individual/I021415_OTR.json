@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Mala calidad del agua",
+    "Tandeo en las colonias",
+    "Corrupción en distribución"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Falta de mantenimiento a la red",
+    "Corrupción en el manejo",
+    "Políticas públicas inadecuadas"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Desigualdad en el acceso",
+    "Desperdicio de agua",
+    "Impacto en la vivienda"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos",
+      "accion": "Protestan por dotación de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Condona pagos de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Defienden el derecho al agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Instala pozos de absorción"
+    }
+  ],
+  "input_tokens": 9475,
+  "output_tokens": 185,
+  "error": null
+}

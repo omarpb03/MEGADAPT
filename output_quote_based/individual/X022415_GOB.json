@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad del agua",
+    "Escasez de agua",
+    "Contaminación por invernaderos",
+    "Hundimientos diferenciales"
+  ],
+  "Causas_principales": [
+    "Fugas en la red",
+    "Asentamientos irregulares",
+    "Contaminación por agroquímicos",
+    "Falta de mantenimiento a plantas"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud",
+    "Pérdida económica de productores",
+    "Deterioro del ecosistema",
+    "Desinterés por la chinampa"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Establece coordinación con académicos"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan tratamientos de agua"
+    },
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Colabora en reactivación chinampera"
+    },
+    {
+      "actor": "Conam",
+      "accion": "Busca coordinación en gestión de Ramsar"
+    }
+  ],
+  "input_tokens": 12549,
+  "output_tokens": 200,
+  "error": null
+}

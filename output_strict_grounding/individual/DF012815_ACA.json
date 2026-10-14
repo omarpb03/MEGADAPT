@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Tandeo en las colonias"
+  ],
+  "Causas_principales": [
+    "Crecimiento descontrolado de la ciudad",
+    "Asentamientos informales sin servicios"
+  ],
+  "Consecuencias": [
+    "Pérdida de agua en redes",
+    "Desigualdad en dotación de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 9967,
+  "output_tokens": 99,
+  "error": null
+}

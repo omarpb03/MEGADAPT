@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Acceso desigual al agua",
+    "Contaminación de fuentes hídricas",
+    "Desregulación del uso de agua",
+    "Impacto de la urbanización en el agua"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Corrupción en el manejo del agua",
+    "Falta de regulación en uso de suelo",
+    "Extracción de acuíferos"
+  ],
+  "Consecuencias": [
+    "Contaminación de aguas",
+    "Desigualdad en acceso al agua",
+    "Deterioro de ecosistemas",
+    "Conflictos sociales por recursos hídricos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementa programas de extensión agrícola"
+    },
+    {
+      "actor": "Universidad Autónoma de México",
+      "accion": "Desarrolla proyectos de sensibilización ambiental"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Coordina esfuerzos de gestión hídrica"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven derechos de acceso al agua"
+    }
+  ],
+  "input_tokens": 20288,
+  "output_tokens": 214,
+  "error": null
+}

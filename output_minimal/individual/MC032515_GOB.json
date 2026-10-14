@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud",
+    "Inundaciones en asentamientos"
+  ],
+  "Causas_principales": [
+    "Cortes y terraceo en cerros",
+    "Uso inadecuado de drenaje"
+  ],
+  "Consecuencias": [
+    "Daños a viviendas y personas",
+    "Contaminación del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notifica riesgos a vecinos"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    }
+  ],
+  "input_tokens": 9438,
+  "output_tokens": 120,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación por aguas negras",
+    "Fugas en la red",
+    "Escasez de agua tratada",
+    "Inundaciones por hundimientos"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Contaminación por invernaderos",
+    "Fugas en drenajes",
+    "Descoordinación institucional"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud",
+    "Pérdida económica en producción",
+    "Degradación del ecosistema",
+    "Desinterés por la chinampería"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de Xochimilco",
+      "accion": "Coordina políticas de agua"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan tratamientos de agua"
+    },
+    {
+      "actor": "Instituto de Biología",
+      "accion": "Colabora en proyectos de biodiversidad"
+    },
+    {
+      "actor": "Conam",
+      "accion": "Supervisa áreas Ramsar"
+    }
+  ],
+  "input_tokens": 12590,
+  "output_tokens": 192,
+  "error": null
+}

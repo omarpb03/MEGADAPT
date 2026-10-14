@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Tandeo en las colonias",
+    "Inundaciones frecuentes",
+    "Mala calidad del agua",
+    "Escasez de agua"
+  ],
+  "Causas_principales": [
+    "Construcción vertical descontrolada",
+    "Falta de infraestructura adecuada",
+    "Desigualdad en distribución",
+    "Desinterés político"
+  ],
+  "Consecuencias": [
+    "Afectaciones a la salud",
+    "Desabasto de agua",
+    "Conflictos sociales",
+    "Impacto ambiental negativo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Defiende obras que afectan árboles"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Actúa en inundaciones"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en tambos"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Documentan problemas de agua"
+    }
+  ],
+  "input_tokens": 12639,
+  "output_tokens": 176,
+  "error": null
+}

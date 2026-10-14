@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones en la ciudad"
+  ],
+  "Causas_principales": [
+    "Gestión ineficiente del recurso",
+    "Desigualdad en la distribución",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Desconfianza en el agua potable",
+    "Impacto en la vivienda"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 14227,
+  "output_tokens": 105,
+  "error": null
+}

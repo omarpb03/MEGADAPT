@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Riesgo en la ciudad",
+    "Inundaciones",
+    "Calidad de vida",
+    "Acceso a bienes urbanos"
+  ],
+  "Causas_principales": [
+    "Factores sociales e institucionales",
+    "Política de desarrollo urbano",
+    "Inversión privada",
+    "Corrupción y tráfico de influencias"
+  ],
+  "Consecuencias": [
+    "Alteración del medio ambiente",
+    "Impacto en la calidad de vida",
+    "Aumento del riesgo",
+    "Desigualdad en el acceso a servicios"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Promueve acceso a vivienda"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoran en proyectos urbanos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Genera nuevas normas de seguridad"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Protestan y presentan propuestas"
+    }
+  ],
+  "input_tokens": 7041,
+  "output_tokens": 179,
+  "error": null
+}

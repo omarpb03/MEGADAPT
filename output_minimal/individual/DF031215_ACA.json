@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en la ciudad",
+    "Escasez de agua en colonias"
+  ],
+  "Causas_principales": [
+    "Construcción vertical desmedida",
+    "Mala gestión de infraestructura"
+  ],
+  "Consecuencias": [
+    "Afectaciones a la salud",
+    "Desabasto de agua potable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Defiende obras que afectan árboles"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Actúa en inundaciones y desasolve"
+    }
+  ],
+  "input_tokens": 12571,
+  "output_tokens": 122,
+  "error": null
+}

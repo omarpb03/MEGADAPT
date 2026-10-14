@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Tandeo en colonias populares",
+    "Escasez de agua",
+    "Fugas en la red",
+    "Calidad del agua de Cutzamala"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Infraestructura de agua deficiente",
+    "Fugas por tuberías viejas",
+    "Desigualdad en distribución de agua"
+  ],
+  "Consecuencias": [
+    "Dificultades en abastecimiento",
+    "Aumento en compra de agua",
+    "Problemas de salud por calidad",
+    "Descontento social en comunidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan reuniones para informar"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construye infraestructura de agua"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Captan agua de lluvia"
+    }
+  ],
+  "input_tokens": 9903,
+  "output_tokens": 191,
+  "error": null
+}

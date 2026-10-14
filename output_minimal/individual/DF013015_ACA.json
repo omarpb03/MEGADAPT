@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua"
+  ],
+  "Causas_principales": [
+    "Falta de coordinación institucional",
+    "Extracción excesiva del subsuelo"
+  ],
+  "Consecuencias": [
+    "Deterioro de la salud",
+    "Impacto en la vivienda"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionan servicios básicos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de mejoramiento"
+    }
+  ],
+  "input_tokens": 18477,
+  "output_tokens": 112,
+  "error": null
+}

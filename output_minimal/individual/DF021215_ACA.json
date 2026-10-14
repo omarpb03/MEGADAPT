@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios",
+    "Asentamientos humanos irregulares"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Conflictos sociales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidades",
+      "accion": "Captan agua de lluvia"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Proponen captación de agua"
+    }
+  ],
+  "input_tokens": 10010,
+  "output_tokens": 107,
+  "error": null
+}

@@ -11,7 +11,6 @@ Estas métricas evalúan la extracción cruda (raw) de cada corrida:
               Es la métrica estrella del proyecto: evalúa sin alterar las
               frases originales del LLM, evitando sesgos de estandarización.
 
-─── Por qué adaptamos las métricas ───────────────────────────────────────────
 BLEU y chrF++ fueron diseñadas para traducción (una hipótesis vs. una referencia).
 Aquí tenemos CONJUNTOS de frases cortas por campo y entrevista. La adaptación:
 
@@ -26,7 +25,6 @@ Aquí tenemos CONJUNTOS de frases cortas por campo y entrevista. La adaptación:
 
   3. F1: media armónica de recall y precision.
 
-─── Modos de uso ─────────────────────────────────────────────────────────────
 
 # Resumen por corrida (genera CSVs + Excel directivo):
 python megadapt_eval_nlp_2.py \
@@ -49,16 +47,16 @@ python megadapt_eval_nlp_2.py \
     --bertscore-model dccuchile/bert-base-spanish-wwm-cased \
     --lang es --xlsx
 
-─── Dependencias ─────────────────────────────────────────────────────────────
+─ Dependencias 
 pip install sacrebleu bert-score pandas openpyxl
 (torch se instala como dependencia de bert-score)
 
-─── Interpretación ───────────────────────────────────────────────────────────
+─Interpretación
 • BLEU varía 0–1. Valores < 0.20 son normales para frases cortas y resúmenes.
 • chrF++ varía 0–1. Más robusto que BLEU para español (morfología rica).
 • BERTScore F1 varía ~0.7–1.0. > 0.85 indica alta similitud semántica.
 
-─── Excel directivo (--xlsx) ────────────────────────────────────────────────
+── Excel directivo (--xlsx) 
 Genera megadapt_evaluacion.xlsx con dos hojas:
 
   Hoja 1 "Benchmarking Modelos"
@@ -89,9 +87,8 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-# ──────────────────────────────────────────────────────────────────────────────
+# 
 # Constantes
-# ──────────────────────────────────────────────────────────────────────────────
 COLUMNS = ["preocupacion", "causa", "consecuencia", "accion"]
 LLM_CSV_COLS = {
     "preocupacion": "Preocupacion_principal_acerca_del_agua",
@@ -113,9 +110,7 @@ _HEATMAP_MID   = "FFEB84"   # amarillo → F1 ≈ 0.625
 _HEATMAP_HIGH  = "63BE7B"   # verde  → F1 ≥ 0.85
 _HEATMAP_THRESH = (0.40, 0.625, 0.85)
 
-# ──────────────────────────────────────────────────────────────────────────────
 # Normalización
-# ──────────────────────────────────────────────────────────────────────────────
 def strip_accents(s: str) -> str:
     return "".join(
         c for c in unicodedata.normalize("NFD", str(s))
@@ -142,9 +137,9 @@ def code_key(code: str, drop_suffix: bool = False) -> str:
     return re.sub(r"[A-Z]+$", "", c) if drop_suffix else c
 
 
-# ──────────────────────────────────────────────────────────────────────────────
+#
 # Carga de datos
-# ──────────────────────────────────────────────────────────────────────────────
+
 def load_human(path: str, sheet: str = "Integracion") -> dict[str, dict[str, list[str]]]:
     raw = pd.read_excel(path, sheet_name=sheet, header=None, dtype=str)
     hdr = None
@@ -230,10 +225,7 @@ def reverse_pairs(pairs: dict[str, list[str]]) -> dict[str, str]:
             rev[lid] = hid
     return rev
 
-
-# ──────────────────────────────────────────────────────────────────────────────
 # MÉTRICAS NLP
-# ──────────────────────────────────────────────────────────────────────────────
 
 def _sacrebleu_sentence_bleu(hyp: str, ref: str) -> float:
     from sacrebleu.metrics import BLEU
@@ -354,9 +346,7 @@ def _compute_all(h_items, m_items, metrics, bs_cache):
     return result
 
 
-# ──────────────────────────────────────────────────────────────────────────────
 # EXCEL DIRECTIVO
-# ──────────────────────────────────────────────────────────────────────────────
 
 def _xl_apply_heatmap(ws, range_str: str) -> None:
     """
@@ -443,7 +433,7 @@ def export_to_excel(
         )
         return None
 
-    # ── Seleccionar métrica primaria ──────────────────────────────────────────
+    # Seleccionar métrica primaria 
     if primary_metric is None:
         for m in ("bertscore", "chrf", "bleu"):
             if m in metrics:
@@ -463,13 +453,12 @@ def export_to_excel(
 
     wb = Workbook()
 
-    # ═══════════════════════════════════════════════════════════════════════════
+    # 
     # HOJA 1 — Benchmarking Modelos
-    # ═══════════════════════════════════════════════════════════════════════════
+    #
     ws1 = wb.active
     ws1.title = "Benchmarking Modelos"
 
-    # ── Construcción del pivot ────────────────────────────────────────────────
     pivot = (
         df_por_entrevista
         .pivot_table(

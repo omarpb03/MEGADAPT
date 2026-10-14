@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Hundimientos diferenciales",
+    "Escasez de agua"
+  ],
+  "Causas_principales": [
+    "Explotación de aguas subterráneas",
+    "Asentamientos irregulares"
+  ],
+  "Consecuencias": [
+    "Contaminación del agua",
+    "Pérdida de producción agrícola"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro como sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Genera programas de conservación"
+    }
+  ],
+  "input_tokens": 14057,
+  "output_tokens": 114,
+  "error": null
+}

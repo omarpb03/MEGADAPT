@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Hundimientos diferenciales",
+    "Escasez de agua",
+    "Contaminación del agua",
+    "Inundaciones potenciales"
+  ],
+  "Causas_principales": [
+    "Explotación de pozos",
+    "Construcción del aeropuerto",
+    "Asentamientos irregulares",
+    "Fugas en la infraestructura"
+  ],
+  "Consecuencias": [
+    "Pérdida de humedales",
+    "Problemas de salud",
+    "Impacto en la agricultura",
+    "Desigualdad social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro de sitio Ramsar"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Construcción de infraestructura de captación"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Mantenimiento de chinampas"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Elaboración de programas de manejo"
+    }
+  ],
+  "input_tokens": 14125,
+  "output_tokens": 256,
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Inundaciones en la zona",
+    "Escasez de agua potable"
+  ],
+  "Causas_principales": [
+    "Descargas de drenaje domiciliario",
+    "Irregularidades en asentamientos",
+    "Falta de infraestructura de drenaje"
+  ],
+  "Consecuencias": [
+    "Daños a la salud",
+    "Pérdida de biodiversidad",
+    "Contaminación del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Coordina acciones de saneamiento"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Implementa proyectos productivos"
+    }
+  ],
+  "input_tokens": 24720,
+  "output_tokens": 139,
+  "error": null
+}

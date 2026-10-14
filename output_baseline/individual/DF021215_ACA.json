@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Inundaciones en asentamientos",
+    "Descoordinación institucional"
+  ],
+  "Causas_principales": [
+    "Asentamientos humanos irregulares",
+    "Intereses inmobiliarios",
+    "Desmantelamiento de políticas rurales",
+    "Cambio climático"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Conflictos sociales",
+    "Desigualdad en acceso",
+    "Gentrificación de zonas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidades",
+      "accion": "Captan agua de lluvia"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Proponen proyectos de conservación"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Gestiona distribución de agua"
+    },
+    {
+      "actor": "Instituciones comunitarias",
+      "accion": "Fortalecen gestión local"
+    }
+  ],
+  "input_tokens": 9906,
+  "output_tokens": 251,
+  "error": null
+}

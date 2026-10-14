@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en la calidad del agua",
+    "Inequidad en el suministro de agua",
+    "Inundaciones en zonas vulnerables",
+    "Falta de gestión del recurso hídrico"
+  ],
+  "Causas_principales": [
+    "Mala gestión del recurso hídrico",
+    "Intereses patrimonialistas en el sector público",
+    "Desigualdad en el acceso a servicios",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Desigualdad social y económica",
+    "Inundaciones recurrentes",
+    "Desconfianza en el agua potable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controla la distribución de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Negocia licencias de desarrollo urbano"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Protestan por falta de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Crea comités de colonias"
+    }
+  ],
+  "input_tokens": 14306,
+  "output_tokens": 207,
+  "error": null
+}

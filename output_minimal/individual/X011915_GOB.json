@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Inundaciones en la zona"
+  ],
+  "Causas_principales": [
+    "Descargas de drenaje domiciliario",
+    "Irregularidades en asentamientos"
+  ],
+  "Consecuencias": [
+    "Daños a la salud",
+    "Pérdida de biodiversidad acuática"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Coordina acciones de limpieza"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de México",
+      "accion": "Monitorea calidad del agua"
+    }
+  ],
+  "input_tokens": 24690,
+  "output_tokens": 127,
+  "error": null
+}

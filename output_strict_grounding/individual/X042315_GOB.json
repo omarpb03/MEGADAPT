@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Hundimientos diferenciales",
+    "Contaminación del agua",
+    "Mala calidad del agua"
+  ],
+  "Causas_principales": [
+    "Explotación de pozos",
+    "Asentamientos irregulares",
+    "Construcción del aeropuerto",
+    "Fugas en la red"
+  ],
+  "Consecuencias": [
+    "Pérdida de producción agrícola",
+    "Contaminación de cuerpos de agua",
+    "Afectaciones a la salud",
+    "Desigualdad social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro de humedales RAMSAR"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Manejo de compuertas y esclusas"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Propuestas de conservación ambiental"
+    }
+  ],
+  "input_tokens": 14087,
+  "output_tokens": 168,
+  "error": null
+}

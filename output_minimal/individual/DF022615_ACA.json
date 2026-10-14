@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Falta de infraestructura adecuada",
+    "Corrupción en la gestión del agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Conflictos sociales por el agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de tratamiento de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven el uso responsable del agua"
+    }
+  ],
+  "input_tokens": 13550,
+  "output_tokens": 117,
+  "error": null
+}

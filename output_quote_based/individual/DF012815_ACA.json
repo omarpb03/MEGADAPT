@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Tandeo en las colonias",
+    "Inundaciones en la ciudad",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento descontrolado de la ciudad",
+    "Asentamientos sin servicios",
+    "Decisiones políticas absurdas",
+    "Fugas en la red de agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Desigualdad en el acceso al agua",
+    "Degradación de servicios urbanos",
+    "Conflictos sociales por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Proporciona agua a través de tandeo"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Permite asentamientos informales"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Concesionan servicios de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan para exigir servicios"
+    }
+  ],
+  "input_tokens": 10005,
+  "output_tokens": 278,
+  "error": null
+}

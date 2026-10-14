@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Mala gestión del agua"
+  ],
+  "Consecuencias": [
+    "Menor calidad de vida",
+    "Inundaciones en la zona"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Proponen alternativas de ecotecnia"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instala plantas potabilizadoras"
+    }
+  ],
+  "input_tokens": 12778,
+  "output_tokens": 112,
+  "error": null
+}

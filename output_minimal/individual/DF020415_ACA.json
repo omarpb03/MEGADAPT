@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Riesgo hídrico en la ciudad",
+    "Calidad de vida y servicios urbanos"
+  ],
+  "Causas_principales": [
+    "Política de desarrollo urbano",
+    "Inversión privada en infraestructura"
+  ],
+  "Consecuencias": [
+    "Alteración del medio ambiente",
+    "Afectación a la calidad de vida"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Protestan e interpelan al gobierno"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Elaboran propuestas y denuncias"
+    }
+  ],
+  "input_tokens": 6973,
+  "output_tokens": 126,
+  "error": null
+}

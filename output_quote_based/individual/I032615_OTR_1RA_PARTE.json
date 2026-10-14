@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR_1RA_PARTE"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Fugas en la red",
+    "Inundaciones en la zona",
+    "Escasez de agua potable"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica obsoleta",
+    "Desperdicio de agua por fugas",
+    "Pavimentación excesiva",
+    "Asentamientos sobre un lago"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Grietas en viviendas",
+    "Contaminación del agua",
+    "Desplazamiento de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Construcción de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Cosecha de agua de lluvia"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instalación de bombas de achique"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Diagnóstico de grietas en viviendas"
+    }
+  ],
+  "input_tokens": 13647,
+  "output_tokens": 191,
+  "error": null
+}

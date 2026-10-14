@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas de aguas residuales",
+    "Escasez de infraestructura",
+    "Inundaciones en zonas bajas"
+  ],
+  "Causas_principales": [
+    "Construcción de casas irregulares",
+    "Destrucción de chinampas",
+    "Falta de infraestructura de drenaje",
+    "Corrupción en permisos de construcción"
+  ],
+  "Consecuencias": [
+    "Contaminación del agua",
+    "Pérdida de biodiversidad",
+    "Problemas de salud pública",
+    "Desplazamiento de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Coordina acciones de limpieza"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de México",
+      "accion": "Monitorea calidad del agua"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Financia proyectos de conservación"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan protestas por servicios"
+    }
+  ],
+  "input_tokens": 24799,
+  "output_tokens": 196,
+  "error": null
+}

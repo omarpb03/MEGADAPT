@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Inundaciones",
+    "Uso de suelo agrícola"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada",
+    "Asentamientos irregulares",
+    "Modificaciones culturales"
+  ],
+  "Consecuencias": [
+    "Contaminación de fuentes de agua",
+    "Impacto en la salud",
+    "Desplazamiento de comunidades",
+    "Deterioro de ríos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Regula el uso de agua"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Realiza estudios sobre agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven educación ambiental"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan prácticas agrícolas sostenibles"
+    }
+  ],
+  "input_tokens": 20247,
+  "output_tokens": 173,
+  "error": null
+}

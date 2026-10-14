@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones",
+    "Tandeo en las colonias"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Mala gestión del agua",
+    "Antigüedad de la red hidráulica",
+    "Fractura de infraestructura"
+  ],
+  "Consecuencias": [
+    "Menor abastecimiento de agua",
+    "Salud de la población afectada",
+    "Crisis en el sistema de aguas",
+    "Demerito en calidad de vida"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Organiza talleres de gestión"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instala plantas potabilizadoras"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Proponen alternativas de ecotecnia"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Monitorea grietas en viviendas"
+    }
+  ],
+  "input_tokens": 12846,
+  "output_tokens": 187,
+  "error": null
+}

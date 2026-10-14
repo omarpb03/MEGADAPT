@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Falta de coordinación institucional",
+    "Inundaciones y encharcamientos"
+  ],
+  "Causas_principales": [
+    "Extracción de agua del subsuelo",
+    "Desigualdad en el acceso al agua",
+    "Falta de planeación urbana",
+    "Corrupción en permisos de construcción"
+  ],
+  "Consecuencias": [
+    "Deterioro de la vivienda",
+    "Problemas de salud",
+    "Desplazamiento forzado",
+    "Conflictos sociales por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestiona servicios básicos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan marchas por agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construye pozos de captación de agua"
+    }
+  ],
+  "input_tokens": 18545,
+  "output_tokens": 191,
+  "error": null
+}

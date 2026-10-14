@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en la ciudad",
+    "Escasez de agua",
+    "Calidad del agua",
+    "Enfermedades derivadas del agua"
+  ],
+  "Causas_principales": [
+    "Cambio climático",
+    "Infraestructura inadecuada",
+    "Falta de servicios sanitarios",
+    "Construcción irregular"
+  ],
+  "Consecuencias": [
+    "Enfermedades de la piel",
+    "Infecciones gastrointestinales",
+    "Impacto en salud pública",
+    "Vulnerabilidad de la población"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite medidas preventivas"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporciona agua embotellada"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Coordina respuesta a emergencias"
+    },
+    {
+      "actor": "Salud",
+      "accion": "Realiza campañas informativas"
+    }
+  ],
+  "input_tokens": 13030,
+  "output_tokens": 181,
+  "error": null
+}

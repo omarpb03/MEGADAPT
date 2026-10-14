@@ -1,0 +1,115 @@
+﻿Id_entrevista,prompt_variant,Preocupacion_principal_acerca_del_agua,Causas_principales,Consecuencias,Acciones_y_Actores_que_realizan_dichas_acciones
+DF012015_GOB,minimal,"Abastecimiento de agua
+Inundaciones en comunidades","Falta de infraestructura hidráulica
+Desarrollo urbano sin servicios","Problemas de salud pública
+Aumento en costos de vivienda","Gobierno: Inversión en infraestructura hidráulica
+CONAGUA: Proyectos de plantas potabilizadoras"
+DF012815_ACA,minimal,"Escasez de agua
+Inundaciones en la ciudad","Crecimiento descontrolado de la ciudad
+Falta de infraestructura adecuada","Problemas de salud pública
+Desigualdad en el acceso al agua","Sistema de Aguas de la Ciudad de México: Provee agua mediante tandeo
+Gobierno local: Permite asentamientos informales a cambio de votos"
+DF013015_ACA,minimal,"Escasez de agua
+Mala calidad del agua","Falta de coordinación institucional
+Extracción excesiva del subsuelo","Deterioro de la salud
+Impacto en la vivienda","Movimiento Urbano Popular: Gestionan servicios básicos
+Gobierno: Implementa programas de mejoramiento"
+DF020415_ACA,minimal,"Riesgo hídrico en la ciudad
+Calidad de vida y servicios urbanos","Política de desarrollo urbano
+Inversión privada en infraestructura","Alteración del medio ambiente
+Afectación a la calidad de vida","Organizaciones vecinales: Protestan e interpelan al gobierno
+Movimientos sociales: Elaboran propuestas y denuncias"
+DF021215_ACA,minimal,"Escasez de agua
+Mala calidad del agua","Intereses inmobiliarios
+Asentamientos humanos irregulares","Problemas de salud
+Conflictos sociales","Comunidades: Captan agua de lluvia
+Isla Urbana: Proponen captación de agua"
+DF021815_ACA,minimal,"Mala calidad del agua
+Inundaciones en la ciudad","Gestión ineficiente del agua
+Crecimiento urbano descontrolado","Problemas de salud pública
+Desconfianza en el agua potable","Sistemas de Aguas: Proporciona servicios de agua
+Gobierno: Desarrolla infraestructura hidráulica"
+DF022515_ACA,minimal,"Escasez de agua
+Inundaciones en ciertas zonas","Complejidad del sistema urbano
+Fuentes de abastecimiento diversas","Crisis del agua en zonas
+Riesgo hídrico en áreas específicas",
+DF022615_ACA,minimal,"Escasez de agua
+Contaminación del agua","Falta de infraestructura adecuada
+Corrupción en la gestión del agua","Problemas de salud pública
+Conflictos sociales por el agua","Gobierno: Implementa programas de tratamiento de agua
+Organizaciones civiles: Promueven el uso responsable del agua"
+DF031215_ACA,minimal,"Inundaciones en la ciudad
+Escasez de agua en colonias","Construcción vertical desmedida
+Mala gestión de infraestructura","Afectaciones a la salud
+Desabasto de agua potable","Secretaría de Medio Ambiente: Defiende obras que afectan árboles
+Protección Civil: Actúa en inundaciones y desasolve"
+DF042115_GOB,minimal,"Abastecimiento de agua
+Calidad del agua","Crecimiento poblacional descontrolado
+Falta de mantenimiento de infraestructura","Afectaciones a la salud
+Problemas de higiene y enfermedades","Gobierno del Distrito Federal: Construye lagunas de regulación
+Cenapred: Instala sistemas de alerta hidrometeorológica"
+DF042215_GOB,minimal,"Inundaciones súbitas
+Falta de información sobre inundaciones","Crecimiento urbano descontrolado
+Mantenimiento inadecuado del drenaje","Daños a la salud
+Impacto en la movilidad","Cenapred: Elabora mapas de inundación
+Protección Civil: Divulga información sobre inundaciones"
+DF042415_GOB,minimal,"Inundaciones en la ciudad
+Escasez de agua potable","Infraestructura inadecuada
+Cambio climático","Enfermedades dérmicas
+Infecciones gastrointestinales","Secretaría de Salud: Proporciona agua potable embotellada
+Protección Civil: Emite medidas preventivas"
+DF111814_GOB,minimal,"Suministro de agua
+Demanda excesiva de agua","Crecimiento de la población
+Falta de cultura del uso","Escasez de agua
+Impacto en la salud","CORENA: Incentiva conservación del suelo
+Sistema de Aguas: Maneja suministro de agua"
+I021415_OTR,minimal,"Mala calidad del agua
+Escasez de agua","Asentamientos irregulares
+Corrupción en distribución","Problemas de salud
+Desigualdad en acceso","Vecinos: Protestan por abastecimiento
+Organizaciones civiles: Defienden el derecho al agua"
+I032615_OTR,minimal,"Mala calidad del agua
+Escasez de agua","Crecimiento de la población
+Mala gestión del agua","Menor calidad de vida
+Inundaciones en la zona","Comunidad: Proponen alternativas de ecotecnia
+Gobierno: Instala plantas potabilizadoras"
+I032615_OTR_1RA_PARTE,minimal,"Mala calidad del agua
+Inundaciones en la zona","Fugas en la infraestructura
+Mala administración del agua","Problemas de salud
+Grietas en las viviendas","Comunidad: Construcción de cisternas de ferrocemento
+Gobierno: Implementación de programas de captación"
+MC031915_OTR,minimal,"Escasez de agua
+Fugas en la red","Crecimiento urbano descontrolado
+Infraestructura de agua deficiente","Dificultades para acceder al agua
+Aumento de costos de agua","Delegación: Controla el tandeo de agua
+Vecinos: Reportan fugas de agua"
+MC032415_GOB,minimal,"Escasez de agua
+Mala calidad del agua","Deforestación y tala clandestina
+Antigüedad de tuberías","Desabasto de agua
+Contaminación del agua","Sistema de Aguas: Sustituye tuberías antiguas
+Comunidad: Participa en reforestación"
+MC032515_GOB,minimal,"Deslizamientos de talud
+Inundaciones en asentamientos","Cortes y terraceo en cerros
+Uso inadecuado de drenaje","Daños a viviendas y personas
+Contaminación del agua","Protección Civil: Notifica riesgos a vecinos
+Ecología: Limpieza de ríos y barrancas"
+X011915_GOB,minimal,"Contaminación de los canales
+Inundaciones en la zona","Descargas de drenaje domiciliario
+Irregularidades en asentamientos","Daños a la salud
+Pérdida de biodiversidad acuática","Gobierno del Distrito Federal: Coordina acciones de limpieza
+Sistemas de Aguas de la Ciudad de México: Monitorea calidad del agua"
+X022415_ACA,minimal,"Escasez de agua
+Contaminación de fuentes hídricas","Extracción de acuíferos
+Urbanización descontrolada","Deterioro de la salud
+Impacto en la agricultura","Gobierno del D.F: Promueve producción agrícola orgánica
+Comisión de Cuenca: Regula uso de agua agrícola"
+X022415_GOB,minimal,"Calidad del agua
+Escasez de agua","Contaminación por invernaderos
+Asentamientos irregulares","Impacto en la salud
+Pérdida económica en producción","Autoridad de la Zona Patrimonio Mundial: Establece coordinación con académicos
+Productores: Implementan tratamientos de agua"
+X042315_GOB,minimal,"Hundimientos diferenciales
+Escasez de agua","Explotación de aguas subterráneas
+Asentamientos irregulares","Contaminación del agua
+Pérdida de producción agrícola","SEMARNAT: Registro como sitio Ramsar
+Autoridad local: Genera programas de conservación"

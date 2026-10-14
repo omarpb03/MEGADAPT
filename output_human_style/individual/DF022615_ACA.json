@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en Iztapalapa",
+    "Contaminación de aguas grises",
+    "Desperdicio de agua en la ciudad",
+    "Salinización del agua en Xochimilco"
+  ],
+  "Causas_principales": [
+    "Falta de infraestructura adecuada",
+    "Uso ineficiente del agua",
+    "Corrupción en distribución de agua",
+    "Contaminación por excretas animales"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Conflictos sociales por agua",
+    "Impacto en producción agrícola",
+    "Desigualdad en acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "No implementa propuestas de reciclaje"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en cisternas"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven uso de composta"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Utilizan excretas para fertilización"
+    }
+  ],
+  "input_tokens": 13659,
+  "output_tokens": 203,
+  "error": null
+}

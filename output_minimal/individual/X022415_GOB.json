@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad del agua",
+    "Escasez de agua"
+  ],
+  "Causas_principales": [
+    "Contaminación por invernaderos",
+    "Asentamientos irregulares"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud",
+    "Pérdida económica en producción"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Establece coordinación con académicos"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan tratamientos de agua"
+    }
+  ],
+  "input_tokens": 12481,
+  "output_tokens": 118,
+  "error": null
+}

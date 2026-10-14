@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones en la ciudad",
+    "Gestión ineficiente del agua"
+  ],
+  "Causas_principales": [
+    "Incapacidad de gestión del recurso",
+    "Intereses particulares en el agua",
+    "Desarrollo urbano descontrolado",
+    "Fugas en la red de agua"
+  ],
+  "Consecuencias": [
+    "Desconfianza en la calidad del agua",
+    "Problemas de salud pública",
+    "Impacto en la vivienda",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controla distribución del agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Emite licencias de desarrollo"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Protestan por falta de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Realiza estudios sobre agua"
+    }
+  ],
+  "input_tokens": 14093,
+  "output_tokens": 270,
+  "error": null
+}

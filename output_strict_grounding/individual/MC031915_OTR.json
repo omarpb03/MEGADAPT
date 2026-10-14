@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Fugas en la red"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Antigua infraestructura de agua"
+  ],
+  "Consecuencias": [
+    "Dificultades en el abastecimiento",
+    "Aumento en costos de agua",
+    "Problemas de salud"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas de agua"
+    }
+  ],
+  "input_tokens": 9824,
+  "output_tokens": 126,
+  "error": null
+}

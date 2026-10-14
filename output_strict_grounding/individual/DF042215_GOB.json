@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones súbitas",
+    "Zonas susceptibles a inundaciones",
+    "Falta de información",
+    "Mantenimiento del drenaje"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Basura en el drenaje",
+    "Cambio climático",
+    "Falta de mantenimiento en infraestructura"
+  ],
+  "Consecuencias": [
+    "Daños a la salud",
+    "Afectaciones económicas",
+    "Problemas de movilidad",
+    "Impacto en la vivienda"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Elabora mapas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Difunde infografías sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Recopila información de inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Emite recomendaciones de prevención"
+    }
+  ],
+  "input_tokens": 15371,
+  "output_tokens": 182,
+  "error": null
+}

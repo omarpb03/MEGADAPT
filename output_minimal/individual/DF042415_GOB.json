@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en la ciudad",
+    "Escasez de agua potable"
+  ],
+  "Causas_principales": [
+    "Infraestructura inadecuada",
+    "Cambio climático"
+  ],
+  "Consecuencias": [
+    "Enfermedades dérmicas",
+    "Infecciones gastrointestinales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporciona agua potable embotellada"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite medidas preventivas"
+    }
+  ],
+  "input_tokens": 12962,
+  "output_tokens": 115,
+  "error": null
+}

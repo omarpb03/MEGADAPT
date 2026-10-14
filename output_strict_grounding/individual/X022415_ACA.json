@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Uso de suelo agrícola",
+    "Inundaciones"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada",
+    "Asentamientos irregulares",
+    "Fugas en la red"
+  ],
+  "Consecuencias": [
+    "Contaminación de fuentes de agua",
+    "Deterioro de ríos",
+    "Desplazamiento poblacional",
+    "Impacto en la salud"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 20209,
+  "output_tokens": 158,
+  "error": null
+}

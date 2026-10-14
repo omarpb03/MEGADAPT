@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en la ciudad",
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Tandeo en el suministro"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Falta de infraestructura adecuada",
+    "Desigualdad en el acceso",
+    "Desinterés político en colonias populares"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Desplazamiento de comunidades",
+    "Conflictos sociales por agua",
+    "Impacto ambiental negativo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementa tandeo de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Documentan problemas de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en tambos"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Defiende proyectos de construcción"
+    }
+  ],
+  "input_tokens": 12467,
+  "output_tokens": 266,
+  "error": null
+}

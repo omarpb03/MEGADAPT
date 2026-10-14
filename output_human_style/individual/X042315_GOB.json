@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Hundimientos diferenciales en Xochimilco",
+    "Desaparición de humedales",
+    "Contaminación por aguas negras",
+    "Falta de infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Explotación excesiva de pozos",
+    "Construcción del nuevo aeropuerto",
+    "Asentamientos irregulares",
+    "Falta de planeación urbana"
+  ],
+  "Consecuencias": [
+    "Pérdida de biodiversidad",
+    "Afectación a la agricultura chinampera",
+    "Contaminación del agua",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro de humedales como sitio Ramsar"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementación de programas de conservación"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro de sistemas agroproductivos tradicionales"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Mantenimiento de chinampas y canales"
+    }
+  ],
+  "input_tokens": 14166,
+  "output_tokens": 282,
+  "error": null
+}

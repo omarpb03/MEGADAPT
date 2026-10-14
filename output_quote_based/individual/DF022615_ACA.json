@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Tandeo en las colonias",
+    "Contaminación de aguas"
+  ],
+  "Causas_principales": [
+    "Falta de interés del gobierno",
+    "Construcción sin reciclaje de agua",
+    "Uso de aguas negras en jardines",
+    "Corrupción en la vigilancia"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua",
+    "Problemas de salud",
+    "Contaminación del suelo",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Plantea cambios en uso del agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en cisternas"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven conciencia del agua"
+    },
+    {
+      "actor": "UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    }
+  ],
+  "input_tokens": 13618,
+  "output_tokens": 191,
+  "error": null
+}

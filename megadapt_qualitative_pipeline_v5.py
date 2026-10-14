@@ -55,11 +55,8 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format="%(asctime)s  %(levelname)-8s  %(message)s", datefmt="%H:%M:%S")
 log = logging.getLogger(__name__)
 
-# ──────────────────────────────────────────────────────────────────────────────
+# 
 # 0. Catálogo de modelos (context window y precios de REFERENCIA)
-# ──────────────────────────────────────────────────────────────────────────────
-# USD por 1M de tokens. Son valores de referencia: CONFIRMAR en la página de
-# precios de OpenAI antes de una corrida grande. Editar aquí si cambian.
 @dataclass(frozen=True)
 class ModelInfo:
     context: int
@@ -82,9 +79,7 @@ PROMPT_OVERHEAD_TOKENS = 350   # esquema JSON + mensajes del sistema de la API (
 EST_OUTPUT_TOKENS = 1_000      # salida típica por entrevista (aprox.)
 CONTEXT_SAFETY = 0.90          # se marca "excede" si la entrada usa >90% del contexto
 
-# ──────────────────────────────────────────────────────────────────────────────
 # 1. Estructuras de datos y schemas
-# ──────────────────────────────────────────────────────────────────────────────
 @dataclass
 class InterviewMetadata:
     Id_entrevista: str
@@ -116,9 +111,7 @@ class QualitativeAnalysisSchema(BaseModel):
     Acciones_y_Actores_que_realizan_dichas_acciones: list[AccionActor] = Field(
         description="Acciones realizadas o propuestas, con el actor que las realiza.")
 
-# ──────────────────────────────────────────────────────────────────────────────
 # 2. Lectura y preprocesamiento
-# ──────────────────────────────────────────────────────────────────────────────
 def load_transcript(path: Path) -> str:
     if path.suffix.lower() == ".docx":
         from docx import Document
@@ -150,9 +143,7 @@ def preprocess(text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     return text
 
-# ──────────────────────────────────────────────────────────────────────────────
 # 3. Conteo de palabras y tokens
-# ──────────────────────────────────────────────────────────────────────────────
 _ENCODER = None          # None = sin intentar, False = no disponible
 TOKEN_MODE = "sin inicializar"
 
@@ -246,9 +237,8 @@ def count_only(folder: str, out_dir: str, models: list[str]) -> pd.DataFrame:
     print("\nPrecios de referencia: verificar en la página de precios de OpenAI antes de correr.")
     return df
 
-# ──────────────────────────────────────────────────────────────────────────────
+#
 # 4. Prompt de extracción
-# ──────────────────────────────────────────────────────────────────────────────
 SYSTEM_PROMPT = """
 Eres un analista socio-ambiental cualitativo, especializado en gestión del agua y riesgo hídrico en zonas urbanas de la Ciudad de México (inundaciones, escasez, calidad del agua, distribución).
 
@@ -276,9 +266,8 @@ FORMATO (muy importante):
 
 USER_TEMPLATE = "=== TRANSCRIPCIÓN ===\n{transcript}\n=== FIN DE TRANSCRIPCIÓN ==="
 
-# ──────────────────────────────────────────────────────────────────────────────
+
 # 5. Cliente OpenAI con reintentos
-# ──────────────────────────────────────────────────────────────────────────────
 class UsageTracker:
     """Acumula tokens reales y costo estimado (para vigilar el presupuesto)."""
     def __init__(self, model: str):
@@ -345,9 +334,8 @@ def dedupe(items: list[str]) -> list[str]:
             out.append(x)
     return out
 
-# ──────────────────────────────────────────────────────────────────────────────
+# 
 # 6. Extracción por entrevista
-# ──────────────────────────────────────────────────────────────────────────────
 def analyze_transcript(text: str, metadata: InterviewMetadata, client, model: str,
                        tracker: UsageTracker, temperature: Optional[float] = 0.2) -> InterviewResult:
     result = InterviewResult(metadata=metadata)
@@ -375,9 +363,7 @@ def analyze_transcript(text: str, metadata: InterviewMetadata, client, model: st
         result.error = str(exc)
     return result
 
-# ──────────────────────────────────────────────────────────────────────────────
 # 7. Salidas: CSV consolidado
-# ──────────────────────────────────────────────────────────────────────────────
 COL_PREOC  = "Preocupacion_principal_acerca_del_agua"
 COL_CAUSAS = "Causas_principales"
 COL_CONSEC = "Consecuencias"
@@ -428,9 +414,7 @@ def load_existing_result(out_dir: Path, interview_id: str) -> Optional[Interview
     except Exception:
         return None
 
-# ──────────────────────────────────────────────────────────────────────────────
 # 8. Pipeline principal
-# ──────────────────────────────────────────────────────────────────────────────
 def _process_single_file(fpath: Path, client, model: str, out_path: Path,
                          all_results: list[InterviewResult], tracker: UsageTracker, resume: bool):
     metadata = parse_interview_id(fpath.name)
@@ -529,10 +513,7 @@ def run_pipeline(input_folder: str, output_folder: str, model: str,
              + json.dumps(usage, ensure_ascii=False, indent=2))
     return all_results
 
-
-# ──────────────────────────────────────────────────────────────────────────────
 # CLI
-# ──────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Pipeline MEGADAPT v5 — extracción cualitativa de entrevistas (OpenAI)",

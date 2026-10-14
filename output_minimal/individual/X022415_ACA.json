@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Contaminación de fuentes hídricas"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada"
+  ],
+  "Consecuencias": [
+    "Deterioro de la salud",
+    "Impacto en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Promueve producción agrícola orgánica"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Regula uso de agua agrícola"
+    }
+  ],
+  "input_tokens": 20179,
+  "output_tokens": 121,
+  "error": null
+}

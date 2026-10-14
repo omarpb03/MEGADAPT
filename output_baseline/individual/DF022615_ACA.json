@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Inundaciones en colonias",
+    "Contaminación de aguas"
+  ],
+  "Causas_principales": [
+    "Falta de infraestructura adecuada",
+    "Corrupción en la gestión",
+    "Uso inadecuado de aguas",
+    "Desarrollo urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Desigualdad en acceso al agua",
+    "Contaminación de suelos",
+    "Impacto en producción agrícola"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de tratamiento"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en cisternas"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven el uso responsable"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Realizan investigaciones sobre agua"
+    }
+  ],
+  "input_tokens": 13446,
+  "output_tokens": 261,
+  "error": null
+}

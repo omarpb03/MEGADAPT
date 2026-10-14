@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro de agua",
+    "Demanda excesiva de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Falta de cultura del uso"
+  ],
+  "Consecuencias": [
+    "Escasez de agua",
+    "Impacto en la salud"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Incentiva conservación del suelo"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Maneja suministro de agua"
+    }
+  ],
+  "input_tokens": 14637,
+  "output_tokens": 161,
+  "error": null
+}

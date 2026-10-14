@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en manantiales",
+    "Tandeo en colonias populares",
+    "Fugas en tuberías antiguas",
+    "Contaminación por basura en ríos"
+  ],
+  "Causas_principales": [
+    "Deforestación y tala clandestina",
+    "Antigüedad de tuberías",
+    "Crecimiento urbano descontrolado",
+    "Falta de programas de reforestación"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en estiaje",
+    "Contaminación del agua potable",
+    "Inundaciones por basura",
+    "Problemas de salud por tuberías"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustituye tuberías antiguas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Realiza limpieza de cauces"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Participan en reforestación"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Solicitan pipas de agua"
+    }
+  ],
+  "input_tokens": 12235,
+  "output_tokens": 204,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Intereses inmobiliarios",
+    "Asentamientos humanos irregulares"
+  ],
+  "Causas_principales": [
+    "Descoordinación institucional",
+    "Intereses políticos y económicos",
+    "Desmantelamiento de políticas rurales"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Conflictos comunitarios",
+    "Gentrificación en zonas urbanas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 10040,
+  "output_tokens": 106,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Acceso limitado al agua",
+    "Contaminación de fuentes hídricas",
+    "Desigualdad en distribución",
+    "Impacto del cambio climático"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada",
+    "Asentamientos irregulares",
+    "Falta de regulación"
+  ],
+  "Consecuencias": [
+    "Deterioro de la salud",
+    "Pérdida de tierras agrícolas",
+    "Conflictos sociales",
+    "Contaminación ambiental"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de regulación"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven educación ambiental"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Adoptan prácticas sostenibles"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Realizan investigaciones sobre agua"
+    }
+  ],
+  "input_tokens": 20075,
+  "output_tokens": 257,
+  "error": null
+}

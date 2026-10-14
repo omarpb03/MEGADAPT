@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en el abastecimiento",
+    "Mala calidad del agua",
+    "Tandeo en colonias populares",
+    "Falta de coordinación institucional"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva de agua",
+    "Corrupción en permisos de construcción",
+    "Desigualdad socioeconómica",
+    "Fragmentación institucional"
+  ],
+  "Consecuencias": [
+    "Afectaciones a la salud",
+    "Deterioro de viviendas",
+    "Desplazamiento forzado",
+    "Conflictos sociales por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestiona servicios básicos"
+    },
+    {
+      "actor": "Gobierno de la Ciudad",
+      "accion": "Implementa programas de mejoramiento"
+    },
+    {
+      "actor": "CONAVI",
+      "accion": "Establece normativas de vivienda"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan marchas por agua"
+    }
+  ],
+  "input_tokens": 18586,
+  "output_tokens": 186,
+  "error": null
+}

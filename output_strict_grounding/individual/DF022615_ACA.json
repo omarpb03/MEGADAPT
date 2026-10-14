@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Contaminación por aguas negras",
+    "Fugas en la red"
+  ],
+  "Causas_principales": [
+    "Falta de cultura del agua",
+    "Desarrollo urbano descontrolado",
+    "Uso inadecuado de aguas residuales",
+    "Corrupción en la gestión del agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Contaminación del suelo",
+    "Desigualdad en el acceso",
+    "Impacto en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "No implementa regulaciones efectivas"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Proponen soluciones de gestión"
+    }
+  ],
+  "input_tokens": 13580,
+  "output_tokens": 155,
+  "error": null
+}
