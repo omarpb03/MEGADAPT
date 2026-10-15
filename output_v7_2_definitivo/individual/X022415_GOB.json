@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del agua",
+    "Escasez de agua",
+    "Fugas en la red",
+    "Inundaciones en asentamientos"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Fugas en la red",
+    "Contaminación por agroquímicos",
+    "Hundimientos diferenciales"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud",
+    "Pérdida económica en producción",
+    "Deterioro de la biodiversidad",
+    "Desinterés por la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Construcción de refugios de biodiversidad"
+    },
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Establece coordinación con dependencias"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan tratamientos de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Proponen proyectos de manejo de agua"
+    }
+  ],
+  "input_tokens": 14349,
+  "output_tokens": 199,
+  "error": null
+}

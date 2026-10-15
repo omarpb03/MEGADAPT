@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Fugas en la red",
+    "Contaminación por basura",
+    "Tandeo en las colonias"
+  ],
+  "Causas_principales": [
+    "Deforestación y tala clandestina",
+    "Antigüedad de tuberías",
+    "Falta de infraestructura",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua",
+    "Contaminación del agua",
+    "Inundaciones en viviendas",
+    "Problemas de salud potenciales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustituye tuberías de plomo"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Realiza limpieza de cauces"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Participan en reforestación"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Solicitan pipas de agua"
+    }
+  ],
+  "input_tokens": 13994,
+  "output_tokens": 186,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR_1RA_PARTE"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Fugas en la red",
+    "Inundaciones en la zona",
+    "Escasez de agua potable"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica obsoleta",
+    "Desperdicio de agua por fugas",
+    "Pavimentación excesiva",
+    "Mala gestión del agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Grietas en viviendas",
+    "Contaminación de ríos",
+    "Inseguridad en la comunidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Construcción de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Instalación de pozos de infiltración"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementación de programas de captación de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Realización de diagnósticos comunitarios"
+    }
+  ],
+  "input_tokens": 15447,
+  "output_tokens": 195,
+  "error": null
+}

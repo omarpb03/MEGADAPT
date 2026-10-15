@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en Xochimilco",
+    "Calidad del agua",
+    "Inundaciones en la ciudad",
+    "Acceso desigual al agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Uso de suelo agrícola",
+    "Urbanización descontrolada",
+    "Falta de regulación en uso de agua"
+  ],
+  "Consecuencias": [
+    "Contaminación de fuentes de agua",
+    "Impacto en la salud",
+    "Desplazamiento de comunidades",
+    "Deterioro de la infraestructura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de regulación"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Adoptan prácticas agrícolas sostenibles"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Realiza investigaciones sobre agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven educación ambiental"
+    }
+  ],
+  "input_tokens": 22047,
+  "output_tokens": 185,
+  "error": null
+}
