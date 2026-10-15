@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Tandeo en las colonias",
+    "Fugas en la red",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Infraestructura insuficiente",
+    "Fugas en tuberías",
+    "Desperdicio de agua"
+  ],
+  "Consecuencias": [
+    "Dificultades para abastecimiento",
+    "Aumento de costos de agua",
+    "Problemas de salud",
+    "Descontento social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Repara fugas en la red"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Instalan sistemas de captación de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Proporciona recursos para proyectos"
+    }
+  ],
+  "input_tokens": 10988,
+  "output_tokens": 185,
+  "error": null
+}

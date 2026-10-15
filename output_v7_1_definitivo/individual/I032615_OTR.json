@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones",
+    "Suministro insuficiente"
+  ],
+  "Causas_principales": [
+    "Crecimiento constante de la población",
+    "Infraestructura insuficiente",
+    "Mala gestión del agua",
+    "Condiciones de uso de suelo"
+  ],
+  "Consecuencias": [
+    "Menor cantidad de agua",
+    "Riesgos para la salud",
+    "Menor calidad de vida",
+    "Inundaciones en zonas periféricas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos",
+      "accion": "Proponen alternativas de ecotecnia"
+    },
+    {
+      "actor": "Desarrollo Integral Comunitario Iztacalco",
+      "accion": "Implementa proyectos de captación de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instala plantas potabilizadoras"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Monitorea grietas en viviendas"
+    }
+  ],
+  "input_tokens": 13972,
+  "output_tokens": 188,
+  "error": null
+}

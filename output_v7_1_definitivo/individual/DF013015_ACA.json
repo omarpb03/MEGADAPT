@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Falta de coordinación institucional",
+    "Inundaciones en Iztapalapa"
+  ],
+  "Causas_principales": [
+    "Extracción de agua del subsuelo",
+    "Desigualdad en el acceso",
+    "Falta de planeación urbana",
+    "Corrupción en permisos de construcción"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Deterioro de viviendas",
+    "Aumento de costos de agua",
+    "Desplazamiento de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionan servicios de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa pozos de captación de agua"
+    },
+    {
+      "actor": "CONAVI",
+      "accion": "Proporciona estadísticas de vivienda"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Realizan marchas por agua"
+    }
+  ],
+  "input_tokens": 19671,
+  "output_tokens": 188,
+  "error": null
+}

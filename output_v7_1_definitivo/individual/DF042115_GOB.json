@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Inundaciones",
+    "Crecimiento poblacional desordenado"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Extracción de acuíferos",
+    "Construcción descontrolada",
+    "Falta de mantenimiento de infraestructura"
+  ],
+  "Consecuencias": [
+    "Afectaciones a la salud",
+    "Problemas de higiene",
+    "Impacto en la educación",
+    "Incremento de enfermedades gastrointestinales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Construye lagunas de regulación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instala sistemas de alerta hidrometeorológica"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Regula el agua en zonas específicas"
+    }
+  ],
+  "input_tokens": 11356,
+  "output_tokens": 175,
+  "error": null
+}

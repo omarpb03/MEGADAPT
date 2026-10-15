@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por lluvias",
+    "Deslizamientos de talud",
+    "Cortes a los cerros",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Terraceo y cortes inadecuados",
+    "Deterioro del suelo",
+    "Basura en ríos y barrancas",
+    "Construcción en zonas irregulares"
+  ],
+  "Consecuencias": [
+    "Daños a viviendas",
+    "Riesgos a la salud",
+    "Desplazamiento de personas",
+    "Contaminación del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notifica a vecinos sobre riesgos"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite recomendaciones de mitigación"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Desazolve de la red de drenaje"
+    }
+  ],
+  "input_tokens": 10632,
+  "output_tokens": 196,
+  "error": null
+}

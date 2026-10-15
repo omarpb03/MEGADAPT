@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas de aguas residuales",
+    "Escasez de agua",
+    "Inundaciones en la zona"
+  ],
+  "Causas_principales": [
+    "Construcción de casas sin drenaje",
+    "Falta de infraestructura",
+    "Irregularidades en el gobierno",
+    "Desdoblamiento de la sociedad"
+  ],
+  "Consecuencias": [
+    "Contaminación del agua",
+    "Pérdida de biodiversidad",
+    "Problemas de salud",
+    "Impacto en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SACMEX",
+      "accion": "Maneja pozos de extracción"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Implementa proyectos productivos"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Coordina acciones de saneamiento"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Proponen dragar canales"
+    }
+  ],
+  "input_tokens": 25884,
+  "output_tokens": 185,
+  "error": null
+}

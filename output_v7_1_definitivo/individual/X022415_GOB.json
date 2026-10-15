@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad del agua",
+    "Escasez de agua",
+    "Contaminación por aguas negras",
+    "Hundimientos diferenciales"
+  ],
+  "Causas_principales": [
+    "Fugas en la red",
+    "Asentamientos irregulares",
+    "Contaminación por pesticidas",
+    "Falta de mantenimiento a plantas de tratamiento"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud",
+    "Pérdida económica en producción",
+    "Deterioro del ecosistema",
+    "Desinterés por la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Construcción de refugios de biodiversidad"
+    },
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Establece coordinación con dependencias"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan tratamientos en chinampas"
+    }
+  ],
+  "input_tokens": 13675,
+  "output_tokens": 184,
+  "error": null
+}

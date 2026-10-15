@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Inundaciones por hundimientos",
+    "Mala calidad del agua",
+    "Fugas en la red"
+  ],
+  "Causas_principales": [
+    "Explotación de agua subterránea",
+    "Hundimientos diferenciales",
+    "Construcción del nuevo aeropuerto",
+    "Asentamientos irregulares"
+  ],
+  "Consecuencias": [
+    "Pérdida de producción agrícola",
+    "Contaminación del agua",
+    "Afectaciones a la salud",
+    "Destrucción de tradiciones culturales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registrar zona como sitio Ramsar"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Generar programas de conservación"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Manejar vasos reguladores de agua"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Elaborar programas de manejo"
+    }
+  ],
+  "input_tokens": 15251,
+  "output_tokens": 186,
+  "error": null
+}

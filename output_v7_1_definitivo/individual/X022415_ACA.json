@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de gobernanza",
+    "Acceso desigual al agua",
+    "Contaminación de fuentes de agua",
+    "Escasez de agua en zonas rurales"
+  ],
+  "Causas_principales": [
+    "Uso de suelo inadecuado",
+    "Desarrollo urbano descontrolado",
+    "Corrupción en la gestión del agua",
+    "Falta de regulación en el uso de agua"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud pública",
+    "Deterioro de ecosistemas",
+    "Desigualdad en el acceso al agua",
+    "Conflictos sociales por recursos hídricos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementa programas de extensión agrícola"
+    },
+    {
+      "actor": "Universidad Autónoma de México",
+      "accion": "Realiza investigaciones sobre agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promueven la sensibilización sobre el agua"
+    }
+  ],
+  "input_tokens": 21373,
+  "output_tokens": 192,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones",
+    "Salud derivada de inundaciones",
+    "Escasez de agua",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente",
+    "Cambio climático",
+    "Falta de servicios sanitarios",
+    "Construcción sin normas"
+  ],
+  "Consecuencias": [
+    "Enfermedades de la piel",
+    "Infecciones gastrointestinales",
+    "Irritación de mucosas",
+    "Subregistro de enfermedades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite medidas preventivas"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporciona agua embotellada"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Realiza campañas de prevención"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacua población en inundaciones"
+    }
+  ],
+  "input_tokens": 14156,
+  "output_tokens": 175,
+  "error": null
+}

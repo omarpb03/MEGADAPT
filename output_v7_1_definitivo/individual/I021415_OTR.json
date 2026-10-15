@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Mala calidad del agua",
+    "Tandeo en las colonias",
+    "Corrupción en la distribución"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Falta de mantenimiento a la red",
+    "Política de distribución del agua",
+    "Marginalidad y pobreza"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Desigualdad en el acceso",
+    "Organización social para exigir derechos",
+    "Desperdicio de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Protestan por el agua"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Condonan pago de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Defienden el derecho al agua"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Instalan pozos de absorción"
+    }
+  ],
+  "input_tokens": 10601,
+  "output_tokens": 188,
+  "error": null
+}

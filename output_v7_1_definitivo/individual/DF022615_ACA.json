@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Tandeo en las colonias",
+    "Contaminación de aguas"
+  ],
+  "Causas_principales": [
+    "Falta de interés del gobierno",
+    "Infraestructura insuficiente",
+    "Contaminación por residuos",
+    "Desarrollo urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Salud de la población",
+    "Desigualdad en el acceso",
+    "Contaminación de cultivos",
+    "Impacto en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "No especificado",
+      "accion": "Propuesta de reciclaje de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "No hay supervisión de normatividad"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Utilizan estiércol para cultivos"
+    },
+    {
+      "actor": "REDES",
+      "accion": "Restauración ecológica en Xochimilco"
+    }
+  ],
+  "input_tokens": 14744,
+  "output_tokens": 187,
+  "error": null
+}

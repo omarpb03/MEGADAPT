@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones en la ciudad",
+    "Gestión del recurso hídrico"
+  ],
+  "Causas_principales": [
+    "Incapacidad de gestión del recurso",
+    "Intereses particulares en el agua",
+    "Desigualdad en el acceso al agua",
+    "Condiciones insalubres en el agua"
+  ],
+  "Consecuencias": [
+    "Desconfianza en la calidad del agua",
+    "Problemas de salud pública",
+    "Inundaciones en zonas vulnerables",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "No especificado",
+      "accion": "Crear comités de colonias"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Establecer mecanismos de control político"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Proveer agua a asentamientos irregulares"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Realizar estudios sobre calidad del agua"
+    }
+  ],
+  "input_tokens": 15391,
+  "output_tokens": 208,
+  "error": null
+}

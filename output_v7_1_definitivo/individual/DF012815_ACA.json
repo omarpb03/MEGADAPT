@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Crecimiento de la ciudad",
+    "Inundaciones históricas",
+    "Tandeo en las colonias",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento en lugares inadecuados",
+    "Falta de infraestructura adecuada",
+    "Decisiones políticas absurdas",
+    "Extracción de agua excesiva"
+  ],
+  "Consecuencias": [
+    "Escasez de agua",
+    "Desigualdades en el acceso",
+    "Problemas de salud",
+    "Degradación de servicios"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SACMEX",
+      "accion": "Encargado de dotación de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Traer agua de otras cuencas"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Medir cantidad de agua consumida"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Organizarse para exigir servicios"
+    }
+  ],
+  "input_tokens": 11131,
+  "output_tokens": 190,
+  "error": null
+}

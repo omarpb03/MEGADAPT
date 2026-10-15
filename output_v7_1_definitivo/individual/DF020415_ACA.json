@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Riesgo hídrico en la ciudad",
+    "Movilización de actores sociales",
+    "Calidad de vida",
+    "Acceso a bienes urbanos"
+  ],
+  "Causas_principales": [
+    "Política de desarrollo urbano",
+    "Inversión privada en infraestructura",
+    "Corrupción y tráfico de influencias",
+    "Condiciones de seguridad precarias"
+  ],
+  "Consecuencias": [
+    "Alteración del medio ambiente",
+    "Afectación a la calidad de vida",
+    "Incremento del riesgo",
+    "Desigualdad en el acceso a servicios"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Asesoramiento en proyectos de agua"
+    },
+    {
+      "actor": "Movimientos urbanos",
+      "accion": "Protestas y plantones"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Generación de nuevas normas de seguridad"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Elaboración de propuestas y seguimiento"
+    }
+  ],
+  "input_tokens": 8167,
+  "output_tokens": 196,
+  "error": null
+}

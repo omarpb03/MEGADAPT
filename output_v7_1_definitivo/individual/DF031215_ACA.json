@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Tandeo en las colonias",
+    "Escasez de agua",
+    "Inundaciones frecuentes",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente",
+    "Uso irracional del agua",
+    "Desigualdad en la distribución",
+    "Falta de planificación urbana"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua",
+    "Problemas de salud",
+    "Inundaciones en colonias",
+    "Conflictos sociales por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Maneja el suministro de agua"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Actúa en inundaciones"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en tambos"
+    }
+  ],
+  "input_tokens": 13765,
+  "output_tokens": 163,
+  "error": null
+}

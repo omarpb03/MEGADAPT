@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones",
+    "Mala calidad de agua",
+    "Infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Falta de inversión en infraestructura",
+    "Construcción en terrenos sin servicios",
+    "Problemas de captación de agua de lluvia",
+    "Mala planificación urbana"
+  ],
+  "Consecuencias": [
+    "Aumento en costos de vivienda",
+    "Problemas de salud",
+    "Dificultades en el abastecimiento",
+    "Impacto en la calidad de vida"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Destina presupuesto para infraestructura"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Desarrolla proyectos de plantas potabilizadoras"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas sociales de vivienda"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Construye obras de captación de agua"
+    }
+  ],
+  "input_tokens": 5639,
+  "output_tokens": 186,
+  "error": null
+}
