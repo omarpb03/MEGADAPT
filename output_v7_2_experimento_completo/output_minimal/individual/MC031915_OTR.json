@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Fugas en la red",
+    "Tandeo en el suministro"
+  ],
+  "Consecuencias": [
+    "Dificultades en el aseo personal",
+    "Aumento en la compra de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas de agua"
+    }
+  ],
+  "input_tokens": 9794,
+  "output_tokens": 116,
+  "error": null
+}

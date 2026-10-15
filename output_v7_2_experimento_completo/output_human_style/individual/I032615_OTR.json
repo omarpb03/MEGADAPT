@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Suministro desigual",
+    "Inundaciones por mala gestión",
+    "Crisis de infraestructura hídrica"
+  ],
+  "Causas_principales": [
+    "Crecimiento poblacional descontrolado",
+    "Mala gestión del agua",
+    "Antigüedad de la red hidráulica",
+    "Construcción inadecuada en zonas de riesgo"
+  ],
+  "Consecuencias": [
+    "Menor calidad de vida",
+    "Afectaciones a la salud",
+    "Inundaciones en zonas vulnerables",
+    "Desabastecimiento de agua potable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Organiza talleres de gestión"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Promueven educación ambiental"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instala plantas potabilizadoras"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Monitorea grietas en viviendas"
+    }
+  ],
+  "input_tokens": 12887,
+  "output_tokens": 192,
+  "error": null
+}

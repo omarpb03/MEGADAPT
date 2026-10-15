@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Crecimiento poblacional descontrolado",
+    "Vulnerabilidad de asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Extracción de acuíferos",
+    "Construcción desmedida",
+    "Falta de mantenimiento a infraestructura"
+  ],
+  "Consecuencias": [
+    "Afectaciones a la salud",
+    "Problemas de higiene",
+    "Impacto en la economía",
+    "Aumento de enfermedades gastrointestinales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de lagunas de regulación"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Instalación de estaciones meteorológicas"
+    }
+  ],
+  "input_tokens": 10192,
+  "output_tokens": 161,
+  "error": null
+}

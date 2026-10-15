@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro de agua",
+    "Demanda excesiva de agua",
+    "Escasez de agua en temporada",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Uso excesivo de tecnología",
+    "Falta de cultura en el uso del agua",
+    "Deforestación y depredación"
+  ],
+  "Consecuencias": [
+    "Afectación a la economía local",
+    "Escasez de agua en la comunidad",
+    "Impacto en la calidad del agua",
+    "Conflictos por el uso del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Incentiva conservación del suelo"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Maneja el suministro de agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Otorga apoyos económicos para conservación"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Realiza obras para retener agua"
+    }
+  ],
+  "input_tokens": 16505,
+  "output_tokens": 202,
+  "error": null
+}

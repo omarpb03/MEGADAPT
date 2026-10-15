@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Hundimientos diferenciales en la zona",
+    "Escasez de agua en chinampas",
+    "Contaminación por aguas negras",
+    "Falta de infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Explotación excesiva de pozos",
+    "Construcción del nuevo aeropuerto",
+    "Asentamientos irregulares",
+    "Fugas en el sistema hidráulico"
+  ],
+  "Consecuencias": [
+    "Pérdida de producción agrícola",
+    "Contaminación del agua",
+    "Aumento de la temperatura local",
+    "Desplazamiento de aves migratorias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro de humedales como RAMSAR"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de manejo de esclusas"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro de sistemas agroproductivos tradicionales"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Mantenimiento de ollas de captación"
+    }
+  ],
+  "input_tokens": 14166,
+  "output_tokens": 200,
+  "error": null
+}

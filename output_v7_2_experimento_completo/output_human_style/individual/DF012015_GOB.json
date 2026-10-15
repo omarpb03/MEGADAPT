@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua desigual",
+    "Inundaciones en comunidades vulnerables",
+    "Mala calidad del agua",
+    "Fugas en la red de agua"
+  ],
+  "Causas_principales": [
+    "Falta de inversión en infraestructura",
+    "Desarrollo urbano sin servicios",
+    "Construcción en terrenos irregulares",
+    "Problemas de gestión gubernamental"
+  ],
+  "Consecuencias": [
+    "Aumento de costos de vivienda",
+    "Escasez de agua en colonias",
+    "Impacto en salud pública",
+    "Desigualdad en acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno Federal",
+      "accion": "Destina presupuesto a infraestructura"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Desarrolla proyectos de potabilización"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Manejan presupuestos autónomos"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Implementa programas de captación de agua"
+    }
+  ],
+  "input_tokens": 4554,
+  "output_tokens": 194,
+  "error": null
+}

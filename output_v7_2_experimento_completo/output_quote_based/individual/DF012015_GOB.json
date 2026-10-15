@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones",
+    "Mala calidad del agua",
+    "Infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Falta de inversión en infraestructura",
+    "Construcción en terrenos sin servicios",
+    "Problemas de captación de agua de lluvia"
+  ],
+  "Consecuencias": [
+    "Aumento de costos de vivienda",
+    "Problemas de salud por mala calidad",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Desarrolla programas sociales de vivienda"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Implementa proyectos de plantas potabilizadoras"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Realiza inversión de 18 mil millones"
+    }
+  ],
+  "input_tokens": 6313,
+  "output_tokens": 163,
+  "error": null
+}

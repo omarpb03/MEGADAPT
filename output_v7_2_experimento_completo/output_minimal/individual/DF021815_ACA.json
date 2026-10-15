@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Inundaciones en la ciudad"
+  ],
+  "Causas_principales": [
+    "Gestión ineficiente del recurso",
+    "Desigualdad en la distribución"
+  ],
+  "Consecuencias": [
+    "Desconfianza en el agua potable",
+    "Problemas de salud pública"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Provee servicios de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Desarrolla infraestructura hidráulica"
+    }
+  ],
+  "input_tokens": 14197,
+  "output_tokens": 164,
+  "error": null
+}

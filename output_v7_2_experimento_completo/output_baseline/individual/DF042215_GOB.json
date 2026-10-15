@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones pluviales",
+    "Fugas en el drenaje",
+    "Escasez de información",
+    "Mala calidad del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Mantenimiento inadecuado del drenaje",
+    "Basura en alcantarillas",
+    "Cambio climático"
+  ],
+  "Consecuencias": [
+    "Daños a la salud",
+    "Pérdidas económicas",
+    "Problemas de movilidad",
+    "Impacto en la vivienda"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Elabora mapas de inundación"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite recomendaciones de prevención"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Realiza obras de infraestructura"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Participan en levantamiento de datos"
+    }
+  ],
+  "input_tokens": 15237,
+  "output_tokens": 260,
+  "error": null
+}

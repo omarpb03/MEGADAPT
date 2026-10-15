@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en Iztapalapa",
+    "Mala calidad del agua",
+    "Desperdicio de agua",
+    "Contaminación de aguas grises"
+  ],
+  "Causas_principales": [
+    "Falta de interés del gobierno",
+    "Construcción sin reciclaje de agua",
+    "Uso de aguas negras para riego",
+    "Contaminación por excretas de ganado"
+  ],
+  "Consecuencias": [
+    "Quejas de vecinos",
+    "Problemas de salud",
+    "Salinización del agua",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "No especificado",
+      "accion": "Propuesta de reciclaje de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Riega jardines con aguas tratadas"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Utilizan excretas para fertilizar"
+    },
+    {
+      "actor": "REDES",
+      "accion": "Restauración ecológica en Xochimilco"
+    }
+  ],
+  "input_tokens": 15418,
+  "output_tokens": 199,
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Contaminación de aguas",
+    "Fugas en la red"
+  ],
+  "Causas_principales": [
+    "Falta de interés gubernamental",
+    "Construcción sin reciclaje de agua",
+    "Contaminación por excretas",
+    "Corrupción en la distribución"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Desigualdad en el acceso",
+    "Contaminación del agua",
+    "Impacto en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 13580,
+  "output_tokens": 121,
+  "error": null
+}

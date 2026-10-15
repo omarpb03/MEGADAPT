@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Inundaciones",
+    "Acceso desigual al agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Uso de suelo agrícola",
+    "Urbanización descontrolada",
+    "Falta de regulación"
+  ],
+  "Consecuencias": [
+    "Contaminación de fuentes de agua",
+    "Deterioro de ríos",
+    "Desplazamiento de comunidades",
+    "Impacto en la salud"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Promueve producción orgánica"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Realiza estudios sobre agua"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Establece regulaciones de uso de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Realiza ceremonias para pedir agua"
+    }
+  ],
+  "input_tokens": 22047,
+  "output_tokens": 180,
+  "error": null
+}

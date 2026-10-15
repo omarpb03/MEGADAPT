@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Hundimientos diferenciales",
+    "Escasez de agua"
+  ],
+  "Causas_principales": [
+    "Explotación de pozos",
+    "Asentamientos irregulares"
+  ],
+  "Consecuencias": [
+    "Pérdida de producción agrícola",
+    "Contaminación del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro de humedales como Ramsar"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementación de sistemas de captación"
+    }
+  ],
+  "input_tokens": 14057,
+  "output_tokens": 164,
+  "error": null
+}

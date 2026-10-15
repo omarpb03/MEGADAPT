@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Corrupción en distribución"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Desperdicio de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos",
+      "accion": "Protestan por dotación de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Defienden el derecho al agua"
+    }
+  ],
+  "input_tokens": 9407,
+  "output_tokens": 113,
+  "error": null
+}

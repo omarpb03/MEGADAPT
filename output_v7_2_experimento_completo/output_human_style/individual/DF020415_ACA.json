@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Movilización de actores sociales",
+    "Calidad de vida urbana",
+    "Acceso a servicios básicos",
+    "Riesgo por inundaciones"
+  ],
+  "Causas_principales": [
+    "Política de desarrollo urbano",
+    "Inversión privada en infraestructura",
+    "Corrupción en construcción",
+    "Desigualdad en acceso a servicios"
+  ],
+  "Consecuencias": [
+    "Alteración del medio ambiente",
+    "Afectaciones a la vivienda",
+    "Desigualdad en acceso a agua",
+    "Incremento del riesgo social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Inciden en políticas públicas"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncian afectaciones ambientales"
+    },
+    {
+      "actor": "ONGs de vivienda",
+      "accion": "Asesoran en proyectos urbanos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programas de vivienda"
+    }
+  ],
+  "input_tokens": 7082,
+  "output_tokens": 184,
+  "error": null
+}

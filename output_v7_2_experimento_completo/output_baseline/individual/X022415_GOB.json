@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del agua",
+    "Escasez de agua",
+    "Inundaciones en asentamientos",
+    "Fugas en la red"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Contaminación por invernaderos",
+    "Fugas en la infraestructura",
+    "Hundimientos diferenciales"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud",
+    "Pérdida económica para productores",
+    "Degradación del medio ambiente",
+    "Desinterés de nuevas generaciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio",
+      "accion": "Coordina políticas de conservación"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementan tratamientos de agua"
+    },
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Colabora en proyectos de reactivación"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Supervisa calidad del agua"
+    }
+  ],
+  "input_tokens": 12377,
+  "output_tokens": 273,
+  "error": null
+}

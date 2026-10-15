@@ -647,7 +647,7 @@ def evaluate(
     out_dir: str,
     metrics: list[str],
     sheet: str = "Integracion",
-    bertscore_model: str = "microsoft/mdeberta-v3-base",
+    bertscore_model: str = "bert-base-multilingual-cased",
     lang: str = "es",
     device: str = "cpu",
     xlsx: bool = False,
@@ -747,7 +747,7 @@ def enrich_csv(
     out_dir: str,
     metrics: list[str],
     sheet: str = "Integracion",
-    bertscore_model: str = "microsoft/mdeberta-v3-base",
+    bertscore_model: str = "bert-base-multilingual-cased",
     lang: str = "es",
     device: str = "cpu",
 ) -> pd.DataFrame:
@@ -895,7 +895,7 @@ Ejemplos de uso:
     ap.add_argument("--sheet", default="Integracion",
                     help="Nombre de la hoja en el Excel humano (default: Integracion)")
     ap.add_argument(
-        "--bertscore-model", default="microsoft/mdeberta-v3-base",
+        "--bertscore-model", default="bert-base-multilingual-cased",
         help=(
             "Modelo HuggingFace para BERTScore:\n"
             "  microsoft/mdeberta-v3-base           (multilingüe, mejor calidad, ~900 MB)\n"

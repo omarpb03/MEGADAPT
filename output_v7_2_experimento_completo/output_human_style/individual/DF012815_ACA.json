@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Tandeo en colonias populares",
+    "Crecimiento urbano descontrolado",
+    "Inundaciones históricas",
+    "Fugas en redes de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento en zonas de recarga",
+    "Asentamientos informales sin servicios",
+    "Decisiones políticas arbitrarias",
+    "Falta de infraestructura adecuada"
+  ],
+  "Consecuencias": [
+    "Desigualdad en dotación de agua",
+    "Problemas de salud pública",
+    "Degradación de servicios urbanos",
+    "Conflictos sociales por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Regula dotación de agua"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Permite asentamientos informales"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan protestas por agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Construyen sin servicios adecuados"
+    }
+  ],
+  "input_tokens": 10046,
+  "output_tokens": 197,
+  "error": null
+}

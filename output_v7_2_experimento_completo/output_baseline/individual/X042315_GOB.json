@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Hundimientos diferenciales",
+    "Escasez de agua",
+    "Contaminación del agua",
+    "Inundaciones en la zona"
+  ],
+  "Causas_principales": [
+    "Explotación de agua subterránea",
+    "Asentamientos irregulares",
+    "Fugas en la red",
+    "Cambio de uso de suelo"
+  ],
+  "Consecuencias": [
+    "Pérdida de producción agrícola",
+    "Contaminación de cuerpos de agua",
+    "Afectaciones a la salud",
+    "Desplazamiento de aves migratorias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registro de humedales como RAMSAR"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Manejo de compuertas y esclusas"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Construcción de ollas de captación"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro de sistemas agroproductivos tradicionales"
+    }
+  ],
+  "input_tokens": 13953,
+  "output_tokens": 275,
+  "error": null
+}

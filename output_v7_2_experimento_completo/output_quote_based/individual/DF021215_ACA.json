@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Intereses inmobiliarios",
+    "Inundaciones en asentamientos"
+  ],
+  "Causas_principales": [
+    "Asentamientos humanos irregulares",
+    "Descoordinación institucional",
+    "Intereses políticos y económicos",
+    "Deterioro de infraestructura"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Conflictos sociales",
+    "Desigualdad en el acceso",
+    "Impacto en la producción agrícola"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestiona distribución de agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Implementan proyectos de captación"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Desarrollan ecotecnias y cisternas"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Fortalecen instituciones comunitarias"
+    }
+  ],
+  "input_tokens": 11878,
+  "output_tokens": 186,
+  "error": null
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Fugas en la red",
+    "Calidad del agua",
+    "Tandeo en las colonias"
+  ],
+  "Causas_principales": [
+    "Deforestación en la zona",
+    "Antigüedad de las tuberías",
+    "Crecimiento urbano descontrolado",
+    "Basura en los cauces"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua",
+    "Contaminación del agua",
+    "Inundaciones en viviendas",
+    "Problemas de salud"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de cauces"
+    }
+  ],
+  "input_tokens": 12156,
+  "output_tokens": 156,
+  "error": null
+}

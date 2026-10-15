@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Tandeo en las colonias",
+    "Inundaciones en la ciudad"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Falta de infraestructura adecuada"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua",
+    "Aumento de inundaciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Desarrollo Social",
+      "accion": "Implementa programas de mejoramiento barrial"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Actúa en inundaciones y desasolve"
+    }
+  ],
+  "input_tokens": 12571,
+  "output_tokens": 122,
+  "error": null
+}

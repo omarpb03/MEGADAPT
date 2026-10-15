@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro de agua irregular",
+    "Tandeo en colonias populares",
+    "Inundaciones en Iztapalapa",
+    "Desigualdad en acceso al agua"
+  ],
+  "Causas_principales": [
+    "Control discrecional del agua",
+    "Falta de infraestructura hidráulica",
+    "Crecimiento urbano desmedido",
+    "Desinterés político en colonias"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en colonias",
+    "Aumento de inundaciones",
+    "Conflictos sociales por agua",
+    "Desigualdad en servicios públicos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Obras",
+      "accion": "Define proyectos de infraestructura"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Actúa en inundaciones"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en tambos"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Documentan problemas de inundaciones"
+    }
+  ],
+  "input_tokens": 12680,
+  "output_tokens": 272,
+  "error": null
+}

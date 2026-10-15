@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR_1RA_PARTE"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Inundaciones en la zona"
+  ],
+  "Causas_principales": [
+    "Fugas en la infraestructura",
+    "Mala administración del agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Grietas en las viviendas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Construcción de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementación de programas de captación"
+    }
+  ],
+  "input_tokens": 13579,
+  "output_tokens": 163,
+  "error": null
+}

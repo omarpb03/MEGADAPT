@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones en comunidades",
+    "Mala calidad del agua",
+    "Fugas en la red"
+  ],
+  "Causas_principales": [
+    "Falta de infraestructura hidráulica",
+    "Desarrollo urbano inadecuado",
+    "Terrenos sin servicios básicos",
+    "Problemas de gestión gubernamental"
+  ],
+  "Consecuencias": [
+    "Aumento de costos de vivienda",
+    "Problemas de salud pública",
+    "Desigualdad en el acceso al agua",
+    "Impacto ambiental negativo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Inversión en infraestructura hidráulica"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectos de plantas potabilizadoras"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programas de captación de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Rehabilitación de redes de agua"
+    }
+  ],
+  "input_tokens": 4341,
+  "output_tokens": 266,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones",
+    "Hundimientos"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Mala gestión del agua",
+    "Antigüedad de la red hidráulica",
+    "Fractura de infraestructura"
+  ],
+  "Consecuencias": [
+    "Menor abastecimiento de agua",
+    "Daños a la salud",
+    "Deterioro de la calidad de vida",
+    "Inseguridad en viviendas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Monitorea grietas en viviendas"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Organizan talleres de educación"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Promueven captación de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instala plantas potabilizadoras"
+    }
+  ],
+  "input_tokens": 12674,
+  "output_tokens": 260,
+  "error": null
+}

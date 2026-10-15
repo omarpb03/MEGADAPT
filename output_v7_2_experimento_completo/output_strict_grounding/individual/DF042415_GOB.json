@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por mala infraestructura",
+    "Escasez de agua",
+    "Enfermedades derivadas de inundaciones",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Cambio climático",
+    "Falta de infraestructura adecuada",
+    "Construcción en zonas irregulares",
+    "Subregistro de enfermedades"
+  ],
+  "Consecuencias": [
+    "Enfermedades de la piel",
+    "Infecciones gastrointestinales",
+    "Impacto en la salud pública",
+    "Vulnerabilidad de la población"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporciona agua embotellada"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite medidas preventivas"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Realiza campañas de prevención"
+    }
+  ],
+  "input_tokens": 12992,
+  "output_tokens": 170,
+  "error": null
+}

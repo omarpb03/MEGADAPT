@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad del agua",
+    "Escasez de agua",
+    "Contaminación por invernaderos",
+    "Inundaciones en asentamientos"
+  ],
+  "Causas_principales": [
+    "Fugas en la red",
+    "Asentamientos irregulares",
+    "Contaminación por agroquímicos",
+    "Hundimientos diferenciales"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud",
+    "Pérdida económica en producción",
+    "Degradación del medio ambiente",
+    "Desinterés por la chinampa"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Construcción de refugios de biodiversidad"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Mantenimiento de canales y apantles"
+    }
+  ],
+  "input_tokens": 12511,
+  "output_tokens": 165,
+  "error": null
+}
