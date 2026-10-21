@@ -31,11 +31,18 @@ Uso típico:
   # Ver tokens y costo sin llamar a la API:
   python megadapt_qualitative_pipeline_v7.py --folder "./LLMs-ModelosMentales/TRANSCRIPCIONES/_TRANSCRIPCIONES_35" --count-only
 
-  # Correr una variante:
+  # Correr una variante (los prompts se leen desde PROMPTS/ si la carpeta existe):
   python megadapt_qualitative_pipeline_v7.py \\
       --folder "./LLMs-ModelosMentales/TRANSCRIPCIONES/_TRANSCRIPCIONES_35" \\
       --model gpt-4o-mini \\
       --prompt-variant strict_grounding
+
+  # Especificar una carpeta de prompts distinta a la predeterminada (PROMPTS/):
+  python megadapt_qualitative_pipeline_v7.py \\
+      --folder "./LLMs-ModelosMentales/TRANSCRIPCIONES/_TRANSCRIPCIONES_35" \\
+      --model gpt-4o-mini \\
+      --prompt-variant quote_based \\
+      --prompts-dir "./LLMs-ModelosMentales/PROMPTS"
 
   # Correr todas las variantes (genera una carpeta por variante):
   python megadapt_qualitative_pipeline_v7.py \\
@@ -46,9 +53,9 @@ Uso típico:
   # Evaluar con el script de métricas NLP:
   python megadapt_eval_nlp_2.py \\
       --human "2.Análisis Cualitativo Integración.xlsx" \\
-      --llm baseline=output_baseline/analysis_v7.csv \\
-             strict_grounding=output_strict_grounding/analysis_v7.csv \\
-             human_style=output_human_style/analysis_v7.csv \\
+      --llm baseline=output_baseline/analysis_v7_baseline.csv \\
+             strict_grounding=output_strict_grounding/analysis_v7_strict_grounding.csv \\
+             human_style=output_human_style/analysis_v7_human_style.csv \\
       --metrics bleu chrf bertscore --xlsx
 
 Requiere OPENAI_API_KEY en .env (salvo con --count-only).
@@ -149,7 +156,7 @@ class QualitativeAnalysisSchema(BaseModel):
     )
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 2. Variantes de prompt
+# 2. Variantes de prompt (en memoria — fallback si no existe el archivo .md)
 # ──────────────────────────────────────────────────────────────────────────────
 # Cada variante es una cadena que se usa como system prompt.
 # {max_items} se reemplaza por el valor de --max-items al construir el prompt.
@@ -501,10 +508,72 @@ def count_only(folder: str, out_dir: str, models: list[str], variant: str = "bas
     return df
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 5. Construcción del prompt con parámetros
+# 5. Construcción del prompt — carga desde archivo o desde memoria
 # ──────────────────────────────────────────────────────────────────────────────
+# Directorio de prompts activo. Se configura con set_prompts_dir() o --prompts-dir.
+# None → usar los prompts definidos en PROMPT_VARIANTS (comportamiento v7 original).
+_ACTIVE_PROMPTS_DIR: Optional[Path] = None
+
+# Directorio predeterminado que se busca automáticamente si no se pasa --prompts-dir.
+# Convención del proyecto: carpeta PROMPTS/ junto al script.
+_DEFAULT_PROMPTS_DIR = Path(__file__).parent / "PROMPTS"
+
+
+def set_prompts_dir(path: Optional[str]) -> None:
+    """
+    Configura el directorio del que se cargan los archivos .md de prompts.
+
+    Si path es None, se intenta el directorio predeterminado (_DEFAULT_PROMPTS_DIR).
+    Si ese tampoco existe, se usan los prompts en memoria sin advertencia.
+    Si path es una ruta que no existe, se lanza FileNotFoundError.
+    """
+    global _ACTIVE_PROMPTS_DIR
+    if path is not None:
+        p = Path(path)
+        if not p.is_dir():
+            raise FileNotFoundError(
+                f"Directorio de prompts no encontrado: {p.resolve()}\n"
+                f"Asegúrate de que la carpeta existe y contiene archivos .md."
+            )
+        _ACTIVE_PROMPTS_DIR = p
+        log.info(f"Prompts cargados desde directorio especificado: {p.resolve()}")
+    else:
+        if _DEFAULT_PROMPTS_DIR.is_dir():
+            _ACTIVE_PROMPTS_DIR = _DEFAULT_PROMPTS_DIR
+            log.info(f"Prompts cargados desde directorio predeterminado: {_DEFAULT_PROMPTS_DIR.resolve()}")
+        else:
+            _ACTIVE_PROMPTS_DIR = None
+            log.debug("Directorio PROMPTS/ no encontrado; usando variantes en memoria.")
+
+
 def build_prompt(variant: str, max_items: int = 4) -> str:
-    """Devuelve el system prompt para la variante y max_items indicados."""
+    """
+    Devuelve el system prompt para la variante y max_items indicados.
+
+    Orden de prioridad:
+      1. {_ACTIVE_PROMPTS_DIR}/{variant}.md  — archivo editable del proyecto
+      2. PROMPT_VARIANTS[variant]            — cadena en memoria (fallback)
+
+    Si el archivo .md existe pero no contiene el marcador {max_items}, se
+    devuelve el texto tal cual (el .md tiene control total sobre el prompt).
+    Si el archivo no existe para la variante solicitada se usa el fallback y
+    se emite un aviso.
+    """
+    if _ACTIVE_PROMPTS_DIR is not None:
+        md_path = _ACTIVE_PROMPTS_DIR / f"{variant}.md"
+        if md_path.exists():
+            text = md_path.read_text(encoding="utf-8").strip()
+            try:
+                return text.format(max_items=max_items)
+            except KeyError:
+                # El .md no tiene {max_items} — lo devuelve sin formatear.
+                return text
+        else:
+            log.warning(
+                f"Archivo '{variant}.md' no encontrado en {_ACTIVE_PROMPTS_DIR}. "
+                f"Usando variante en memoria como fallback."
+            )
+
     if variant not in PROMPT_VARIANTS:
         raise ValueError(
             f"Variante '{variant}' no existe. Opciones: {list(PROMPT_VARIANTS)}"
@@ -697,6 +766,11 @@ def results_to_dataframe(results: list[InterviewResult]) -> pd.DataFrame:
 _checkpoint_lock = threading.Lock()
 
 
+def _csv_name(prompt_variant: str) -> str:
+    """Nombre canónico del CSV de salida para una variante dada."""
+    return f"analysis_v7_{prompt_variant}.csv"
+
+
 def save_checkpoints(result: InterviewResult, all_results: list[InterviewResult], out_dir: Path):
     d = out_dir / "individual"
     d.mkdir(parents=True, exist_ok=True)
@@ -705,7 +779,7 @@ def save_checkpoints(result: InterviewResult, all_results: list[InterviewResult]
     )
     df = results_to_dataframe(all_results)
     if not df.empty:
-        df.to_csv(out_dir / "analysis_v7.csv", index=False, encoding="utf-8-sig")
+        df.to_csv(out_dir / _csv_name(result.prompt_variant), index=False, encoding="utf-8-sig")
 
 
 def load_existing_result(out_dir: Path, interview_id: str) -> Optional[InterviewResult]:
@@ -773,7 +847,7 @@ def run_pipeline(
 ) -> list[InterviewResult]:
     """
     Ejecuta la extracción sobre todas las transcripciones de `input_folder`
-    y guarda los resultados en `output_folder/analysis_v7.csv`.
+    y guarda los resultados en `output_folder/analysis_v7_{prompt_variant}.csv`.
     """
     client = client or make_client()
     out_path = Path(output_folder)
@@ -790,6 +864,7 @@ def run_pipeline(
         "prompt_variant": prompt_variant,
         "max_items": max_items,
         "prompt_text": build_prompt(prompt_variant, max_items),
+        "prompts_dir": str(_ACTIVE_PROMPTS_DIR) if _ACTIVE_PROMPTS_DIR else "en memoria",
     }
     (out_path / "experiment_config.json").write_text(
         json.dumps(experiment_meta, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -821,7 +896,7 @@ def run_pipeline(
 
     df = results_to_dataframe(all_results)
     if not df.empty:
-        out_csv = out_path / "analysis_v7.csv"
+        out_csv = out_path / _csv_name(prompt_variant)
         df.to_csv(out_csv, index=False, encoding="utf-8-sig")
         log.info(f"CSV consolidado: {out_csv.resolve()} ({len(df)} entrevistas)")
     else:
@@ -832,6 +907,7 @@ def run_pipeline(
         "fecha": datetime.now().isoformat(timespec="seconds"),
         "modelo": model,
         "prompt_variant": prompt_variant,
+        "csv_salida": _csv_name(prompt_variant),
         "tokens_entrada": tracker.input,
         "tokens_salida": tracker.output,
         "costo_usd_estimado": tracker.cost(),
@@ -872,7 +948,8 @@ def run_all_variants(
         log_path = Path(base_out_dir) / f"output_{variant}" / "usage_log_v7.jsonl"
         if log_path.exists():
             last = json.loads(log_path.read_text(encoding="utf-8").strip().split("\n")[-1])
-            print(f"  {variant:25s}  ${last.get('costo_usd_estimado', 0):.4f} USD")
+            print(f"  {variant:25s}  ${last.get('costo_usd_estimado', 0):.4f} USD"
+                  f"  →  {last.get('csv_salida', '?')}")
     return results_by_variant
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -892,10 +969,17 @@ Ejemplos de uso:
   python megadapt_qualitative_pipeline_v7.py \\
       --folder ./transcripciones --count-only
 
-  # Correr una variante:
+  # Correr una variante (lee el prompt desde PROMPTS/quote_based.md si existe):
   python megadapt_qualitative_pipeline_v7.py \\
       --folder ./transcripciones --model gpt-4o-mini \\
-      --prompt-variant strict_grounding
+      --prompt-variant quote_based
+  # → salida: output_quote_based/analysis_v7_quote_based.csv
+
+  # Especificar una carpeta de prompts distinta:
+  python megadapt_qualitative_pipeline_v7.py \\
+      --folder ./transcripciones --model gpt-4o-mini \\
+      --prompt-variant quote_based \\
+      --prompts-dir "./LLMs-ModelosMentales/PROMPTS"
 
   # Correr todas las variantes (una carpeta por variante):
   python megadapt_qualitative_pipeline_v7.py \\
@@ -904,8 +988,9 @@ Ejemplos de uso:
   # Evaluar y comparar con métricas NLP:
   python megadapt_eval_nlp_2.py \\
       --human "Integracion.xlsx" \\
-      --llm baseline=output_baseline/analysis_v7.csv \\
-             strict_grounding=output_strict_grounding/analysis_v7.csv \\
+      --llm baseline=output_baseline/analysis_v7_baseline.csv \\
+             strict_grounding=output_strict_grounding/analysis_v7_strict_grounding.csv \\
+             quote_based=output_quote_based/analysis_v7_quote_based.csv \\
       --metrics bleu chrf bertscore --xlsx
 """,
     )
@@ -917,6 +1002,12 @@ Ejemplos de uso:
     ap.add_argument("--prompt-variant", default="baseline",
                     choices=list(PROMPT_VARIANTS),
                     help="Variante de prompt a usar (default: baseline)")
+    ap.add_argument("--prompts-dir", default=None,
+                    help=(
+                        "Carpeta con archivos .md de prompts editables. "
+                        "Si no se especifica, se busca automáticamente PROMPTS/ junto al script. "
+                        "Si esa carpeta no existe, se usan los prompts definidos en el código."
+                    ))
     ap.add_argument("--max-items", type=int, default=4,
                     help="Número máximo de ítems por campo (default: 4)")
     ap.add_argument("--workers", type=int, default=2,
@@ -930,6 +1021,9 @@ Ejemplos de uso:
     ap.add_argument("--run-all-variants", action="store_true",
                     help="Ejecutar todas las variantes en secuencia. --out es el directorio base.")
     args = ap.parse_args()
+
+    # Configurar directorio de prompts (antes de cualquier llamada a build_prompt)
+    set_prompts_dir(args.prompts_dir)
 
     if args.count_only:
         if not args.folder:
