@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR_1RA_PARTE"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Fugas de agua en la red",
+    "Mala calidad del agua",
+    "Escasez de agua potable",
+    "Inundaciones en la zona",
+    "Desperdicio de agua",
+    "Infraestructura hidráulica obsoleta"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua",
+    "Pavimentación excesiva en la ciudad",
+    "Mala administración del agua",
+    "Asentamiento en zona de lago",
+    "Contaminación de ríos",
+    "Zona sísmica y de hundimientos"
+  ],
+  "Consecuencias": [
+    "Grietas en viviendas",
+    "Problemas de salud pública",
+    "Desplazamiento de comunidades",
+    "Contaminación del agua",
+    "Inseguridad en la zona",
+    "Destrucción del tejido social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos",
+      "accion": "Construyen cisternas para agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa programa de tandeo"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Realizan diagnósticos de grietas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Maneja pozos de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participa en agricultura urbana"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Promueve captación de agua"
+    }
+  ],
+  "input_tokens": 13175,
+  "output_tokens": 375,
+  "error": null
+}

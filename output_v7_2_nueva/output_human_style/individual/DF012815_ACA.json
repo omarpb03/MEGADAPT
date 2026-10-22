@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtención de agua insuficiente",
+    "Calidad del agua deficiente",
+    "Distribución desigual del agua",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Causas_principales": [
+    "Crecimiento en zonas inadecuadas",
+    "Falta de infraestructura adecuada",
+    "Decisiones políticas ineficaces",
+    "Extracción excesiva de agua"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en colonias",
+    "Inundaciones en la ciudad",
+    "Problemas de salud pública",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno de la Ciudad",
+      "accion": "Implementa tandeo de agua"
+    },
+    {
+      "actor": "Comisión de Aguas",
+      "accion": "Regula extracción de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Protestan por escasez de agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Construyen sin servicios adecuados"
+    },
+    {
+      "actor": "Políticos locales",
+      "accion": "Prometen servicios a cambio de votos"
+    }
+  ],
+  "input_tokens": 9533,
+  "output_tokens": 308,
+  "error": null
+}

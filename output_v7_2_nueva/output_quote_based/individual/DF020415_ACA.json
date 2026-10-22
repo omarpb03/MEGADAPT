@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad de vida y agua",
+    "Acceso a bienes urbanos"
+  ],
+  "Causas_principales": [
+    "Inversión privada en infraestructura",
+    "Políticas públicas urbanas"
+  ],
+  "Consecuencias": [
+    "Alteración del medio ambiente",
+    "Aumento del riesgo urbano"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Generar nuevas normas de seguridad"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Protestar e interpelar al gobierno"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denunciar y proponer cambios"
+    }
+  ],
+  "input_tokens": 6533,
+  "output_tokens": 131,
+  "error": null
+}

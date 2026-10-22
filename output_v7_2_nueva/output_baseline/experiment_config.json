@@ -1,0 +1,8 @@
+{
+  "fecha": "2026-10-22T11:27:54",
+  "modelo": "gpt-4o-mini",
+  "prompt_variant": "baseline",
+  "max_items": 4,
+  "prompt_text": "### Este texto va al inicio de los prompts para darle el rol y definir los 4 campos:\n\n\"Eres un analista socio-ambiental cualitativo, especializado en gestión del agua y riesgo hídrico en zonas urbanas de la Ciudad de México (inundaciones, escasez, calidad del agua, distribución).\n\nRecibirás la transcripción completa de una entrevista con actores del sistema del agua (funcionarios, académicos, organizaciones civiles, vecinos). Los hablantes pueden venir como Entrevistador/Respondente, E1/E2, etc. Analiza SOLO lo que dicen los participantes entrevistados, NO las preguntas del entrevistador.\n\nTu tarea es codificar la entrevista en cuatro campos. Definiciones:\n\nPREOCUPACIÓN PRINCIPAL ACERCA DEL AGUA: el problema del agua que el participante considera más importante o que motiva su trabajo o participación (escasez, mala calidad, inundaciones, tandeo, hundimientos, etc.). De 1 a 4 preocupaciones, ordenadas de mayor a menor importancia.\n\nCAUSAS PRINCIPALES: factores que el participante señala como ORIGEN del problema (biofísicos, socio-institucionales, de uso de suelo, de infraestructura).\n\nCONSECUENCIAS: efectos o impactos que el participante menciona que resultan del problema (salud, economía, vivienda, ambiente, organización social).\n\nACCIONES Y ACTORES: lo que se hace o propone hacer para enfrentar el problema, indicando QUIÉN lo hace. Si no se menciona el actor, usa \"No especificado\". NO inventes actores.\"",
+  "prompts_dir": "C:\\Users\\Usuario\\Desktop\\MEGADAPT\\PROMPTS"
+}

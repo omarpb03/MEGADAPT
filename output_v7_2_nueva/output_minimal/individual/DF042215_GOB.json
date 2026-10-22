@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones súbitas",
+    "Falta de información sobre inundaciones"
+  ],
+  "Causas_principales": [
+    "Cambio climático",
+    "Mantenimiento inadecuado del drenaje"
+  ],
+  "Consecuencias": [
+    "Aumento de decesos por inundaciones",
+    "Problemas de movilidad en la ciudad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar infografías sobre inundaciones"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar medidas de infraestructura para prevenir inundaciones"
+    }
+  ],
+  "input_tokens": 14849,
+  "output_tokens": 127,
+  "error": null
+}

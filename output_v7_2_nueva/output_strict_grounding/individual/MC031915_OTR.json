@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [],
+  "Causas_principales": [],
+  "Consecuencias": [],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Construcción de presas para captación"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Captación de agua de lluvia en tinas ciegas"
+    }
+  ],
+  "input_tokens": 9321,
+  "output_tokens": 82,
+  "error": null
+}

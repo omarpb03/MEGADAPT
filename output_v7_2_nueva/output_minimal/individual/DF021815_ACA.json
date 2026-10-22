@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en la calidad del agua",
+    "Acceso desigual al agua potable"
+  ],
+  "Causas_principales": [
+    "Mala gestión del recurso hídrico",
+    "Intereses políticos y económicos"
+  ],
+  "Consecuencias": [
+    "Aumento en el uso de agua embotellada",
+    "Inundaciones en zonas vulnerables"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar políticas de gestión del agua"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Regular el acceso al agua potable"
+    }
+  ],
+  "input_tokens": 13705,
+  "output_tokens": 127,
+  "error": null
+}

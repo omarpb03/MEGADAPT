@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Falta de agua en colonias",
+    "Calidad del agua es mala",
+    "Agua cara para pobres",
+    "Problemas de tandeo",
+    "Grietas por extracción de agua"
+  ],
+  "Causas_principales": [
+    "Falta de coordinación institucional",
+    "Extracción excesiva de agua",
+    "Construcción sin planeación",
+    "Desigualdad en distribución",
+    "Corrupción en permisos"
+  ],
+  "Consecuencias": [
+    "Aumento de grietas en suelo",
+    "Deterioro de viviendas",
+    "Inundaciones en colonias",
+    "Desplazamiento de comunidades",
+    "Aumento de costos de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Proveer agua en pipas"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Organizar marchas por agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Apoyar proyectos comunitarios"
+    },
+    {
+      "actor": "Instituto de Vivienda",
+      "accion": "Financiar vivienda formal"
+    }
+  ],
+  "input_tokens": 18037,
+  "output_tokens": 219,
+  "error": null
+}

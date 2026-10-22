@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Mala calidad del agua",
+    "Tandeo en el suministro",
+    "Corrupción en la distribución"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Falta de infraestructura adecuada",
+    "Corrupción política",
+    "Mala gestión del agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Desigualdad en el acceso al agua",
+    "Impacto en la economía familiar",
+    "Organización social y protestas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Lucha por derechos de agua"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Provisión de pipas de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Recolección de agua de lluvia"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Mantenimiento de pozos de absorción"
+    }
+  ],
+  "input_tokens": 9122,
+  "output_tokens": 185,
+  "error": null
+}

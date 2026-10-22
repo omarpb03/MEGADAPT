@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad de vida y acceso a servicios",
+    "Impacto de políticas urbanas en el medio ambiente"
+  ],
+  "Causas_principales": [
+    "Inversión privada en infraestructura",
+    "Corrupción y tráfico de influencias"
+  ],
+  "Consecuencias": [
+    "Alteración de la calidad de vida",
+    "Aumento del riesgo en asentamientos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar nuevas normas de seguridad"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Protestar y generar opinión pública"
+    }
+  ],
+  "input_tokens": 6481,
+  "output_tokens": 126,
+  "error": null
+}

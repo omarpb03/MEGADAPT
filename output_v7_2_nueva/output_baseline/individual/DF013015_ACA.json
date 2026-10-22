@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas periféricas",
+    "Mala calidad del agua",
+    "Falta de coordinación institucional",
+    "Inundaciones y encharcamientos"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva de agua del subsuelo",
+    "Desigualdad en la distribución del agua",
+    "Falta de planeación urbana",
+    "Corrupción en permisos de construcción"
+  ],
+  "Consecuencias": [
+    "Impacto en la salud de la población",
+    "Deterioro de viviendas y construcciones",
+    "Desplazamiento y reubicación de comunidades",
+    "Conflictos sociales por acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Proponer sistemas de captación de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Realizar talleres de capacitación"
+    }
+  ],
+  "input_tokens": 18192,
+  "output_tokens": 210,
+  "error": null
+}

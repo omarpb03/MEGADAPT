@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua en casas",
+    "Falta de interés del gobierno",
+    "Problemas de agua en Iztapalapa",
+    "Salinidad del agua en Xochimilco"
+  ],
+  "Causas_principales": [
+    "Construcción sin reciclaje de agua",
+    "Falta de financiamiento",
+    "Corrupción en el suministro",
+    "Contaminación de aguas"
+  ],
+  "Consecuencias": [
+    "Agua negra en jardines",
+    "Quejas de vecinos por agua",
+    "Falta de conciencia del agua",
+    "Salinidad en tierras agrícolas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "No regula uso de agua"
+    },
+    {
+      "actor": "Gente de biotecnología",
+      "accion": "Proponen reciclar agua de fregaderos"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Usan estiércol para mejorar suelo"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Intentan restaurar ecosistemas"
+    }
+  ],
+  "input_tokens": 13110,
+  "output_tokens": 197,
+  "error": null
+}

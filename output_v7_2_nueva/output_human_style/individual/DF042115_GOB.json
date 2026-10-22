@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua insuficiente",
+    "Calidad del agua potable",
+    "Contaminación del agua",
+    "Efectos de salud por agua",
+    "Construcción en zonas vulnerables"
+  ],
+  "Causas_principales": [
+    "Crecimiento poblacional desmedido",
+    "Extracción de acuíferos",
+    "Construcción descontrolada",
+    "Falta de mantenimiento a infraestructura",
+    "Desconfianza en agua potable"
+  ],
+  "Consecuencias": [
+    "Aumento de enfermedades respiratorias",
+    "Problemas gastrointestinales",
+    "Inundaciones en zonas vulnerables",
+    "Impacto en rendimiento escolar",
+    "Vulnerabilidad de asentamientos irregulares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno local",
+      "accion": "Construye infraestructura de drenaje"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Monitorea riesgos hidrometeorológicos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Brinda apoyo en emergencias"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Desarrolla lagunas de regulación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instala estaciones meteorológicas"
+    }
+  ],
+  "input_tokens": 9758,
+  "output_tokens": 232,
+  "error": null
+}

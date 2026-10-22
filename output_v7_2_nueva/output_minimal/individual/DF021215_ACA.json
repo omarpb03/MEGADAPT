@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en comunidades",
+    "Calidad del agua en asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios en urbanización",
+    "Descoordinación institucional en políticas"
+  ],
+  "Consecuencias": [
+    "Desgaste psicosocial en comunidades",
+    "Deterioro de proyectos productivos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno local",
+      "accion": "Fortalecer instituciones comunitarias"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Implementar proyectos de captación de agua"
+    }
+  ],
+  "input_tokens": 9518,
+  "output_tokens": 128,
+  "error": null
+}

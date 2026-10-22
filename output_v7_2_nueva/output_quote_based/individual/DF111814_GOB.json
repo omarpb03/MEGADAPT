@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro de agua",
+    "Demanda exagerada de agua",
+    "Falta de cultura en el uso"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Tecnología que consume más agua",
+    "Urbanización desmedida"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en temporada",
+    "Desperdicio de agua",
+    "Contaminación de cauces"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Incentivar conservación del agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Apoyos económicos para conservación"
+    },
+    {
+      "actor": "Grupos agrarios",
+      "accion": "Mantener áreas en buenas condiciones"
+    }
+  ],
+  "input_tokens": 14197,
+  "output_tokens": 154,
+  "error": null
+}

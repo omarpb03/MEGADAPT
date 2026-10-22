@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas de aguas residuales"
+  ],
+  "Causas_principales": [
+    "Construcción de casas irregulares",
+    "Falta de infraestructura de drenaje"
+  ],
+  "Consecuencias": [
+    "Aumento de la contaminación",
+    "Pérdida de especies acuáticas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 24217,
+  "output_tokens": 88,
+  "error": null
+}

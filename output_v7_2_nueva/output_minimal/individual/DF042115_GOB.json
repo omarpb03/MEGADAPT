@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento poblacional desmedido",
+    "Contaminación de fuentes de agua"
+  ],
+  "Consecuencias": [
+    "Aumento de enfermedades gastrointestinales",
+    "Problemas de salud respiratoria"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Instalación de estaciones meteorológicas"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de lagunas de regulación"
+    }
+  ],
+  "input_tokens": 9670,
+  "output_tokens": 120,
+  "error": null
+}

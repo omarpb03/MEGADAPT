@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Fugas en la red",
+    "Tandeo del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Antigua infraestructura de agua",
+    "Expropiación de tierras",
+    "Aumento de población"
+  ],
+  "Consecuencias": [
+    "Dificultad para obtener agua",
+    "Aumento en costos de agua",
+    "Problemas de salud",
+    "Descontento comunitario"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Expropia tierras para urbanización"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Solicitan reparación de fugas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Instalan sistemas de captación"
+    },
+    {
+      "actor": "Comisión del Pueblo",
+      "accion": "Solicita información sobre agua"
+    }
+  ],
+  "input_tokens": 9390,
+  "output_tokens": 195,
+  "error": null
+}

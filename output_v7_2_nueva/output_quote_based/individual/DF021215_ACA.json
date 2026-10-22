@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Intereses de piperos"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios",
+    "Descoordinación institucional",
+    "Desmantelamiento de políticas rurales"
+  ],
+  "Consecuencias": [
+    "Proyectos distorsionados",
+    "Conflictos por recursos",
+    "Gentrificación en zonas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidades",
+      "accion": "Captación de agua de lluvia"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Gestión de proyectos productivos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Fortalecimiento de instituciones comunitarias"
+    }
+  ],
+  "input_tokens": 9570,
+  "output_tokens": 145,
+  "error": null
+}

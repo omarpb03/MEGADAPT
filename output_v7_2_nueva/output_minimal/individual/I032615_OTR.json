@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Insuficiencia de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Mala gestión del agua"
+  ],
+  "Consecuencias": [
+    "Menor abastecimiento de agua",
+    "Riesgos de salud por agua contaminada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Instalar plantas potabilizadoras"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Organizarse para gestionar el agua"
+    }
+  ],
+  "input_tokens": 12286,
+  "output_tokens": 117,
+  "error": null
+}

@@ -1,0 +1,93 @@
+﻿Id_entrevista,prompt_variant,Preocupacion_principal_acerca_del_agua,Causas_principales,Consecuencias,Acciones_y_Actores_que_realizan_dichas_acciones
+DF012015_GOB,strict_grounding,"Abastecimiento de agua
+Calidad del agua","Falta de infraestructura hidráulica
+Construcción en áreas sin servicios","Inundaciones en comunidades
+Problemas de abastecimiento de agua","Gobierno: Inversión en infraestructura hidráulica
+Gobierno: Construcción de plantas potabilizadoras"
+DF012815_ACA,strict_grounding,"Calidad del agua
+Distribución del agua","Crecimiento descontrolado de la ciudad
+Construcción sin servicios adecuados","Escasez de agua
+Problemas de infraestructura",
+DF013015_ACA,strict_grounding,"Acceso limitado al agua
+Calidad del agua insuficiente","Falta de coordinación institucional
+Extracción excesiva de agua del subsuelo","Aumento de costos del agua
+Problemas de salud por agua contaminada",
+DF020415_ACA,strict_grounding,,,,"Gobierno: Invierte en infraestructura urbana
+Movimientos sociales: Proponen cambios en políticas públicas"
+DF021215_ACA,strict_grounding,"Escasez de agua en comunidades
+Calidad del agua en zonas rurales","Intereses inmobiliarios en urbanización
+Descoordinación institucional en recursos","Problemas de acceso al agua
+Conflictos por recursos hídricos",
+DF021815_ACA,strict_grounding,,,,"Sistemas de Aguas: Control político sobre comunidades
+Comités de colonias: Interlocución con el sistema de agua"
+DF022515_ACA,strict_grounding,"Escasez de agua en ciertas zonas
+Inundaciones en otras zonas","Población flotante en la ciudad
+Fuentes de abastecimiento diversas","Crisis del agua en ciertas zonas
+Riesgo de escasez e inundación",
+DF022615_ACA,strict_grounding,"Desperdicio de agua
+Contaminación del agua","Falta de interés del gobierno
+Construcción sin reciclaje de agua","Problemas de acceso al agua
+Contaminación de aguas negras",Gente de biotecnología: Propuesta de reciclaje de agua
+DF031215_ACA,strict_grounding,,,,"Gobierno: Construcción de pozos de absorción
+Secretaría de Desarrollo Social: Programa Comunitario de Mejoramiento Barrial"
+DF042115_GOB,strict_grounding,"Abastecimiento de agua
+Calidad del agua","Crecimiento de la población
+Extracción de acuíferos","Aumento de enfermedades respiratorias
+Problemas de salud por falta de higiene",
+DF042215_GOB,strict_grounding,"Inundaciones súbitas
+Zonas susceptibles de inundación","Desbordamiento de ríos
+Basura en drenajes","Pérdidas humanas
+Daños a infraestructura","Cenapred: Divulgar infografías sobre inundaciones
+Cenapred: Recopilar información de inundaciones"
+DF042415_GOB,strict_grounding,"Inundaciones por infraestructura deficiente
+Escasez de agua potable","Cambio climático
+Falta de infraestructura adecuada","Enfermedades dérmicas
+Infecciones gastrointestinales","Secretaría de Salud: Proporcionar agua potable y cloro
+Protección Civil: Emitir medidas preventivas y recomendaciones"
+DF111814_GOB,strict_grounding,"Suministro de agua en el DF
+Demanda excesiva de agua","Crecimiento de la población
+Falta de cultura en el uso del agua","Escasez de agua en temporada
+Desperdicio de agua","Secretaría de Medio Ambiente: Otorgar apoyos económicos para conservación
+CORENA: Incentivar la retención de agua"
+I021415_OTR,strict_grounding,"Abastecimiento de agua
+Calidad del agua","Asentamientos irregulares
+Corrupción en distribución","Agua de mala calidad
+Problemas de salud en niños","Comunidad: Protestas por dotación de agua
+Gobierno: Condonación de pago de agua"
+I032615_OTR,strict_grounding,"Mala calidad del agua
+Suministro insuficiente de agua","Crecimiento de la población
+Mala gestión del agua","Menor abastecimiento de agua
+Inundaciones en la zona","Gobierno: Instalación de plantas potabilizadoras
+Comunidad: Movilización para mejorar infraestructura"
+I032615_OTR_1RA_PARTE,strict_grounding,"Fugas de agua potable
+Calidad del agua","Infraestructura hidráulica obsoleta
+Pavimentación excesiva","Desperdicio de agua
+Inundaciones en la zona","Comunidad: Construcción de cisternas de ferrocemento
+Comunidad: Instalación de zanjas de infiltración"
+MC031915_OTR,strict_grounding,,,,"Gobierno: Construcción de presas para captación
+Ejidatarios: Captación de agua de lluvia en tinas ciegas"
+MC032415_GOB,strict_grounding,"Escasez de agua
+Contaminación por basura","Deforestación y tala clandestina
+Fugas en tuberías viejas","Desabasto en temporada de estiaje
+Contaminación del agua potable","Sistema de Aguas: Sustitución de tuberías viejas
+Delegación: Limpieza de cauces y barrancas"
+MC032515_GOB,strict_grounding,"Deslizamientos de talud
+Inundaciones en asentamientos","Cortes a los cerros
+Deterioro del suelo","Deslizamientos de tierra
+Inundaciones en viviendas","Protección Civil: Notificación a vecinos en riesgo
+Ecología: Limpieza de ríos y barrancas"
+X011915_GOB,strict_grounding,"Contaminación de los canales
+Descargas de aguas residuales","Construcción de casas irregulares
+Falta de infraestructura de drenaje","Aumento de la contaminación
+Pérdida de especies acuáticas",
+X022415_ACA,strict_grounding,,,,"Gobierno: Promover producción orgánica
+Productores: Usar agua de lluvia"
+X022415_GOB,strict_grounding,"Contaminación del agua
+Fugas en el sistema de drenaje","Asentamientos irregulares
+Uso de pesticidas en invernaderos","Impacto en la producción agrícola
+Problemas de salud potenciales",
+X042315_GOB,strict_grounding,"Desaparición de lagos
+Contaminación del agua","Explotación de pozos
+Hundimientos diferenciales","Pérdida de niveles hidráulicos
+Afectación a la agricultura","SEMARNAT: Registrar zona como sitio Ramsar
+Gobierno local: Buscar comunicación pluvial"

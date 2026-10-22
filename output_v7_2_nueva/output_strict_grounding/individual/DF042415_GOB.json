@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por infraestructura deficiente",
+    "Escasez de agua potable"
+  ],
+  "Causas_principales": [
+    "Cambio climático",
+    "Falta de infraestructura adecuada"
+  ],
+  "Consecuencias": [
+    "Enfermedades dérmicas",
+    "Infecciones gastrointestinales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporcionar agua potable y cloro"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emitir medidas preventivas y recomendaciones"
+    }
+  ],
+  "input_tokens": 12489,
+  "output_tokens": 116,
+  "error": null
+}

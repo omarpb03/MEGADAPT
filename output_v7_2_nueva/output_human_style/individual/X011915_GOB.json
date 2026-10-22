@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas de aguas residuales",
+    "Escasez de agua potable",
+    "Destrucción de chinampas",
+    "Inundaciones en la zona"
+  ],
+  "Causas_principales": [
+    "Construcción de casas irregulares",
+    "Falta de infraestructura de drenaje",
+    "Desinterés del gobierno",
+    "Contaminación por turismo",
+    "Descomposición de desechos orgánicos"
+  ],
+  "Consecuencias": [
+    "Aumento de la contaminación",
+    "Pérdida de biodiversidad",
+    "Problemas de salud pública",
+    "Deterioro de la calidad del agua",
+    "Desplazamiento de especies nativas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Implementa operativos de limpieza"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de México",
+      "accion": "Monitorea calidad del agua"
+    },
+    {
+      "actor": "Delegación de Xochimilco",
+      "accion": "Coordina proyectos de conservación"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Participan en limpieza de canales"
+    },
+    {
+      "actor": "Instituciones educativas",
+      "accion": "Realizan estudios sobre calidad del agua"
+    }
+  ],
+  "input_tokens": 24286,
+  "output_tokens": 244,
+  "error": null
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en la Delegación",
+    "Contaminación por basura en ríos"
+  ],
+  "Causas_principales": [
+    "Deforestación y tala clandestina",
+    "Fugas en tuberías antiguas"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en temporadas de estiaje",
+    "Contaminación del agua potable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías antiguas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de cauces y barrancas"
+    }
+  ],
+  "input_tokens": 11634,
+  "output_tokens": 134,
+  "error": null
+}

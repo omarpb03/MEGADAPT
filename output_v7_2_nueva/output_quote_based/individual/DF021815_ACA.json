@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en calidad del agua",
+    "Escasez de agua potable",
+    "Control político sobre servicios"
+  ],
+  "Causas_principales": [
+    "Gestión ineficaz del recurso",
+    "Intereses particulares en el agua",
+    "Desigualdad en distribución de agua"
+  ],
+  "Consecuencias": [
+    "Aumento de enfermedades por agua",
+    "Inundaciones en zonas vulnerables",
+    "Desigualdad en acceso a agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar tandeos de agua"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controlar distribución de agua"
+    },
+    {
+      "actor": "Comités de colonias",
+      "accion": "Crear interlocutores para servicios"
+    }
+  ],
+  "input_tokens": 13757,
+  "output_tokens": 158,
+  "error": null
+}

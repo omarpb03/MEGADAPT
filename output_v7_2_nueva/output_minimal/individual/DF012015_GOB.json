@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Falta de infraestructura hidráulica",
+    "Problemas de urbanización"
+  ],
+  "Consecuencias": [
+    "Inundaciones en comunidades",
+    "Escasez de agua potable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Inversión en infraestructura hidráulica"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Construcción de plantas potabilizadoras"
+    }
+  ],
+  "input_tokens": 3953,
+  "output_tokens": 113,
+  "error": null
+}

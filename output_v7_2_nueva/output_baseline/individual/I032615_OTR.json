@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones",
+    "Suministro insuficiente"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Mala gestión del agua",
+    "Infraestructura obsoleta",
+    "Contaminación de aguas residuales"
+  ],
+  "Consecuencias": [
+    "Menor calidad de vida",
+    "Problemas de salud",
+    "Inundaciones en zonas vulnerables",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Instalación de plantas potabilizadoras"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Propuestas de gestión sustentable"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Educación ambiental sobre uso del agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Movilización para mejoras en infraestructura"
+    }
+  ],
+  "input_tokens": 12493,
+  "output_tokens": 184,
+  "error": null
+}

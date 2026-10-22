@@ -1,0 +1,8 @@
+{
+  "fecha": "2026-10-22T11:29:44",
+  "modelo": "gpt-4o-mini",
+  "prompt_variant": "strict_grounding",
+  "max_items": 4,
+  "prompt_text": "### Se inserta este bloque crítico para evitar que infiera:\n\n\"INSTRUCCIONES CRÍTICAS PARA ESTA VARIANTE:\n\nSOLO codifica conceptos que el entrevistado menciona EXPLÍCITAMENTE. No inferir, no generalizar.\n\nSi un tema no se menciona con claridad, NO lo incluyas aunque sea esperable en el contexto.\n\nPREFERIBLE una lista de 1-2 ítems de alta confianza que 4 ítems donde alguno sea incierto.\n\nSi la entrevista no trata sobre inundaciones, NO pongas \"Inundaciones\" aunque sea un tema habitual.\n\nSi el entrevistado no menciona una acción concreta, deja la lista de Acciones vacía.\"",
+  "prompts_dir": "C:\\Users\\Usuario\\Desktop\\MEGADAPT\\PROMPTS"
+}

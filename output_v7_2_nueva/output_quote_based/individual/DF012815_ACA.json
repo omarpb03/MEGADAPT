@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Crecimiento de la ciudad",
+    "Falta de infraestructura adecuada",
+    "Calidad del agua",
+    "Acceso desigual al agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento en lugares inadecuados",
+    "Decisiones políticas absurdas",
+    "Falta de previsión en infraestructura",
+    "Extracción excesiva de agua"
+  ],
+  "Consecuencias": [
+    "Disminución de mantos freáticos",
+    "Problemas de dotación de agua",
+    "Aumento de asentamientos informales",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Permitir asentamientos informales"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Gestionar dotación de agua"
+    },
+    {
+      "actor": "Políticos",
+      "accion": "Manipular servicios a cambio de votos"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Concesionar servicios de agua"
+    }
+  ],
+  "input_tokens": 9497,
+  "output_tokens": 195,
+  "error": null
+}

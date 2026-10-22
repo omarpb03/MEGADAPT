@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminución de niveles hidráulicos",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Explotación de pozos subterráneos",
+    "Hundimientos diferenciales"
+  ],
+  "Consecuencias": [
+    "Pérdida de chinampas productivas",
+    "Aumento de temperatura en la zona"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Registrar zona como sitio Ramsar"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Implementar ollas de captación de agua"
+    }
+  ],
+  "input_tokens": 13565,
+  "output_tokens": 124,
+  "error": null
+}

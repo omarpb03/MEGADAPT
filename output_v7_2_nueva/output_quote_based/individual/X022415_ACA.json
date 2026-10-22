@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "quote_based",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de acceso al agua",
+    "Contaminación de fuentes de agua",
+    "Impacto de la urbanización en el agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Uso de agroquímicos",
+    "Urbanización descontrolada"
+  ],
+  "Consecuencias": [
+    "Deterioro de ríos",
+    "Pérdida de tierras agrícolas",
+    "Desigualdad en acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Regular el uso de agua"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Defender derechos sobre agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Promover educación ambiental"
+    }
+  ],
+  "input_tokens": 19739,
+  "output_tokens": 152,
+  "error": null
+}

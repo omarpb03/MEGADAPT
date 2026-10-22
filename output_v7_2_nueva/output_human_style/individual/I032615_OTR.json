@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad del agua",
+    "Suministro insuficiente",
+    "Crisis por cambio climático",
+    "Recarga de acuíferos",
+    "Incremento de la población"
+  ],
+  "Causas_principales": [
+    "Mala gestión del agua",
+    "Crecimiento urbano descontrolado",
+    "Fractura de infraestructura",
+    "Contaminación de aguas residuales",
+    "Desarrollo urbano no sustentable"
+  ],
+  "Consecuencias": [
+    "Menor abastecimiento de agua",
+    "Aguas residuales mezcladas",
+    "Problemas de salud",
+    "Inundaciones en la ciudad",
+    "Desmejora en calidad de vida"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Atiende problemas de grietas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Manda pipas de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Organiza talleres de educación"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Proponen alternativas sustentables"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Gestiona recursos para infraestructura"
+    }
+  ],
+  "input_tokens": 12374,
+  "output_tokens": 214,
+  "error": null
+}

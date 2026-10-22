@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "strict_grounding",
+  "Preocupacion_principal_acerca_del_agua": [],
+  "Causas_principales": [],
+  "Consecuencias": [],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Construcción de pozos de absorción"
+    },
+    {
+      "actor": "Secretaría de Desarrollo Social",
+      "accion": "Programa Comunitario de Mejoramiento Barrial"
+    }
+  ],
+  "input_tokens": 12098,
+  "output_tokens": 79,
+  "error": null
+}

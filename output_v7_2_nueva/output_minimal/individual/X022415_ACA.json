@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Acceso limitado al agua",
+    "Contaminación de fuentes de agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada"
+  ],
+  "Consecuencias": [
+    "Deterioro de ríos",
+    "Impacto en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Regulación del uso de agua"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Implementación de invernaderos"
+    }
+  ],
+  "input_tokens": 19687,
+  "output_tokens": 118,
+  "error": null
+}

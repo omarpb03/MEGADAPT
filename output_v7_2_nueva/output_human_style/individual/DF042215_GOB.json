@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones pluviales frecuentes",
+    "Zonas susceptibles de inundación",
+    "Fugas en el drenaje",
+    "Basura en alcantarillas",
+    "Cambio climático y lluvias intensas"
+  ],
+  "Causas_principales": [
+    "Desbordamiento de ríos",
+    "Crecimiento urbano descontrolado",
+    "Mantenimiento inadecuado del drenaje",
+    "Acumulación de basura",
+    "Falta de información oficial"
+  ],
+  "Consecuencias": [
+    "Daños a la salud",
+    "Pérdidas humanas por inundaciones",
+    "Afectaciones a la movilidad",
+    "Impacto en la infraestructura",
+    "Desastres socioeconómicos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identifica zonas susceptibles de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elabora mapas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Difunde infografías sobre inundaciones"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementa medidas de prevención"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Recopila datos de inundaciones históricas"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Actualiza índice de vulnerabilidad"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Colabora con Protección Civil"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Realiza jornadas regionales de capacitación"
+    }
+  ],
+  "input_tokens": 14937,
+  "output_tokens": 286,
+  "error": null
+}

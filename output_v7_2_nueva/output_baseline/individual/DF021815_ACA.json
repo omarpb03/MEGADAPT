@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones",
+    "Gestión ineficiente del agua"
+  ],
+  "Causas_principales": [
+    "Falta de gestión del recurso",
+    "Desigualdad en distribución",
+    "Crecimiento urbano descontrolado",
+    "Corrupción en el sector público"
+  ],
+  "Consecuencias": [
+    "Problemas de salud pública",
+    "Desconfianza en el agua potable",
+    "Impacto en la vivienda",
+    "Desigualdad social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar políticas de gestión del agua"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controlar distribución de agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Crear comités de colonias"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Proponer nuevas políticas de vivienda"
+    }
+  ],
+  "input_tokens": 13912,
+  "output_tokens": 183,
+  "error": null
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "minimal",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desabasto de agua en colonias populares",
+    "Control discrecional del suministro de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desmedido",
+    "Falta de infraestructura hidráulica adecuada"
+  ],
+  "Consecuencias": [
+    "Inundaciones en zonas vulnerables",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar tandeo de agua"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Denunciar irregularidades en suministro"
+    }
+  ],
+  "input_tokens": 12079,
+  "output_tokens": 125,
+  "error": null
+}

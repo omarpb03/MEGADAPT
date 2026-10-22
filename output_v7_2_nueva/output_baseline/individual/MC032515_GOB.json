@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud",
+    "Inundaciones",
+    "Escasez de agua",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Cortes a los cerros",
+    "Terraceo inadecuado",
+    "Deterioro del suelo",
+    "Construcción irregular"
+  ],
+  "Consecuencias": [
+    "Riesgo para la vida",
+    "Daños a viviendas",
+    "Contaminación del agua",
+    "Problemas de salud"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notificación a vecinos sobre riesgos"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Control de asentamientos irregulares"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Recomendaciones de mitigación"
+    }
+  ],
+  "input_tokens": 9153,
+  "output_tokens": 181,
+  "error": null
+}

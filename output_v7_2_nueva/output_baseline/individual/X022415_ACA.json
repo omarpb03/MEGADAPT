@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas agrícolas",
+    "Contaminación de fuentes de agua",
+    "Mala gestión del agua",
+    "Impacto de la urbanización en el agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada",
+    "Uso inadecuado de suelo",
+    "Falta de regulación en el uso de agua"
+  ],
+  "Consecuencias": [
+    "Deterioro de la calidad del agua",
+    "Impacto en la producción agrícola",
+    "Conflictos por el acceso al agua",
+    "Desigualdad en el acceso a recursos hídricos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar programas de gestión del agua"
+    },
+    {
+      "actor": "Organizaciones civiles",
+      "accion": "Promover la educación ambiental"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Adaptar prácticas agrícolas a la escasez de agua"
+    },
+    {
+      "actor": "No especificado",
+      "accion": "Desarrollar infraestructura para captación de agua"
+    }
+  ],
+  "input_tokens": 19894,
+  "output_tokens": 214,
+  "error": null
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en el DF",
+    "Demanda excesiva de agua",
+    "Contaminación de fuentes de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Uso ineficiente del agua",
+    "Falta de infraestructura adecuada"
+  ],
+  "Consecuencias": [
+    "Afectaciones a la salud",
+    "Desabasto de agua potable",
+    "Impacto en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Incentiva conservación del agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Otorga apoyos económicos para conservación"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Realiza obras de captación de agua"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestiona suministro de agua"
+    }
+  ],
+  "input_tokens": 14233,
+  "output_tokens": 176,
+  "error": null
+}

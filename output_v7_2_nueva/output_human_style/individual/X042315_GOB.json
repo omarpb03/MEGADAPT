@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "human_style",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desaparición de lagos y humedales",
+    "Contaminación del agua tratada",
+    "Escasez de agua en la zona",
+    "Hundimientos diferenciales en la región",
+    "Explotación de pozos de agua"
+  ],
+  "Causas_principales": [
+    "Construcción del nuevo aeropuerto",
+    "Crisis post-sismo de 1985",
+    "Explotación excesiva de acuíferos",
+    "Asentamientos irregulares en la zona",
+    "Fugas en el sistema hidráulico"
+  ],
+  "Consecuencias": [
+    "Pérdida de niveles hidráulicos",
+    "Degradación de tierras chinamperas",
+    "Contaminación de aguas subterráneas",
+    "Aumento de temperaturas en la región",
+    "Desaparición de especies migratorias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registra humedales como sitio Ramsar"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementa programas de conservación"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Mantienen prácticas agrícolas tradicionales"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Realizan estudios sobre el agua"
+    },
+    {
+      "actor": "Francia",
+      "accion": "Financia proyectos de infraestructura"
+    }
+  ],
+  "input_tokens": 13653,
+  "output_tokens": 349,
+  "error": null
+}

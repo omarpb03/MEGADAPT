@@ -1,0 +1,8 @@
+{
+  "fecha": "2026-10-22T11:31:35",
+  "modelo": "gpt-4o-mini",
+  "prompt_variant": "minimal",
+  "max_items": 4,
+  "prompt_text": "### Modifica el texto Base para que diga \"De 1 a 2 preocupaciones MÁXIMO\" y añade esto:\n\n\"INSTRUCCIONES CRÍTICAS PARA ESTA VARIANTE:\n\nMÁXIMO 2 ítems por campo. Si hay más posibles, elige los 2 más importantes/frecuentes.\n\nCalidad sobre cantidad: es mejor 1 ítem muy preciso que 4 ítems mezclados.\n\nSolo incluye lo que el entrevistado repite, enfatiza o describe con detalle.\n\nPara Acciones: incluye solo las más concretas y verificables en la transcripción.\"",
+  "prompts_dir": "C:\\Users\\Usuario\\Desktop\\MEGADAPT\\PROMPTS"
+}
