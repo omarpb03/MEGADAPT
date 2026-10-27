@@ -1,8 +1,0 @@
-{
-  "fecha": "2026-10-22T11:34:16",
-  "modelo": "gpt-4o-mini",
-  "prompt_variant": "quote_based",
-  "max_items": 4,
-  "prompt_text": "### Se inserta este bloque de razonamiento en dos pasos:\n\n\"METODOLOGÍA PARA ESTA VARIANTE — razona en dos pasos (internamente):\nPASO 1: Identifica fragmentos textuales concretos del entrevistado que hablen de preocupaciones, causas, consecuencias y acciones.\nPASO 2: Para cada fragmento, resume la idea en 4-5 palabras usando el vocabulario del entrevistado.\n\nREGLAS ESTRICTAS:\n\nSolo incluye una etiqueta si puedes identificar UNA cita directa que la respalde.\n\nNo incluyas conceptos sin soporte textual, aunque sean lógicamente esperables.\n\nLas etiquetas deben reflejar las PALABRAS del entrevistado, no vocabulario técnico externo.\n\nSi el entrevistado usa \"tandeo\", usa \"tandeo\"; si dice \"grietas\", usa \"grietas\".\"",
-  "prompts_dir": "C:\\Users\\Usuario\\Desktop\\MEGADAPT\\PROMPTS"
-}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones pluviales",
+    "Inundaciones costeras",
+    "Inundaciones lacustres",
+    "Zonas susceptibles de inundación",
+    "Falta de información sobre inundaciones",
+    "Basura en drenajes",
+    "Cambio climático",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Causas_principales": [
+    "Desbordamiento de ríos",
+    "Sistema de drenaje insuficiente",
+    "Mantenimiento inadecuado del drenaje",
+    "Acumulación de basura",
+    "Crecimiento vertical de edificios",
+    "Cambio climático",
+    "Falta de cultura de cuidado ambiental"
+  ],
+  "Consecuencias": [
+    "Pérdidas humanas",
+    "Daños materiales",
+    "Afectaciones a la movilidad",
+    "Desastres socioeconómicos",
+    "Incremento de vulnerabilidad",
+    "Falta de acceso a información",
+    "Dificultades en la respuesta a emergencias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar información sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar mapas de peligro"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generar infografías sobre inundaciones"
+    },
+    {
+      "actor": "Gobiernos locales",
+      "accion": "Realizar obras de infraestructura"
+    },
+    {
+      "actor": "Gobiernos locales",
+      "accion": "Mejorar el mantenimiento del drenaje"
+    },
+    {
+      "actor": "Sedesol",
+      "accion": "Financiar atlas de riesgos"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Aplicar metodologías de percepción de riesgo"
+    }
+  ],
+  "input_tokens": 14961,
+  "output_tokens": 466,
+  "error": null,
+  "items_antes_de_tope": {}
+}

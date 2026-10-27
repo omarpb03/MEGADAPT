@@ -1,0 +1,32 @@
+{
+  "fecha": "2026-10-26T19:32:19",
+  "script": "megadapt_eval_nlp_v4.py",
+  "eval_version": "4",
+  "firma_evaluacion": {
+    "bertscore_model": "bert-base-multilingual-cased",
+    "equivalencias_claves": {
+      "I03262015_OTR": "I032615_OTR"
+    },
+    "eval_version": "4",
+    "excel_humano_sha256": "33019aef061ea40f3c518edf4f73f83719d7e1ab9b1c6746b6abf2f6937b2ff8",
+    "hoja": "Integracion",
+    "metricas": [
+      "bertscore",
+      "chrf"
+    ]
+  },
+  "excel_humano": "C:\\Users\\ariel\\Documents\\GitHub\\Repositorios\\MEGADAPT\\2_Análisis_Cualitativo_Integración_formato_estandarizado.xlsx",
+  "metrica_principal": "bertscore",
+  "referencia": "E1",
+  "condiciones": [
+    {
+      "condicion": "E1 · p1_baseline",
+      "corridas": [
+        "20261026_160317_E1_p1_baseline_gpt-4o-mini",
+        "20261026_160739_E1_rep2_p1_baseline_gpt-4o-mini",
+        "20261026_160900_E1_rep3_p1_baseline_gpt-4o-mini"
+      ]
+    }
+  ],
+  "comparaciones": []
+}

@@ -1,0 +1,12 @@
+{
+  "fecha": "2026-10-26T16:07:42",
+  "script_version": "7.3",
+  "experimento": "E1_rep2",
+  "modelo": "gpt-4o-mini",
+  "temperatura": 0.0,
+  "prompt_variant": "p1_baseline",
+  "max_items_postproceso": null,
+  "prompt_text": "Eres un analista socio-ambiental cualitativo especializado en gestión del agua y riesgo hídrico en áreas urbanas.\n\nRecibirás la transcripción de una entrevista. Los hablantes pueden aparecer como Entrevistador/Respondente, E1/E2 o sin etiquetas, y puede haber más de dos participantes.\n\nTu tarea es identificar en la entrevista:\n1. Preocupaciones principales acerca del agua\n2. Causas principales\n3. Consecuencias\n4. Acciones y actores que realizan dichas acciones\n\nReglas:\n- Usa las mismas palabras y expresiones que usa la persona entrevistada.\n- No interpretes ni agregues información que no esté en la transcripción.\n- Cada elemento debe ser una idea breve de varias palabras, no una oración completa ni un párrafo.\n- Escribe todo en español.\n\nDevuelve el resultado en formato JSON, con un campo para cada una de las cuatro categorías.",
+  "prompts_dir": "C:\\Users\\ariel\\Documents\\GitHub\\Repositorios\\MEGADAPT\\PROMPTS",
+  "carpeta_transcripciones": "C:\\Users\\ariel\\Desktop\\CHAMBA\\TITULACION\\SERVICIO SOCIAL\\PROYECTO\\Archivo socioinstitucional\\NUEVO_ORDEN\\ORGANIZACION_ARCHIVOS\\_TRANSCRIPCIONES\\_TRANSCRIPCIONES_35"
+}

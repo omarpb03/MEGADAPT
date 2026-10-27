@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Contaminación del agua",
+    "Fugas en tuberías",
+    "Mantenimiento de infraestructura",
+    "Basura en ríos",
+    "Deforestación",
+    "Falta de reforestación",
+    "Desabasto en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Agotamiento de fuentes de abastecimiento",
+    "Tala clandestina",
+    "Fugas en tuberías viejas",
+    "Crecimiento urbano descontrolado",
+    "Falta de conciencia ambiental",
+    "Basura en ríos",
+    "Falta de programas de reforestación",
+    "Problemas de suministro eléctrico"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua",
+    "Contaminación del agua potable",
+    "Reducción de manantiales",
+    "Inundaciones en colonias",
+    "Afectaciones a viviendas",
+    "Disminución de calidad del agua",
+    "Conflictos comunitarios",
+    "Falta de acceso a agua potable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Mantenimiento de infraestructura"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de cauces"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Programas de reforestación"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participación en obras de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Concientización sobre basura"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Financiamiento de proyectos"
+    },
+    {
+      "actor": "ONG's",
+      "accion": "Intervención en mantenimiento de ríos"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 466,
+  "error": null,
+  "items_antes_de_tope": {}
+}

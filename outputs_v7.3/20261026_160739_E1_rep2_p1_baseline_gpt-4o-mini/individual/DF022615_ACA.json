@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua",
+    "Falta de interés del gobierno",
+    "Problemas de acceso al agua",
+    "Contaminación del agua",
+    "Salinización del agua en Xochimilco"
+  ],
+  "Causas_principales": [
+    "Construcción sin reciclaje de agua",
+    "Falta de financiamiento",
+    "Corrupción en la distribución",
+    "Uso de aguas negras",
+    "Desarrollo urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Desabastecimiento de agua en colonias",
+    "Contaminación de fuentes de agua",
+    "Problemas de salud por agua contaminada",
+    "Desigualdad en acceso al agua",
+    "Crisis de agua en zonas agrícolas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Plantear problemas de agua"
+    },
+    {
+      "actor": "Biotecnología",
+      "accion": "Proponer reciclaje de agua"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Utilizar estiércol para cultivo"
+    },
+    {
+      "actor": "ONG REDES",
+      "accion": "Restaurar ecosistemas"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Estudiar recursos hídricos"
+    }
+  ],
+  "input_tokens": 13290,
+  "output_tokens": 232,
+  "error": null,
+  "items_antes_de_tope": {}
+}

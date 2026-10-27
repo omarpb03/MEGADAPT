@@ -1,0 +1,4 @@
+﻿condicion,experimento,prompt,modelo,temperatura,tope,esquema,fecha_corrida,script_version,carpeta,csv,entrevistas_en_csv,emparejadas,sin_par_modelo,evaluacion
+E1 · p1_baseline,E1,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:03:19,7.3,20261026_160317_E1_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E1 · p1_baseline,E1_rep2,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:07:42,7.3,20261026_160739_E1_rep2_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E1 · p1_baseline,E1_rep3,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:09:03,7.3,20261026_160900_E1_rep3_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desaparición de lagos y humedales",
+    "Bajo nivel de agua en la zona",
+    "Contaminación del agua",
+    "Hundimientos diferenciales",
+    "Falta de infraestructura adecuada"
+  ],
+  "Causas_principales": [
+    "Explotación excesiva de pozos",
+    "Construcción del nuevo aeropuerto",
+    "Cierre de la casa de bombas",
+    "Asentamientos irregulares",
+    "Cambio en el uso de suelo"
+  ],
+  "Consecuencias": [
+    "Pérdida de producción agrícola",
+    "Aumento de la temperatura en la zona",
+    "Desecación de chinampas",
+    "Contaminación de aguas subterráneas",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registrar zona como sitio Ramsar"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Construir infraestructura para agua"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registrar sistemas agroproductivos tradicionales"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Mantener chinampas y canales"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Desarrollar programas de manejo"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Gestionar vasos reguladores"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 355,
+  "error": null,
+  "items_antes_de_tope": {}
+}

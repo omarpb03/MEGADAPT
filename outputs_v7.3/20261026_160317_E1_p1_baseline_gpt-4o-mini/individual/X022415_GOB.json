@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del agua",
+    "Fugas en el sistema",
+    "Calidad del agua tratada",
+    "Acceso insuficiente al agua",
+    "Impacto en la producción agrícola"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Contaminación por agroquímicos",
+    "Fugas en drenajes",
+    "Hundimientos diferenciales",
+    "Falta de mantenimiento en plantas de tratamiento"
+  ],
+  "Consecuencias": [
+    "Deterioro de la biodiversidad",
+    "Pérdida económica para productores",
+    "Impacto negativo en el turismo",
+    "Problemas de salud potenciales",
+    "Desinterés de nuevas generaciones en la agricultura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Coordinar políticas de gestión del agua"
+    },
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Realizar estudios de calidad de agua"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Implementar prácticas de tratamiento de agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Regular el uso del agua"
+    },
+    {
+      "actor": "Conan",
+      "accion": "Supervisar áreas Ramsar"
+    }
+  ],
+  "input_tokens": 12070,
+  "output_tokens": 339,
+  "error": null,
+  "items_antes_de_tope": {}
+}

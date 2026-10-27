@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Desperdicio de agua",
+    "Fugas en la infraestructura",
+    "Escasez de agua por mala gestión"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica obsoleta",
+    "Pavimentación excesiva",
+    "Fugas de agua potable",
+    "Mala administración del agua"
+  ],
+  "Consecuencias": [
+    "Inundaciones en la zona",
+    "Grietas en viviendas",
+    "Contaminación del agua",
+    "Desabastecimiento de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de infraestructura hidráulica"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Cosecha de agua de lluvia"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Educación ambiental sobre el agua"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Manejo de pozos de agua"
+    }
+  ],
+  "input_tokens": 24925,
+  "output_tokens": 188,
+  "error": null,
+  "items_antes_de_tope": {}
+}

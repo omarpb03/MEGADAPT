@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Falta de agua en la periferia",
+    "Calidad del agua",
+    "Costos altos del agua",
+    "Falta de coordinación institucional",
+    "Corrupción en la distribución"
+  ],
+  "Causas_principales": [
+    "Ciudad construida sobre un lago",
+    "Extracción de agua del subsuelo",
+    "Falta de planificación urbana",
+    "Desigualdad en el acceso al agua",
+    "Políticas de vivienda inadecuadas"
+  ],
+  "Consecuencias": [
+    "Desigualdad en el acceso al agua",
+    "Contaminación del agua",
+    "Inundaciones y encharcamientos",
+    "Grietas en el suelo",
+    "Abandonos de viviendas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Proveer agua en pipas"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar programas de vivienda"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Organizar protestas y marchas"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Realizar estudios de impacto ambiental"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 327,
+  "error": null,
+  "items_antes_de_tope": {}
+}

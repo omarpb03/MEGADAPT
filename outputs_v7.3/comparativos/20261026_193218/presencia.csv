@@ -1,0 +1,6 @@
+﻿condicion,campo,repeticiones,casos,ambos,ambos_vacios,solo_humano,solo_modelo
+E1 · p1_baseline,preocupacion,3,69,69,0,0,0
+E1 · p1_baseline,causa,3,69,69,0,0,0
+E1 · p1_baseline,consecuencia,3,69,66,0,0,3
+E1 · p1_baseline,accion,3,69,63,0,3,3
+E1 · p1_baseline,TOTAL,3,276,267,0,3,6

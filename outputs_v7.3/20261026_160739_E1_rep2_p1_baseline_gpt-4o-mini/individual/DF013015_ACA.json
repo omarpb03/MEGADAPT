@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Falta de agua en zonas periféricas",
+    "Calidad del agua",
+    "Costos altos del agua",
+    "Acceso desigual al agua"
+  ],
+  "Causas_principales": [
+    "Extracción de agua del subsuelo",
+    "Falta de coordinación institucional",
+    "Corrupción en permisos de construcción",
+    "Desigualdad económica en acceso al agua"
+  ],
+  "Consecuencias": [
+    "Problemas de salud por mala calidad",
+    "Inundaciones y encharcamientos",
+    "Desplazamiento de comunidades",
+    "Aumento de costos para familias pobres"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Proveer agua en pipas"
+    },
+    {
+      "actor": "Instituto de Vivienda",
+      "accion": "Financiar vivienda formal"
+    },
+    {
+      "actor": "Organizaciones de vecinos",
+      "accion": "Protestar por acceso a agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Regular uso de suelo"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 212,
+  "error": null,
+  "items_antes_de_tope": {}
+}

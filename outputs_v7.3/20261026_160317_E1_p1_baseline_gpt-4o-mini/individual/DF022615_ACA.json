@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua",
+    "Falta de interés del gobierno",
+    "Problemas de acceso al agua",
+    "Contaminación del agua",
+    "Salinización del agua",
+    "Corrupción en distribución de agua"
+  ],
+  "Causas_principales": [
+    "Construcción sin reciclaje de agua",
+    "Falta de financiamiento",
+    "Cultura del agua ausente",
+    "Desarrollo urbano descontrolado",
+    "Uso de aguas negras y grises",
+    "Corrupción en la distribución"
+  ],
+  "Consecuencias": [
+    "Desperdicio de recursos hídricos",
+    "Quejas de vecinos",
+    "Problemas de salud por contaminación",
+    "Dificultades para la agricultura",
+    "Desigualdad en acceso al agua",
+    "Aumento de la pobreza"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Plantear problemas de agua"
+    },
+    {
+      "actor": "Gente de biotecnología",
+      "accion": "Proponer reciclaje de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Quejarse del consumo de agua"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Utilizar estiércol para cultivo"
+    },
+    {
+      "actor": "ONG REDES",
+      "accion": "Restauración ecológica"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Estudiar recursos hídricos"
+    }
+  ],
+  "input_tokens": 13290,
+  "output_tokens": 376,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por lluvias intensas",
+    "Sistemas de drenaje insuficientes",
+    "Basura en drenajes",
+    "Cambio climático y lluvias intensas",
+    "Falta de información sobre inundaciones"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Mantenimiento inadecuado del drenaje",
+    "Cultura de arrojar basura",
+    "Falta de mapas de riesgo",
+    "Eventos climáticos extremos"
+  ],
+  "Consecuencias": [
+    "Pérdidas humanas por inundaciones",
+    "Daños a infraestructura urbana",
+    "Afectaciones a la movilidad",
+    "Desinformación en la población",
+    "Incremento en el riesgo de inundaciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar información sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar mapas de peligro"
+    },
+    {
+      "actor": "Gobiernos locales",
+      "accion": "Realizar obras de infraestructura"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generar base de datos de vulnerabilidad"
+    },
+    {
+      "actor": "Sedesol/Sedartu",
+      "accion": "Financiar atlas de riesgos"
+    }
+  ],
+  "input_tokens": 14961,
+  "output_tokens": 367,
+  "error": null,
+  "items_antes_de_tope": {}
+}

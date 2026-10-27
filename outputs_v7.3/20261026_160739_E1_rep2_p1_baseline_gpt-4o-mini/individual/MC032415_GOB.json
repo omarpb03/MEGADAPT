@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Contaminación del agua",
+    "Fugas en tuberías",
+    "Mantenimiento de infraestructura"
+  ],
+  "Causas_principales": [
+    "Deforestación y tala clandestina",
+    "Viejas tuberías de plomo",
+    "Crecimiento urbano descontrolado",
+    "Falta de reforestación"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en colonias",
+    "Contaminación del agua potable",
+    "Reducción de manantiales",
+    "Inundaciones por basura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Mantenimiento de infraestructura"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Participación en reforestación"
+    },
+    {
+      "actor": "ONG's",
+      "accion": "Concientización sobre basura"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Financiamiento de proyectos de agua"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 292,
+  "error": null,
+  "items_antes_de_tope": {}
+}

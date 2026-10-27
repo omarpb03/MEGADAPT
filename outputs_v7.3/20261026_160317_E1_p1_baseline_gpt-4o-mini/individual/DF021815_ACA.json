@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en la calidad del agua",
+    "Acceso desigual al agua",
+    "Inundaciones en zonas vulnerables",
+    "Gestión ineficiente del recurso hídrico"
+  ],
+  "Causas_principales": [
+    "Incapacidad de gestión del recurso",
+    "Intereses particulares en la política",
+    "Desigualdad en el acceso a servicios",
+    "Condiciones insalubres históricas"
+  ],
+  "Consecuencias": [
+    "Aumento de la desconfianza hacia el agua",
+    "Crecimiento de asentamientos informales",
+    "Inundaciones recurrentes en ciertas áreas",
+    "Desigualdad en el suministro de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar políticas de agua"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controlar distribución de agua"
+    },
+    {
+      "actor": "Comités de colonias",
+      "accion": "Crear interlocución con autoridades"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Influir en decisiones de urbanización"
+    }
+  ],
+  "input_tokens": 13810,
+  "output_tokens": 292,
+  "error": null,
+  "items_antes_de_tope": {}
+}

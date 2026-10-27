@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desaparición del lago de Texcoco",
+    "Crisis de agua en Xochimilco",
+    "Hundimientos diferenciales",
+    "Contaminación del agua",
+    "Falta de infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Explotación de pozos",
+    "Construcción del nuevo aeropuerto",
+    "Sismo de 1985",
+    "Asentamientos irregulares",
+    "Falta de mantenimiento de canales"
+  ],
+  "Consecuencias": [
+    "Pérdida de niveles hidráulicos",
+    "Degradación de chinampas",
+    "Contaminación de aguas",
+    "Conflictos entre comunidades",
+    "Pérdida de biodiversidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registrar zona como sitio Ramsar"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar programas de conservación"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Mantener chinampas y canales"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Realizar estudios sobre agua"
+    },
+    {
+      "actor": "Organismos internacionales",
+      "accion": "Financiar proyectos de infraestructura"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 326,
+  "error": null,
+  "items_antes_de_tope": {}
+}

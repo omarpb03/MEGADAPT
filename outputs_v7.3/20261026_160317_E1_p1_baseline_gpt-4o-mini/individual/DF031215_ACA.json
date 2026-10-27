@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Impacto de construcciones verticales",
+    "Inundaciones frecuentes",
+    "Desigualdad en el acceso al agua",
+    "Control político sobre el agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Falta de infraestructura adecuada",
+    "Desinterés político",
+    "Desigualdad socioeconómica",
+    "Manejo ineficiente del agua"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en colonias",
+    "Aumento de inundaciones",
+    "Conflictos por el agua",
+    "Desigualdad en servicios públicos",
+    "Desplazamiento de población"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementación de tandeo de agua"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Defensa de derechos de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Construcción de tambos para almacenamiento"
+    },
+    {
+      "actor": "Secretaría de Obras",
+      "accion": "Negociación de proyectos de infraestructura"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Defensa de proyectos urbanísticos"
+    }
+  ],
+  "input_tokens": 12110,
+  "output_tokens": 229,
+  "error": null,
+  "items_antes_de_tope": {}
+}

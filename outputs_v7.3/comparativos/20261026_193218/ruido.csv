@@ -1,0 +1,11 @@
+﻿condicion,metrica,campo,repeticiones,media_por_repeticion,rango_entre_repeticiones,de_entre_repeticiones,variacion_media_por_entrevista
+E1 · p1_baseline,bertscore,preocupacion,3,E1: 0.7851 | E1_rep2: 0.7822 | E1_rep3: 0.7833,0.0029,0.0015,0.0052
+E1 · p1_baseline,bertscore,causa,3,E1: 0.7671 | E1_rep2: 0.7683 | E1_rep3: 0.7669,0.0014,0.0008,0.0046
+E1 · p1_baseline,bertscore,consecuencia,3,E1: 0.7698 | E1_rep2: 0.7685 | E1_rep3: 0.7742,0.0057,0.003,0.0061
+E1 · p1_baseline,bertscore,accion,3,E1: 0.7372 | E1_rep2: 0.7389 | E1_rep3: 0.7376,0.0017,0.0009,0.0051
+E1 · p1_baseline,bertscore,TOTAL,3,E1: 0.7646 | E1_rep2: 0.7643 | E1_rep3: 0.7654,0.0011,0.0006,0.0032
+E1 · p1_baseline,chrf,preocupacion,3,E1: 0.2568 | E1_rep2: 0.2575 | E1_rep3: 0.2522,0.0053,0.0029,0.0099
+E1 · p1_baseline,chrf,causa,3,E1: 0.2257 | E1_rep2: 0.2207 | E1_rep3: 0.2258,0.0051,0.0029,0.016
+E1 · p1_baseline,chrf,consecuencia,3,E1: 0.1604 | E1_rep2: 0.1669 | E1_rep3: 0.1683,0.0079,0.0042,0.0165
+E1 · p1_baseline,chrf,accion,3,E1: 0.2051 | E1_rep2: 0.2159 | E1_rep3: 0.2146,0.0108,0.0059,0.0149
+E1 · p1_baseline,chrf,TOTAL,3,E1: 0.2114 | E1_rep2: 0.2145 | E1_rep3: 0.2145,0.0031,0.0018,0.0079

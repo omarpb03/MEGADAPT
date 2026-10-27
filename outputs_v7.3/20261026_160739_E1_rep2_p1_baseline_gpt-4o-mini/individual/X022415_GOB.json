@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del agua",
+    "Fugas en el sistema",
+    "Calidad del agua tratada",
+    "Acceso insuficiente al agua",
+    "Impacto en la producción agrícola"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Contaminación por invernaderos",
+    "Fugas en el sistema de drenaje",
+    "Desecación de cuerpos de agua",
+    "Uso de pesticidas y agroquímicos"
+  ],
+  "Consecuencias": [
+    "Deterioro de la biodiversidad",
+    "Pérdida económica para productores",
+    "Impacto negativo en el turismo",
+    "Problemas de salud potenciales",
+    "Desarraigo de las nuevas generaciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Coordinar políticas de gestión"
+    },
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Realizar estudios de calidad de agua"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Implementar prácticas sostenibles"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Regular el uso del agua"
+    },
+    {
+      "actor": "Conanp",
+      "accion": "Proteger áreas naturales"
+    }
+  ],
+  "input_tokens": 12070,
+  "output_tokens": 338,
+  "error": null,
+  "items_antes_de_tope": {}
+}

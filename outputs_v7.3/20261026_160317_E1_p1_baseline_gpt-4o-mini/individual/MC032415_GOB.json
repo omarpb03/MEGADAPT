@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Contaminación del agua",
+    "Fugas en tuberías",
+    "Mantenimiento de infraestructura",
+    "Basura en ríos",
+    "Deforestación",
+    "Falta de reforestación",
+    "Desabasto en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Agotamiento de fuentes de abastecimiento",
+    "Tala clandestina",
+    "Fugas en tuberías viejas",
+    "Crecimiento urbano descontrolado",
+    "Falta de conciencia ambiental",
+    "Basura que contamina",
+    "Falta de presupuesto para obras",
+    "Oposición de comuneros a obras"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en colonias",
+    "Reducción de calidad del agua",
+    "Inundaciones en temporadas de lluvia",
+    "Afectaciones a viviendas",
+    "Disminución de manantiales",
+    "Conflictos comunitarios",
+    "Pérdida de agua por fugas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Mantenimiento de infraestructura"
+    },
+    {
+      "actor": "Comuneros y ejidatarios",
+      "accion": "Oposición a obras de infraestructura"
+    },
+    {
+      "actor": "ONG's",
+      "accion": "Concientización sobre el agua"
+    },
+    {
+      "actor": "Población civil",
+      "accion": "Participación en reforestación"
+    },
+    {
+      "actor": "Televisoras",
+      "accion": "Intervención en limpieza de ríos"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de cauces"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 448,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Falta de agua en zonas periféricas",
+    "Calidad del agua",
+    "Costos altos del agua",
+    "Distribución desigual del agua"
+  ],
+  "Causas_principales": [
+    "Ciudad construida sobre un lago",
+    "Falta de coordinación institucional",
+    "Corrupción en permisos de construcción",
+    "Explotación del agua del subsuelo"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en comunidades",
+    "Aumento de costos para los pobres",
+    "Contaminación del agua",
+    "Grietas y deslaves en viviendas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Proveer agua potable"
+    },
+    {
+      "actor": "Comunidades organizadas",
+      "accion": "Realizar marchas y protestas"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Apoyar proyectos comunitarios"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 192,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Intereses inmobiliarios",
+    "Descoordinación institucional"
+  ],
+  "Causas_principales": [
+    "Asentamientos humanos irregulares",
+    "Intereses políticos y económicos",
+    "Desmantelamiento de políticas rurales",
+    "Falta de estudios de factibilidad"
+  ],
+  "Consecuencias": [
+    "Conflictos por recursos hídricos",
+    "Gentrificación de zonas urbanas",
+    "Debilitamiento de instituciones comunitarias",
+    "Proyectos productivos insostenibles"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "ONGs",
+      "accion": "Gestionar proyectos comunitarios"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Canalizar necesidades hacia instituciones"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar políticas ambientales"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Captar agua de lluvia"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Propuesta de captación de agua"
+    }
+  ],
+  "input_tokens": 9716,
+  "output_tokens": 292,
+  "error": null,
+  "items_antes_de_tope": {}
+}

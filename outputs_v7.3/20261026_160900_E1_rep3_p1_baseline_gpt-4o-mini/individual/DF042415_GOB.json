@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones",
+    "Escasez de agua",
+    "Enfermedades derivadas de inundaciones",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Cambio climático",
+    "Infraestructura inadecuada",
+    "Falta de servicios sanitarios",
+    "Pobreza y vulnerabilidad"
+  ],
+  "Consecuencias": [
+    "Enfermedades de la piel",
+    "Enfermedades gástricas",
+    "Irritación de mucosas",
+    "Subregistro de enfermedades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Realiza campañas de prevención"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite medidas preventivas"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Proporciona ayuda en emergencias"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacua población en inundaciones"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporciona agua potable y cloro"
+    }
+  ],
+  "input_tokens": 12564,
+  "output_tokens": 203,
+  "error": null,
+  "items_antes_de_tope": {}
+}

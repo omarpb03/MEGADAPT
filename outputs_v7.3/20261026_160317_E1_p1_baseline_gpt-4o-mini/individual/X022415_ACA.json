@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua en el D.F",
+    "Contaminación de fuentes de agua",
+    "Acceso desigual al agua",
+    "Impacto de la urbanización en el agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada",
+    "Uso de agroquímicos",
+    "Falta de regulación del agua"
+  ],
+  "Consecuencias": [
+    "Deterioro de ríos",
+    "Pérdida de tierras agrícolas",
+    "Conflictos por el uso del agua",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Promover producción orgánica"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Defender derechos sobre el agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Sensibilizar sobre el uso del agua"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Regular el uso del agua"
+    }
+  ],
+  "input_tokens": 19819,
+  "output_tokens": 283,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua por fugas",
+    "Mala calidad del agua",
+    "Escasez de agua en algunas zonas",
+    "Inundaciones en época de lluvias"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua",
+    "Mala administración del agua",
+    "Pavimentación excesiva",
+    "Fugas en la red de agua"
+  ],
+  "Consecuencias": [
+    "Grietas en viviendas",
+    "Contaminación del agua",
+    "Problemas de salud por agua de mala calidad",
+    "Desplazamiento de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Mala gestión del agua"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Control de pozos de agua"
+    },
+    {
+      "actor": "Comunidad de El Molino",
+      "accion": "Construcción de cisternas para captación de agua"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Educación ambiental y talleres"
+    },
+    {
+      "actor": "Investigadores",
+      "accion": "Estudios sobre calidad del agua"
+    }
+  ],
+  "input_tokens": 24925,
+  "output_tokens": 305,
+  "error": null,
+  "items_antes_de_tope": {}
+}
