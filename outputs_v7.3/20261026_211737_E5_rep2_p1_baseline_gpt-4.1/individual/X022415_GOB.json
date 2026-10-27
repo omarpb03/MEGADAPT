@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Calidad del agua insuficiente",
+    "Cantidad de agua insuficiente",
+    "Contaminaci\u00103n de cuerpos de agua",
+    "Coordinaci\u00103n institucional deficiente",
+    "Abandonamiento de chinampas",
+    "Hundimientos diferenciales en la zona"
+  ],
+  "Causas_principales": [
+    "Descargas de aguas negras directas",
+    "Aguas tratadas mal tratadas",
+    "Fugas de agua en canales",
+    "Uso de pesticidas y agroqu\u00103micos",
+    "Limpiezas de establos ganaderos",
+    "Plantas de tratamiento sin mantenimiento",
+    "Asentamientos irregulares sin drenaje",
+    "Hundimientos diferenciales por mala infraestructura",
+    "Abandono de tecnolog\u00103as apropiadas",
+    "Falta de mantenimiento a estructuras",
+    "Falta de visi\u00103n ecol\u00103gica en manejo de agua"
+  ],
+  "Consecuencias": [
+    "P\u00103rdida de valor del producto local",
+    "Afectaci\u00103n econ\u00103mica a productores",
+    "Abandono de la chinampa",
+    "Deterioro de calidad de vida",
+    "Riesgos potenciales de salud",
+    "Mala imagen para el turismo",
+    "Inundaciones en zonas productivas",
+    "P\u00103rdida de biodiversidad",
+    "Conflictos por manejo de esclusas",
+    "Zonas urbanas degradadas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la zona patrimonio",
+      "accion": "Coordinaci\u00103n institucional y desarrollo de pol\u00103ticas"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento de canales y barreras"
+    },
+    {
+      "actor": "Instituto de biolog\u00103a UNAM",
+      "accion": "Reactivaci\u00103n chinampera y refugios"
+    },
+    {
+      "actor": "Productores y UNAM",
+      "accion": "Filtrado y mejora de agua"
+    },
+    {
+      "actor": "Turismo local",
+      "accion": "Promoci\u00103n de turismo ecol\u00103gico"
+    },
+    {
+      "actor": "Sederec-sedema-turismo",
+      "accion": "Apoyo a sistema productivo chinampero"
+    },
+    {
+      "actor": "Conam, Conabio, IPN",
+      "accion": "Modelado y monitoreo de biodiversidad"
+    },
+    {
+      "actor": "Chinampas de Tlahuac y Mixquic",
+      "accion": "Replicaci\u00103n de modelos productivos"
+    },
+    {
+      "actor": "Delegaci\u00103n Xochimilco",
+      "accion": "Resguardo de informaci\u00103n y catastros"
+    },
+    {
+      "actor": "Productores y delegaci\u00103n",
+      "accion": "Manejo de esclusas en canales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Propuestas de manejo integral"
+    },
+    {
+      "actor": "Sistema de aguas CDMX",
+      "accion": "Decisiones sobre el flujo de agua"
+    },
+    {
+      "actor": "UAM y UNAM",
+      "accion": "Monitoreo y estudios de biodiversidad"
+    },
+    {
+      "actor": "Conam",
+      "accion": "Responsabilidad en sitio Ramsar"
+    }
+  ],
+  "input_tokens": 12070,
+  "output_tokens": 605,
+  "error": null,
+  "items_antes_de_tope": {}
+}

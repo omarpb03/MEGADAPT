@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua irregular",
+    "Mala calidad del agua",
+    "Escasez de agua potable",
+    "Juego político con el agua",
+    "Costo de servicio sin recibirlo",
+    "Corrupción en distribución de agua",
+    "Falta de mantenimiento a pozos",
+    "Falta de políticas públicas eficientes",
+    "Privatización del agua",
+    "Inundaciones en zonas bajas",
+    "Desigualdad en distribución de agua"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin servicios",
+    "Juego político en época electoral",
+    "Pozos locales contaminan más la ciudad",
+    "Tandeo y manipulación del suministro",
+    "Sistema federal regula cantidades",
+    "Falta de mantenimiento a la red y pozos",
+    "Falta de inversión pública en agua",
+    "Corrupción en el manejo del agua",
+    "Diferencias económicas entre zonas",
+    "Carencia de políticas públicas de agua",
+    "Privatización y negocios con agua",
+    "Política de desarrollo social basada en votos"
+  ],
+  "Consecuencias": [
+    "Agua chocolatosa y amarillenta",
+    "Agua con insectos y lodo",
+    "Enfermedades estomacales en niños",
+    "Gasto en agua embotellada",
+    "Cultura de escasez del agua",
+    "Desperdicio de agua por falta de flotadores",
+    "Mal funcionamiento de pozos de absorción",
+    "Inundaciones en calzada Ermita y acceso bloqueado",
+    "Mezcla de aguas negras y pluviales",
+    "Problemas de higiene en escuelas",
+    "Contaminación de mantos freáticos y subsuelo",
+    "Desigualdad en acceso al recurso"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Presionar delegación por agua"
+    },
+    {
+      "actor": "Líderes políticos",
+      "accion": "Prometer agua en campañas"
+    },
+    {
+      "actor": "Mujeres de la comunidad",
+      "accion": "Protestas en Las Garzas"
+    },
+    {
+      "actor": "Gobierno y comunidad",
+      "accion": "Instalar tomas de agua"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Condonar pago por mala dotación"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Lucha por mejores servicios"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Repartir agua con pipas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Repartir pipas en crisis"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Organizar tandeo semanal"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumular agua en cisternas"
+    },
+    {
+      "actor": "Centros infantiles y escuelas",
+      "accion": "Comprar agua embotellada local"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Pagar pipas privadas"
+    },
+    {
+      "actor": "Hogares",
+      "accion": "Reutilizar agua de baño"
+    },
+    {
+      "actor": "Ciudadanía organizada",
+      "accion": "Exigir mantenimiento de pozos"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Spots de cuidado del agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Movimiento por el agua en Calhuacán"
+    },
+    {
+      "actor": "Pedro Moctezuma y científicos",
+      "accion": "Movimiento defensa del agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Crear pozos de absorción"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Demandar limpieza de pozos"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Recoger agua de lluvia"
+    },
+    {
+      "actor": "Gobierno y comunidad",
+      "accion": "Programas de instalación de tuberías"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Frenar privatización del agua"
+    },
+    {
+      "actor": "SEDESOL",
+      "accion": "Mejorar techos y paredes"
+    }
+  ],
+  "input_tokens": 8998,
+  "output_tokens": 698,
+  "error": null,
+  "items_antes_de_tope": {}
+}

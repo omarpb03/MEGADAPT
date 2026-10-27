@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua en el D.F",
+    "Extracción de acuíferos en Xochimilco",
+    "Contaminación de fuentes de agua",
+    "Regulación insuficiente del uso agrícola",
+    "Presión urbana sobre zonas agrícolas",
+    "Falta de gobernanza metropolitana",
+    "Acceso desigual al agua",
+    "Impacto de la urbanización en ríos",
+    "Falta de sensibilización ambiental",
+    "Manejo irregular de residuos líquidos"
+  ],
+  "Causas_principales": [
+    "Expansión urbana sobre áreas agrícolas",
+    "Historia de ocupación y uso de suelo",
+    "Decisiones influenciadas por racionalidad económica",
+    "Mercado como motor de cambio",
+    "Falta de regulación en uso agrícola",
+    "Presiones políticas y negociaciones locales",
+    "Falta de monitoreo y aplicación de normas",
+    "Cambios tecnológicos en agricultura",
+    "Competencia de productos agrícolas de otras regiones",
+    "Falta de educación ambiental"
+  ],
+  "Consecuencias": [
+    "Pérdida de suelo agrícola",
+    "Contaminación por agroquímicos",
+    "Asentamientos irregulares en zonas agrícolas",
+    "Disminución de agua en Xochimilco",
+    "Cambio de uso de suelo a urbano",
+    "Desplazamiento de productores locales",
+    "Fragmentación de tierras familiares",
+    "Deterioro de ríos y causes",
+    "Falta de autosuficiencia alimentaria",
+    "Conflictos por acceso a recursos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Uso de agua sin regulación"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Transición a invernaderos"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Defensa de recursos mediante movimientos sociales"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Promoción de producción orgánica"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementación de programas públicos agrícolas"
+    },
+    {
+      "actor": "SAGARPA, SEDEREC, INCA Rural",
+      "accion": "Programas de extensionismo agrícola"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Procesos de sensibilización y negociación con pobladores"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Ocupación de tierras para producción"
+    },
+    {
+      "actor": "Juntas de vecinos y delegados",
+      "accion": "Negociaciones para asentamientos irregulares"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Manejo de espacios forestales"
+    },
+    {
+      "actor": "ONG’s y grupos civiles",
+      "accion": "Organización para defensa de recursos"
+    },
+    {
+      "actor": "Productores y técnicos",
+      "accion": "Organización por sistema producto"
+    },
+    {
+      "actor": "Universidad y agrónomos",
+      "accion": "Cursos de capacitación ambiental"
+    },
+    {
+      "actor": "Población local",
+      "accion": "Estrategias micro de ahorro de agua"
+    }
+  ],
+  "input_tokens": 19819,
+  "output_tokens": 760,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Dispendio de agua",
+    "Falta de cultura en el usuario",
+    "Retención y recarga del manto acuífero",
+    "Escasez de agua en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Tecnología y urbanización",
+    "Abuso en el uso del agua",
+    "Falta de cultura en el usuario",
+    "Deforestación y depredación",
+    "Cambios climáticos como el Niño y la Niña"
+  ],
+  "Consecuencias": [
+    "Insuficiencia de agua para la demanda",
+    "Afectación al residente por no aprovechar el agua",
+    "Escurrimientos que se secan en estiaje",
+    "Afectación al bosque y fauna",
+    "Desertificación de superficies",
+    "Alteraciones en el ambiente"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener el agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos económicos para conservación"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Incentivar infiltración en suelo de conservación"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestión del agua en zona urbana"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Mantener áreas en buenas condiciones de humedad"
+    },
+    {
+      "actor": "Usuarios",
+      "accion": "Uso racional del agua"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Normar extracción y suministro"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigación sobre sanidad y control"
+    }
+  ],
+  "input_tokens": 14316,
+  "output_tokens": 457,
+  "error": null,
+  "items_antes_de_tope": {}
+}

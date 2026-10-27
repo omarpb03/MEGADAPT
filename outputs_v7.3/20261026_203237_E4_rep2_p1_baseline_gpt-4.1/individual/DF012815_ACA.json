@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtención, distribución y calidad del agua",
+    "Crisis de inundación no eliminada",
+    "Crecimiento inadecuado de la ciudad",
+    "Escasez de agua en colonias populares",
+    "Dotación desigual de agua",
+    "Infraestructura hidráulica obsoleta",
+    "Pérdidas de agua en redes",
+    "Control político del agua",
+    "Falta de información confiable sobre agua",
+    "Urbanización en zonas de recarga"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad sin previsión",
+    "Asentamientos informales permitidos por autoridades",
+    "Decisiones políticas sin base técnica",
+    "Extracción excesiva de mantos freáticos",
+    "Urbanización de zonas de recarga",
+    "Infraestructura vieja y fracturada",
+    "Falta de planeación urbana actualizada",
+    "Manejo político de servicios",
+    "Corrupción y colusión con privados",
+    "Falta de sistemas de información modernos"
+  ],
+  "Consecuencias": [
+    "Hundimiento de la ciudad",
+    "Dotación de agua por tandeo",
+    "Negocio de pipas de agua",
+    "Escasez en zonas populares",
+    "Agua de mala calidad en oriente",
+    "Pérdidas de hasta 50% en redes",
+    "Desigualdad en acceso al agua",
+    "Conflictos sociales por agua",
+    "Servicios urbanos deficientes",
+    "Degradación de servicios en zonas urbanas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades",
+      "accion": "Permiten asentamientos informales"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo de agua"
+    },
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Maneja servicios y operación"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Opera dotación de agua"
+    },
+    {
+      "actor": "Camiones cisterna",
+      "accion": "Distribuyen agua por pipas"
+    },
+    {
+      "actor": "Políticos",
+      "accion": "Controlan acceso a servicios"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Participan en servicios urbanos"
+    },
+    {
+      "actor": "Empresa de medidores",
+      "accion": "Instala medidores de agua"
+    },
+    {
+      "actor": "Académicos",
+      "accion": "Realizan estudios de agua"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Cambia usos de suelo"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Se organizan para exigir servicios"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Construyen sin garantizar servicios"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Invierten en asentamientos irregulares"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Entrega información oficial"
+    },
+    {
+      "actor": "Jefes territoriales",
+      "accion": "Coordinan dotación de agua"
+    },
+    {
+      "actor": "Sectores sociales",
+      "accion": "Protestan por falta de agua"
+    }
+  ],
+  "input_tokens": 9584,
+  "output_tokens": 539,
+  "error": null,
+  "items_antes_de_tope": {}
+}

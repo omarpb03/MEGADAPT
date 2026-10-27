@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento en periferias",
+    "Agua más cara para los pobres",
+    "Mala calidad del agua potable",
+    "Falta de coordinación institucional",
+    "Desigualdad en acceso al agua",
+    "Agua por tandeo e irregular",
+    "Riesgos por sobreexplotación",
+    "Falta de servicios en vivienda informal",
+    "Contaminación de fuentes de agua",
+    "Acceso a servicios básicos condicionados",
+    "Inundaciones y encharcamientos"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva del subsuelo",
+    "Crecimiento urbano sin planeación",
+    "Falta de coordinación interinstitucional",
+    "Criterios económicos en distribución",
+    "Corrupción en otorgamiento de permisos",
+    "Mal ubicación de vivienda",
+    "Fragmentación de responsabilidades de gobierno",
+    "Falta de mantenimiento a infraestructura",
+    "Prioridad a intereses privados",
+    "Incapacidad técnica en municipios",
+    "Falta de cultura ambiental",
+    "Privatización de propiedad social",
+    "Visiones de modernidad que eliminan ríos"
+  ],
+  "Consecuencias": [
+    "Mayor costo de agua para pobres",
+    "Compra obligatoria de agua embotellada",
+    "Abuso en pipas de agua",
+    "Grietas y deslaves en suelo",
+    "Deterioro de viviendas",
+    "Abandonos de vivienda por grietas",
+    "Pérdida de recarga acuífera",
+    "Daño en microclimas urbanos",
+    "Mal uso de materiales de construcción",
+    "Enfermedades por agua contaminada",
+    "Dependencia de transporte de agua",
+    "Conflictos sociales y políticos",
+    "Procedimientos largos de regularización",
+    "Pérdida de fauna y vegetación",
+    "Mantenimiento comunitario insuficiente",
+    "Abandono de unidades habitacionales fisuradas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaciones",
+      "accion": "Reparten suministro de agua"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Distribuye agua al Distrito Federal"
+    },
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestión colectiva de servicios"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Otorga créditos de vivienda"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Financia producción social de vivienda"
+    },
+    {
+      "actor": "Constructoras privadas",
+      "accion": "Desarrollan vivienda llave en mano"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Crea directrices sobre crédito-vivienda"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Organizan marchas y plantones"
+    },
+    {
+      "actor": "ONGs y asesores",
+      "accion": "Apoyo en gestiones comunitarias"
+    },
+    {
+      "actor": "Mujeres",
+      "accion": "Liderazgo en protestas por agua"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Inversión en pozos de agua"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Distribuye presupuesto para servicios"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Secuestran maquinaria para negociar agua"
+    },
+    {
+      "actor": "Grandes arquitectos",
+      "accion": "Proponen proyectos de vivienda"
+    },
+    {
+      "actor": "Delegaciones/municipios",
+      "accion": "Dan licencias sin evaluación de riesgo"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Presionan para mejoramiento barrial"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Pone pozos de captación de lluvia"
+    },
+    {
+      "actor": "ONG Asamblea Comunitaria",
+      "accion": "Reciclaje ambiental y compostaje"
+    },
+    {
+      "actor": "Organizadores comunitarios",
+      "accion": "Capacitación y talleres participativos"
+    },
+    {
+      "actor": "Gobierno y comunidad",
+      "accion": "Cogestión de programas barriales"
+    },
+    {
+      "actor": "Plantas de tratamiento",
+      "accion": "Mal manejo de lodos y aguas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Conexiones ilegales de agua potable"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Manejan recolección de basura"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Almacenan agua en tinacos/botes"
+    },
+    {
+      "actor": "Escuela de Maristas",
+      "accion": "Educación ambiental en manejo de PET"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 770,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Dotaci\u000fn irregular de agua",
+    "Escasez en varias zonas",
+    "Calidad del agua deficiente",
+    "P\u0010erdas en redes hidr\u00021licas",
+    "Crecimiento urbano sin servicios",
+    "Desabasto por urbanizaci\u00000fn",
+    "Control pol tico de la dotaci\u00000fn",
+    "Servicio de agua politizado"
+  ],
+  "Causas_principales": [
+    "Crecimiento en lugares inadecuados",
+    "Asentamientos irregulares permitidos",
+    "Decisiones pol ticas sin visi\u00000fn t\u0019cnica",
+    "Sobreexplotaci\u00000fn de mantos fre\u00019ticos",
+    "Infraestructura obsoleta o ineficiente",
+    "Inexistencia de planeaci\u00000fn urbana real",
+    "Corrupci\u00000fn y colusi\u00000fn p\u0014blico-privada",
+    "Urbanizaci\u00000fn en zonas de recarga",
+    "Tandeo y manejo pol tico del agua"
+  ],
+  "Consecuencias": [
+    "Inundaciones recurrentes",
+    "Hundimiento del suelo",
+    "Desigualdad en acceso al agua",
+    "P\u0010erdas de agua por fugas",
+    "Abastecimiento por pipas",
+    "Problemas cr nicos de abasto",
+    "Conflictos por traslado de agua",
+    "Habitantes sin servicios b\u0010sicos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales",
+      "accion": "Permiten asentamientos irregulares"
+    },
+    {
+      "actor": "Jefes delegacionales",
+      "accion": "Manejan tandeo y distribuci\u00000fn"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan acceso al servicio de pipas"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Operan dotaci\u00000fn de agua"
+    },
+    {
+      "actor": "Sector privado",
+      "accion": "Invierten en infraestructura urbana"
+    },
+    {
+      "actor": "Pol\u00010dticos",
+      "accion": "Negocian agua a cambio de votos"
+    },
+    {
+      "actor": "Residentes organizados",
+      "accion": "Presionan para resolver servicios"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Cambia usos de suelo pol ticamente"
+    },
+    {
+      "actor": "Empresas concesionarias",
+      "accion": "Instalan medidores de agua"
+    },
+    {
+      "actor": "Acad\u00023micos",
+      "accion": "Realizan estudios independientes"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Produce informaci\u00000fn oficial general"
+    }
+  ],
+  "input_tokens": 9584,
+  "output_tokens": 694,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud en época de lluvias",
+    "Inundaciones en domicilios",
+    "Desbordamientos de barrancas",
+    "Reblandecimiento y deterioro del suelo",
+    "Taponamiento de drenaje y ríos por basura"
+  ],
+  "Causas_principales": [
+    "Cortes a los cerros y terraceo",
+    "Quitar y quemar árboles",
+    "Mala canalización de aguas residuales",
+    "Uso de letrinas y descarga a barrancas",
+    "Crecimiento de asentamientos irregulares",
+    "Basura en ríos y barrancas",
+    "Lluvias extraordinarias",
+    "Incendios que secan árboles y hierba"
+  ],
+  "Consecuencias": [
+    "Deslizamientos de tierra",
+    "Inundaciones en casas",
+    "Daños a viviendas y personas",
+    "Contaminación por desbordamientos",
+    "Enfermedades por contacto con agua contaminada",
+    "Evacuaciones de viviendas",
+    "Pérdida de pertenencias",
+    "Dificultad para reubicar a la población"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notificar a vecinos sobre riesgos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emitir opiniones técnicas de riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Realizar recorridos y monitoreo"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Desazolve de drenaje y limpieza"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Recorridos para evitar asentamientos"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Retirar construcciones irregulares"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recomendar mitigación a vecinos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Evacuar y limpiar casas inundadas"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Vacunar y revisar salud de afectados"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Construcción de muros de contención"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Ajustes en infraestructura urbana"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Difusión de información y trípticos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Capacitaciones y talleres preventivos"
+    },
+    {
+      "actor": "Comité de Riesgos Hidrometereológicos",
+      "accion": "Canalizar apoyos por lluvias"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Cubrir taludes con plástico en lluvias"
+    }
+  ],
+  "input_tokens": 9278,
+  "output_tokens": 717,
+  "error": null,
+  "items_antes_de_tope": {}
+}

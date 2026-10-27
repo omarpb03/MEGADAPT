@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Agua de mala calidad",
+    "Corrupción en distribución",
+    "Juego político con el agua",
+    "Escasez de agua",
+    "Falta de mantenimiento a la red"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Falta de compromiso gubernamental",
+    "Sistemas de filtración deficientes",
+    "Juegos políticos",
+    "Privatización del agua",
+    "Mala distribución de la riqueza"
+  ],
+  "Consecuencias": [
+    "Lucha por el derecho al agua",
+    "Organización comunitaria",
+    "Compra de agua embotellada",
+    "Enfermedades gastrointestinales",
+    "Desperdicio de agua",
+    "Falta de higiene en escuelas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Protestas por agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Dotación de pipas"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Defensa del agua"
+    },
+    {
+      "actor": "Diputados",
+      "accion": "Presionar por condonación"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Recolección de agua de lluvia"
+    },
+    {
+      "actor": "Escuelas",
+      "accion": "Compra de pipas"
+    }
+  ],
+  "input_tokens": 9125,
+  "output_tokens": 247,
+  "error": null,
+  "items_antes_de_tope": {}
+}

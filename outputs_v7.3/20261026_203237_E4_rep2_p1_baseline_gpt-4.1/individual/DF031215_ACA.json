@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mal servicio o falta de agua",
+    "Distribuci\u0003n desigual del agua",
+    "Tandeo inequitativo",
+    "Desabasto por nuevas construcciones",
+    "Infraestructura hidr ulica insuficiente",
+    "Inundaciones frecuentes",
+    "Falta de pol tica de riesgo",
+    "Uso irracional del agua",
+    "Dotaci\u000003n deficiente en colonias populares",
+    "Prioridad baja en zonas perif\u00001ericas"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano acelerado",
+    "Infraestructura primaria rezagada",
+    "Prioridades pol\u00001eticas y presupuestales",
+    "Discrecionalidad en distribuci\u000003n de agua",
+    "Sesgo hacia zonas centrales y poniente",
+    "Falta de planeaci\u000003n urbana actualizada",
+    "Intereses del capital inmobiliario",
+    "Designaci\u000003n pol\u00001etica de funcionarios",
+    "Expansi\u000003n de asentamientos irregulares",
+    "Falta de mediciones sobre consumo real"
+  ],
+  "Consecuencias": [
+    "Baja presi\u000003n de agua",
+    "Inundaciones en zonas vulnerables",
+    "Grietas y da\u00001fo en viviendas",
+    "Desigualdad en acceso al agua",
+    "Conflictos entre vecinos",
+    "Servicio deficiente por a\u00001fos",
+    "Uso de tambos y pipas",
+    "Duplicidad habitacional y subutilizaci\u000003n",
+    "Desconfianza en autoridades",
+    "Falta de innovaci\u000003n en periferia"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Control discrecional de v\u00001elvulas de agua"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar aparici\u000003n de grietas"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    },
+    {
+      "actor": "Secretar a de Obras",
+      "accion": "Bloquear proyectos comunitarios"
+    },
+    {
+      "actor": "Secretar a de Obras y Desarrollo Urbano",
+      "accion": "Aprobar grandes proyectos inmobiliarios"
+    },
+    {
+      "actor": "Habitantes de colonias populares",
+      "accion": "Almacenar agua en tambos"
+    },
+    {
+      "actor": "Habitantes de asentamientos irregulares",
+      "accion": "Gestionar servicios tras regularizaci\u000003n"
+    },
+    {
+      "actor": "Protecci\u000003n Civil",
+      "accion": "Desasolve y limpieza preventiva"
+    },
+    {
+      "actor": "Autoridades centrales",
+      "accion": "Innovar solo en zonas privilegiadas"
+    },
+    {
+      "actor": "Vecinos afectados",
+      "accion": "Manifestarse ante proyectos urbanos"
+    },
+    {
+      "actor": "Sociedad civil y acad\u00001emicos",
+      "accion": "Participar en comit\u00001es t\u00001ecnicos"
+    },
+    {
+      "actor": "Secretar a de Medio Ambiente",
+      "accion": "Defender obras p\u00001ublicas"
+    },
+    {
+      "actor": "Habitantes de Xochimilco",
+      "accion": "Usar instrumentos legales antiguos"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Concesionar dise\u00001fo y mantenimiento de obras"
+    },
+    {
+      "actor": "Administraci\u000003n p\u00001ublica",
+      "accion": "Implementar tandeo de agua"
+    },
+    {
+      "actor": "Habitantes de zonas centrales",
+      "accion": "Duplicar vivienda y consumo"
+    }
+  ],
+  "input_tokens": 12110,
+  "output_tokens": 681,
+  "error": null,
+  "items_antes_de_tope": {}
+}

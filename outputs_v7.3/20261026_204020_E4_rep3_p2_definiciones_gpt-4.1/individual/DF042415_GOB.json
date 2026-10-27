@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en zonas urbanas",
+    "Enfermedades derivadas de inundaciones",
+    "Escasez de agua en la ciudad",
+    "Enfermedades gastrointestinales por agua",
+    "Subregistro de enfermedades relacionadas al agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para canalizar agua",
+    "Cambio clim\u0013tico provoca sequ\u0013as e inundaciones",
+    "Asentamientos en zonas irregulares",
+    "Falta de drenaje y pavimentaci\u0013n",
+    "Agua entubada de baja calidad",
+    "Agua de pipas no totalmente limpia",
+    "Cultura de no asistir al m\u0013dico",
+    "Exposici\u0013n directa al agua contaminada",
+    "Mezcla de aguas negras y pluviales",
+    "Falta de mantenimiento en cisternas"
+  ],
+  "Consecuencias": [
+    "Dermatitis y enfermedades de la piel",
+    "Conjuntivitis e irritaci\u0013n de mucosas",
+    "Enfermedades gastrointestinales",
+    "Intoxicaci\u0013n por qu\u0013micos de limpieza",
+    "Subregistro de casos de enfermedad",
+    "Mayor vulnerabilidad en ni\u0013os, mujeres y adultos mayores",
+    "Dificultad para volver a la normalidad",
+    "P\u0013rdida de pertenencias por inundaci\u0013n",
+    "Proliferaci\u0013n de moscos",
+    "Riesgo de amputaci\u0013n en diab\u0013ticos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretar\u0013a de Salud",
+      "accion": "Brigadas de limpieza y fumigaci\u0013n"
+    },
+    {
+      "actor": "Secretar\u0013a de Salud",
+      "accion": "Proporcionar cloro y agua potable"
+    },
+    {
+      "actor": "Secretar\u0013a de Salud",
+      "accion": "Campa\u0013as preventivas y folletos"
+    },
+    {
+      "actor": "Protecci\u0013n Civil",
+      "accion": "Emisi\u0013n de medidas preventivas"
+    },
+    {
+      "actor": "Ej\u0013rcito",
+      "accion": "Evacuaci\u0013n de poblaci\u0013n afectada"
+    },
+    {
+      "actor": "Bomberos y Protecci\u0013n Civil",
+      "accion": "Sacar agua y limpiar casas"
+    },
+    {
+      "actor": "Delegaci\u0013n municipal",
+      "accion": "Atenci\u0013n inicial a emergencias"
+    },
+    {
+      "actor": "Jurisdicci\u0013n sanitaria",
+      "accion": "Levantamiento de informaci\u0013n de salud"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Limpieza y desinfecci\u0013n de casas"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Subir pertenencias para protegerlas"
+    },
+    {
+      "actor": "Medios de comunicaci\u0013n",
+      "accion": "Difusi\u0013n de informaci\u0013n sobre desastres"
+    },
+    {
+      "actor": "Direcci\u0013n General de Epidemiolog\u0013a",
+      "accion": "An\u0013lisis y mapas de enfermedades"
+    },
+    {
+      "actor": "Escuelas y brigadas",
+      "accion": "Educaci\u0013n preventiva a ni\u0013os"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Automedicaci\u0013n y no acudir al m\u0013dico"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Apoyo con enseres y colchones"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Pedir ayuda a autoridades"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "No tirar basura en calles"
+    }
+  ],
+  "input_tokens": 12691,
+  "output_tokens": 956,
+  "error": null,
+  "items_antes_de_tope": {}
+}

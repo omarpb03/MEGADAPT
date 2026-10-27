@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Infraestructura hidráulica vieja y obsoleta",
+    "Fugas de agua potable",
+    "Mala calidad del agua",
+    "Falta de infiltración de agua de lluvia",
+    "Inundaciones en época de lluvias",
+    "Extracción excesiva de agua subterránea",
+    "Privatización del agua",
+    "Gestión incorrecta del agua",
+    "Escasez aparente por mala administración",
+    "Fracturas y grietas en viviendas"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua y deteriorada",
+    "Territorio asentado sobre lago",
+    "Suelo endeble y movimientos constantes",
+    "Zona sísmica y volcánica",
+    "Pavimentación excesiva",
+    "Modelo de desarrollo urbano extractivista",
+    "Falta de presupuesto para infraestructura",
+    "Falta de aplicación de la ley de captación de agua",
+    "Visión ingenieril del gobierno",
+    "Crecimiento constante de la población",
+    "Importación de agua de otras cuencas",
+    "Privatización y clientelismo político",
+    "Falta de educación ambiental",
+    "Falta de organización comunitaria"
+  ],
+  "Consecuencias": [
+    "Desperdicio del 40% del agua por fugas",
+    "Agua de mala calidad",
+    "Fractura de viviendas y drenaje",
+    "Hundimientos y grietas",
+    "Inundaciones recurrentes",
+    "Escasez de agua en zonas periféricas",
+    "Tandeo y uso de pipas",
+    "Deterioro del patrimonio inmobiliario",
+    "Calidad de vida demeritada",
+    "Contaminación de ríos y mantos freáticos",
+    "Dependencia de agua de otras cuencas",
+    "Negocio con aguas residuales",
+    "Falta de conciencia y corresponsabilidad ciudadana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Autogestión de vivienda y servicios"
+    },
+    {
+      "actor": "Delegación y comunidad",
+      "accion": "Programa mitad y mitad para agua potable"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Diagnóstico y mapas de riesgo"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Instalación de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Pozos y zanjas de infiltración"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Uso de adopasto y adoquín en áreas verdes"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Baños secos y composta"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Movilización para exigir agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Educación ambiental y charlas"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Caravana y foros por el agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Comité de grietas y monitoreo"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Envío de pipas de agua"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Bombas de achique para inundaciones"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Gestión de pozos y plantas potabilizadoras"
+    },
+    {
+      "actor": "Universidades y ONG",
+      "accion": "Proyectos de agricultura urbana"
+    },
+    {
+      "actor": "Mercado y escuelas",
+      "accion": "Infraestructura para cosecha de agua de lluvia"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Propuestas de presupuesto participativo"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Organización para gestión sustentable del agua"
+    },
+    {
+      "actor": "Sociedad civil y universidades",
+      "accion": "Creación de comisiones de cuenca"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Concesión de aguas residuales"
+    }
+  ],
+  "input_tokens": 25052,
+  "output_tokens": 974,
+  "error": null,
+  "items_antes_de_tope": {}
+}

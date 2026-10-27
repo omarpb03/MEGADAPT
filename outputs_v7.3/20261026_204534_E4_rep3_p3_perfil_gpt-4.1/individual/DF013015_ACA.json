@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Distribuci\u000fn desigual del agua",
+    "Mala calidad del agua",
+    "Alto costo del agua para pobres",
+    "Falta de servicios b\u001asicos en viviendas",
+    "Tandeo del agua",
+    "Inundaciones y encharcamientos",
+    "Contaminaci\u00000fn de aguas fre\u00001aticas",
+    "Falta de coordinaci\u00000fn institucional"
+  ],
+  "Causas_principales": [
+    "Extracci\u00000fn excesiva de agua del subsuelo",
+    "Dependencia de cuencas externas",
+    "Falta de coordinaci\u00000fn entre organismos",
+    "Criterios econ\u00000fmicos en distribuci\u00000fn",
+    "Corrupci\u00000fn en permisos de construcci\u00000fn",
+    "Falta de planeaci\u00000fn urbana",
+    "Crecimiento poblacional sin control",
+    "Pol\u00000fticas parciales",
+    "Falta de educaci\u00000fn ambiental",
+    "Infraestructura insuficiente",
+    "Privilegio a desarrollos de clase media alta",
+    "Falta de mantenimiento en plantas de tratamiento"
+  ],
+  "Consecuencias": [
+    "Grietas y deslaves en viviendas",
+    "Abandono de viviendas",
+    "Gasto extra en agua embotellada",
+    "Enfermedades por mala calidad de agua",
+    "Fracturas por cargar agua",
+    "Deterioro de construcciones",
+    "Espera de reubicaci\u00000fn",
+    "Conflictos sociales por agua",
+    "Contaminaci\u00000fn de barrancas y r\u00000fos",
+    "P\u000019rdida de recarga acu\u00001afera",
+    "Desigualdad en acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios b\u00001asicos"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Protestar y hacer marchas"
+    },
+    {
+      "actor": "Delegaci\u00000fn",
+      "accion": "Dar permisos de construcci\u00000fn"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Distribuir agua por tandeo"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Invertir en pozos y obras"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Poner pozos de captaci\u00000fn de lluvia"
+    },
+    {
+      "actor": "ONG y organizaciones vecinales",
+      "accion": "Proyectos de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenar agua en tinacos"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Comprar agua embotellada"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Poner pretilito en entrada"
+    },
+    {
+      "actor": "Gobierno y vecinos",
+      "accion": "Negociar acceso al agua"
+    },
+    {
+      "actor": "Escuela de hermanos maristas",
+      "accion": "Colecta de PET y composta"
+    },
+    {
+      "actor": "Asamblea comunitaria",
+      "accion": "Proyectos ambientales y reciclaje"
+    },
+    {
+      "actor": "Delegaci\u00000fn",
+      "accion": "Manejar recolecci\u00000fn de basura"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Rellenar barrancas con escombro"
+    },
+    {
+      "actor": "Gobierno central y local",
+      "accion": "Poner tanques de almacenamiento"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Bloquear construcci\u00000fn de conjuntos"
+    },
+    {
+      "actor": "Vecinos y ONG",
+      "accion": "Proponer drenaje experimental"
+    }
+  ],
+  "input_tokens": 18489,
+  "output_tokens": 949,
+  "error": null,
+  "items_antes_de_tope": {}
+}

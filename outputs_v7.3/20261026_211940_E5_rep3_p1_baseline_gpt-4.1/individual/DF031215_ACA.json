@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribuci\u0003n inequitativa del agua",
+    "Suministro irregular en colonias populares",
+    "Tandeo diferenciado seg\u0000fan zona",
+    "Control discrecional de v\u000003lvulas",
+    "Creciente demanda por nuevas construcciones",
+    "Inundaciones frecuentes en zonas vulnerables",
+    "Desabasto en asentamientos irregulares",
+    "Falta de infraestructura adecuada",
+    "Ausencia de pol\u00003dticas de riesgo h\u000003drico",
+    "Prioridad pol\u00003dtica para ciertos sectores urbanos"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano m\u000031s r\u00003dpido que infraestructuras",
+    "Predominio de intereses inmobiliarios",
+    "Secretar\u00006da de Obras con mayor peso",
+    "Planeaci\u000003n urbana obsoleta o insuficiente",
+    "Centralizaci\u000003n en toma de decisiones",
+    "Segregaci\u000003n presupuestal y territorial",
+    "Designaci\u000003n pol\u00003dtica de cargos clave",
+    "Control pol\u00003dtico discrecional del agua",
+    "Prioridad a innovaci\u000003n urbana en zonas privilegiadas",
+    "Percepci\u000003n de baja participaci\u000003n ciudadana"
+  ],
+  "Consecuencias": [
+    "Presi\u000033n baja y desabasto de agua",
+    "Artificialidad de demanda habitacional",
+    "Desigualdad en acceso a servicios",
+    "Inundaciones m\u000031s frecuentes",
+    "Incremento de conflictos entre vecinos",
+    "Demora en consolidaci\u000003n de servicios",
+    "Percepci\u000003n de exclusi\u000003n y rezago",
+    "Duplicidad de viviendas y recursos",
+    "Limitada efectividad de organizaciones populares",
+    "Ausencia de prevenci\u000003n para riesgos h\u000003dricos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Protestan ante obras y proyectos"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Documentan grietas en viviendas"
+    },
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Controla v\u000003lvulas de distribuci\u000003n"
+    },
+    {
+      "actor": "Secretar\u00006da de Obras",
+      "accion": "Bloquea proyectos vecinales"
+    },
+    {
+      "actor": "Secretar\u00006da de Desarrollo Social",
+      "accion": "Convoca y eval\u000003a proyectos barriales"
+    },
+    {
+      "actor": "Sociedad civil y acad\u000020micos",
+      "accion": "Participan en comit\u000033s t\u000039cnicos"
+    },
+    {
+      "actor": "Protecci\u000003n Civil",
+      "accion": "Realiza desasolves y campa\u0000f1as"
+    },
+    {
+      "actor": "Grupo Promotor de la Cuenca de Xochimilco",
+      "accion": "Re\u000003ne organizaciones de la zona"
+    },
+    {
+      "actor": "Habitantes de asentamientos irregulares",
+      "accion": "Almacenan agua en tambos"
+    },
+    {
+      "actor": "Vecinos de zonas centrales",
+      "accion": "Exigen servicios o se organizan ante amenazas"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Implementan tandeo discrecional"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Construyen y concesionan grandes obras"
+    },
+    {
+      "actor": "Vecinos con poder adquisitivo",
+      "accion": "Organizan protesta por intereses afectados"
+    },
+    {
+      "actor": "Secretar\u00006da de Medio Ambiente",
+      "accion": "Defiende obras p\u000033blicas cuestionadas"
+    },
+    {
+      "actor": "Habitantes y organizaciones sociales",
+      "accion": "Recurren a instrumentos legales antiguos"
+    }
+  ],
+  "input_tokens": 12110,
+  "output_tokens": 756,
+  "error": null,
+  "items_antes_de_tope": {}
+}

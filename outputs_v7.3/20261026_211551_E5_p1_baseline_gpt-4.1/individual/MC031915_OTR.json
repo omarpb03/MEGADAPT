@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en las viviendas",
+    "Tandeo del agua varios días",
+    "Fugas de agua por tubería vieja",
+    "Distribución injusta hacia zonas residenciales",
+    "Desperdicio de ojos de agua",
+    "Dificultad en captación de agua de lluvia",
+    "Problemas de calidad en agua embotellada"
+  ],
+  "Causas_principales": [
+    "Aumento de la población en la zona",
+    "Urbanización del ejido",
+    "Tubos viejos de 1970 o antes",
+    "Expropiaciones y venta de parcelas",
+    "Decisiones del gobierno para expandir vivienda",
+    "Insuficiencia de infraestructura hidráulica",
+    "Desperdicio por falta de control en ojos de agua",
+    "Conflictos por uso del agua hacia Santa Fe",
+    "Mala información por parte de la delegación"
+  ],
+  "Consecuencias": [
+    "Falta de agua por varios días",
+    "Necesidad de almacenar en tinacos y cisternas",
+    "Compra de agua en garrafón",
+    "Alto costo para construir cisternas",
+    "Gasto de agua por fugas",
+    "Pérdida de usos y costumbres rurales",
+    "Engaños o conflictos por distribución inconsulta",
+    "Abandono de actividades agrícolas por falta de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo del agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Arregla fugas de agua"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Controla distribución y bombeo"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Atiende reportes de fugas"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas a la delegación"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Hacen tinas ciegas para captación"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construyó presas para agua de lluvia"
+    },
+    {
+      "actor": "Comisiones del Pueblo",
+      "accion": "Solicitan informes y dialogan"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Realiza faenas para servicios"
+    },
+    {
+      "actor": "Personas individuales",
+      "accion": "Construyen cisternas y captan lluvia"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Organizan reuniones para pláticas"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulsa granjas y da animales"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Da tractores y apoyo agrícola"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Apoya con semillas para macetas"
+    },
+    {
+      "actor": "Diputada y delegación",
+      "accion": "Gestionan recursos para proyectos"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenan agua en tinacos"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Venden y compran agua en garrafón"
+    }
+  ],
+  "input_tokens": 9433,
+  "output_tokens": 554,
+  "error": null,
+  "items_antes_de_tope": {}
+}

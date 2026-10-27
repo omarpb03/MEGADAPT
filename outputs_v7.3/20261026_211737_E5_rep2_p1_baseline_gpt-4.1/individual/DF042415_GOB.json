@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en zonas vulnerables",
+    "Enfermedades derivadas de fenómenos naturales",
+    "Escasez de agua potable",
+    "Dermatitis y conjuntivitis por contacto",
+    "Contaminación de agua de consumo",
+    "Acceso y calidad del agua en zonas marginadas"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para lluvias",
+    "Zonas habitadas en lugares irregulares",
+    "Falta de servicios sanitarios",
+    "Agua entubada de poca calidad",
+    "Cambio climático causa sequías e inundaciones",
+    "Acumulación de aguas negras en inundación",
+    "Mala construcción de viviendas",
+    "Tandeo y uso de pipas de agua"
+  ],
+  "Consecuencias": [
+    "Enfermedades de la piel",
+    "Conjuntivitis por contacto",
+    "Enfermedades gastrointestinales",
+    "Intoxicación por químicos en limpieza",
+    "Pérdida de pertenencias por inundación",
+    "Subregistro de enfermedades",
+    "Dificultad para atender a grupos vulnerables",
+    "Prolongada recuperación en adultos mayores",
+    "Proliferación de moscos tras inundación",
+    "Exposición a aguas negras en viviendas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Emisión de medidas preventivas"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Brigadas de limpieza y fumigación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Atención inicial a emergencias"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Ayuda interdelegacional ante emergencias"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación y resguardo de casas"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Reparto de agua embotellada"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Provisión de cloro para limpieza"
+    },
+    {
+      "actor": "Brigadas de salud",
+      "accion": "Vacunación post-inundación"
+    },
+    {
+      "actor": "Brigadas de salud",
+      "accion": "Campañas informativas y folletos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Limpieza y desinfección de casas"
+    },
+    {
+      "actor": "Dirección General de Epidemiología D.F",
+      "accion": "Análisis y mapa de enfermedades"
+    },
+    {
+      "actor": "Sector salud en escuelas",
+      "accion": "Educación preventiva a niños"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Colocar pertenencias en alto"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Reemplazo de bienes perdidos (colchones, refrigeradores)"
+    },
+    {
+      "actor": "Jurisdicción sanitaria",
+      "accion": "Registro y seguimiento de afectados"
+    }
+  ],
+  "input_tokens": 12564,
+  "output_tokens": 515,
+  "error": null,
+  "items_antes_de_tope": {}
+}

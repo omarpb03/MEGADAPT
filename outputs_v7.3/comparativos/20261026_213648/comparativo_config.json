@@ -1,0 +1,149 @@
+{
+  "fecha": "2026-10-26T21:36:51",
+  "script": "megadapt_eval_nlp_v4.py",
+  "eval_version": "4",
+  "firma_evaluacion": {
+    "bertscore_model": "bert-base-multilingual-cased",
+    "equivalencias_claves": {
+      "I03262015_OTR": "I032615_OTR"
+    },
+    "eval_version": "4",
+    "excel_humano_sha256": "33019aef061ea40f3c518edf4f73f83719d7e1ab9b1c6746b6abf2f6937b2ff8",
+    "hoja": "Integracion",
+    "metricas": [
+      "bertscore",
+      "chrf"
+    ]
+  },
+  "excel_humano": "C:\\Users\\ariel\\Documents\\GitHub\\Repositorios\\MEGADAPT\\2_Análisis_Cualitativo_Integración_formato_estandarizado.xlsx",
+  "metrica_principal": "bertscore",
+  "referencia": "E1",
+  "condiciones": [
+    {
+      "condicion": "E1 · p1_baseline",
+      "corridas": [
+        "20261026_160317_E1_p1_baseline_gpt-4o-mini",
+        "20261026_160739_E1_rep2_p1_baseline_gpt-4o-mini",
+        "20261026_160900_E1_rep3_p1_baseline_gpt-4o-mini"
+      ]
+    },
+    {
+      "condicion": "E2 · p2_definiciones",
+      "corridas": [
+        "20261026_195432_E2_p2_definiciones_gpt-4o-mini",
+        "20261026_195521_E2_rep2_p2_definiciones_gpt-4o-mini",
+        "20261026_195605_E2_rep3_p2_definiciones_gpt-4o-mini"
+      ]
+    },
+    {
+      "condicion": "E3 · p3_perfil",
+      "corridas": [
+        "20261026_201412_E3_p3_perfil_gpt-4o-mini",
+        "20261026_201521_E3_rep2_p3_perfil_gpt-4o-mini",
+        "20261026_201622_E3_rep3_p3_perfil_gpt-4o-mini"
+      ]
+    },
+    {
+      "condicion": "E4 · p1_baseline",
+      "corridas": [
+        "20261026_203107_E4_p1_baseline_gpt-4.1",
+        "20261026_203237_E4_rep2_p1_baseline_gpt-4.1",
+        "20261026_203351_E4_rep3_p1_baseline_gpt-4.1"
+      ]
+    },
+    {
+      "condicion": "E4 · p2_definiciones",
+      "corridas": [
+        "20261026_203728_E4_p2_definiciones_gpt-4.1",
+        "20261026_203858_E4_rep2_p2_definiciones_gpt-4.1",
+        "20261026_204020_E4_rep3_p2_definiciones_gpt-4.1"
+      ]
+    },
+    {
+      "condicion": "E4 · p3_perfil",
+      "corridas": [
+        "20261026_204153_E4_p3_perfil_gpt-4.1",
+        "20261026_204339_E4_rep2_p3_perfil_gpt-4.1",
+        "20261026_204534_E4_rep3_p3_perfil_gpt-4.1"
+      ]
+    },
+    {
+      "condicion": "E5 · p1_baseline",
+      "corridas": [
+        "20261026_211551_E5_p1_baseline_gpt-4.1",
+        "20261026_211737_E5_rep2_p1_baseline_gpt-4.1",
+        "20261026_211940_E5_rep3_p1_baseline_gpt-4.1"
+      ]
+    },
+    {
+      "condicion": "E6 · p1_baseline",
+      "corridas": [
+        "20261026_212858_E6_p1_baseline_gpt-4o-mini",
+        "20261026_213021_E6_rep2_p1_baseline_gpt-4o-mini",
+        "20261026_213135_E6_rep3_p1_baseline_gpt-4o-mini"
+      ]
+    }
+  ],
+  "comparaciones": [
+    {
+      "condicion": "E2 · p2_definiciones",
+      "contra": "E1 · p1_baseline",
+      "tipo": "referencia y anterior"
+    },
+    {
+      "condicion": "E3 · p3_perfil",
+      "contra": "E1 · p1_baseline",
+      "tipo": "referencia"
+    },
+    {
+      "condicion": "E3 · p3_perfil",
+      "contra": "E2 · p2_definiciones",
+      "tipo": "anterior"
+    },
+    {
+      "condicion": "E4 · p1_baseline",
+      "contra": "E1 · p1_baseline",
+      "tipo": "referencia y anterior"
+    },
+    {
+      "condicion": "E4 · p2_definiciones",
+      "contra": "E1 · p1_baseline",
+      "tipo": "referencia"
+    },
+    {
+      "condicion": "E4 · p2_definiciones",
+      "contra": "E2 · p2_definiciones",
+      "tipo": "anterior"
+    },
+    {
+      "condicion": "E4 · p3_perfil",
+      "contra": "E1 · p1_baseline",
+      "tipo": "referencia"
+    },
+    {
+      "condicion": "E4 · p3_perfil",
+      "contra": "E3 · p3_perfil",
+      "tipo": "anterior"
+    },
+    {
+      "condicion": "E5 · p1_baseline",
+      "contra": "E1 · p1_baseline",
+      "tipo": "referencia"
+    },
+    {
+      "condicion": "E5 · p1_baseline",
+      "contra": "E4 · p1_baseline",
+      "tipo": "anterior"
+    },
+    {
+      "condicion": "E6 · p1_baseline",
+      "contra": "E1 · p1_baseline",
+      "tipo": "referencia"
+    },
+    {
+      "condicion": "E6 · p1_baseline",
+      "contra": "E5 · p1_baseline",
+      "tipo": "anterior"
+    }
+  ]
+}

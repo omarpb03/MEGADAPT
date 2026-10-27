@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Falta de agua en zonas periféricas",
+    "Calidad del agua",
+    "Costos altos del agua",
+    "Acceso desigual al agua",
+    "Contaminación del agua",
+    "Falta de coordinación entre instituciones"
+  ],
+  "Causas_principales": [
+    "Extracción de agua del subsuelo",
+    "Desigualdad económica",
+    "Corrupción en permisos de construcción",
+    "Falta de planificación urbana",
+    "Desviación de agua hacia zonas de mayor ingreso",
+    "Fragmentación institucional"
+  ],
+  "Consecuencias": [
+    "Problemas de abastecimiento en colonias populares",
+    "Aumento de costos para acceder al agua",
+    "Contaminación de aguas freáticas",
+    "Desarrollo de asentamientos irregulares",
+    "Inundaciones y grietas en el suelo",
+    "Deterioro de viviendas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios de agua"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Proveer agua en pipas"
+    },
+    {
+      "actor": "Instituto de Vivienda",
+      "accion": "Financiar vivienda formal"
+    },
+    {
+      "actor": "Organizaciones de vecinos",
+      "accion": "Organizar protestas y marchas"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Regular el uso del suelo"
+    },
+    {
+      "actor": "CONAVI",
+      "accion": "Contabilizar viviendas desocupadas"
+    }
+  ],
+  "input_tokens": 18117,
+  "output_tokens": 274,
+  "error": null,
+  "items_antes_de_tope": {}
+}

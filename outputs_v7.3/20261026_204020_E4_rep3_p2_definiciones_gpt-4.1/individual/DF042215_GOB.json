@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en zonas urbanas",
+    "Inundaciones s\u001abitas o flash floods",
+    "Falta de informaci\u0013fn p\u001ablica sobre mapas de peligro",
+    "Crecimiento urbano desordenado",
+    "Saturaci\u0013fn y mal estado del drenaje",
+    "Acumulaci\u0013fn de basura en drenajes",
+    "Falta de colaboraci\u0013fn entre instituciones"
+  ],
+  "Causas_principales": [
+    "Crecimiento vertical de la ciudad",
+    "Cambio de zonas verdes por concreto",
+    "Falta de mantenimiento al drenaje",
+    "Arrojo de basura por la poblaci\u0013fn",
+    "Falta de cultura de la poblaci\u0013fn",
+    "Falta de divulgaci\u0013fn de informaci\u0013fn oficial",
+    "Falta de colaboraci\u0013fn de Protecci\u0013fn Civil del D.F",
+    "Eventos hidrometeorol\u0013fgicos intensos",
+    "Microclimas urbanos por edificios altos"
+  ],
+  "Consecuencias": [
+    "P\u001aerdidas humanas",
+    "Movilidad afectada en la ciudad",
+    "P\u001aerdida de tiempo en traslados",
+    "Da\u0013f1os materiales",
+    "Afectaci\u0013fn a la infraestructura",
+    "Charcos y encharcamientos",
+    "Aumento de temperatura urbana",
+    "Mayor vulnerabilidad ante lluvias intensas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Elaboraci\u0013fn de mapas de inundaci\u0013fn"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgaci\u0013fn de infograf\u0013dfas sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Recopilaci\u0013fn de datos oficiales"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Validaci\u0013fn de eventos de inundaci\u0013fn"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Emisi\u0013fn de recomendaciones t\u0013ecnicas"
+    },
+    {
+      "actor": "Protecci\u0013fn Civil estatal",
+      "accion": "Aportaci\u0013fn de informaci\u0013fn oficial"
+    },
+    {
+      "actor": "Protecci\u0013fn Civil municipal",
+      "accion": "Aportaci\u0013fn de informaci\u0013fn oficial"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Provisi\u0013fn de datos hidrometeorol\u0013fgicos"
+    },
+    {
+      "actor": "Sedatu",
+      "accion": "Financiamiento de atlas de riesgo"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Realizaci\u0013fn de obras de infraestructura"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Divulgaci\u0013fn de mapas de peligro (propuesta)"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Identificaci\u0013fn de zonas de riesgo"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Aplicaci\u0013fn de metodolog\u0013dfas de percepci\u0013fn"
+    }
+  ],
+  "input_tokens": 15088,
+  "output_tokens": 825,
+  "error": null,
+  "items_antes_de_tope": {}
+}

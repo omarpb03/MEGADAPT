@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Falta de infiltraci\u0003n al manto acu\u000edfero",
+    "Escasez temporal de agua",
+    "Retenci\u0003n de agua en suelo de conservaci\u0003n"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la poblaci\u0003n",
+    "Tecnolog\u000eda y urbanizaci\u0003n",
+    "Falta de cultura en el usuario",
+    "Dispendio de agua",
+    "Deforestaci\u0003n y depredaci\u0003n",
+    "Cambios clim\u0001ticos",
+    "Malas regulaciones para el agua",
+    "Descargas industriales y desechos animales"
+  ],
+  "Consecuencias": [
+    "Insuficiencia de agua para la ciudad",
+    "Afectaci\u0003n al residente por no aprovechar el agua",
+    "Escasez temporal en temporada de estiaje",
+    "Alteraciones en el ambiente",
+    "Desertificaci\u0003n y deforestaci\u0003n",
+    "Problemas en la fauna y flora"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos econ\u0003micos para conservaci\u0003n"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Capacitaci\u0003n y talleres sobre agua"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gesti\u0003n del agua urbana"
+    },
+    {
+      "actor": "Comunidades agrarias",
+      "accion": "Mantenimiento de humedad en suelo"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigaci\u0003n en sanidad forestal"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Normar extracci\u0003n y suministro"
+    },
+    {
+      "actor": "Usuarios",
+      "accion": "Uso racional del agua"
+    },
+    {
+      "actor": "CORENA y otras instancias",
+      "accion": "Colaboraci\u0003n interinstitucional"
+    }
+  ],
+  "input_tokens": 14082,
+  "output_tokens": 581,
+  "error": null,
+  "items_antes_de_tope": {}
+}

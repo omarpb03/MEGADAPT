@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Inundaciones en la ciudad",
+    "Problemas con la calidad del agua",
+    "Falta de infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Proyectos urbanos sin inversión hidráulica",
+    "Terrenos baratos sin servicios",
+    "Seis meses sin lluvias",
+    "Recursos públicos insuficientes",
+    "Fugas en las redes",
+    "Pozos con mala calidad de agua"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren abastecimiento insuficiente",
+    "Comunidades sufren inundaciones",
+    "Alta inversión en obras de agua",
+    "Gente recibe poca agua a la semana",
+    "Agua con hierro, manganeso, nitrógeno"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Presupuestos para infraestructura hidráulica"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejar fondos para vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuir agua con pipas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Rehabilitación de redes para fugas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Construcción de plantas potabilizadoras"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectos de rebombeo para baja presión"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Inversión en programas de agua"
+    }
+  ],
+  "input_tokens": 4218,
+  "output_tokens": 393,
+  "error": null,
+  "items_antes_de_tope": {}
+}

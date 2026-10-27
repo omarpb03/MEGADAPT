@@ -1,0 +1,54 @@
+{
+  "fecha": "2026-10-26T21:05:03",
+  "script": "megadapt_eval_nlp_v4.py",
+  "firma": {
+    "eval_version": "4",
+    "excel_humano_sha256": "33019aef061ea40f3c518edf4f73f83719d7e1ab9b1c6746b6abf2f6937b2ff8",
+    "hoja": "Integracion",
+    "metricas": [
+      "bertscore",
+      "chrf"
+    ],
+    "bertscore_model": "bert-base-multilingual-cased",
+    "csv_sha256": "aaaa9bfb3b8b3c2ce12117830456b513d2ff1ba872b9d2ed98047ca1b39180fc",
+    "equivalencias_claves": {
+      "I03262015_OTR": "I032615_OTR"
+    },
+    "piso": "cruzado: modelo(i) contra humano(j) para toda j distinta de i",
+    "parecido": "humano(i) vs humano(j) y modelo(i) vs modelo(j), entrevistas con F1 en el campo"
+  },
+  "excel_humano": "C:\\Users\\ariel\\Documents\\GitHub\\Repositorios\\MEGADAPT\\2_Análisis_Cualitativo_Integración_formato_estandarizado.xlsx",
+  "excel_humano_modificado": "2026-09-24T12:42:13",
+  "csv_evaluado": "C:\\Users\\ariel\\Documents\\GitHub\\Repositorios\\MEGADAPT\\outputs_v7.3\\20261026_204020_E4_rep3_p2_definiciones_gpt-4.1\\analysis_v7_p2_definiciones.csv",
+  "experimento": "E4_rep3",
+  "reglas": [
+    "Claves: se comparan sin acentos, mayúsculas/minúsculas, espacios ni guiones bajos; GOV = GOB; equivalencias explícitas en EQUIVALENCIAS_CLAVES. Sin emparejamiento aproximado.",
+    "Excel humano: una fila sin clave y sin Sector continúa la entrevista anterior; una fila sin clave pero con Sector (RESUMEN o nombre de codificador) es de bloque y se omite.",
+    "Excel humano: cada celda se parte solo por salto de línea (no por '/' ni ';').",
+    "Excel humano: un renglón que termina en ':' (hasta 40 caracteres) es encabezado y no cuenta como etiqueta; en Acciones se antepone como actor a las acciones de abajo, dentro de la misma celda.",
+    "Excel humano: se quita la numeración al inicio del renglón; se descartan etiquetas de menos de 3 caracteres, las vacías ('Ninguno', 'N/A'...) y las repetidas dentro de un campo.",
+    "Modelo: cada celda del CSV se parte por salto de línea; se descartan repetidas.",
+    "F1 solo donde humano y modelo tienen etiquetas; los demás casos se cuentan en la tabla de presencia.",
+    "Calificación de un campo: recall = promedio, sobre las etiquetas humanas, de su mejor pareja en el modelo; precisión = promedio, sobre las etiquetas del modelo, de su mejor pareja humana; F1 = media armónica. BLEU y chrF se dividen entre 100.",
+    "TOTAL de una entrevista: promedio de los campos que tienen F1.",
+    "Piso aleatorio: las etiquetas del modelo de cada entrevista se califican también contra la codificación humana de cada una de las otras entrevistas; el piso es el promedio de esas calificaciones cruzadas y la ganancia es F1 propio menos piso. Rango: lugar que ocupa la propia codificación humana entre todas (1 = es la más parecida).",
+    "Parecido entre entrevistas: F1 de la codificación humana de cada entrevista contra la de cada una de las otras, y lo mismo con las etiquetas del modelo; solo entre entrevistas con F1 en el campo. Diferencia = modelo − humano."
+  ],
+  "entrevistas_en_csv": 23,
+  "emparejadas": 23,
+  "sin_par_modelo": [],
+  "humanas_sin_par": [
+    "DF030315_ACA",
+    "DF030415_GOV",
+    "DF031815_GOV",
+    "DF031915_ACA",
+    "DF041615_GOV",
+    "I031415_OTR",
+    "MC030315_OTR",
+    "MC030915_OTR",
+    "MC032115_otr",
+    "MC111114_OTR",
+    "MC_022515_GOV",
+    "X012115_ACA"
+  ]
+}

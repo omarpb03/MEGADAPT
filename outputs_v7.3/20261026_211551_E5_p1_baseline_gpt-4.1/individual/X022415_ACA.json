@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribucin desigual del agua",
+    "Extraccin excesiva de acueros",
+    "Contaminacin por agroqumicos",
+    "Falta de regulacin en uso y desperdicio de agua",
+    "Competencia entre uso urbano y agrcola",
+    "Acceso limitado para productores agrcolas",
+    "Prdida de agua en zonas agrcolas",
+    "Gestin fragmentada entre instituciones",
+    "Falta de sensibilizacin ambiental en la poblacin"
+  ],
+  "Causas_principales": [
+    "Expansin urbana sobre suelo agrcola",
+    "Histrico movimiento de la mancha urbana",
+    "Racionalidad tecnolgica y econmica",
+    "Programas pblicos en rezago",
+    "Mercado como motor de cambio",
+    "Falta de regulacin de uso agrcola",
+    "Baja participacin social ambiental",
+    "Fragmentacin de la gobernanza",
+    "Presin sobre la tierra por urbanizacin",
+    "Corrupcin y negociacin poltica local"
+  ],
+  "Consecuencias": [
+    "Contaminacin de cuerpos de agua",
+    "Disminucin de produccin agrcola",
+    "Asentamientos irregulares en zonas agrcolas",
+    "Desplazamiento de bosques por uso agrcola",
+    "Fraccin de terrenos agrcolas para uso urbano",
+    "Cambio en dinmicas sociales y culturales",
+    "Vulnerabilidad y riesgo hdrico en periferias",
+    "Prdida del paisaje tradicional",
+    "Flexibilidad y precariedad de productores",
+    "Respuestas sociales fragmentadas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores rurales",
+      "accion": "Transforman suelo a invernaderos"
+    },
+    {
+      "actor": "Productores rurales",
+      "accion": "Contratan mano de obra externa"
+    },
+    {
+      "actor": "Productores rurales",
+      "accion": "Usan agua de ro sin regulacin"
+    },
+    {
+      "actor": "Productores rurales",
+      "accion": "Utilizan agroqumicos en cultivos"
+    },
+    {
+      "actor": "Productores rurales",
+      "accion": "Adoptan estrategias familiares flexibles"
+    },
+    {
+      "actor": "Sectores urbanos",
+      "accion": "Exigen drenaje y servicios bsicos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementa programas de extensin agrcola"
+    },
+    {
+      "actor": "SAGARPA, SEDEREC, INCA Rural",
+      "accion": "Otorgan apoyos a productores"
+    },
+    {
+      "actor": "Comisin de Cuenca",
+      "accion": "Impulsa regulacin y participacin"
+    },
+    {
+      "actor": "Organizaciones de productores",
+      "accion": "Gestionan demandas colectivas"
+    },
+    {
+      "actor": "ONGs y universidades",
+      "accion": "Realizan capacitacin ambiental"
+    },
+    {
+      "actor": "Vecinos, delegados, autoridades",
+      "accion": "Negocian asentamientos irregulares"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Gestiona espacios forestales"
+    },
+    {
+      "actor": "Alumnos, agrnomos",
+      "accion": "Impulsan fertilizantes orgnicos"
+    },
+    {
+      "actor": "Pobladores urbanos",
+      "accion": "Reutilizan agua domstica"
+    },
+    {
+      "actor": "Productores organizados",
+      "accion": "Solicitan apoyos de programas"
+    }
+  ],
+  "input_tokens": 19819,
+  "output_tokens": 1033,
+  "error": null,
+  "items_antes_de_tope": {}
+}

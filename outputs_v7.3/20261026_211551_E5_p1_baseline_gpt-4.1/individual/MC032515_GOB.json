@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud en época de lluvias",
+    "Inundaciones en viviendas",
+    "Desbordamientos de barrancas",
+    "Reblandecimiento del suelo por mala canalización",
+    "Acumulación de basura en ríos y barrancas",
+    "Deforestación y corte de cerros",
+    "Problemática por asentamientos irregulares",
+    "Contaminación por aguas residuales"
+  ],
+  "Causas_principales": [
+    "Corte de árboles por vecinos",
+    "Terraceo para viviendas",
+    "Uso de letrinas y mal drenaje",
+    "Canalización inadecuada del agua",
+    "Crecimiento de asentamientos irregulares",
+    "Quema de raíces de árboles",
+    "Tirar basura en ríos y barrancas",
+    "Lluvias extraordinarias y fuertes",
+    "Incendios que debilitan el suelo"
+  ],
+  "Consecuencias": [
+    "Deslizamientos y hundimientos del terreno",
+    "Inundaciones en domicilios",
+    "Afectaciones en casas por agua",
+    "Contaminación en caso de desbordes",
+    "Riesgo a la vida de habitantes",
+    "Reblandecimiento y deterioro de cerros",
+    "Tapado de drenaje y coladeras",
+    "Daño a la infraestructura urbana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notificación y recomendaciones de riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recorridos y monitoreo de zonas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Trabajo preventivo continuo"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Desazolve y limpieza de drenaje"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Recorridos para evitar nuevos asentamientos"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Retiro de viviendas irregulares"
+    },
+    {
+      "actor": "Delegación/Ecología/Obras",
+      "accion": "Limpieza manual y recolección de basura"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Evacuación durante emergencias"
+    },
+    {
+      "actor": "Protección Civil y Jurisdicción Sanitaria",
+      "accion": "Limpieza y desinfección con cloro"
+    },
+    {
+      "actor": "Jefatura Delegacional",
+      "accion": "Campañas de información y trípticos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Capacitaciones y talleres de prevención"
+    },
+    {
+      "actor": "Desarrollo Social",
+      "accion": "Organización de albergues"
+    },
+    {
+      "actor": "SEDUVI/Medio Ambiente",
+      "accion": "Revisión y regularización de usos de suelo"
+    },
+    {
+      "actor": "Comité de Riesgos Hidrometereológicos",
+      "accion": "Canalización de apoyos por lluvias"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Medición de lluvia y apoyo hidráulico"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Seguir recomendaciones de mitigación"
+    }
+  ],
+  "input_tokens": 9151,
+  "output_tokens": 571,
+  "error": null,
+  "items_antes_de_tope": {}
+}

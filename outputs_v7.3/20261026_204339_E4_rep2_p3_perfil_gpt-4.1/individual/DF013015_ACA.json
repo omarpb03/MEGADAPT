@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Agua de mala calidad",
+    "Distribucion desigual del agua",
+    "Alto costo del agua para pobres",
+    "Falta de servicios basicos en viviendas",
+    "Tandeo del agua",
+    "Falta de coordinacion institucional",
+    "Contaminacion de aguas freaticas",
+    "Inundaciones y encharcamientos",
+    "Impacto de la urbanizacion en el agua"
+  ],
+  "Causas_principales": [
+    "Extraccion excesiva del subsuelo",
+    "Falta de coordinacion entre organismos",
+    "Criterios economicos en distribucion",
+    "Corrupcion en otorgamiento de permisos",
+    "Crecimiento poblacional sin planeacion",
+    "Falta de evaluacion de impacto ambiental",
+    "Politicas parciales y no integrales",
+    "Privatizacion de propiedad social",
+    "Falta de educacion ambiental",
+    "Infraestructura inadecuada o insuficiente"
+  ],
+  "Consecuencias": [
+    "Grietas y deslaves en viviendas",
+    "Alto costo de agua en pipas",
+    "Enfermedades por mala calidad",
+    "Abandono de viviendas",
+    "Deterioro de construcciones",
+    "Fracturas y lesiones por cargar agua",
+    "Espera prolongada para servicios",
+    "Conflictos sociales y politicos",
+    "Contaminacion de barrancas y rios",
+    "Desigualdad en acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios mediante organizacion"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Marchas y plantones por agua"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Distribuir agua en pipas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Inversion en pozos y obras"
+    },
+    {
+      "actor": "ONG y asesores",
+      "accion": "Apoyo en gestion y capacitacion"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Pozos de captacion de lluvia"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenar agua en tinacos"
+    },
+    {
+      "actor": "Empresas constructoras",
+      "accion": "Fraccionar permisos para evitar impacto"
+    },
+    {
+      "actor": "Delegacion y DGCOH",
+      "accion": "Manejo de plantas de tratamiento"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Conectarse ilegalmente a red potable"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Proyectos de reciclaje y composta"
+    },
+    {
+      "actor": "Gobierno y vecinos",
+      "accion": "Negociar acceso a agua en nuevos conjuntos"
+    },
+    {
+      "actor": "Escuela de maristas",
+      "accion": "Educacion ambiental y reciclaje"
+    },
+    {
+      "actor": "Gobierno central y local",
+      "accion": "Instalar tanques de almacenamiento"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Poner pretilitos contra encharcamientos"
+    }
+  ],
+  "input_tokens": 18489,
+  "output_tokens": 555,
+  "error": null,
+  "items_antes_de_tope": {}
+}

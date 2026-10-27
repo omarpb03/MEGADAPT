@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Fugas en tuberías",
+    "Contaminación del agua",
+    "Mala calidad del agua",
+    "Desabasto en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Deforestación y tala clandestina",
+    "Viejas tuberías de abastecimiento",
+    "Falta de reforestación",
+    "Basura en ríos y manantiales",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Reducción de fuentes de abastecimiento",
+    "Afectación en la calidad del agua",
+    "Desabasto de agua en colonias",
+    "Inundaciones por basura",
+    "Conflictos comunitarios por el agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Mejorar infraestructura hidráulica"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Participación en reforestación"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Limpieza de ríos"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Solicitar pipas de agua"
+    }
+  ],
+  "input_tokens": 12064,
+  "output_tokens": 237,
+  "error": null,
+  "items_antes_de_tope": {}
+}

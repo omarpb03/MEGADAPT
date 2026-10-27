@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Infraestructura hidráulica vieja y obsoleta",
+    "Desperdicio del 40% de agua por fugas",
+    "Poca autonomía en la gestión del agua",
+    "Mala calidad del agua potable",
+    "Falta de recarga de acuíferos",
+    "Zona de riesgo por sismos y hundimientos",
+    "Sellado del suelo por demasiada pavimentación",
+    "Escasa infiltración de agua de lluvia",
+    "Mezcla de aguas negras y agua potable",
+    "Modelo de desarrollo urbano extractivista",
+    "Inundaciones recurrentes en época de lluvias",
+    "Privatización de servicios de agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua y obsoleta",
+    "Falta de presupuesto para arreglar infraestructura",
+    "Uso intensivo de pozos profundos",
+    "Modelo de ciudad sobre lo que era un lago",
+    "Suelo endeble por asentarse en zona lacustre",
+    "Extracción excesiva de agua fósil",
+    "Falta de infiltración por pavimento",
+    "Entubamiento y contaminación de ríos",
+    "Gestión incorrecta del agua",
+    "Visión ingenieril y no sustentable del agua",
+    "Incremento de la población",
+    "Tráfico de intereses políticos y clientelismo",
+    "Privatización del agua y aguas residuales",
+    "Falta de aplicación de leyes de captación",
+    "Construcción de viviendas sin visión sustentable"
+  ],
+  "Consecuencias": [
+    "Agrietamiento y fractura de viviendas",
+    "Hundimientos y movimientos constantes de suelo",
+    "Fractura del drenaje y de infraestructura de agua",
+    "Mala calidad del agua potable",
+    "Agua de lluvia desaprovechada",
+    "Importación de agua quitando a otras cuencas",
+    "Racionamiento del agua por tandeo y pipas",
+    "Inundaciones en zonas frágiles y pavimentadas",
+    "Contaminación de aguas superficiales y subterráneas",
+    "Degradación del entorno ecológico",
+    "Rompimiento del tejido social",
+    "Calidad de vida demeritada",
+    "Presencia de grietas y viviendas en riesgo",
+    "Demanda de agua insatisfecha para zonas periféricas",
+    "Dependencia de la gestión gubernamental"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Autogestión de vivienda y servicios"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Gestión de fugas y tandeo"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad",
+      "accion": "Suministro y operación de pozos"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Manejo de pozos profundos"
+    },
+    {
+      "actor": "Grupos de vecinos",
+      "accion": "Instalación de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Colectivos locales",
+      "accion": "Construcción de pozos de infiltración"
+    },
+    {
+      "actor": "Organización local",
+      "accion": "Planificación de áreas verdes adoptando adopasto"
+    },
+    {
+      "actor": "ONGs/Universidades",
+      "accion": "Apoyo técnico y proyectos de cuenca"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Privatización de aguas residuales"
+    },
+    {
+      "actor": "Carlos Slim/empresas privadas",
+      "accion": "Concesión y manejo de aguas residuales"
+    },
+    {
+      "actor": "Comités ciudadanos",
+      "accion": "Diagnóstico comunitario de grietas"
+    },
+    {
+      "actor": "Protección civil",
+      "accion": "Asesoría sobre riesgos y grietas"
+    },
+    {
+      "actor": "Mercado local",
+      "accion": "Infraestructura para cosechar agua de lluvia"
+    },
+    {
+      "actor": "Escuelas locales",
+      "accion": "Siembra de hortalizas y captación de agua"
+    },
+    {
+      "actor": "Comunidad-colaboración",
+      "accion": "Guardias nocturnas y festejos para cohesión social"
+    },
+    {
+      "actor": "Foro y caravana del agua",
+      "accion": "Sensibilización y concientización"
+    },
+    {
+      "actor": "Grupo promotor de cuenca",
+      "accion": "Organización y propuestas integrales de gestión"
+    },
+    {
+      "actor": "Delegación y UNAM",
+      "accion": "Convocatoria a concursos de agricultura hidrourbana"
+    },
+    {
+      "actor": "Grupo de arquitectos ONG",
+      "accion": "Diseño participativo de vivienda y colonia"
+    },
+    {
+      "actor": "Comité de grietas",
+      "accion": "Monitoreo y formación en gestión de riesgos"
+    },
+    {
+      "actor": "Sociedad civil organizada",
+      "accion": "Alternativas y propuestas de manejo sustentable"
+    },
+    {
+      "actor": "Más familias/vecinos",
+      "accion": "Ahorro solidario para baños ecológicos"
+    }
+  ],
+  "input_tokens": 24925,
+  "output_tokens": 1190,
+  "error": null,
+  "items_antes_de_tope": {}
+}

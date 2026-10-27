@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en el acceso al agua",
+    "Desconfianza en la calidad del agua",
+    "Escasez de agua en ciertas zonas",
+    "Servicio de agua insuficiente",
+    "Inundaciones recurrentes",
+    "Infraestructura de drenaje deficiente",
+    "Manejo político del agua"
+  ],
+  "Causas_principales": [
+    "Gesti\u0003n del recurso inadecuada",
+    "Intereses particulares en la gesti\u0003n",
+    "Opacidad en la gesti\u0003n t\u0003cnica",
+    "Presiones inmobiliarias",
+    "Falta de manejo de la demanda",
+    "Esquema tarifario inequitativo",
+    "Crecimiento urbano informal",
+    "Ausencia de pol\u0003tica de vivienda efectiva",
+    "Negociaciones pol\u0003ticas en la distribuci\u0003n",
+    "Infraestructura vieja y deteriorada",
+    "Falta de planeaci\u0003n urbana",
+    "Prioridad a intereses econ\u0003micos",
+    "Negligencia en drenaje pluvial"
+  ],
+  "Consecuencias": [
+    "Poblaci\u0003n paga m\u0003s por litro",
+    "Zonas pobres con menor acceso",
+    "Desconfianza generalizada en el agua",
+    "Proliferaci\u0003n de agua embotellada",
+    "Inundaciones en zonas vulnerables",
+    "Enfermedades por aguas negras",
+    "Conflictos entre comunidades y desarrollos",
+    "Consolidaci\u0003n de asentamientos irregulares",
+    "Transferencia de costos a desfavorecidos",
+    "Servicio de agua selectivo",
+    "Presi\u0003n pol\u0003tica y social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controla autorizaci\u0003n de desarrollos"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Decide distribuci\u0003n de agua por circuitos"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presionan para obtener agua"
+    },
+    {
+      "actor": "Vecinos y pobladores",
+      "accion": "Protestan por falta de agua"
+    },
+    {
+      "actor": "Delegados pol\u0003ticos",
+      "accion": "Negocian acceso a servicios"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Instalan redes de agua y drenaje"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Define pol\u0003tica de vivienda"
+    },
+    {
+      "actor": "Industria de agua embotellada",
+      "accion": "Fomenta desconfianza en agua de llave"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Visibiliza inundaciones y problemas"
+    },
+    {
+      "actor": "Grupos de inter\u0003s econ\u0003mico",
+      "accion": "Aseguran suministro para sus proyectos"
+    },
+    {
+      "actor": "Autoridades urbanas",
+      "accion": "Reponen infraestructura por presi\u0003n inmobiliaria"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Forman movimientos contestatarios"
+    }
+  ],
+  "input_tokens": 14171,
+  "output_tokens": 808,
+  "error": null,
+  "items_antes_de_tope": {}
+}

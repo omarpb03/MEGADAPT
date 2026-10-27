@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Falta de salud e higiene",
+    "Infraestructura hídrica vulnerable",
+    "Falta de mantenimiento a tinacos",
+    "Percepción de contaminación",
+    "Inundaciones locales",
+    "Problemas en asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Consumo excesivo de industria",
+    "Extracción de acuíferos",
+    "Crecimiento desordenado de la ciudad",
+    "Ocupación de reservas",
+    "Déficit de mantenimiento de infraestructura",
+    "Falta de control en vivienda",
+    "Desconfianza en agua potable",
+    "Presencia de tinacos sin mantenimiento",
+    "Limitada capacitación a la población",
+    "Diferencias entre gobierno local y federal"
+  ],
+  "Consecuencias": [
+    "Enfermedades respiratorias",
+    "Brotes de alergia",
+    "Enfermedades gastrointestinales",
+    "Enfermedades dermatológicas",
+    "Cortes de abastecimiento tras sismos",
+    "Inundaciones sectorizadas",
+    "Afectaciones al rendimiento educativo",
+    "Falta de higiene",
+    "Exposición a fenómenos extremos",
+    "Desconfianza en agua potable",
+    "Uso excesivo de agua embotellada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Construcción de vasos de regulación"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "División de la ciudad por cuadrantes hidráulicos"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Implementación de compuertas y bombeos"
+    },
+    {
+      "actor": "Protección Civil D.F",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Secretaría de Salud federal",
+      "accion": "Acciones sanitarias tras desastres"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Recolecta agua de lluvia"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Instala calentadores solares"
+    },
+    {
+      "actor": "UNAM",
+      "accion": "Facilita llegada de conocimiento técnico"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Capacitación a unidades estatales"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Monitorea infraestructura hidráulica"
+    },
+    {
+      "actor": "Cenapred, Protección Civil, Conagua",
+      "accion": "Instalación de sistemas de alerta hidrometeorológica"
+    },
+    {
+      "actor": "Familias urbanas",
+      "accion": "Almacenamiento de agua en tinacos"
+    },
+    {
+      "actor": "Empresas embotelladoras",
+      "accion": "Promueven consumo de agua embotellada"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Mantiene información no abierta (Atlas)"
+    },
+    {
+      "actor": "Entidad estatal/municipal",
+      "accion": "Maneja infraestructura local"
+    },
+    {
+      "actor": "Secretaría de Agua D.F",
+      "accion": "Gestiona distribución y control de calidad"
+    }
+  ],
+  "input_tokens": 9811,
+  "output_tokens": 549,
+  "error": null,
+  "items_antes_de_tope": {}
+}

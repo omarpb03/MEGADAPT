@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento insuficiente en colonias",
+    "Infraestructura hidráulica muy vieja",
+    "Disminución de manantiales por deforestación",
+    "Pérdidas de agua por fugas",
+    "Resistencia social a nuevas obras",
+    "Desabasto en temporada de estiaje",
+    "Contaminación de agua en lluvias",
+    "Basura en cauces y manantiales"
+  ],
+  "Causas_principales": [
+    "Tuberías rebasan su vida útil",
+    "Falta de programas de reforestación",
+    "Tala clandestina en parte alta",
+    "Crecimiento de la mancha urbana",
+    "Oposición de comuneros a obras",
+    "Presupuesto insuficiente para sustituciones",
+    "Falta de conciencia sobre la basura",
+    "Pérdida de áreas de filtración por pavimento"
+  ],
+  "Consecuencias": [
+    "Fugas masivas de agua potable",
+    "Reducción de recarga a manantiales",
+    "Tandeo de suministro en zonas urbanas",
+    "Zonas sin red que requieren pipas",
+    "Obstrucción de captaciones por basura",
+    "Suspensión temporal de suministro",
+    "Inundaciones por taponamiento de basura",
+    "Desequilibrio por distribución a otras delegaciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Distribución de agua por colonias"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Programa de mantenimiento hidráulico"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de plomo por polietileno"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Limpieza de captaciones y manantiales"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participación ocasional en limpieza de ríos"
+    },
+    {
+      "actor": "Televisoras",
+      "accion": "Apoyo en limpieza de ríos"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Abastecimiento de agua por pipas"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Lavado y desinfección de tanques"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Reunión de concertación con comuneros"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Informar sobre proyectos de obra"
+    },
+    {
+      "actor": "Área Ecología",
+      "accion": "Limpieza de barrancas y cauces"
+    },
+    {
+      "actor": "Residencia local",
+      "accion": "Almacenamiento de agua en tinacos"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Tandeo de suministro de agua"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Instalación de cloradoras locales"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 536,
+  "error": null,
+  "items_antes_de_tope": {}
+}

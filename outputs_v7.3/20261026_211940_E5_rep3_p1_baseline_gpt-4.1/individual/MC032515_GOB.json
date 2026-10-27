@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de laderas en época de lluvias",
+    "Inundaciones en zonas urbanas y barrancas",
+    "Reblandecimiento del suelo por agua y drenaje",
+    "Incremento de asentamientos en zonas de riesgo",
+    "Acumulación de basura en ríos y barrancas"
+  ],
+  "Causas_principales": [
+    "Cortes de cerros y terraceo por vecinos",
+    "Eliminación y quema de árboles en raíces",
+    "Mal canalización de aguas residuales y uso de letrinas",
+    "Crecimiento de asentamientos irregulares en zonas de riesgo",
+    "Quema agrícola y modificación del uso de suelo",
+    "Taponeo de drenajes por basura y granizo",
+    "Intensidad de lluvias extraordinarias",
+    "Ausencia de técnicas adecuadas en cortes de terreno"
+  ],
+  "Consecuencias": [
+    "Deslizamientos de talud y laderas",
+    "Inundaciones en viviendas y calles",
+    "Desbordamientos de barrancas",
+    "Daños en casas y bienes",
+    "Reblandecimiento y deterioro del suelo",
+    "Contaminación por aguas residuales",
+    "Enfermedades por contacto con agua contaminada",
+    "Evacuaciones y uso de albergues temporales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Programa de notificación a vecinos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recomendaciones de mitigación de riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recorridos y monitoreo tras lluvias"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Poda y retiro de árboles en riesgo"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Desazolve de red de drenaje"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Recorridos para evitar asentamientos nuevos"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Retiro de construcciones irregulares"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Limpieza y desinfección de viviendas"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Vacunación de población afectada"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Difusión de información y trípticos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Capacitaciones y talleres de prevención"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Instalación de alarma sísmica y monitoreo"
+    },
+    {
+      "actor": "Bomberos",
+      "accion": "Apoyo en evacuación y retiro de agua"
+    },
+    {
+      "actor": "Desarrollo Social",
+      "accion": "Provisión de albergues temporales"
+    },
+    {
+      "actor": "Comité Hidrometeorológico",
+      "accion": "Canalización de apoyos por lluvia o granizo"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Construcción de muros de contención"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Cobertura con plástico en taludes"
+    },
+    {
+      "actor": "Secretaría de Protección Civil",
+      "accion": "Diagnóstico y dictámenes de riesgo"
+    },
+    {
+      "actor": "SEDUVI",
+      "accion": "Revisión de regularización y uso del suelo"
+    }
+  ],
+  "input_tokens": 9151,
+  "output_tokens": 622,
+  "error": null,
+  "items_antes_de_tope": {}
+}

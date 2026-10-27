@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en el acceso al agua",
+    "Mala calidad del agua potable",
+    "Escasez y tandeos de agua",
+    "Inundaciones recurrentes",
+    "Infraestructura hidráulica deficiente",
+    "Opacidad y control político en la gestión"
+  ],
+  "Causas_principales": [
+    "Gestión del recurso ineficiente",
+    "Intereses particulares y corrupción",
+    "Falta de manejo de la demanda",
+    "Esquema tarifario injusto",
+    "Presión inmobiliaria",
+    "Expansión urbana informal",
+    "Infraestructura vieja y no renovada",
+    "Negligencia en drenaje pluvial",
+    "Cálculo político en decisiones",
+    "Opacidad en circuitos de distribución"
+  ],
+  "Consecuencias": [
+    "Zonas con servicio irregular",
+    "Población sin acceso a agua potable",
+    "Desconfianza en el agua de la llave",
+    "Compra de agua embotellada",
+    "Enfermedades por agua insalubre",
+    "Inundaciones con aguas negras",
+    "Afectación a zonas pobres",
+    "Transferencia de costos a desfavorecidos",
+    "Consolidación de asentamientos irregulares",
+    "Conflictos entre comunidades y desarrollos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controlar circuitos de distribución"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Aprobar licencias de agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presionar para obtener agua"
+    },
+    {
+      "actor": "Vecinos y pobladores",
+      "accion": "Protestar por falta de agua"
+    },
+    {
+      "actor": "Delegados políticos",
+      "accion": "Negociar acceso a servicios"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Instalar redes de agua y drenaje"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Visibilizar inundaciones"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Invertir en infraestructura hidráulica"
+    },
+    {
+      "actor": "Industria de agua embotellada",
+      "accion": "Aprovechar desconfianza en agua"
+    },
+    {
+      "actor": "Movimientos contestatarios",
+      "accion": "Presionar por distribución justa"
+    }
+  ],
+  "input_tokens": 13937,
+  "output_tokens": 587,
+  "error": null,
+  "items_antes_de_tope": {}
+}

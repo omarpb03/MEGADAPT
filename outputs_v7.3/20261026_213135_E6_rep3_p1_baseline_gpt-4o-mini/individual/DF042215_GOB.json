@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones",
+    "Zonas susceptibles de inundación",
+    "Inundaciones pluviales",
+    "Inundaciones costeras",
+    "Inundaciones lacustres",
+    "Inundaciones súbitas",
+    "Falta de información sobre inundaciones",
+    "Sistema de drenaje insuficiente",
+    "Basura en drenajes",
+    "Cambio climático",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Causas_principales": [
+    "Falta de mantenimiento al sistema de drenaje",
+    "Acumulación de basura",
+    "Crecimiento urbano vertical",
+    "Cambio climático",
+    "Desbordamiento de ríos",
+    "Inundaciones históricas",
+    "Falta de información oficial",
+    "Cultura de la población"
+  ],
+  "Consecuencias": [
+    "Pérdidas humanas",
+    "Afectaciones a la movilidad",
+    "Daños a la infraestructura",
+    "Pérdidas económicas",
+    "Desastres naturales",
+    "Aumento de la vulnerabilidad",
+    "Dificultades en la respuesta de emergencia"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar información sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar mapas de peligro"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Recopilar información de unidades estatales y municipales de protección civil"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generar infografías sobre inundaciones"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Realizar obras de infraestructura para mitigar inundaciones"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Elaborar atlas de riesgo"
+    },
+    {
+      "actor": "Sedesol/Sedartu",
+      "accion": "Financiar proyectos de riesgo a escala municipal"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Reportar problemas de inundación y colaborar en la identificación de riesgos"
+    }
+  ],
+  "input_tokens": 14950,
+  "output_tokens": 379,
+  "error": null,
+  "items_antes_de_tope": {}
+}

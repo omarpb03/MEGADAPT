@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Zonas susceptibles de inundacion",
+    "Inundaciones subitas",
+    "Falta de informacion publica sobre inundaciones",
+    "Saturacion del drenaje",
+    "Acumulacion de basura en drenaje",
+    "Crecimiento urbano vertical",
+    "Lluvias intensas en ciudades",
+    "Falta de mapas de peligro divulgados",
+    "Falta de colaboracion institucional"
+  ],
+  "Causas_principales": [
+    "Lluvias intensas",
+    "Desbordamiento de rios",
+    "Ciclones tropicales",
+    "Frentes frios",
+    "Crecimiento de zonas urbanas",
+    "Falta de mantenimiento del drenaje",
+    "Arrojar basura a coladeras",
+    "Cambio de zonas verdes por concreto",
+    "Microclimas urbanos",
+    "Falta de cultura de la poblacion",
+    "Falta de informacion oficial compartida",
+    "Falta de colaboracion de proteccion civil del D.F",
+    "Falta de evaluacion de vulnerabilidad",
+    "Problemas tecnicos en bombas de agua"
+  ],
+  "Consecuencias": [
+    "Perdidas humanas",
+    "Movilidad afectada",
+    "Charcos en estacionamientos",
+    "Retrasos en trayectos",
+    "Zonas de encharcamiento",
+    "Afectaciones socioeconomicas",
+    "Hundimientos",
+    "Falta de preparacion de la poblacion",
+    "Falta de acceso a informacion",
+    "Incremento de temperatura urbana",
+    "Lluvias convectivas mas intensas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Identificar zonas susceptibles de inundacion"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Generar mapas nacionales de inundacion"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Divulgar infografias sobre inundaciones"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Compilar informacion oficial de inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Publicar base de datos de decesos"
+    },
+    {
+      "actor": "Secretaria de Salud",
+      "accion": "Proveer datos de decesos"
+    },
+    {
+      "actor": "Unidades estatales de proteccion civil",
+      "accion": "Compartir informacion de zonas de riesgo"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proveer informacion detallada de inundaciones"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Solicitar apoyo para mapas de peligro"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Realizar obras de infraestructura"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Divulgar informacion de riesgo"
+    },
+    {
+      "actor": "Comunidades rurales",
+      "accion": "Aplicar encuestas de percepcion de riesgo"
+    },
+    {
+      "actor": "Universidad popular de veracruz",
+      "accion": "Aplicar metodologia de percepcion"
+    },
+    {
+      "actor": "Sedatu",
+      "accion": "Financiar atlas de riesgo municipales"
+    },
+    {
+      "actor": "Poblacion",
+      "accion": "Arrojar basura al drenaje"
+    },
+    {
+      "actor": "Autoridades estatales y municipales",
+      "accion": "Emitir declaratorias de desastre"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Emitir recomendaciones de infraestructura"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Proponer talleres de identificacion de vulnerabilidad"
+    }
+  ],
+  "input_tokens": 15322,
+  "output_tokens": 884,
+  "error": null,
+  "items_antes_de_tope": {}
+}

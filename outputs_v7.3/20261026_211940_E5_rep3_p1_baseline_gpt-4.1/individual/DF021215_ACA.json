@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez del recurso",
+    "Calidad del agua baja",
+    "Presión urbana sobre zonas de conservación",
+    "Problemática de acceso a tuberías y servicios",
+    "Control de agua por piperos o grupos de poder",
+    "Falta de transparencia en gestión de agua",
+    "Conflictos por derechos de agua en comunidades",
+    "Falta de continuidad en proyectos comunitarios"
+  ],
+  "Causas_principales": [
+    "Expansión urbana irregular",
+    "Intereses económicos inmobiliarios",
+    "Falta de estudios de factibilidad de agua",
+    "Descoordinación institucional entre dependencias",
+    "Desmantelamiento de las políticas rurales",
+    "Competencia entre instituciones por recursos",
+    "Debilitamiento de instituciones comunitarias",
+    "Falta de apoyo al campo",
+    "Mala implementación de políticas ambientales",
+    "Intereses políticos en la gestión y acceso al agua",
+    "Distorsión de normas y políticas de vivienda",
+    "Presiones migratorias internas y externas"
+  ],
+  "Consecuencias": [
+    "Proyectos distorsionados en la práctica",
+    "Conflictos por el control y distribución de agua",
+    "Toma de instalaciones por falta de recursos",
+    "Gentrificación y expansión urbana",
+    "Debilitamiento de dinámicas comunitarias",
+    "Conflictos sociales por expropiaciones",
+    "Pérdida de transparencia en la gestión de agua",
+    "Incremento en uso de pipas para el abasto",
+    "Incremento en costos de producción agrícola",
+    "Incertidumbre y confusión sobre derechos de agua",
+    "Problemas internos en comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gestiona distribución vía tuberías"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Venden y controlan pipas de agua"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Implementan filtración y cosecha de agua"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Deciden otorgamiento de derechos de agua"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Proponen captación de agua de lluvia"
+    },
+    {
+      "actor": "Gobiernos delegacionales",
+      "accion": "Implementan servicios básicos agua y drenaje"
+    },
+    {
+      "actor": "ONG'S",
+      "accion": "Apoyan proyectos comunitarios de agua"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Negocian servicios y recursos ante dependencias"
+    },
+    {
+      "actor": "PAOT",
+      "accion": "Proporciona bases de datos y transparencia"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Desarrollan proyectos de agricultura sin agroquímicos"
+    },
+    {
+      "actor": "Instituciones académicas",
+      "accion": "Asesoran y documentan problemáticas de agua"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Fortalecimiento de procesos transparentes"
+    },
+    {
+      "actor": "Delegación y CORET",
+      "accion": "Participan en procesos de expropiación para servicios"
+    }
+  ],
+  "input_tokens": 9716,
+  "output_tokens": 561,
+  "error": null,
+  "items_antes_de_tope": {}
+}

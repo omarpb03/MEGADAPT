@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteración del medio ambiente",
+    "Alteración de la infraestructura existente",
+    "Políticas públicas urbanas que afectan el agua",
+    "Seguridad de vivir en condiciones adecuadas",
+    "Calidad de vida y acceso a servicios urbanos",
+    "Vocación natural del suelo urbano",
+    "Afectación por inversión privada e inmobiliarias",
+    "Destrucción ecológica por informalidad",
+    "Acceso a bienes urbanos"
+  ],
+  "Causas_principales": [
+    "Política urbana del gobierno",
+    "Preferencia a inversionistas privados",
+    "Construcción de vías de comunicación para inversión",
+    "Corrupción y tráfico de influencias",
+    "Mala gestión institucional y falta de presupuesto",
+    "Contexto neoliberal y gobernanza empresarial",
+    "Reducción de recursos para vivienda y servicios",
+    "Condición globalizadora de la ciudad"
+  ],
+  "Consecuencias": [
+    "Afectación a asentamientos populares",
+    "Afectación a colonias de clase media",
+    "Afectación a zonas verdes de la ciudad",
+    "Agrietamiento de casas y calles",
+    "Incremento del riesgo urbano",
+    "Deterioro de la calidad de vida",
+    "Crecimiento de la vulnerabilidad social",
+    "Movimientos sociales frustrados",
+    "Pérdida de espacio público",
+    "Reducción del acceso a vivienda"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Introducción de sistemas alternativos de agua"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a política urbana"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncias y propuestas al gobierno"
+    },
+    {
+      "actor": "Residentes urbanos",
+      "accion": "Movilización y plantones"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoría y acompañamiento"
+    },
+    {
+      "actor": "Asamblea legislativa del D.F",
+      "accion": "Recepción de iniciativas de ley"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Generación de opinión pública"
+    },
+    {
+      "actor": "ONG’s internacionales (HIC)",
+      "accion": "Vínculos y foros internacionales"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de vivienda y mejoras"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Negociación con movimientos sociales"
+    },
+    {
+      "actor": "Ejidatarios y comuneros",
+      "accion": "Negociación por suelo de conservación"
+    },
+    {
+      "actor": "ONG’s de desarrollo urbano",
+      "accion": "Promoción Carta por el derecho a la ciudad"
+    }
+  ],
+  "input_tokens": 6439,
+  "output_tokens": 493,
+  "error": null,
+  "items_antes_de_tope": {}
+}

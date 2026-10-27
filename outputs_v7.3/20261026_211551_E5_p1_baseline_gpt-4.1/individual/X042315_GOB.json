@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desaparición de los últimos espejos de agua",
+    "Hundimientos diferenciales complican niveles hidráulicos",
+    "Bajada del nivel de agua",
+    "Falta de autosuficiencia en agua",
+    "Contaminación por descargas de aguas negras",
+    "Explotación de pozos profundos",
+    "Cambio de uso de suelo chinampero",
+    "Pérdida de humedad en chinampas",
+    "Conflictos en manejo de compuertas",
+    "Intereses políticos sobre el agua",
+    "Pérdida de valor patrimonial de la chinampa",
+    "Presión urbana sobre zona lacustre",
+    "Azolve en canales y vasos reguladores",
+    "Escurrimientos bloqueados por asentamientos",
+    "Desconfianza hacia el gobierno central"
+  ],
+  "Causas_principales": [
+    "Construcción del acueducto en San Luis Tlaxialtemalco",
+    "Extracción de agua de pozos profundos",
+    "Fracturas y grietas en el subsuelo",
+    "Hundimientos diferenciales del terreno",
+    "Bloqueo de escurrimientos por asentamientos humanos",
+    "Descarga de aguas negras a canales y ríos",
+    "Infraestructura vieja e insuficiente",
+    "Crecimiento urbano y regularización de asentamientos",
+    "Falta de planeación de uso de suelo",
+    "Presión de los servicios básicos",
+    "Cierre potencial de la planta de tratamiento",
+    "Política institucional clientelar",
+    "Cambio generacional que privilegia venta de tierra"
+  ],
+  "Consecuencias": [
+    "Pérdida de humedad en chinampas",
+    "Abandonos y cambio de uso de suelo",
+    "Reducción de servicios ambientales",
+    "Deterioro de agricultura tradicional",
+    "Inhabilidad para mantener niveles navegables",
+    "Contaminación de agua por drenajes",
+    "Fragmentación institucional y social",
+    "Falta de coordinación entre actores",
+    "Inundaciones en zona chinampera",
+    "Pérdida de biodiversidad y valor patrimonial",
+    "Más presión para urbanizar",
+    "Resentimiento y desconfianza hacia gobierno",
+    "Reducción de capacidad de vasos reguladores",
+    "Diferencias generationales en percepción del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad",
+      "accion": "Registro de humedales ante RAMSAR"
+    },
+    {
+      "actor": "Chinampas productores",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Venta de productos a comercializadoras"
+    },
+    {
+      "actor": "Planta de tratamiento",
+      "accion": "Surtir agua tratada a canales"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Pago de servicios ambientales"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro de zona chinampera en SIPAM"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotación de servicios básicos"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regularización de asentamientos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Cambio de actividad productiva por servicios"
+    },
+    {
+      "actor": "Autoridad y UAM",
+      "accion": "Elaboración de programa de manejo"
+    },
+    {
+      "actor": "Gobierno francés",
+      "accion": "Financiamiento infraestructura hídrica"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gestión de subsidios y proyectos"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Elaboración de estudios técnicos"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Mantenimiento de ollas de captación"
+    },
+    {
+      "actor": "Autoridades y comunidad",
+      "accion": "Creación de juegos lúdicos sobre agua"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Operación vasos reguladores"
+    },
+    {
+      "actor": "Comisión de Derechos Humanos",
+      "accion": "Resolución para reparación planta tratamiento"
+    },
+    {
+      "actor": "Comunidad chinampera",
+      "accion": "Uso de compuertas rusticas"
+    },
+    {
+      "actor": "Delegaciones y CFE",
+      "accion": "Instalación de luz y agua en asentamientos"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Declaración de sitio arqueológico"
+    },
+    {
+      "actor": "Autoridad",
+      "accion": "Apoyo a iniciativas comunitarias"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Desazolve de canales"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Censo de chinampas y canales"
+    },
+    {
+      "actor": "Candidatos",
+      "accion": "Regalo de tinacos y dinero"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 1164,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,25 @@
+﻿condicion,experimento,prompt,modelo,temperatura,tope,esquema,fecha_corrida,script_version,carpeta,csv,entrevistas_en_csv,emparejadas,sin_par_modelo,evaluacion
+E1 · p1_baseline,E1,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:03:19,7.3,20261026_160317_E1_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E1 · p1_baseline,E1_rep2,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:07:42,7.3,20261026_160739_E1_rep2_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E1 · p1_baseline,E1_rep3,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:09:03,7.3,20261026_160900_E1_rep3_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E2 · p2_definiciones,E2,p2_definiciones,gpt-4o-mini,0.0,,con_largo,2026-10-26T19:54:35,7.3,20261026_195432_E2_p2_definiciones_gpt-4o-mini,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E2 · p2_definiciones,E2_rep2,p2_definiciones,gpt-4o-mini,0.0,,con_largo,2026-10-26T19:55:24,7.3,20261026_195521_E2_rep2_p2_definiciones_gpt-4o-mini,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E2 · p2_definiciones,E2_rep3,p2_definiciones,gpt-4o-mini,0.0,,con_largo,2026-10-26T19:56:08,7.3,20261026_195605_E2_rep3_p2_definiciones_gpt-4o-mini,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E3 · p3_perfil,E3,p3_perfil,gpt-4o-mini,0.0,,con_largo,2026-10-26T20:14:15,7.3,20261026_201412_E3_p3_perfil_gpt-4o-mini,analysis_v7_p3_perfil.csv,23,23,,reutilizada
+E3 · p3_perfil,E3_rep2,p3_perfil,gpt-4o-mini,0.0,,con_largo,2026-10-26T20:15:24,7.3,20261026_201521_E3_rep2_p3_perfil_gpt-4o-mini,analysis_v7_p3_perfil.csv,23,23,,reutilizada
+E3 · p3_perfil,E3_rep3,p3_perfil,gpt-4o-mini,0.0,,con_largo,2026-10-26T20:16:24,7.3,20261026_201622_E3_rep3_p3_perfil_gpt-4o-mini,analysis_v7_p3_perfil.csv,23,23,,reutilizada
+E4 · p1_baseline,E4,p1_baseline,gpt-4.1,0.0,,con_largo,2026-10-26T20:31:09,7.3,20261026_203107_E4_p1_baseline_gpt-4.1,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E4 · p1_baseline,E4_rep2,p1_baseline,gpt-4.1,0.0,,con_largo,2026-10-26T20:32:40,7.3,20261026_203237_E4_rep2_p1_baseline_gpt-4.1,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E4 · p1_baseline,E4_rep3,p1_baseline,gpt-4.1,0.0,,con_largo,2026-10-26T20:33:54,7.3,20261026_203351_E4_rep3_p1_baseline_gpt-4.1,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E4 · p2_definiciones,E4,p2_definiciones,gpt-4.1,0.0,,con_largo,2026-10-26T20:37:36,7.3,20261026_203728_E4_p2_definiciones_gpt-4.1,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E4 · p2_definiciones,E4_rep2,p2_definiciones,gpt-4.1,0.0,,con_largo,2026-10-26T20:39:07,7.3,20261026_203858_E4_rep2_p2_definiciones_gpt-4.1,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E4 · p2_definiciones,E4_rep3,p2_definiciones,gpt-4.1,0.0,,con_largo,2026-10-26T20:40:26,7.3,20261026_204020_E4_rep3_p2_definiciones_gpt-4.1,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E4 · p3_perfil,E4,p3_perfil,gpt-4.1,0.0,,con_largo,2026-10-26T20:41:57,7.3,20261026_204153_E4_p3_perfil_gpt-4.1,analysis_v7_p3_perfil.csv,23,23,,reutilizada
+E4 · p3_perfil,E4_rep2,p3_perfil,gpt-4.1,0.0,,con_largo,2026-10-26T20:43:50,7.3,20261026_204339_E4_rep2_p3_perfil_gpt-4.1,analysis_v7_p3_perfil.csv,23,23,,reutilizada
+E4 · p3_perfil,E4_rep3,p3_perfil,gpt-4.1,0.0,,con_largo,2026-10-26T20:45:38,7.3,20261026_204534_E4_rep3_p3_perfil_gpt-4.1,analysis_v7_p3_perfil.csv,23,23,,reutilizada
+E5 · p1_baseline,E5,p1_baseline,gpt-4.1,1.0,,con_largo,2026-10-26T21:15:58,7.3,20261026_211551_E5_p1_baseline_gpt-4.1,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E5 · p1_baseline,E5_rep2,p1_baseline,gpt-4.1,1.0,,con_largo,2026-10-26T21:17:43,7.3,20261026_211737_E5_rep2_p1_baseline_gpt-4.1,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E5 · p1_baseline,E5_rep3,p1_baseline,gpt-4.1,1.0,,con_largo,2026-10-26T21:19:49,7.3,20261026_211940_E5_rep3_p1_baseline_gpt-4.1,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E6 · p1_baseline,E6,p1_baseline,gpt-4o-mini,0.0,,sin_largo,2026-10-26T21:29:08,7.3,20261026_212858_E6_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,nueva
+E6 · p1_baseline,E6_rep2,p1_baseline,gpt-4o-mini,0.0,,sin_largo,2026-10-26T21:30:25,7.3,20261026_213021_E6_rep2_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,nueva
+E6 · p1_baseline,E6_rep3,p1_baseline,gpt-4o-mini,0.0,,sin_largo,2026-10-26T21:31:39,7.3,20261026_213135_E6_rep3_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,nueva

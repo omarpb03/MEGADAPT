@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en el país",
+    "Zonas susceptibles a inundaciones",
+    "Inundaciones pluviales",
+    "Inundaciones costeras",
+    "Inundaciones lacustres",
+    "Inundaciones súbitas",
+    "Falta de información sobre inundaciones",
+    "Sistema de drenaje insuficiente",
+    "Basura en drenajes",
+    "Cambio climático y lluvias intensas"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Mantenimiento inadecuado del drenaje",
+    "Acumulación de basura",
+    "Falta de cultura de cuidado",
+    "Cambio climático",
+    "Obstrucción del flujo de agua",
+    "Falta de información oficial",
+    "Desbordamiento de ríos",
+    "Características del terreno"
+  ],
+  "Consecuencias": [
+    "Pérdidas humanas",
+    "Daños materiales",
+    "Afectación a la movilidad",
+    "Impacto en la economía",
+    "Desastres naturales",
+    "Falta de acceso a información",
+    "Desinformación en la población"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles a inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar información sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar mapas de peligro"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Recopilar datos de inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Realizar infografías educativas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar obras de infraestructura"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Realizar mantenimiento del drenaje"
+    },
+    {
+      "actor": "Sedesol",
+      "accion": "Financiar atlas de riesgos"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Reportar problemas de inundación"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Aplicar metodologías de percepción de riesgo"
+    }
+  ],
+  "input_tokens": 15088,
+  "output_tokens": 376,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribucion desigual del agua",
+    "Suministro irregular en colonias populares",
+    "Desabasto por nuevas construcciones",
+    "Manejo discrecional del tandeo",
+    "Prioridad baja del agua en politicas urbanas",
+    "Impacto de obras urbanas en inundaciones",
+    "Falta de infraestructura en asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Peso politico de secretarias como Obras",
+    "Intereses del capital inmobiliario",
+    "Crecimiento urbano mas rapido que infraestructura",
+    "Sesgo presupuestal hacia zonas centrales",
+    "Manejo discrecional de valvulas",
+    "Falta de planeacion urbana actualizada",
+    "Priorizacion de innovacion en zonas privilegiadas"
+  ],
+  "Consecuencias": [
+    "Baja presion y desabasto de agua",
+    "Inundaciones frecuentes en zonas vulnerables",
+    "Grietas y daños en viviendas",
+    "Percepcion de injusticia en el acceso",
+    "Duplicidad de viviendas vacias",
+    "Incertidumbre en asentamientos irregulares",
+    "Servicios deficientes en colonias populares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Control discrecional de valvulas"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar aparicion de grietas"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    },
+    {
+      "actor": "Secretaria de Obras",
+      "accion": "Bloquear proyectos comunitarios"
+    },
+    {
+      "actor": "Habitantes de colonias populares",
+      "accion": "Almacenar agua en tambos"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Introducir tuberia por etapas"
+    },
+    {
+      "actor": "Proteccion Civil",
+      "accion": "Desasolve y limpieza de drenaje"
+    },
+    {
+      "actor": "Sociedad civil y academicos",
+      "accion": "Participar en comites tecnicos"
+    },
+    {
+      "actor": "Habitantes organizados",
+      "accion": "Usar programas de desarrollo urbano antiguos"
+    },
+    {
+      "actor": "Secretaria de Medio Ambiente",
+      "accion": "Defender obras urbanas"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Construir y operar autopistas"
+    },
+    {
+      "actor": "Administracion publica",
+      "accion": "Implementar innovaciones urbanas en zonas centrales"
+    }
+  ],
+  "input_tokens": 12237,
+  "output_tokens": 431,
+  "error": null,
+  "items_antes_de_tope": {}
+}

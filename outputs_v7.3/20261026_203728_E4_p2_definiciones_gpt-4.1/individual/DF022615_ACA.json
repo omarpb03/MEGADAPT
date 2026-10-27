@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua en casas",
+    "Falta de reciclaje de agua",
+    "Uso de aguas negras para riego",
+    "Falta de cultura del agua",
+    "Problemas de acceso al agua en Iztapalapa",
+    "Contaminacion de cuerpos de agua",
+    "Salinizacion del agua en Xochimilco",
+    "Uso intensivo de agroquimicos",
+    "Corrupcion en distribucion de agua",
+    "Falta de vigilancia en uso de agua",
+    "Falta de programas de captura de agua",
+    "Inundaciones en zonas urbanizadas",
+    "Abandono de programas hidrologicos",
+    "Sobreexplotacion de pozos"
+  ],
+  "Causas_principales": [
+    "Falta de interes del gobierno",
+    "Falta de financiamiento",
+    "Urbanizacion descontrolada",
+    "Corrupcion en autoridades",
+    "Falta de vigilancia gubernamental",
+    "Falta de restriccion en contaminantes",
+    "Falta de programas de captura de agua",
+    "Uso indiscriminado de agroquimicos",
+    "Presion de urbanizacion",
+    "Pobreza y bajos salarios",
+    "Falta de cultura del agua",
+    "Falta de diseño en recoleccion de desechos",
+    "Falta de aplicacion de leyes",
+    "Rompimiento de flujos naturales de agua"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua potable",
+    "Contaminacion de suelos y agua",
+    "Salinizacion de tierras en Xochimilco",
+    "Falta de agua en colonias",
+    "Enfermedades por mala calidad de agua",
+    "Corrupcion en acceso al agua",
+    "Desigualdad en distribucion de agua",
+    "Inundaciones en colonias bajas",
+    "Poder politico por control de agua",
+    "Mortalidad de abejas por agroquimicos",
+    "Sobreexplotacion de acuiferos",
+    "Abandono de suelos de conservacion",
+    "Dificultad para medir calidad de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gente de biotecnologia",
+      "accion": "Propuesta de reciclar aguas grises"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Cambio en uso de agua para riego"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Quejas por consumo de agua en establos"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Uso de excreta para suelos artificiales"
+    },
+    {
+      "actor": "Grupo UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Falta de vigilancia en contaminacion"
+    },
+    {
+      "actor": "Productores agropecuarios",
+      "accion": "Estudio sobre sobreexplotacion de pozos"
+    },
+    {
+      "actor": "ONG REDES",
+      "accion": "Restauracion ecologica en Xochimilco"
+    },
+    {
+      "actor": "Pueblos originarios",
+      "accion": "Organizacion propia para manejo de recursos"
+    },
+    {
+      "actor": "Universidades y productores",
+      "accion": "Estudios sobre uso de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Abandono de programas hidrologicos"
+    },
+    {
+      "actor": "Asociacion de charros",
+      "accion": "Uso de caballos para actividades deportivas"
+    },
+    {
+      "actor": "Policia montada",
+      "accion": "Cria de caballos en Iztapalapa"
+    },
+    {
+      "actor": "Productores de Milpa Alta",
+      "accion": "Uso de estiércol para retener humedad"
+    },
+    {
+      "actor": "Universidad Chapingo",
+      "accion": "Construccion de terrazas para capturar agua"
+    }
+  ],
+  "input_tokens": 13417,
+  "output_tokens": 931,
+  "error": null,
+  "items_antes_de_tope": {}
+}

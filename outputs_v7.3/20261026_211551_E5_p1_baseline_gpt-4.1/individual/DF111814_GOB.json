@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas fuertes para el abasto",
+    "Suministro del agua insuficiente",
+    "Demanda y uso o abuso de agua",
+    "Falta de cultura en el usuario",
+    "Crecimiento urbano descontrolado",
+    "Escasez en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Demanda exagerada de agua",
+    "Crecimiento de la población",
+    "Tecnología y urbanización",
+    "Desperdicio y dispendio de agua",
+    "Poca cultura del usuario",
+    "Falta de uso racional",
+    "Deforestación por actividad humana",
+    "Alteraciones por cambios climáticos",
+    "Falta de regulación eficaz"
+  ],
+  "Consecuencias": [
+    "No da abasto abajo",
+    "Agua no suficiente para todos",
+    "Sensación de pérdida de recurso",
+    "Dificultad para aprovechar agua localmente",
+    "Uso de agua embotellada costosa",
+    "Problemas para la ciudad en el centro",
+    "Temporadas de escasez temporales",
+    "Zonas desérticas o deforestadas",
+    "Alteraciones en el ambiente"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras de retención de agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Incentivar conservación del suelo"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Suministro de agua urbana"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Apoyos económicos para conservación"
+    },
+    {
+      "actor": "Grupos agrarios",
+      "accion": "Mantener humedad en áreas"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participación en proyectos de captación"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Normar extracción y suministro"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Proyectos de sanidad y control"
+    },
+    {
+      "actor": "Grupo técnico operativo",
+      "accion": "Seguimiento a proyectos beneficiarios"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Presentar proyectos para apoyos"
+    },
+    {
+      "actor": "Instituciones internacionales",
+      "accion": "Otorgar recursos para convenios"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Promoción y difusión de conservación"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Capacitación y talleres sobre agua"
+    },
+    {
+      "actor": "Todas las instituciones",
+      "accion": "Colaboración interinstitucional para agua"
+    },
+    {
+      "actor": "Individuales organizados",
+      "accion": "Presentar proyectos de conservación"
+    }
+  ],
+  "input_tokens": 13955,
+  "output_tokens": 477,
+  "error": null,
+  "items_antes_de_tope": {}
+}

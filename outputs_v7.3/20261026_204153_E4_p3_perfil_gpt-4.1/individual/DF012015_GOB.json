@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones",
+    "Problemas con la calidad del agua",
+    "Falta de infraestructura hidráulica",
+    "Fugas en las redes",
+    "Baja presión de agua"
+  ],
+  "Causas_principales": [
+    "Proyectos urbanos sin infraestructura hidráulica",
+    "Falta de inversión en infraestructura",
+    "Terrenos baratos sin servicios",
+    "Recursos públicos insuficientes",
+    "Zonas donde no hay servicios",
+    "Mala calidad de agua en pozos",
+    "Periodos largos sin lluvias"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren abastecimiento insuficiente",
+    "Comunidades sufren inundaciones",
+    "Costo elevado de vivienda con servicios",
+    "Gente recibe poca agua a la semana",
+    "Mala calidad de agua en zonas específicas",
+    "Necesidad de acarrear agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Presupuestos para infraestructura hidráulica"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejar fondos para vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuir agua con pipas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Proyectos de plantas potabilizadoras"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Rehabilitación de redes para fugas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Proyectos de rebombeos"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Invertir en programas de agua"
+    },
+    {
+      "actor": "Técnicos especialistas",
+      "accion": "Proponer soluciones técnicas"
+    },
+    {
+      "actor": "Funcionarios CONAGUA",
+      "accion": "Diagnóstico y propuestas de solución"
+    }
+  ],
+  "input_tokens": 4452,
+  "output_tokens": 331,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua insuficiente",
+    "Agua de muy mala calidad",
+    "Sistema de tandeo ineficiente",
+    "Corrupcion en distribucion de agua",
+    "Privatizacion del agua",
+    "Desigualdad en distribucion de agua",
+    "Desperdicio de agua",
+    "Falta de mantenimiento a pozos de absorcion",
+    "Inundaciones en vialidades principales"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin compromiso",
+    "Juego politico con el agua",
+    "Falta de mantenimiento en la red",
+    "Sistema de pozos que perjudica",
+    "Corrupcion en manejo de pipas",
+    "Iniciativa de privatizacion del agua",
+    "Mala distribucion por el gobierno",
+    "Falta de politicas publicas",
+    "Mala distribucion de la riqueza",
+    "Falta de arbolado y captacion de agua",
+    "Saturacion de pozos de absorcion por basura",
+    "Falta de aplicacion de leyes",
+    "Presupuesto insuficiente para agua"
+  ],
+  "Consecuencias": [
+    "Agua chocolatosa y con insectos",
+    "Lodo en recipientes",
+    "Enfermedades estomacales en ninos",
+    "Gasto en compra de garrafones",
+    "Organizacion para almacenar agua",
+    "Escuelas sin agua suficiente",
+    "Higiene deficiente en sanitarios escolares",
+    "Tiradero de agua en calles",
+    "Inundaciones en calzada Ermita y vialidades",
+    "Colapso de drenajes",
+    "Contaminacion de aguas y subsuelo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Movilizacion y protestas por agua"
+    },
+    {
+      "actor": "Mujeres",
+      "accion": "Exigir dotacion de agua"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Presionar para condonacion de pago"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Decretar condonacion de pago"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Distribuir agua por pipas"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Entregar agua en pipas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar sistema de tandeo"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumular agua en cisternas"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Comprar agua de garrafon"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Reutilizar agua para escusado"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Lavar banquetas con manguera"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Frenar privatizacion del agua"
+    },
+    {
+      "actor": "Pedro Moctezuma y cientificos",
+      "accion": "Defender el agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernandez",
+      "accion": "Movimiento por suministro de agua"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Construir pozos de absorcion"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Demandar limpieza de pozos"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Pagar pipas de agua"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Cosechar agua de lluvia"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Hacer campanas de cuidado del agua"
+    }
+  ],
+  "input_tokens": 9359,
+  "output_tokens": 895,
+  "error": null,
+  "items_antes_de_tope": {}
+}

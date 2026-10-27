@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas urbanas",
+    "Calidad del agua no es muy buena",
+    "Presión urbana sobre zonas de conservación",
+    "Problemática del agua en asentamientos irregulares",
+    "Control del agua por grupos de piperos",
+    "Falta de continuidad generacional en proyectos productivos",
+    "Falta de coordinación institucional en manejo de agua"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios y políticos",
+    "Desmantelamiento de políticas rurales",
+    "Escala inadecuada de planeación urbana",
+    "Descoordinación institucional entre dependencias",
+    "Competencia por recursos entre instituciones",
+    "Expansión urbana desordenada",
+    "Falta de estudios de factibilidad de agua",
+    "Distorsión de políticas de vivienda",
+    "Presión de migración interna y externa",
+    "Debilitamiento de instituciones comunitarias",
+    "Lógica empresarial sobre bienestar social"
+  ],
+  "Consecuencias": [
+    "Conservación de zonas bajo presión urbana",
+    "Conflictos por uso y acceso al agua",
+    "Gentrificación y sobreconstrucción de viviendas",
+    "Expansión urbana en zonas de conservación",
+    "Proyectos productivos sin continuidad",
+    "Confusión en tenencia de la tierra",
+    "Servicios básicos caóticos y desordenados",
+    "Conflictos comunitarios por recursos",
+    "Dependencia de pipas de agua",
+    "Problemas internos en comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gestiona agua vía tuberías"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Controlan distribución de pipas"
+    },
+    {
+      "actor": "Productores organizados",
+      "accion": "Conservan territorio con proyectos productivos"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Implementan filtración y captación de agua"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Promueve captación de agua de lluvia"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Reconocen derechos de agua"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Deciden acceso a servicios"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Reparte pipas de agua"
+    },
+    {
+      "actor": "CORET",
+      "accion": "Regula expropiación y tenencia"
+    },
+    {
+      "actor": "ONG’s",
+      "accion": "Implementan proyectos ambientales"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Diseña políticas ambientales y urbanas"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Negocian recursos y servicios"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Promueve vivienda social"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Maneja políticas ambientales"
+    },
+    {
+      "actor": "Comunidades agrícolas",
+      "accion": "Mantienen producción de nopal y amaranto"
+    },
+    {
+      "actor": "Proyectos de invernaderos",
+      "accion": "Captan agua de lluvia para producción"
+    },
+    {
+      "actor": "PAOT",
+      "accion": "Visualiza incompatibilidades de uso de suelo"
+    },
+    {
+      "actor": "Investigadores académicos",
+      "accion": "Documentan problemáticas y procesos"
+    }
+  ],
+  "input_tokens": 9716,
+  "output_tokens": 590,
+  "error": null,
+  "items_antes_de_tope": {}
+}

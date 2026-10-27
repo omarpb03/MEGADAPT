@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u0003n de los canales",
+    "Descargas de drenaje domiciliario",
+    "Hundimiento y deterioro de chinampas",
+    "Acumulaci\u0003n de basura y desechos",
+    "Falta de infraestructura de drenaje",
+    "P\u0000e9rdida de calidad del agua",
+    "Invasiones y asentamientos irregulares",
+    "Falta de circulaci\u000003n y oxigenaci\u000003n del agua",
+    "Abandono de chinampas",
+    "Conflictos de uso de suelo",
+    "Falta de coordinaci\u000003n institucional",
+    "Falta de presupuesto para proyectos"
+  ],
+  "Causas_principales": [
+    "Administraciones de corto plazo",
+    "Irregularidades en dependencias de gobierno",
+    "Tolerancia a asentamientos irregulares",
+    "Falta de cumplimiento de normatividad",
+    "Cambios de uso de suelo",
+    "Falta de infraestructura de drenaje secundaria",
+    "Deterioro de infraestructura antigua",
+    "Descargas directas a canales",
+    "Abandono de chinampas por nuevas generaciones",
+    "Corrupci\u000003n y convivencia maliciosa",
+    "Contradicci\u000003n de leyes y t\u000003rminos",
+    "Entrada de aguas tratadas con qu\u000003micos",
+    "Proyectos mal implementados",
+    "Falta de inspectores ambientales",
+    "Falta de presupuesto y coordinaci\u000003n",
+    "Extracci\u000003n de agua de pozos",
+    "Proyectos productivos mal ejecutados",
+    "Turismo irresponsable",
+    "Falta de conciencia ambiental"
+  ],
+  "Consecuencias": [
+    "Acumulaci\u000003n de lirio acu\u000001tico",
+    "Azolve de los canales",
+    "P\u00000e9rdida de especies acu\u000001ticas nativas",
+    "Desequilibrio ecol\u000003gico",
+    "P\u00000e9rdida de profundidad de canales",
+    "Contaminaci\u000003n por jabones, detergentes y qu\u000003micos",
+    "Descenso del nivel de agua",
+    "P\u00000e9rdida de calidad del agua",
+    "Abandono de chinampas",
+    "Reducci\u000003n de superficie de conservaci\u000003n",
+    "Invasiones y despojo de propiedades",
+    "Inundaciones en zonas bajas",
+    "Conflictos sociales",
+    "P\u00000e9rdida de biodiversidad",
+    "Turismo degradante",
+    "Sedimentos con alta materia org\u000001nica",
+    "Falta de oxigenaci\u000003n del agua",
+    "P\u00000e9rdida de atractivo tur\u000003stico",
+    "P\u00000e9rdida de tradiciones productivas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u000003n Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Caneleros y prestadores de servicio",
+      "accion": "Limpieza parcial de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de M\u000003xico",
+      "accion": "Extracci\u000003n y distribuci\u000003n de agua potable"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de M\u000003xico",
+      "accion": "Env\u000003o de aguas tratadas a canales"
+    },
+    {
+      "actor": "Vecinos y residentes",
+      "accion": "Descargas domiciliarias a canales"
+    },
+    {
+      "actor": "Secretar\u00000eda del Medio Ambiente",
+      "accion": "Proyectos de saneamiento y regulaci\u000003n"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Regulaci\u000003n ambiental"
+    },
+    {
+      "actor": "Direcci\u000003n General de Regulaci\u000003n Ambiental",
+      "accion": "Regulaci\u000003n ambiental"
+    },
+    {
+      "actor": "Direcci\u000003n de Vigilancia de Derivaci\u000003n Ambiental",
+      "accion": "Vigilancia ambiental"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservaci\u000003n"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Coordinaci\u000003n de acciones ambientales"
+    },
+    {
+      "actor": "Gobierno Federal",
+      "accion": "Coordinaci\u000003n de acciones ambientales"
+    },
+    {
+      "actor": "UNAM",
+      "accion": "Introducci\u000003n de tilapia a canales"
+    },
+    {
+      "actor": "Secretar\u00000eda de Agricultura y Recursos Hidr\u000001ulicos",
+      "accion": "Proyecto de introducci\u000003n de tilapia"
+    },
+    {
+      "actor": "Vecinos y chinamperos",
+      "accion": "Apropiaci\u000003n de chinampas abandonadas"
+    },
+    {
+      "actor": "Delegaci\u000003n Xochimilco",
+      "accion": "Programas de cero crecimiento poblacional"
+    },
+    {
+      "actor": "Delegaci\u000003n Xochimilco",
+      "accion": "Separaci\u000003n de residuos s\u000003lidos y org\u000001nicos"
+    },
+    {
+      "actor": "Poblaci\u000003n local",
+      "accion": "Participaci\u000003n en separaci\u000003n de basura"
+    },
+    {
+      "actor": "Turistas",
+      "accion": "Arrojo de basura a canales"
+    },
+    {
+      "actor": "Delegaci\u000003n Xochimilco",
+      "accion": "Recolecci\u000003n de basura dos veces por semana"
+    },
+    {
+      "actor": "Secretar\u00000eda de Desarrollo y Equidad (SEDEREC)",
+      "accion": "Proyectos de estacaci\u000003n y conservaci\u000003n"
+    },
+    {
+      "actor": "Direcci\u000003n General del Medio Ambiente y Desarrollo Sustentable",
+      "accion": "Recuperaci\u000003n de zanjas y apantles"
+    },
+    {
+      "actor": "Asamblea de representantes y c\u000001mara de diputados",
+      "accion": "Aprobaci\u000003n de proyectos sustentables"
+    },
+    {
+      "actor": "Laboratorio de Sistemas de Aguas de la Ciudad de M\u000003xico",
+      "accion": "An\u000001lisis de calidad del agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Vigilancia de cero crecimiento urbano"
+    }
+  ],
+  "input_tokens": 25007,
+  "output_tokens": 1671,
+  "error": null,
+  "items_antes_de_tope": {}
+}

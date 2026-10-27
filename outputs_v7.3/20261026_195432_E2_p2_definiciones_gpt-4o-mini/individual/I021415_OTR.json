@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Agua de mala calidad",
+    "Corrupción en distribución",
+    "Juego político con el agua",
+    "Escasez de agua",
+    "Falta de mantenimiento a la red"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Falta de compromiso gubernamental",
+    "Sistemas de filtración deficientes",
+    "Políticas públicas inadecuadas",
+    "Privatización del agua",
+    "Corrupción en el manejo del agua"
+  ],
+  "Consecuencias": [
+    "Lucha por el derecho al agua",
+    "Dependencia de pipas",
+    "Compra de agua embotellada",
+    "Enfermedades gastrointestinales",
+    "Desperdicio de agua",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Protestas por agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Dotación de pipas"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Defensa del agua"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Recolección de agua de lluvia"
+    },
+    {
+      "actor": "Diputados",
+      "accion": "Presión para condonación de pagos"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Movimiento por el agua"
+    }
+  ],
+  "input_tokens": 9125,
+  "output_tokens": 260,
+  "error": null,
+  "items_antes_de_tope": {}
+}

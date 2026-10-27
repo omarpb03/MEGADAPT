@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua",
+    "Falta de interés del gobierno",
+    "Problemas de acceso al agua en Iztapalapa",
+    "Contaminación del agua",
+    "Salinización del agua en Xochimilco",
+    "Falta de cultura del agua"
+  ],
+  "Causas_principales": [
+    "Construcción de casas sin reciclaje de agua",
+    "Falta de financiamiento",
+    "Corrupción en la distribución del agua",
+    "Uso de aguas negras y grises",
+    "Desarrollo urbano que rompe flujos naturales",
+    "Falta de supervisión en el uso de agroquímicos"
+  ],
+  "Consecuencias": [
+    "Desabastecimiento de agua en colonias",
+    "Quejas de vecinos por consumo de agua de establos",
+    "Contaminación de cuerpos de agua",
+    "Problemas de salud por calidad del agua",
+    "Desigualdad en acceso al agua",
+    "Desperdicio de agua en la distribución"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Plantea problemas de agua y cambios en uso del agua"
+    },
+    {
+      "actor": "Gente de biotecnología e ingeniería industrial",
+      "accion": "Proponen reutilizar agua del fregadero y regadera"
+    },
+    {
+      "actor": "Productores lecheros",
+      "accion": "Utilizan excretas de ganado para fertilizar suelos"
+    },
+    {
+      "actor": "Organizaciones como REDES",
+      "accion": "Realizan esfuerzos de restauración ecológica"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Estudian el manejo hídrico y proponen soluciones"
+    }
+  ],
+  "input_tokens": 13279,
+  "output_tokens": 315,
+  "error": null,
+  "items_antes_de_tope": {}
+}

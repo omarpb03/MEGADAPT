@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Mala calidad del agua",
+    "Sistema de tandeo insuficiente",
+    "Corrupción en distribución de agua",
+    "Privatización del agua",
+    "Desigualdad en acceso al agua",
+    "Desperdicio de agua en la comunidad",
+    "Falta de mantenimiento a pozos de absorción",
+    "Falta de políticas públicas efectivas"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin compromiso",
+    "Juego político con el agua",
+    "Corrupción en manejo del agua",
+    "Falta de mantenimiento a la red",
+    "Mala distribución de la riqueza",
+    "Prioridad política sobre necesidades",
+    "Privatización y concesiones",
+    "Falta de políticas públicas",
+    "Saturación y contaminación de pozos",
+    "Falta de árboles y captación de agua",
+    "Falta de aplicación de leyes",
+    "Presupuesto insuficiente para agua"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en hogares",
+    "Agua chocolatosa y con lodo",
+    "Enfermedades estomacales en niños",
+    "Gasto en agua embotellada",
+    "Organización para almacenar agua",
+    "Desperdicio de agua en calles",
+    "Inundaciones en vialidades principales",
+    "Colapso de drenajes",
+    "Falta de higiene en escuelas",
+    "Contradicciones en consumo de agua",
+    "Presión social para exigir derechos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Movilización y protestas por agua"
+    },
+    {
+      "actor": "Mujeres",
+      "accion": "Exigir dotación de agua"
+    },
+    {
+      "actor": "Organizaciones locales",
+      "accion": "Presionar a diputados y autoridades"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Condonación del pago de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Distribuir agua por pipas"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Entregar agua en pipas"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumular agua en cisternas"
+    },
+    {
+      "actor": "Hogares",
+      "accion": "Comprar agua de garrafón"
+    },
+    {
+      "actor": "Hogares",
+      "accion": "Reutilizar agua para baño"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Lavar banquetas con manguera"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Campañas de cuidado del agua"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Pagar pipas de agua"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Frenar privatización del agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Movimiento por suministro de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Construcción de pozos de absorción"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Demandar limpieza de pozos"
+    },
+    {
+      "actor": "Funcionarios",
+      "accion": "No aplicar sanciones por desperdicio"
+    },
+    {
+      "actor": "Hogares",
+      "accion": "Recolectar agua de lluvia"
+    },
+    {
+      "actor": "Escuelas",
+      "accion": "Proyecto de cisterna para lluvia"
+    }
+  ],
+  "input_tokens": 9359,
+  "output_tokens": 588,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones",
+    "Problemas con la calidad del agua",
+    "Baja presión de agua"
+  ],
+  "Causas_principales": [
+    "Falta de inversión en infraestructura hidráulica",
+    "Proyectos de desarrollo urbano sin infraestructura hidráulica",
+    "Construcción de vivienda en zonas sin servicios",
+    "Seis meses sin lluvias",
+    "Pozos con hierro, manganeso, nitrógeno"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren problemas de abastecimiento",
+    "Comunidades sufren inundaciones",
+    "Costo elevado para introducir agua",
+    "Gente recibe muy poca agua a la semana",
+    "Agua de mala calidad en algunos puntos",
+    "Zonas residenciales con poca agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Falta de inversión en infraestructura"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejar fondos para vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuir agua con pipas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Realizar proyectos hidráulicos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Invertir en plantas potabilizadoras"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Invertir en programas hidráulicos"
+    },
+    {
+      "actor": "Programas sociales del gobierno",
+      "accion": "Dar vivienda a gente sin recursos"
+    },
+    {
+      "actor": "Especialistas técnicos",
+      "accion": "Analizar y proponer soluciones"
+    }
+  ],
+  "input_tokens": 4091,
+  "output_tokens": 417,
+  "error": null,
+  "items_antes_de_tope": {}
+}

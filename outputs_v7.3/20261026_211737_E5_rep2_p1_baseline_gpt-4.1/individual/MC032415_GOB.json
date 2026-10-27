@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en la Delegación",
+    "Fugas en tuberías viejas",
+    "Distribución desigual por tandeo y pipas",
+    "Disminución de fuentes de abastecimiento",
+    "Basura en manantiales y cauces",
+    "Oposición de comuneros a obras",
+    "Reforestación insuficiente en zona alta"
+  ],
+  "Causas_principales": [
+    "Tuberías rebasadas en su vida útil",
+    "Falta de inversión o presupuesto",
+    "Crecimiento de la mancha urbana",
+    "Deforestación y tala clandestina",
+    "Basura de paseantes y santeros",
+    "Oposición de comuneros y ejidatarios",
+    "Reducción de abastecimiento del Estado de México",
+    "Malos entendidos e información insuficiente",
+    "Falta de cultura y educación ambiental"
+  ],
+  "Consecuencias": [
+    "Pérdida de agua por fugas",
+    "Abastecimiento inconstante o por tandeo",
+    "Obras demoradas o suspendidas",
+    "Contaminación de captaciones y plantas",
+    "Reducción de recarga de manantiales",
+    "Desabasto en temporada de estiaje",
+    "Inundaciones puntuales por basura",
+    "Desbordamiento de cauces en lluvias fuertes",
+    "Oposición social a mejoras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Distribución de agua por tandeo o pipas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Programa de mantenimiento anual"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Limpieza y desazolve de captaciones"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Cloración y monitoreo de calidad"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Asignación de presupuesto para obras"
+    },
+    {
+      "actor": "Dirección Técnica de Obras",
+      "accion": "Sustitución de tuberías a polietileno"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de barrancas y cauces"
+    },
+    {
+      "actor": "Área de limpia",
+      "accion": "Recolección de basura"
+    },
+    {
+      "actor": "Comuneros y ejidatarios",
+      "accion": "Oposición a nuevas obras"
+    },
+    {
+      "actor": "Población civil",
+      "accion": "Participación en programas de reforestación"
+    },
+    {
+      "actor": "Televisoras",
+      "accion": "Colaboración en limpieza temporal"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Construcción de tanques de almacenamiento"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Reuniones de concertación con comunidades"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Almacenamiento en tinacos y cisternas"
+    },
+    {
+      "actor": "Participación ciudadana",
+      "accion": "Reuniones para expresar necesidades"
+    },
+    {
+      "actor": "Programa de pipas",
+      "accion": "Abastecimiento gratuito de agua"
+    },
+    {
+      "actor": "Podas y jardines",
+      "accion": "Retiro de matorrales del cauce"
+    },
+    {
+      "actor": "Área de CESAC",
+      "accion": "Recepción de solicitudes de pipas"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 776,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problema de abastecimiento de agua",
+    "Distribuci\u000fn desigual del agua",
+    "Contaminaci\u000fn de fuentes de agua",
+    "Falta de regulaci\u000fn en uso agr ola",
+    "Impacto de la urbanizaci n en el agua",
+    "Gobernanza fragmentada del agua",
+    "P\u001brdida de suelos agr olas",
+    "Presi n sobre acu iferos"
+  ],
+  "Causas_principales": [
+    "Expansi n urbana",
+    "Historia de ocupaci n y uso de suelo",
+    "Decisiones econ micas y tecnol gicas",
+    "Mercado cercano como motor de cambio",
+    "Falta de regulaci n y monitoreo",
+    "Presi n sobre la tierra por urbanizaci n",
+    "Cambio en patrones familiares",
+    "Falta de educaci n ambiental",
+    "Fragmentaci n institucional y jurisdiccional",
+    "Corrupci n en urbanizaci n"
+  ],
+  "Consecuencias": [
+    "Contaminaci n de agua por agroqu micos",
+    "P\u001brdida de suelos agr olas",
+    "Asentamientos irregulares",
+    "Disminuci n de producci n agr ola",
+    "Cambio de uso de suelo",
+    "Desplazamiento de productores locales",
+    "Falta de autosuficiencia alimentaria",
+    "Conflictos sociales y pol ticos",
+    "Deterioro de r ios y acu iferos",
+    "Vulnerabilidad y riesgos urbanos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores locales",
+      "accion": "Defensa de recursos y tierras"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Programas de extensionismo agr ola"
+    },
+    {
+      "actor": "ONGs y universidades",
+      "accion": "Sensibilizaci n y educaci n ambiental"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Continuar producci n agr ola"
+    },
+    {
+      "actor": "Gobierno federal y local",
+      "accion": "Regulaci n parcial del agua"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Negociaci n con pobladores por uso de suelo"
+    },
+    {
+      "actor": "Comisiones de cuenca",
+      "accion": "Gesti n y coordinaci n de agua"
+    },
+    {
+      "actor": "Productores y t nicos",
+      "accion": "Organizarse por sistema producto"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Protestas por derechos y servicios"
+    },
+    {
+      "actor": "Gobierno y agr nomos",
+      "accion": "Cursos de capacitaci n ambiental"
+    }
+  ],
+  "input_tokens": 19946,
+  "output_tokens": 805,
+  "error": null,
+  "items_antes_de_tope": {}
+}

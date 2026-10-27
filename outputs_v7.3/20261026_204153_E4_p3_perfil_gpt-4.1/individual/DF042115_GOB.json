@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Falta de agua potable en periferia",
+    "Contaminación del agua",
+    "Infraestructura vulnerable a sismos",
+    "Inundaciones locales",
+    "Desconfianza en el agua de la red",
+    "Enfermedades por agua contaminada"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Grandes consumidores industriales",
+    "Extracción de acuíferos",
+    "Crecimiento desordenado de asentamientos",
+    "Falta de mantenimiento de tinacos",
+    "Falta de mantenimiento de drenaje profundo",
+    "Diferencias entre gobiernos local y federal",
+    "Infraestructura antigua o insuficiente",
+    "Desinformación sobre calidad del agua",
+    "Influencia de empresas embotelladoras",
+    "Suelo flexible y hundimiento",
+    "Falta de coordinación institucional"
+  ],
+  "Consecuencias": [
+    "Enfermedades respiratorias",
+    "Enfermedades gastrointestinales",
+    "Enfermedades dermatológicas",
+    "Afectaciones en actividades económicas",
+    "Afectaciones en rendimiento educativo",
+    "Cortes de agua tras sismos",
+    "Inundaciones en zonas específicas",
+    "Vulnerabilidad de población migrante",
+    "Exposición a fenómenos extremos",
+    "Desigualdad en acceso a agua potable",
+    "Incremento en consumo de agua embotellada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de lagunas de regulación"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Creación de vasos reguladores"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Almacenamiento de agua en tinacos"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Consumo de agua embotellada"
+    },
+    {
+      "actor": "Secretaría de Salud federal",
+      "accion": "Acciones sanitarias tras desastres"
+    },
+    {
+      "actor": "Protección Civil DF",
+      "accion": "Respuesta a emergencias locales"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Capacitación a unidades estatales"
+    },
+    {
+      "actor": "Cenapred y Conagua",
+      "accion": "Instalación de sistemas de alerta"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Colaboración en capacitación"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Trasvase de agua de otras cuencas"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Promoción de techos verdes"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Promoción de captación de agua de lluvia"
+    }
+  ],
+  "input_tokens": 10172,
+  "output_tokens": 503,
+  "error": null,
+  "items_antes_de_tope": {}
+}

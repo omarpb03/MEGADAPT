@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u0003n de fuentes de abastecimiento",
+    "Fugas por tuber\u000eda vieja",
+    "Desabasto en temporada de estiaje",
+    "Oposici\u0003n a obras de mejora",
+    "Contaminaci\u000003n por basura en r\u00000edo",
+    "Crecimiento de la mancha urbana",
+    "Falta de recarga de mantos acu\u000003feros"
+  ],
+  "Causas_principales": [
+    "Tala clandestina en zona boscosa",
+    "Tuber\u00000eda rebasada en vida \u000003til",
+    "Crecimiento de la mancha urbana",
+    "Falta de reforestaci\u000003n",
+    "Reducci\u000003n de agua enviada del Estado de M\u000003xico",
+    "Falta de presupuesto para obras",
+    "Oposici\u000003n de comuneros y ejidatarios",
+    "Falta de educaci\u000003n ambiental",
+    "Tiradero de basura en barrancas",
+    "Pavimentaci\u000003n que impide filtraci\u000003n"
+  ],
+  "Consecuencias": [
+    "P\u000003rdida de agua por fugas",
+    "Disminuci\u000003n de caudal en manantiales",
+    "Abastecimiento por tandeo o pipas",
+    "Suspensi\u000003n de obras de mejora",
+    "Taponamientos e inundaciones por basura",
+    "Desbordamiento de cauces",
+    "Afectaciones a viviendas cercanas al r\u00000edo",
+    "Reducci\u000003n de recarga de acu\u000003feros"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u000003n",
+      "accion": "Distribuci\u000003n de agua en colonias"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustituci\u000003n de tuber\u00000eda vieja"
+    },
+    {
+      "actor": "Delegaci\u000003n y Sistema de Aguas",
+      "accion": "Mantenimiento y reparaci\u000003n de fugas"
+    },
+    {
+      "actor": "Delegaci\u000003n y Sistema de Aguas",
+      "accion": "Limpieza de captaciones y tanques"
+    },
+    {
+      "actor": "Delegaci\u000003n",
+      "accion": "Abastecimiento de agua por pipas"
+    },
+    {
+      "actor": "Delegaci\u000003n y Ecolog\u000003a",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Monitoreo de calidad de agua"
+    },
+    {
+      "actor": "Delegaci\u000003n y Sistema de Aguas",
+      "accion": "Reuni\u000003n de concertaci\u000003n con comuneros"
+    },
+    {
+      "actor": "Poblaci\u000003n civil",
+      "accion": "Tirar basura en barrancas"
+    },
+    {
+      "actor": "Poblaci\u000003n civil",
+      "accion": "Almacenamiento de agua en tinacos"
+    },
+    {
+      "actor": "Comuneros y ejidatarios",
+      "accion": "Oponerse a obras de infraestructura"
+    },
+    {
+      "actor": "Televisoras",
+      "accion": "Mantenimiento temporal de r\u00000edo"
+    },
+    {
+      "actor": "Participaci\u000003n ciudadana",
+      "accion": "Reuni\u000003n con avecindados por necesidades"
+    },
+    {
+      "actor": "Delegaci\u000003n y Sistema de Aguas",
+      "accion": "Solicitud de construcci\u000003n de tanques"
+    },
+    {
+      "actor": "Delegaci\u000003n y Ecolog\u000003a",
+      "accion": "Limpieza de matorral en cauces"
+    },
+    {
+      "actor": "Delegaci\u000003n",
+      "accion": "Programa de abastecimiento gratuito por pipa"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 775,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro de agua insuficiente",
+    "Exceso en la demanda de agua",
+    "Falta de cultura en el uso del agua",
+    "Retención e infiltración del agua en suelo de conservación",
+    "Escasez temporal de agua en estiaje",
+    "Contaminación por descargas industriales y desechos",
+    "Mala regulación para el uso agrícola del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Desarrollo urbano desmesurado",
+    "Tecnología y urbanización incrementan consumo",
+    "Dispendio y falta de uso racional del agua",
+    "Deforestación y depredación del ambiente",
+    "Actividades humanas que alteran ecosistemas",
+    "Falta de conciencia y principios sobre el agua",
+    "Aplicación deficiente de las leyes/regulaciones"
+  ],
+  "Consecuencias": [
+    "Insuficiencia de agua para la ciudad",
+    "Sequías y escasez temporal de agua",
+    "Falta de recarga de mantos acuíferos",
+    "Afectación a la fauna y flora local",
+    "Insatisfacción de los residentes por no usar el agua a su favor",
+    "Problemas para la producción agrícola y forestal",
+    "Degradación ambiental en áreas urbanas",
+    "Contaminación de cuerpos de agua en zonas bajas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Medio Ambiente/CORENA",
+      "accion": "Otorgar apoyos económicos para conservación"
+    },
+    {
+      "actor": "CORENA y grupos agrarios",
+      "accion": "Obras para retener e infiltrar el agua"
+    },
+    {
+      "actor": "Grupo técnico operativo de CORENA",
+      "accion": "Seguimiento y asesoría a beneficiarios"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad",
+      "accion": "Gestión del agua en zona urbana"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente/CORENA",
+      "accion": "Promoción de cultura del agua y uso racional"
+    },
+    {
+      "actor": "Comunidades y ejidos",
+      "accion": "Participar en conservación y captación"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Participar en investigación sobre sanidad forestal y agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente/CORENA",
+      "accion": "Reforestación y gestión de viveros"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Normar extracción y suministro de agua"
+    },
+    {
+      "actor": "Otros grupos y ONG",
+      "accion": "Desarrollar tecnologías para tratamiento de agua"
+    },
+    {
+      "actor": "Usuarios/ciudadanía",
+      "accion": "Conciencia y principios sobre el uso del agua"
+    }
+  ],
+  "input_tokens": 13955,
+  "output_tokens": 499,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en zonas urbanas",
+    "Inundaciones súbitas y rápidas",
+    "Falta de información pública sobre riesgo",
+    "Creciente intensidad de lluvias",
+    "Saturación y falta de mantenimiento del drenaje",
+    "Crecimiento urbano vertical y microclimas",
+    "Mala cultura de manejo de basura",
+    "Falta de colaboración interinstitucional",
+    "Limitado acceso a mapas de riesgo"
+  ],
+  "Causas_principales": [
+    "Lluvias intensas por cambio climático",
+    "Desbordamiento de ríos y cuerpos de agua",
+    "Falla o falta de mantenimiento en drenajes",
+    "Arrojo de basura en coladeras y barrancas",
+    "Crecimiento urbano sobre zonas inundables",
+    "Ausencia de cultura cívica en manejo de residuos",
+    "Deficiencia en la divulgación de información oficial",
+    "Falta de actualización de mapas de riesgo",
+    "Autonomía institucional limitando colaboración",
+    "Urbanización sustituye zonas verdes por concreto",
+    "Falta de infraestructura adecuada"
+  ],
+  "Consecuencias": [
+    "Muertes por inundaciones rápidas",
+    "Perdidas humanas especialmente de varones",
+    "Afectación a la movilidad urbana",
+    "Daños a viviendas y propiedades",
+    "Declaratorias de desastre y emergencia",
+    "Formación de charcos y anegamientos",
+    "Desinformación de la población",
+    "Pérdida de tiempo en traslados",
+    "Hundimiento en zonas específicas",
+    "Retrasos laborales y escolares",
+    "Afectaciones recurrentes en zonas bajas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Mapeo nacional de zonas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgación mediante infografías"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generar base de datos de vulnerabilidad"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Validar información con datos oficiales"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Propuesta de medidas preventivas"
+    },
+    {
+      "actor": "Unidades estatales PC",
+      "accion": "Proveer información local de inundación"
+    },
+    {
+      "actor": "Unidades municipales PC",
+      "accion": "Compilar casos de inundaciones"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Compartir información hidrométrica detallada"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proveer datos de decesos por inundación"
+    },
+    {
+      "actor": "Sedatu/Sedartur",
+      "accion": "Financiar atlas municipales de riesgo"
+    },
+    {
+      "actor": "Universidad Popular Veracruz",
+      "accion": "Aplicar metodologías de percepción de riesgo"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Realizar modificaciones a infraestructuras"
+    },
+    {
+      "actor": "Protección Civil DF",
+      "accion": "Generación interna de Atlas de Riesgo"
+    },
+    {
+      "actor": "Comunidad local",
+      "accion": "Identificar zonas recurrentes de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Validar eventos con autoridades estatales"
+    },
+    {
+      "actor": "Sarmex/sistema de aguas CDMX",
+      "accion": "Proveer datos de precipitaciones"
+    },
+    {
+      "actor": "Autoridades delegacionales",
+      "accion": "Difundir mapas de peligro en delegaciones"
+    },
+    {
+      "actor": "Población",
+      "accion": "Cuidado de zonas críticas y evitar basura"
+    },
+    {
+      "actor": "Talleres regionales de PC",
+      "accion": "Recolección de información local"
+    },
+    {
+      "actor": "Consultoras privadas",
+      "accion": "Elaborar Atlas municipales con fondos Sedatu"
+    }
+  ],
+  "input_tokens": 14961,
+  "output_tokens": 670,
+  "error": null,
+  "items_antes_de_tope": {}
+}

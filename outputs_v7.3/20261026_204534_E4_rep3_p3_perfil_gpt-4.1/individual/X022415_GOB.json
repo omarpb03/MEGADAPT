@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua en canales",
+    "Mala calidad del agua tratada",
+    "Cantidad insuficiente de agua",
+    "Hundimientos diferenciales",
+    "Fugas de agua en canales",
+    "Inundaciones en zonas chinamperas",
+    "Abandono de chinampas",
+    "Desarraigo de nuevas generaciones"
+  ],
+  "Causas_principales": [
+    "Descargas de aguas negras de asentamientos irregulares",
+    "Falta de drenaje adecuado",
+    "Descargas de establos y ganado",
+    "Uso excesivo de pesticidas y agroquimicos en invernaderos",
+    "Fugas en canales y grietas",
+    "Mantenimiento deficiente de plantas de tratamiento",
+    "Decisiones aisladas de dependencias",
+    "Falta de coordinacion institucional",
+    "Prioridad operativa sobre ecologica en sistema de aguas",
+    "Abandono de tecnologias no adaptadas",
+    "Desinteres de nuevas generaciones por la chinamperia"
+  ],
+  "Consecuencias": [
+    "Productos contaminados no se venden",
+    "Baja economia de productores",
+    "Abandono de chinampas",
+    "Perdida de biodiversidad",
+    "Inundaciones en viveros y casas",
+    "Riesgos de salud por aguas negras",
+    "Turismo afectado por agua sucia",
+    "Zonas degradadas y contaminadas",
+    "Dificultad para navegar canales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Reactivacion chinampera con refugios"
+    },
+    {
+      "actor": "Instituto de biologia UNAM",
+      "accion": "Proyectos de refugios de biodiversidad"
+    },
+    {
+      "actor": "Autoridad zona patrimonio",
+      "accion": "Coordinacion de politicas publicas"
+    },
+    {
+      "actor": "Sistema de aguas CDMX",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Delegacion y productores",
+      "accion": "Manejo de esclusas en canales"
+    },
+    {
+      "actor": "Conam y conabio",
+      "accion": "Colaboracion en biodiversidad"
+    },
+    {
+      "actor": "Sederec y sedema",
+      "accion": "Apoyo a sistema productivo"
+    },
+    {
+      "actor": "Turismo local",
+      "accion": "Promocion de turismo alternativo"
+    },
+    {
+      "actor": "Universidades UNAM y UAM",
+      "accion": "Monitoreo y estudios tecnicos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Propuestas de ordenamiento territorial"
+    },
+    {
+      "actor": "Productores y chef",
+      "accion": "Turismo culinario en chinampas"
+    }
+  ],
+  "input_tokens": 12431,
+  "output_tokens": 660,
+  "error": null,
+  "items_antes_de_tope": {}
+}

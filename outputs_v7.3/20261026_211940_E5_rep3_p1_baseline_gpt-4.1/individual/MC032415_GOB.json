@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento insuficiente de agua",
+    "Fugas en tuberías viejas",
+    "Disminución de manantiales",
+    "Contaminación por basura en cauces",
+    "Distribución desigual por tandeo",
+    "Retiro de servicio medido",
+    "Oposición social a obras",
+    "Pérdida de agua por fugas",
+    "Problemas de rebombeo eléctrico",
+    "Resistencia de comuneros a infraestructura"
+  ],
+  "Causas_principales": [
+    "Tuberías viejas y obsoletas",
+    "Deforestación y tala clandestina",
+    "Aumento de la mancha urbana",
+    "Falta de programas intensos de reforestación",
+    "Falta de cultura y educación ambiental",
+    "Falta de expropiación de terrenos",
+    "Mala información entre la población",
+    "Disminución del suministro externo",
+    "Oposición de comuneros y ejidatarios",
+    "Acumulación de basura en ríos y barrancas"
+  ],
+  "Consecuencias": [
+    "Desabasto en temporada de estiaje",
+    "Reducción de recarga de manantiales",
+    "Obras de mejora detenidas",
+    "Baja presión o suministro por tandeo",
+    "Incapacidad de atender nuevas poblaciones",
+    "Afectación por basura en plantas potabilizadoras",
+    "Inundaciones puntuales por basura",
+    "Pérdida de agua en fugas",
+    "Conflictos sociales por percepción de robo",
+    "Deterioro del sistema hidráulico"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Programa de mantenimiento anual"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Limpieza y desinfección de tanques"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Reparación de fugas y tomas tapadas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías desde 1998"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Sustitución de tuberías de plomo por polietileno"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Lavado de tanques de almacenamiento"
+    },
+    {
+      "actor": "Delegación y Ecología",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Cloración y monitoreo de calidad"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Entrega de agua en pipas"
+    },
+    {
+      "actor": "Población civil",
+      "accion": "Petición de pipas en CESAC"
+    },
+    {
+      "actor": "Comuneros y ejidatarios",
+      "accion": "Oposición a obras de infraestructura"
+    },
+    {
+      "actor": "Paseantes y santeros",
+      "accion": "Arrojar basura a ríos"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Construcción de transformadores eléctricos"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Desazolve y limpieza en manantiales"
+    },
+    {
+      "actor": "Población local",
+      "accion": "Almacenamiento de agua en tinacos y cisternas"
+    },
+    {
+      "actor": "Área de Ecología",
+      "accion": "Limpieza de barrancas y manejo de basura"
+    },
+    {
+      "actor": "Población escolar",
+      "accion": "Tirar basura en la calle"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Reuniones de concertación con comuneros"
+    },
+    {
+      "actor": "Pobladores recientes",
+      "accion": "Participación en obras de drenaje y agua potable"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 681,
+  "error": null,
+  "items_antes_de_tope": {}
+}

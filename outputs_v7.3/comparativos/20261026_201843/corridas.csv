@@ -1,0 +1,10 @@
+﻿condicion,experimento,prompt,modelo,temperatura,tope,esquema,fecha_corrida,script_version,carpeta,csv,entrevistas_en_csv,emparejadas,sin_par_modelo,evaluacion
+E1 · p1_baseline,E1,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:03:19,7.3,20261026_160317_E1_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E1 · p1_baseline,E1_rep2,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:07:42,7.3,20261026_160739_E1_rep2_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E1 · p1_baseline,E1_rep3,p1_baseline,gpt-4o-mini,0.0,,con_largo,2026-10-26T16:09:03,7.3,20261026_160900_E1_rep3_p1_baseline_gpt-4o-mini,analysis_v7_p1_baseline.csv,23,23,,reutilizada
+E2 · p2_definiciones,E2,p2_definiciones,gpt-4o-mini,0.0,,con_largo,2026-10-26T19:54:35,7.3,20261026_195432_E2_p2_definiciones_gpt-4o-mini,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E2 · p2_definiciones,E2_rep2,p2_definiciones,gpt-4o-mini,0.0,,con_largo,2026-10-26T19:55:24,7.3,20261026_195521_E2_rep2_p2_definiciones_gpt-4o-mini,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E2 · p2_definiciones,E2_rep3,p2_definiciones,gpt-4o-mini,0.0,,con_largo,2026-10-26T19:56:08,7.3,20261026_195605_E2_rep3_p2_definiciones_gpt-4o-mini,analysis_v7_p2_definiciones.csv,23,23,,reutilizada
+E3 · p3_perfil,E3,p3_perfil,gpt-4o-mini,0.0,,con_largo,2026-10-26T20:14:15,7.3,20261026_201412_E3_p3_perfil_gpt-4o-mini,analysis_v7_p3_perfil.csv,23,23,,nueva
+E3 · p3_perfil,E3_rep2,p3_perfil,gpt-4o-mini,0.0,,con_largo,2026-10-26T20:15:24,7.3,20261026_201521_E3_rep2_p3_perfil_gpt-4o-mini,analysis_v7_p3_perfil.csv,23,23,,nueva
+E3 · p3_perfil,E3_rep3,p3_perfil,gpt-4o-mini,0.0,,con_largo,2026-10-26T20:16:24,7.3,20261026_201622_E3_rep3_p3_perfil_gpt-4o-mini,analysis_v7_p3_perfil.csv,23,23,,nueva

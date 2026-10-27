@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Inundaciones frecuentes",
+    "Calidad del agua",
+    "Distribución desigual del agua"
+  ],
+  "Causas_principales": [
+    "Falta de infraestructura adecuada",
+    "Decisiones políticas ineficaces",
+    "Crecimiento urbano descontrolado",
+    "Desigualdad socioeconómica"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en colonias",
+    "Aumento de inundaciones",
+    "Conflictos por acceso al agua",
+    "Vulnerabilidad de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementación de tandeo de agua"
+    },
+    {
+      "actor": "Comunidades organizadas",
+      "accion": "Protestas por acceso al agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Defensa de proyectos de infraestructura"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Documentación de problemas de inundaciones"
+    }
+  ],
+  "input_tokens": 12471,
+  "output_tokens": 193,
+  "error": null,
+  "items_antes_de_tope": {}
+}

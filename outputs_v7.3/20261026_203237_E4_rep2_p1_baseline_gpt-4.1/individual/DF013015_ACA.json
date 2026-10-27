@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento en periferia",
+    "Agua de mala calidad",
+    "Costo elevado para gente pobre",
+    "Falta de servicios básicos en viviendas",
+    "Distribución desigual del agua",
+    "Tandeo y acceso irregular",
+    "Contaminación de aguas freáticas",
+    "Inundaciones y encharcamientos",
+    "Falta de coordinación institucional",
+    "Falta de mantenimiento en infraestructura"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva del subsuelo",
+    "Dependencia de cuencas externas",
+    "Visión de ciudad para quien puede pagar",
+    "Falta de coordinación entre organismos",
+    "Falta de planeación urbana",
+    "Corrupción en otorgamiento de permisos",
+    "Crecimiento poblacional sin control",
+    "Malas políticas de vivienda",
+    "Falta de educación ambiental",
+    "Infraestructura insuficiente",
+    "Fragmentación institucional",
+    "Políticas parciales",
+    "Falta de rendición de cuentas"
+  ],
+  "Consecuencias": [
+    "Grietas y deslaves en viviendas",
+    "Abandonos de viviendas",
+    "Gente pagando por casas inhabitables",
+    "Enfermedades por mala calidad de agua",
+    "Gasto extra en agua embotellada",
+    "Fracturas y lesiones por cargar agua",
+    "Deterioro de construcciones",
+    "Inseguridad en asentamientos",
+    "Contaminación de barrancas y ríos",
+    "Desigualdad en acceso al agua",
+    "Conflictos sociales y políticos",
+    "Falta de espacios públicos",
+    "Problemas de salud pública"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Realizar marchas y plantones"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Distribuir agua en pipas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Autorizar permisos de construcción"
+    },
+    {
+      "actor": "ONG y académicos",
+      "accion": "Asesorar en gestión comunitaria"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Instalar pozos de captación de lluvia"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Presionar por servicios y regularización"
+    },
+    {
+      "actor": "Empresas constructoras",
+      "accion": "Construir viviendas sin servicios"
+    },
+    {
+      "actor": "Instituciones de vivienda",
+      "accion": "Otorgar créditos y viviendas"
+    },
+    {
+      "actor": "Delegación y DGCOH",
+      "accion": "Manejar plantas de tratamiento"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Almacenar agua en tinacos y botes"
+    },
+    {
+      "actor": "Escuela de hermanos maristas",
+      "accion": "Colectar PET y hacer composta"
+    },
+    {
+      "actor": "Asamblea comunitaria",
+      "accion": "Gestionar proyectos ambientales"
+    },
+    {
+      "actor": "Gobierno y organizaciones",
+      "accion": "Cofinanciar mejoramiento de vivienda"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Permitir relleno de barrancas"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Construir sobre escombro y basura"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 823,
+  "error": null,
+  "items_antes_de_tope": {}
+}

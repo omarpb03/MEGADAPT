@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Retención del agua en el suelo",
+    "Escasez de agua en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Tecnología y urbanización",
+    "Falta de cultura en el usuario",
+    "Dispendio de agua",
+    "Deforestación",
+    "Cambios climáticos como el Niño y la Niña"
+  ],
+  "Consecuencias": [
+    "No da abasto el agua",
+    "Escurrimientos se secan en estiaje",
+    "Afectación al residente por no aprovechar el agua",
+    "Zona urbana más afectada por demanda de agua",
+    "Alteraciones en el ambiente",
+    "Superficie desértica o deforestada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener el agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos económicos para conservación"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Mantener áreas en buenas condiciones"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestionar suministro en zona urbana"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Mantener suelo de conservación"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Normar extracción y suministro"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigación en sanidad forestal"
+    },
+    {
+      "actor": "Usuarios",
+      "accion": "Uso razonado del agua"
+    }
+  ],
+  "input_tokens": 14316,
+  "output_tokens": 427,
+  "error": null,
+  "items_antes_de_tope": {}
+}

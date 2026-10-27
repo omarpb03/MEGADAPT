@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribucion desigual del agua",
+    "Suministro irregular en colonias populares",
+    "Desabasto por nuevas construcciones",
+    "Manejo discrecional del tandeo",
+    "Prioridad baja del agua en politicas urbanas",
+    "Impacto de obras urbanas en inundaciones",
+    "Falta de infraestructura en asentamientos irregulares",
+    "Falta de innovacion en periferias"
+  ],
+  "Causas_principales": [
+    "Peso politico de secretarias como Obras Publicas",
+    "Intereses del sector inmobiliario",
+    "Crecimiento urbano mas rapido que infraestructura",
+    "Sesgo presupuestal hacia zonas centrales",
+    "Manejo discrecional de valvulas y tandeo",
+    "Falta de planeacion urbana actualizada",
+    "Prejuicio hacia sectores populares",
+    "Falta de medicion real de consumos",
+    "Prioridad a obras grandes sobre necesidades locales"
+  ],
+  "Consecuencias": [
+    "Baja presion y menor abasto",
+    "Inundaciones frecuentes en zonas vulnerables",
+    "Grietas y daños en viviendas",
+    "Organizacion vecinal solo ante amenazas",
+    "Servicios deficientes en colonias nuevas",
+    "Duplicidad de viviendas vacias",
+    "Desigualdad en acceso a innovaciones urbanas",
+    "Incertidumbre y conflicto por suministro"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Control discrecional de valvulas"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar grietas e inundaciones"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    },
+    {
+      "actor": "Secretaria de Obras Publicas",
+      "accion": "Priorizar grandes proyectos urbanos"
+    },
+    {
+      "actor": "Sociedad civil y academicos",
+      "accion": "Participar en comites tecnicos"
+    },
+    {
+      "actor": "Habitantes de asentamientos",
+      "accion": "Almacenar agua en tambos"
+    },
+    {
+      "actor": "Proteccion Civil",
+      "accion": "Desasolve y limpieza preventiva"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Tandeo diferenciado del agua"
+    },
+    {
+      "actor": "Grupos organizados Xochimilco",
+      "accion": "Defensa de la cuenca y humedales"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Usar instrumentos legales viejos"
+    },
+    {
+      "actor": "Secretaria de Medio Ambiente",
+      "accion": "Defender obras con impacto ambiental"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Construir y operar autopistas urbanas"
+    }
+  ],
+  "input_tokens": 12237,
+  "output_tokens": 475,
+  "error": null,
+  "items_antes_de_tope": {}
+}

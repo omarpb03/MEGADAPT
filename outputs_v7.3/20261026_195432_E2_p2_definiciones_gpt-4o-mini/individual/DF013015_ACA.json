@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Falta de agua en zonas periféricas",
+    "Calidad del agua",
+    "Distribución desigual del agua",
+    "Corrupción en la gestión del agua",
+    "Falta de coordinación institucional"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva del subsuelo",
+    "Falta de planificación urbana",
+    "Corrupción en permisos de construcción",
+    "Priorización de intereses económicos",
+    "Falta de servicios básicos en viviendas"
+  ],
+  "Consecuencias": [
+    "Aumento de costos del agua",
+    "Inundaciones y encharcamientos",
+    "Deterioro de viviendas",
+    "Conflictos sociales por acceso al agua",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Proveer agua en pipas"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Protestar por acceso al agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instalar pozos de captación de agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Promover educación ambiental"
+    }
+  ],
+  "input_tokens": 18255,
+  "output_tokens": 235,
+  "error": null,
+  "items_antes_de_tope": {}
+}

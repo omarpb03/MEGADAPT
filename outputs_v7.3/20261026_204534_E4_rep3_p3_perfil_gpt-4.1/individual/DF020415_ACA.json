@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteraci\u00133n del medio ambiente",
+    "Alteraci\u00133n de la vocaci\u00133n natural del suelo urbano",
+    "Alteraci\u00133n de la infraestructura existente",
+    "Servicios urbanos y agua",
+    "Calidad de vida",
+    "Seguridad de vivir en condiciones de seguridad"
+  ],
+  "Causas_principales": [
+    "Pol\u0013dticas p\u0013ablicas urbanas",
+    "Preferencia a inversionistas privados",
+    "Construcci\u0013bn de v\u0013edas de comunicaci\u0013bn",
+    "Proyectos inmobiliarios",
+    "Condici\u0013bn neoliberal de la ciudad",
+    "Corrupci\u0013bn y tr\u0013afico de influencias",
+    "Reducci\u0013bn de recursos p\u0013ablicos",
+    "Clientelismo pol\u0013dtico"
+  ],
+  "Consecuencias": [
+    "Afectaci\u0013bn a asentamientos populares",
+    "Afectaci\u0013bn a colonias de clase media",
+    "Afectaci\u0013bn a zonas verdes",
+    "Agrietamiento de casas y calles",
+    "Incremento del riesgo",
+    "Deterioro de la calidad de vida",
+    "Dificultad para acceder a vivienda",
+    "Reducci\u0013bn de canales formales de acceso"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a pol\u0013dtica urbana"
+    },
+    {
+      "actor": "ONGs de vivienda",
+      "accion": "Asesor\u0013da en proyectos alternativos"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Protestas y plantones"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncias y propuestas a autoridades"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Elaboraci\u0013bn de iniciativas de ley"
+    },
+    {
+      "actor": "ONGs y movimientos urbanos",
+      "accion": "Promoci\u0013bn de Carta por el derecho a la ciudad"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Movilizaci\u0013bn y generaci\u0013bn de opini\u0013bn p\u0013ablica"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Aprendizaje normativo y defensa legal"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Participaci\u0013bn en foros internacionales"
+    },
+    {
+      "actor": "ONG internacional HIC",
+      "accion": "V\u0013dnculo con derecho a la ciudad"
+    }
+  ],
+  "input_tokens": 6800,
+  "output_tokens": 721,
+  "error": null,
+  "items_antes_de_tope": {}
+}

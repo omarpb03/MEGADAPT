@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Fugas en tuberías",
+    "Contaminación del agua",
+    "Suministro irregular de agua",
+    "Deforestación y tala clandestina",
+    "Basura en ríos y manantiales",
+    "Necesidad de infraestructura adecuada"
+  ],
+  "Causas_principales": [
+    "Agotamiento de fuentes de abastecimiento",
+    "Tala clandestina",
+    "Fugas en tuberías viejas",
+    "Crecimiento urbano descontrolado",
+    "Falta de reforestación",
+    "Basura arrastrada por lluvias",
+    "Falta de conciencia ambiental"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en temporadas de estiaje",
+    "Contaminación del agua potable",
+    "Inundaciones en zonas bajas",
+    "Reducción de la calidad del agua",
+    "Conflictos comunitarios por el agua",
+    "Dificultades en el suministro de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Programas de reforestación"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participación en limpieza de ríos"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Monitoreo de calidad del agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Solicitud de pipas de agua"
+    }
+  ],
+  "input_tokens": 12064,
+  "output_tokens": 295,
+  "error": null,
+  "items_antes_de_tope": {}
+}

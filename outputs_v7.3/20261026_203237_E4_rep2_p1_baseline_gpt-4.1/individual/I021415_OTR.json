@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Mala calidad del agua",
+    "Uso político del agua",
+    "Escasez en temporada de estiaje",
+    "Corrupción en distribución de agua",
+    "Privatización del agua",
+    "Desperdicio de agua en la comunidad",
+    "Falta de mantenimiento a infraestructura",
+    "Inundaciones en vialidades cercanas"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin servicios",
+    "Juego político en distribución",
+    "Corrupción en manejo del agua",
+    "Falta de políticas públicas efectivas",
+    "Mala distribución de la riqueza",
+    "Saturación y falta de mantenimiento de pozos",
+    "Falta de árboles y captación de agua",
+    "Privatización y concesión a privados",
+    "Mala gestión de recursos federales y locales"
+  ],
+  "Consecuencias": [
+    "Agua chocolatosa y con insectos",
+    "Enfermedades estomacales en niños",
+    "Gasto en agua embotellada",
+    "Organización comunitaria para exigir agua",
+    "Desigualdad en acceso al agua",
+    "Tiradero de agua en calles",
+    "Inundaciones en calzada Ermita y vialidades",
+    "Colapso de drenajes",
+    "Contaminación de aguas y subsuelo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Movilización y protestas por agua"
+    },
+    {
+      "actor": "Líderes políticos",
+      "accion": "Uso del agua como bandera política"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Distribución de agua por pipas"
+    },
+    {
+      "actor": "Mujeres de la comunidad",
+      "accion": "Exigir dotación de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Condonación de pago de agua"
+    },
+    {
+      "actor": "Organizaciones locales",
+      "accion": "Presionar para condonación"
+    },
+    {
+      "actor": "Diputados",
+      "accion": "Emitir decretos de condonación"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Entrega de agua en pipas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Propuesta de privatización"
+    },
+    {
+      "actor": "Organizaciones ciudadanas",
+      "accion": "Frenar privatización del agua"
+    },
+    {
+      "actor": "Pedro Moctezuma y UAM",
+      "accion": "Movimiento de defensa del agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Movimiento por suministro de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Construcción de pozos de absorción"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Recolectar agua de lluvia"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumular agua en cisternas"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Pagar pipas de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reutilizar agua en el hogar"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Campañas de cuidado del agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Demandar limpieza de pozos"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de alcantarillas tras demanda"
+    },
+    {
+      "actor": "SEDESOL",
+      "accion": "Mejoras en techos y paredes"
+    },
+    {
+      "actor": "Funcionarios",
+      "accion": "Mensaje de cuidar el agua"
+    },
+    {
+      "actor": "Escuelas",
+      "accion": "Comprar agua embotellada"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Instalar sistemas de flotadores"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Presionar para mantenimiento de pozos"
+    }
+  ],
+  "input_tokens": 8998,
+  "output_tokens": 666,
+  "error": null,
+  "items_antes_de_tope": {}
+}

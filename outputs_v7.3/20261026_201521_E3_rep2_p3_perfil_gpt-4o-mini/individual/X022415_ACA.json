@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Contaminación de fuentes de agua",
+    "Acceso desigual al agua",
+    "Impacto de la urbanización en el agua",
+    "Destrucción de ecosistemas hídricos"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada",
+    "Uso de agroquímicos",
+    "Falta de regulación en el uso de agua",
+    "Decisiones políticas inadecuadas"
+  ],
+  "Consecuencias": [
+    "Deterioro de la calidad del agua",
+    "Escasez de agua para la agricultura",
+    "Conflictos por el acceso al agua",
+    "Desplazamiento de comunidades",
+    "Pérdida de biodiversidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementación de programas de regulación"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Adaptación de cultivos a invernaderos"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Educación y sensibilización sobre el agua"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Gestión y monitoreo del agua"
+    },
+    {
+      "actor": "Investigadores",
+      "accion": "Estudios sobre uso y manejo del agua"
+    }
+  ],
+  "input_tokens": 20180,
+  "output_tokens": 253,
+  "error": null,
+  "items_antes_de_tope": {}
+}

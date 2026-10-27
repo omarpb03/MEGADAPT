@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del rio Eslava",
+    "Consumo de agua de buena calidad",
+    "Escasez de agua cada dia",
+    "Recarga de mantos acuíferos",
+    "Destruccion de rios y canales",
+    "Cuidado de la calidad de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano sin planeacion",
+    "Asentamientos humanos irregulares",
+    "Falta de apoyo suficiente del gobierno",
+    "Falta de conciencia real de la gente",
+    "Perdida de valores y respeto",
+    "Ganado suelto en parte forestal"
+  ],
+  "Consecuencias": [
+    "Conversion del rio en drenaje",
+    "Contaminacion de agua potable",
+    "Disminucion de presion del agua",
+    "Poca filtracion de agua al subsuelo",
+    "Venta de tierras por bajo ingreso",
+    "Perdida de zona de recarga de mantos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporacion a reserva ecologica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento cero urbano"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construccion de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestacion masiva"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de bosques"
+    },
+    {
+      "actor": "Ejido y gobierno",
+      "accion": "Proyectos de conservacion conjuntos"
+    },
+    {
+      "actor": "Cuadrillas ejido",
+      "accion": "Limpieza y poda anual"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Acordonar zona con muro ecologico"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Sistemas de riego por gravedad"
+    },
+    {
+      "actor": "Productores del ejido",
+      "accion": "Produccion agropecuaria regulada"
+    },
+    {
+      "actor": "Ejido con Secretaria del Medio Ambiente",
+      "accion": "Ordenamiento ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Retirar ganado de cerros"
+    },
+    {
+      "actor": "Ejido y gobierno",
+      "accion": "Programas de empleo rural"
+    },
+    {
+      "actor": "Gente del parque",
+      "accion": "Conciencia ambiental y limpieza"
+    },
+    {
+      "actor": "Secretaria del Medio Ambiente",
+      "accion": "Apoyo a proyectos forestales"
+    }
+  ],
+  "input_tokens": 6922,
+  "output_tokens": 441,
+  "error": null,
+  "items_antes_de_tope": {}
+}

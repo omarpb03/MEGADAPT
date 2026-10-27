@@ -1,0 +1,2 @@
+{"fecha": "2026-10-26T20:43:37", "modelo": "gpt-4.1", "prompt_variant": "p3_perfil", "csv_salida": "analysis_v7_p3_perfil.csv", "tokens_entrada": 279512, "tokens_salida": 15391, "costo_usd_estimado": 0.682152, "entrevistas_recortadas": []}
+{"fecha": "2026-10-26T20:53:36", "modelo": "gpt-4.1", "prompt_variant": "p3_perfil", "csv_salida": "analysis_v7_p3_perfil.csv", "tokens_entrada": 9945, "tokens_salida": 877, "costo_usd_estimado": 0.026906, "entrevistas_recortadas": []}

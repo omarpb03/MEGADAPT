@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular en zonas periféricas",
+    "Discrecionalidad en el suministro",
+    "Infraestructura hidráulica rezagada",
+    "Inequidad en la distribución",
+    "Impacto de construcciones verticales sobre el agua",
+    "Problemas de inundaciones recurrentes",
+    "Desatención a grietas relacionadas al agua",
+    "Prioridad política baja sobre el agua",
+    "Falta de políticas de riesgo",
+    "Uso irracional y despilfarro en sectores privilegiados",
+    "Imposibilidad de acceder a información sobre gestión del recurso",
+    "Servicios deficientes tras la regularización",
+    "Discriminación e inequidad territorial"
+  ],
+  "Causas_principales": [
+    "Discrecionalidad del coordinador territorial",
+    "Infraestructura primaria no se amplía rápido",
+    "Expansión urbana más rápida que infraestructura",
+    "Peso político de ciertas secretarías",
+    "Prioridad a áreas centrales y poniente",
+    "Innovación y servicios concentrados en áreas privilegiadas",
+    "Ausencia de planeación urbana actualizada",
+    "Intereses de sector inmobiliario",
+    "Construcción de edificios sin modificar infraestructura hidráulica",
+    "Segregación presupuestal y política",
+    "Política de tandeo no equitativa",
+    "Sesgo en aprobación de proyectos urbanos",
+    "Prioridades económicas y políticas sobre la técnica"
+  ],
+  "Consecuencias": [
+    "Baja presión del agua",
+    "Servicio deficiente en colonias populares",
+    "Protestas vecinales por desabasto",
+    "División entre residentes antiguos y nuevos",
+    "Duplicidad habitacional sin ocupación real",
+    "Proyectos comunitarios no aprobados",
+    "Inundaciones en zonas vulnerables",
+    "Casas partidas por grietas",
+    "Percepción de corrupción en reparto de agua",
+    "Uso de recipientes temporales (tambos)",
+    "Prolongación de tandeo e irregularidad",
+    "Consolidación lenta de servicios tras regularización",
+    "Concentración de la innovación y servicios"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Toma decisiones sobre válvulas"
+    },
+    {
+      "actor": "Vecinos organización UPREZ",
+      "accion": "Hacen estudios de grietas"
+    },
+    {
+      "actor": "Secretaría de Obras",
+      "accion": "Decide sobre proyectos urbanos"
+    },
+    {
+      "actor": "Comité Técnico Mejoramiento Barrial",
+      "accion": "Aprueba o rechaza proyectos colonias"
+    },
+    {
+      "actor": "Habitantes de colonias populares",
+      "accion": "Almacenan agua en tambos"
+    },
+    {
+      "actor": "Habitantes áreas centrales",
+      "accion": "Tienen sistemas de almacenamiento"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Desasolve y limpieza coladeras"
+    },
+    {
+      "actor": "Organizaciones sociales Xochimilco",
+      "accion": "Generan propuestas y reclamos"
+    },
+    {
+      "actor": "Grupo Promotor de la Cuenca Xochimilco",
+      "accion": "Reúnen y organizan actores"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Defiende obras urbanas"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Construyen y operan autopistas"
+    },
+    {
+      "actor": "Habitantes de asentamientos irregulares",
+      "accion": "Gestionan servicios tras regularización"
+    },
+    {
+      "actor": "Ciudadanos colectivos",
+      "accion": "Se organizan ante amenazas"
+    },
+    {
+      "actor": "Autoridades delegacionales",
+      "accion": "Dan prioridad a centros urbanos"
+    },
+    {
+      "actor": "Investigadores-académicos",
+      "accion": "Documentan problemáticas y procesos"
+    },
+    {
+      "actor": "Sociedad civil y organizaciones vecinales",
+      "accion": "Protestan desabasto e impactos urbanos"
+    },
+    {
+      "actor": "Secretaría de Desarrollo Urbano",
+      "accion": "Promueve construcción vertical"
+    }
+  ],
+  "input_tokens": 12110,
+  "output_tokens": 702,
+  "error": null,
+  "items_antes_de_tope": {}
+}

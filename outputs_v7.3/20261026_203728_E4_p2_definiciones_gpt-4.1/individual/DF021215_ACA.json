@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas urbanas",
+    "Calidad del agua no es muy buena",
+    "Presion urbana sobre zonas de conservación",
+    "Problemática del agua en asentamientos irregulares",
+    "Control de agua por grupos de piperos"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios y políticos",
+    "Descoordinación institucional",
+    "Desmantelamiento de políticas rurales",
+    "Expansión urbana desordenada",
+    "Falta de apoyo al campo",
+    "Distorsión de políticas de vivienda",
+    "Lógica de tubería para distribución de agua",
+    "Presencia de grupos de poder como piperos"
+  ],
+  "Consecuencias": [
+    "Conflictos comunitarios",
+    "Toma de instalaciones por falta de recursos",
+    "Gentrificación de zonas urbanas",
+    "Expansión urbana en zonas de conservación",
+    "Problemas internos en comunidades",
+    "Necesidad de soluciones autogestivas",
+    "Aumento de costos de producción agrícola",
+    "Dependencia de pipas de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidades locales",
+      "accion": "Captación de agua de lluvia"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Filtración casera de agua"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Proyectos de captación pluvial"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Asambleas comunitarias para gestión"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Distribución de agua por tubería"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Venta y control de pipas de agua"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Reparto de agua en pipas"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Proyectos productivos y forestales"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Alineación de políticas ambientales"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Negociación de recursos y servicios"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Proyectos de invernaderos sin agroquímicos"
+    },
+    {
+      "actor": "Instituciones comunitarias",
+      "accion": "Ordenamiento territorial consensuado"
+    }
+  ],
+  "input_tokens": 9843,
+  "output_tokens": 601,
+  "error": null,
+  "items_antes_de_tope": {}
+}

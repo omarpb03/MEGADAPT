@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud por lluvias",
+    "Inundaciones por exceso de agua",
+    "Reblandecimiento del suelo en asentamientos",
+    "Saturación del drenaje y coladeras",
+    "Desbordamiento de barrancas",
+    "Modificación del terreno por lluvia",
+    "Afectaciones en viviendas por agua"
+  ],
+  "Causas_principales": [
+    "Cortes a los cerros por vecinos",
+    "Terraceo para construir vivienda",
+    "Deforestación y quema de raíces",
+    "Canalización inadecuada de agua",
+    "Uso de letrinas y drenaje precario",
+    "Acumulación de basura en ríos y barrancas",
+    "Lluvias extraordinarias e intensas",
+    "Taponamiento de coladeras por hojas y basura"
+  ],
+  "Consecuencias": [
+    "Deslizamientos y derrumbes en laderas",
+    "Inundaciones en domicilios",
+    "Daños materiales en viviendas",
+    "Contaminación por desbordes e inundaciones",
+    "Enfermedades por agua contaminada",
+    "Evacuación de personas de riesgo",
+    "Deterioro del suelo y barrancas",
+    "Obstrucción de drenajes y coladeras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notifica a vecinos sobre riesgos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emite recomendaciones de mitigación"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpia ríos y barrancas"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Retira o poda árboles en riesgo"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Realiza desazolve de drenaje"
+    },
+    {
+      "actor": "Dirección General de Tenencia de la Tierra",
+      "accion": "Recorre y evita nuevos asentamientos"
+    },
+    {
+      "actor": "Dirección General de Tenencia de la Tierra",
+      "accion": "Retira viviendas irregulares"
+    },
+    {
+      "actor": "Desarrollo Social",
+      "accion": "Habilita albergues en emergencia"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Limpia casas afectadas con cloro"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Aplica vacunas y atenciones médicas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Difunde información y trípticos preventivos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Provee datos pluviométricos"
+    },
+    {
+      "actor": "Secretaría de Protección Civil",
+      "accion": "Coordina Comité de Riesgos Hidrometereológicos"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Siguen recomendaciones de mitigación"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Acuden a albergues en emergencia"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Participan en campañas de reciclaje"
+    }
+  ],
+  "input_tokens": 9151,
+  "output_tokens": 529,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Mala calidad del agua",
+    "Uso político del agua",
+    "Escasez en temporada de estiaje",
+    "Corrupción en distribución de agua",
+    "Privatización del sistema de agua",
+    "Desperdicio de agua en la comunidad",
+    "Falta de mantenimiento a pozos de absorción",
+    "Costos elevados de agua potable",
+    "Falta de políticas públicas efectivas"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin compromiso oficial",
+    "Juego político en distribución de agua",
+    "Falta de mantenimiento en la red",
+    "Sistema de tandeo manipulado",
+    "Corrupción en manejo de pipas",
+    "Iniciativas de privatización del agua",
+    "Mala distribución de la riqueza",
+    "Falta de políticas públicas de agua",
+    "Falta de árboles y captación de agua",
+    "Saturación y falta de mantenimiento de pozos de absorción",
+    "Prioridad presupuestal baja para agua",
+    "Cultura de escasez y sometimiento",
+    "Falta de aplicación de leyes ambientales"
+  ],
+  "Consecuencias": [
+    "Agua chocolatosa y con insectos",
+    "Sedimentación y lodo en recipientes",
+    "Enfermedades estomacales en niños",
+    "Gasto en agua embotellada",
+    "Organización comunitaria para acopio",
+    "Desigualdad en acceso al agua",
+    "Tiradero de agua en calles",
+    "Inundaciones en vialidades principales",
+    "Colapso de drenajes",
+    "Contaminación de aguas y subsuelo",
+    "Falta de higiene en escuelas",
+    "Presión social para exigir servicios",
+    "Desconfianza en autoridades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Movilización y presión delegacional"
+    },
+    {
+      "actor": "Líderes políticos",
+      "accion": "Prometer más agua en campañas"
+    },
+    {
+      "actor": "Mujeres de la comunidad",
+      "accion": "Protestas y exigencia de agua"
+    },
+    {
+      "actor": "Gobierno y comunidad",
+      "accion": "Instalación de tomas de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programa mitad material mitad mano de obra"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Condonación del pago de agua"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Presionar a diputados y sistema de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Manejo de pipas de agua"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Cobro ilegal por agua"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Frenar privatización del agua"
+    },
+    {
+      "actor": "Pedro Moctezuma y científicos",
+      "accion": "Movimiento de defensa del agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Movimiento por suministro de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Construcción de pozos de absorción"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Recolección de agua de lluvia"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumulación y reutilización de agua"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Compra de pipas de agua"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Campañas de cuidado del agua"
+    },
+    {
+      "actor": "SEDESOL",
+      "accion": "Mejoras en techos y paredes"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Demanda de limpieza de pozos"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Limpieza de alcantarillas bajo presión"
+    },
+    {
+      "actor": "Funcionarios",
+      "accion": "Mensaje de cuidar el agua"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Proyectos de cosecha de agua"
+    },
+    {
+      "actor": "Escuelas",
+      "accion": "Compra de garrafones para consumo"
+    }
+  ],
+  "input_tokens": 8998,
+  "output_tokens": 722,
+  "error": null,
+  "items_antes_de_tope": {}
+}

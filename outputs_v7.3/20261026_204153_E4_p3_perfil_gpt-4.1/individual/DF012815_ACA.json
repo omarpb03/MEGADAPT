@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtenci\u0003n y distribuci\u0003n del agua",
+    "Calidad del agua",
+    "Escasez de agua",
+    "Infraestructura vieja y deficiente",
+    "P\u0000e9rdidas en redes de agua",
+    "Dotaci\u000003n desigual entre colonias",
+    "Manejo pol\u00000edtico del agua",
+    "Crecimiento urbano en zonas de recarga"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad sin planeaci\u000003n",
+    "Asentamientos informales permitidos por autoridades",
+    "Decisiones pol\u00000edticas sin base t\u00000e9cnica",
+    "Sobreexplotaci\u000003n de mantos fre\u000001ticos",
+    "Urbanizaci\u000003n de zonas de recarga",
+    "Infraestructura obsoleta y mal mantenida",
+    "Corrupci\u000003n y control pol\u00000edtico",
+    "Falta de informaci\u000003n confiable",
+    "Desfase entre planeaci\u000003n y realidad urbana",
+    "Extracci\u000003n de agua mayor que recarga",
+    "Negocio de pipas y tandeo",
+    "Falta de inversi\u000003n en tecnolog\u00000eda"
+  ],
+  "Consecuencias": [
+    "Inundaciones recurrentes",
+    "Hundimiento de la ciudad",
+    "Escasez en colonias populares",
+    "Agua de mala calidad en oriente",
+    "Dotaci\u000003n por tandeo o pipas",
+    "Desigualdad en acceso al agua",
+    "Conflictos sociales por agua",
+    "Protestas en cuencas vecinas",
+    "Servicios urbanos deficientes",
+    "P\u00000e9rdidas de agua en redes",
+    "Degradaci\u000003n de servicios formales",
+    "Mejoras temporales por elecciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales",
+      "accion": "Permiten asentamientos informales"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo y pipas"
+    },
+    {
+      "actor": "Coordinadores territoriales",
+      "accion": "Gestionan servicios por votos"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Opera dotaci\u000003n de agua"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Participan en concesiones de servicios"
+    },
+    {
+      "actor": "Pol\u00000edticos",
+      "accion": "Toman decisiones sin base t\u00000e9cnica"
+    },
+    {
+      "actor": "Residentes organizados",
+      "accion": "Presionan para resolver problemas"
+    },
+    {
+      "actor": "Acad\u00000emicos",
+      "accion": "Realizan estudios independientes"
+    },
+    {
+      "actor": "Gobierno federal y local",
+      "accion": "Traen agua de otras cuencas"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Construyen sin garantizar servicios"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Invierten en servicios en asentamientos"
+    },
+    {
+      "actor": "Pol\u00000edticos",
+      "accion": "Mejoran servicios en elecciones"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Proporciona informaci\u000003n oficial limitada"
+    },
+    {
+      "actor": "Empresas concesionarias",
+      "accion": "Instalan medidores de agua"
+    }
+  ],
+  "input_tokens": 9945,
+  "output_tokens": 877,
+  "error": null,
+  "items_antes_de_tope": {}
+}

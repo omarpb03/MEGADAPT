@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problema de abastecimiento de agua",
+    "Contaminacion de fuentes de agua",
+    "Falta de regulacion en uso agricola",
+    "Expansion urbana sobre zonas agrícolas",
+    "Conflictos por uso de suelo y agua",
+    "Gobernanza fragmentada del agua",
+    "Presion sobre acuiferos",
+    "Desigualdad en acceso al agua"
+  ],
+  "Causas_principales": [
+    "Expansion urbana descontrolada",
+    "Historia de ocupacion y uso de suelo",
+    "Racionalidad economica y tecnologica",
+    "Mercado como motor de cambio",
+    "Falta de regulacion y monitoreo",
+    "Presiones politicas y negociaciones locales",
+    "Falta de educacion ambiental",
+    "Fragmentacion institucional y jurisdiccional",
+    "Cambio en patrones culturales y sociales"
+  ],
+  "Consecuencias": [
+    "Contaminacion por agroquimicos",
+    "Perdida de suelos agrícolas",
+    "Asentamientos irregulares",
+    "Disminucion de agua disponible",
+    "Conflictos sociales y politicos",
+    "Desplazamiento de productores locales",
+    "Deterioro de ríos y causes",
+    "Falta de autosuficiencia alimentaria",
+    "Vulnerabilidad y riesgos urbanos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores locales",
+      "accion": "Defensa de recursos y tierras"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de extensionismo agricola"
+    },
+    {
+      "actor": "ONGs y grupos civiles",
+      "accion": "Sensibilizacion y educacion ambiental"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Consultorias y estudios de sustentabilidad"
+    },
+    {
+      "actor": "Comision de Cuenca",
+      "accion": "Gobernanza y negociacion con pobladores"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Continuar produccion agricola"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Luchas por derechos y servicios"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Negociaciones sobre asentamientos irregulares"
+    },
+    {
+      "actor": "Productores y tecnicos",
+      "accion": "Uso de agua sin regulacion"
+    },
+    {
+      "actor": "Universidad y organizaciones",
+      "accion": "Procesos de sensibilizacion y negociacion"
+    }
+  ],
+  "input_tokens": 19946,
+  "output_tokens": 434,
+  "error": null,
+  "items_antes_de_tope": {}
+}

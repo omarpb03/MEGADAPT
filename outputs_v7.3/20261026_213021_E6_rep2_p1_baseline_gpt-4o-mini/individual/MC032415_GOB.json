@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Fugas en tuberías",
+    "Contaminación por basura",
+    "Desabasto en temporada de estiaje",
+    "Problemas de infraestructura",
+    "Desconfianza en el suministro de agua"
+  ],
+  "Causas_principales": [
+    "Agotamiento de fuentes de abastecimiento",
+    "Deforestación y tala clandestina",
+    "Fugas en tuberías viejas",
+    "Crecimiento urbano descontrolado",
+    "Falta de reforestación",
+    "Mala gestión de residuos",
+    "Desinformación de la población"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en colonias",
+    "Contaminación del agua potable",
+    "Inundaciones por basura",
+    "Problemas de salud por calidad del agua",
+    "Conflictos comunitarios por el agua",
+    "Dificultades en el suministro de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Mantenimiento y reparación de fugas"
+    },
+    {
+      "actor": "Delegación Magdalena Contreras",
+      "accion": "Distribución de agua por tandeo"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participación en reforestación"
+    },
+    {
+      "actor": "ONG's",
+      "accion": "Concientización sobre el manejo de residuos"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Limpieza de cauces y captaciones"
+    }
+  ],
+  "input_tokens": 11692,
+  "output_tokens": 302,
+  "error": null,
+  "items_antes_de_tope": {}
+}

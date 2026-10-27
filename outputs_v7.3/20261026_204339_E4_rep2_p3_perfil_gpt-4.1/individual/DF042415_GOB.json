@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en colonias vulnerables",
+    "Enfermedades derivadas de inundaciones",
+    "Escasez de agua potable",
+    "Enfermedades gastrointestinales por agua",
+    "Exposición a aguas negras",
+    "Subregistro de enfermedades",
+    "Vulnerabilidad de grupos específicos",
+    "Capacidad de respuesta institucional"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para lluvias",
+    "Falta de drenaje en zonas irregulares",
+    "Asentamientos en zonas bajas",
+    "Agua entubada de baja calidad",
+    "Agua de pipas no totalmente limpia",
+    "Cambio climático sequías e inundaciones",
+    "Falta de cultura de prevención",
+    "Condiciones precarias de vivienda",
+    "Mezcla de aguas negras y pluviales"
+  ],
+  "Consecuencias": [
+    "Dermatitis y enfermedades de la piel",
+    "Conjuntivitis e irritación de mucosas",
+    "Enfermedades gástricas",
+    "Intoxicación por químicos de limpieza",
+    "Pérdida de pertenencias",
+    "Dificultad para volver a la normalidad",
+    "Subregistro de casos de enfermedad",
+    "Mayor afectación a niños y mujeres",
+    "Mayor riesgo para adultos mayores y diabéticos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Brigadas de limpieza y evacuación"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación y resguardo de casas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Informar y prevenir a población"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Campañas de prevención y fumigación"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporcionar cloro y agua potable"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Limpiar y desinfectar casas"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difundir información y recomendaciones"
+    },
+    {
+      "actor": "Dirección Epidemiología DF",
+      "accion": "Análisis y mapas de enfermedades"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Apoyo entre delegaciones"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Entrega de enseres y ayuda material"
+    },
+    {
+      "actor": "Brigadas escolares",
+      "accion": "Educar a niños sobre prevención"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Subir pertenencias para protegerlas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Solicitar ayuda institucional"
+    },
+    {
+      "actor": "Jurisdicción sanitaria",
+      "accion": "Levantamiento de información de salud"
+    }
+  ],
+  "input_tokens": 12925,
+  "output_tokens": 480,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Problemas de salud",
+    "Riesgos hidrometeorológicos"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Demanda industrial de agua",
+    "Construcción descontrolada",
+    "Falta de mantenimiento a infraestructura"
+  ],
+  "Consecuencias": [
+    "Enfermedades respiratorias",
+    "Aumento de enfermedades gastrointestinales",
+    "Vulnerabilidad de asentamientos",
+    "Contaminación del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno local",
+      "accion": "Construcción de infraestructura de regulación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Monitoreo de riesgos hidrometeorológicos"
+    },
+    {
+      "actor": "Organizaciones no gubernamentales",
+      "accion": "Propuestas de restauración de cuerpos de agua"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Implementación de servicios meteorológicos locales"
+    }
+  ],
+  "input_tokens": 9938,
+  "output_tokens": 194,
+  "error": null,
+  "items_antes_de_tope": {}
+}

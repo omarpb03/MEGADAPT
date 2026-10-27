@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Zonas susceptibles de inundacion",
+    "Inundaciones subitas",
+    "Falta de informacion oficial",
+    "Problemas con el sistema de drenaje",
+    "Acumulacion de basura en drenaje",
+    "Divulgacion insuficiente de mapas de peligro",
+    "Crecimiento urbano vertical",
+    "Lluvias cada vez mas intensas",
+    "Falta de colaboracion entre instituciones",
+    "Dificultad para acceder a mapas de riesgo"
+  ],
+  "Causas_principales": [
+    "Lluvias intensas",
+    "Desbordamiento de rios",
+    "Ciclones tropicales",
+    "Frentes frios",
+    "Crecimiento de zonas urbanas",
+    "Falta de mantenimiento del drenaje",
+    "Arrojo de basura al drenaje",
+    "Cambio de zonas verdes por concreto",
+    "Microclimas urbanos",
+    "Falta de cultura de la poblacion",
+    "Falta de divulgacion de informacion",
+    "Falta de colaboracion institucional",
+    "Falta de datos oficiales",
+    "Problemas tecnicos en infraestructura",
+    "Falta de modelos digitales detallados"
+  ],
+  "Consecuencias": [
+    "Perdidas humanas",
+    "Movilidad afectada",
+    "Charcos en zonas bajas",
+    "Perdida de tiempo en transporte",
+    "Afectaciones socioeconomicas",
+    "Inundaciones recurrentes",
+    "Falta de preparacion de la poblacion",
+    "Desinformacion sobre riesgos",
+    "Zonas sin calificacion de riesgo",
+    "Incremento de temperatura urbana",
+    "Problemas de humedad y precipitacion",
+    "Dificultad para planear acciones preventivas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Identificar zonas susceptibles de inundacion"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Generar mapas nacionales de inundacion"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Divulgar informacion con infografias"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Compilar datos oficiales de inundaciones"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Validar informacion con autoridades locales"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Generar base de datos de vulnerabilidad"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Realizar talleres regionales de identificacion de vulnerabilidad"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Proporcionar informacion oficial de inundaciones"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Realizar obras de infraestructura preventiva"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Elaborar mapas de peligro"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Identificar zonas recurrentes de inundacion"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Responder a eventos de inundacion"
+    },
+    {
+      "actor": "Universidad popular de veracruz",
+      "accion": "Aplicar encuestas de percepcion de riesgo"
+    },
+    {
+      "actor": "Sedatu",
+      "accion": "Financiar atlas de riesgo municipales"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Proporcionar datos hidrometeorologicos"
+    },
+    {
+      "actor": "Proteccion civil estatal y municipal",
+      "accion": "Compilar y compartir informacion de riesgo"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Emitir recomendaciones tecnicas"
+    },
+    {
+      "actor": "Autoridades estatales y municipales",
+      "accion": "Modificar infraestructura segun recomendaciones"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Revisar y depurar bases de datos"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Proponer talleres y capacitaciones"
+    },
+    {
+      "actor": "Sedatu",
+      "accion": "Apoyar con fondos para atlas"
+    },
+    {
+      "actor": "Consultorias",
+      "accion": "Elaborar atlas municipales"
+    },
+    {
+      "actor": "Poblacion",
+      "accion": "Arrojar basura al drenaje"
+    },
+    {
+      "actor": "Poblacion",
+      "accion": "No cuidar zonas de riesgo"
+    },
+    {
+      "actor": "Autoridades del d.f",
+      "accion": "No divulgar mapas de peligro"
+    },
+    {
+      "actor": "Subdireccion de riesgos por inundacion",
+      "accion": "Aplicar metodologia de percepcion de riesgo"
+    }
+  ],
+  "input_tokens": 15322,
+  "output_tokens": 776,
+  "error": null,
+  "items_antes_de_tope": {}
+}

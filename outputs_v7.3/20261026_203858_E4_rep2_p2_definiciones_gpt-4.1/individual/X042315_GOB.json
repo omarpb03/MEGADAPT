@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminucin de niveles hidr ulicos",
+    "Exceso de extracci n de agua subterránea",
+    "Contaminaci n de agua por drenajes",
+    "P 9rdida de autosuficiencia hidr ulica",
+    "Hundimientos diferenciales en zona lacustre",
+    "Cambio de uso de suelo chinampero",
+    "Falta de infraestructura para manejo de agua",
+    "Fragmentaci n institucional en gesti n del agua",
+    "Falta de reaprovechamiento de aguas grises y negras",
+    "Conflictos por manejo de compuertas y esclusas",
+    "Desconfianza hacia autoridades externas",
+    "Presi n urbana sobre zonas ambientales"
+  ],
+  "Causas_principales": [
+    "Extracci n hist rica de agua por acueductos y pozos",
+    "Grietas y fracturas tras sismo de 1985",
+    "Bloqueo de escurrimientos naturales por asentamientos humanos",
+    "Descargas de drenaje dom stico y clandestino",
+    "Falta de mantenimiento de infraestructura hidr ulica",
+    "Pol ticas delegacionales centradas en demandas inmediatas",
+    "Regularizaci n de asentamientos irregulares",
+    "Cambio generacional y p 9rdida de valor patrimonial",
+    "Falta de planeaci n a mediano y largo plazo",
+    "Fragmentaci n institucional y falta de coordinaci n",
+    "Presi n pol tica y clientelismo",
+    "Falta de incentivos para conservar chinampas"
+  ],
+  "Consecuencias": [
+    "Descenso de niveles de agua en canales y chinampas",
+    "Secado de zonas chinamperas",
+    "P 9rdida de productividad agropecuaria",
+    "Contaminaci n de suelos y aguas subterráneas",
+    "P 9rdida de biodiversidad y servicios ambientales",
+    "Cambio de uso de suelo a asentamientos humanos",
+    "Conflictos entre comunidades por manejo de agua",
+    "Reducci n de regulaci n clim tica local",
+    "Desconfianza y rechazo a proyectos gubernamentales",
+    "Fragmentaci n social y cultural",
+    "Incremento de riesgos ambientales y de protecci n civil",
+    "P 9rdida de identidad patrimonial chinampera"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro de zona ante RAMSAR"
+    },
+    {
+      "actor": "Autoridad local y FAO",
+      "accion": "Registro SIPAM para chinampas"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Pago de servicios ambientales a chinamperos"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Cambio de uso de suelo por falta de humedad"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de compuertas y esclusas para niveles hidr ulicos"
+    },
+    {
+      "actor": "Gobierno franc s y local",
+      "accion": "Financiamiento de infraestructura para contenci n de agua"
+    },
+    {
+      "actor": "Autoridad local y UAM",
+      "accion": "Elaboraci n de programa de manejo"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Uso de vasos reguladores para drenaje"
+    },
+    {
+      "actor": "Productores y comunidad",
+      "accion": "Mantenimiento de ollas de captaci n de lluvia"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Acciones pedag gicas y l dicas para nuevas generaciones"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regularizaci n de asentamientos irregulares"
+    },
+    {
+      "actor": "Delegaciones y CFE",
+      "accion": "Dotaci n de servicios a asentamientos"
+    },
+    {
+      "actor": "Autoridad local y universidades",
+      "accion": "Censos y monitoreo de chinampas y canales"
+    },
+    {
+      "actor": "Comunidad chinampera",
+      "accion": "Solidaridad y acuerdos para uso de tierra"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocatorias abiertas para proyectos comunitarios"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti n de subsidios y apoyos"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Rescate y declaraci n de sitio arqueol gico"
+    },
+    {
+      "actor": "Comisi n de Derechos Humanos",
+      "accion": "Resoluci n para reparar planta de tratamiento"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Desazolve de vasos reguladores (limitado por recursos)"
+    },
+    {
+      "actor": "Autoridad local y comunidad",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Autoridad local y universidades",
+      "accion": "Difusi n de valores patrimoniales y culturales"
+    },
+    {
+      "actor": "Autoridad local y comunidad",
+      "accion": "Programa maestro de manejo de compuertas"
+    },
+    {
+      "actor": "Autoridad local y UAM",
+      "accion": "Monitoreo digital de niveles hidr ulicos"
+    },
+    {
+      "actor": "Autoridad local y comunidad",
+      "accion": "Zonificaci n de canales tur sticos y productivos"
+    }
+  ],
+  "input_tokens": 13795,
+  "output_tokens": 1094,
+  "error": null,
+  "items_antes_de_tope": {}
+}

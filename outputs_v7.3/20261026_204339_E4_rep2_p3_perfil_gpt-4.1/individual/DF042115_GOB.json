@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Falta de agua potable en periferia",
+    "Enfermedades por agua contaminada",
+    "Interrupciones por sismos",
+    "Inundaciones locales",
+    "Desconfianza en agua de red",
+    "Crecimiento desordenado de la ciudad"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la poblaci\u0013n",
+    "Grandes consumidores industriales",
+    "Extracci\u00133n de acu feros",
+    "Ocupaci\u0013n de zonas peligrosas",
+    "Falta de freno al crecimiento urbano",
+    "Infraestructura da\u0013fada por sismos",
+    "Falta de mantenimiento de tinacos",
+    "Contaminaci\u0013n del agua",
+    "Desorden en asentamientos irregulares",
+    "Diferencias entre gobiernos local y federal",
+    "Falta de coordinaci\u0013n institucional",
+    "Mensajes de empresas embotelladoras",
+    "Falta de conocimiento en la poblaci\u00133n"
+  ],
+  "Consecuencias": [
+    "Enfermedades respiratorias",
+    "Enfermedades gastrointestinales",
+    "Enfermedades dermatol\u0013gicas",
+    "Afectaci\u0013n en actividades econ\u00133micas",
+    "Bajo rendimiento educativo",
+    "Exposici\u0013n a fen\u0013menos extremos",
+    "Cortes de agua tras sismos",
+    "Inundaciones en zonas urbanas",
+    "Aislamiento de sectores por inundaci\u0013n",
+    "Desigualdad en acceso a agua potable",
+    "Vulnerabilidad de poblaci\u00133n migrante"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcci\u00133n de lagunas de regulaci\u00133n"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Creaci\u0013fn de vasos reguladores"
+    },
+    {
+      "actor": "Secretar\u0013da de Agua DF",
+      "accion": "Distribuci\u0013fn y tratamiento de agua"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Almacenamiento en tinacos"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Consumo de agua embotellada"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Falta de mantenimiento de tinacos"
+    },
+    {
+      "actor": "Secretar\u0013da de Salud federal",
+      "accion": "Acciones sanitarias tras desastres"
+    },
+    {
+      "actor": "Protecci\u0013fn Civil DF",
+      "accion": "Respuesta a eventos extremos"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Monitoreo y capacitaci\u0013fn t\u0013cnica"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Colaboraci\u0013fn en capacitaci\u0013fn"
+    },
+    {
+      "actor": "Poblaci\u0013fn urbana",
+      "accion": "Uso incipiente de captaci\u0013fn de lluvia"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Operaci\u0013fn de infraestructura federal"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Gesti\u0013fn de infraestructura hidr\u0013aulica"
+    }
+  ],
+  "input_tokens": 10172,
+  "output_tokens": 866,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desaparición de los ojos de agua",
+    "Bajo nivel de agua en la zona",
+    "Contaminación del agua",
+    "Hundimientos diferenciales",
+    "Falta de infraestructura para el manejo del agua",
+    "Explotación de agua subterránea",
+    "Crecimiento urbano descontrolado",
+    "Calidad del agua de la planta de tratamiento"
+  ],
+  "Causas_principales": [
+    "Construcción del nuevo aeropuerto",
+    "Explotación excesiva de pozos",
+    "Cierre de la casa de bombas",
+    "Crecimiento urbano en la zona",
+    "Asentamientos irregulares",
+    "Falta de políticas de conservación",
+    "Descuido en el mantenimiento de canales",
+    "Contaminación por drenajes clandestinos"
+  ],
+  "Consecuencias": [
+    "Desecación de chinampas",
+    "Pérdida de biodiversidad",
+    "Aumento de la temperatura en la zona",
+    "Contaminación del agua",
+    "Deterioro de la calidad de vida",
+    "Conflictos entre comunidades",
+    "Inundaciones en zonas cercanas",
+    "Desplazamiento de aves migratorias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registrar la zona como sitio Ramsar"
+    },
+    {
+      "actor": "PAOT",
+      "accion": "Realizar estudios sobre hundimientos diferenciales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar programas de conservación y manejo del agua"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Mantener la producción agrícola en chinampas"
+    },
+    {
+      "actor": "Universidades (UAM, UNAM)",
+      "accion": "Colaborar en proyectos de investigación y conservación"
+    },
+    {
+      "actor": "Gobierno francés",
+      "accion": "Financiar proyectos de infraestructura para el agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participar en iniciativas de conservación y educación ambiental"
+    }
+  ],
+  "input_tokens": 13657,
+  "output_tokens": 366,
+  "error": null,
+  "items_antes_de_tope": {}
+}

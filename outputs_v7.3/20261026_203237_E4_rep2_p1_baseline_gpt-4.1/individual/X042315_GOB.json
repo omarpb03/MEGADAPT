@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u00133n de niveles hidr\u00131ulicos",
+    "Exceso de explotaci\u00133n de pozos",
+    "Contaminaci\u00133n por descargas de aguas negras",
+    "P\u0013aerdida de autosuficiencia hidr\u00131ulica",
+    "Hundimientos diferenciales",
+    "Cambio de uso de suelo chinampero",
+    "Falta de infraestructura para manejo de agua",
+    "Fragmentaci\u0013c3n institucional en gesti\u0013c3n del agua",
+    "Falta de reaprovechamiento de aguas grises",
+    "Conflictos por manejo de compuertas",
+    "Desconfianza hacia autoridades externas",
+    "Presi\u0013c3n urbana sobre zonas lacustres"
+  ],
+  "Causas_principales": [
+    "Explotaci\u0013c3n de ojos de agua y pozos",
+    "Fractura y grieta tras sismo del 85",
+    "Bloqueo de escurrimientos naturales por asentamientos",
+    "Descargas clandestinas de drenaje",
+    "Cambio de uso de suelo por sequ\u0013c3a",
+    "Falta de planeaci\u0013c3n a mediano plazo",
+    "Pol\u0013c3ticas clientelares de regularizaci\u0013c3n",
+    "Infraestructura hidr\u0013c3ulica obsoleta",
+    "Ausencia de programa maestro de compuertas",
+    "Falta de incentivos para conservar chinampas",
+    "Descoordinaci\u0013c3n entre delegaciones",
+    "Extracci\u0013c3n hist\u0013c3rica de agua para la ciudad"
+  ],
+  "Consecuencias": [
+    "Secado de zonas chinamperas",
+    "P\u0013aerdida de biodiversidad",
+    "Contaminaci\u0013c3n de canales y subsuelo",
+    "Reducci\u0013c3n de servicios ambientales",
+    "Cambio de uso de suelo a urbano",
+    "Conflictos entre comunidades por agua",
+    "Reducci\u0013c3n de productividad agropecuaria",
+    "P\u0013aerdida de identidad patrimonial",
+    "Incremento de temperatura local",
+    "Inundaciones por manejo inadecuado de compuertas",
+    "Desconfianza y rechazo a proyectos externos",
+    "Abandono de chinampas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro de sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generar comunicaci\u0013c3n pluvial"
+    },
+    {
+      "actor": "Chinampers",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Pago de servicios ambientales"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro SIPAM de chinampas"
+    },
+    {
+      "actor": "Planta de tratamiento",
+      "accion": "Surtimiento de agua tratada"
+    },
+    {
+      "actor": "Gobierno franc\u0013c3s",
+      "accion": "Financiamiento de proyectos ambientales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Creaci\u0013c3n de infraestructura para agua"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programa de ordenamiento territorial"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Conservaci\u0013c3n de tradiciones"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Difusi\u0013c3n de valores patrimoniales"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Manejo de vasos reguladores"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regularizaci\u0013c3n de asentamientos"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Venta de productos a comercializadoras"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Elaboraci\u0013c3n de estudios y programas"
+    },
+    {
+      "actor": "Comunidad local",
+      "accion": "Mantenimiento de ollas de captaci\u0013c3n"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Acciones pedag\u0013c3gicas para nuevas generaciones"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Creaci\u0013c3n de hubs comunitarios"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Manejo tradicional de compuertas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de monitoreo digital de niveles"
+    },
+    {
+      "actor": "Comisi\u0013c3n de Derechos Humanos",
+      "accion": "Resoluci\u0013c3n para reparar planta"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Rescate de sitio arqueol\u0013c3gico"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Relleno de canales para ampliar parcela"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Censo de chinampas y canales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programas para desazolve de canales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Secretar\u0013c3a de Desarrollo Urbano y Vivienda",
+      "accion": "Pol\u0013c3tica de regularizaci\u0013c3n de suelo"
+    },
+    {
+      "actor": "Comunidad local",
+      "accion": "Solidaridad en faenas y nivelaci\u0013c3n"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocatorias abiertas para proyectos"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti\u0013c3n de subsidios rurales"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Priorizar demandas urbanas de agua"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci\u0013c3n de servicios a asentamientos"
+    },
+    {
+      "actor": "Candidatos pol\u0013c3ticos",
+      "accion": "Regalo de rotopl\u0013c3as y dinero"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Aceptar pago por inundaci\u0013c3n de tierras"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Elaboraci\u0013c3n de programa de manejo Ramsar"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 1635,
+  "error": null,
+  "items_antes_de_tope": {}
+}

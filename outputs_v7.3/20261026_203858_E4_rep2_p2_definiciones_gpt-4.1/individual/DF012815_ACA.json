@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de obtenci\u0013n y distribuci\u0013n del agua",
+    "Calidad del agua insuficiente",
+    "Escasez de agua en zonas urbanas",
+    "Infraestructura de agua obsoleta",
+    "P\u0013erdidas de agua en redes",
+    "Dotaci\u0013n desigual de agua",
+    "Control pol\u0013itico del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano sin planeaci\u0013n",
+    "Asentamientos en zonas de recarga",
+    "Decisiones pol\u0013iticas sin criterio t\u0013ecnico",
+    "Corrupci\u00133n y colusi\u00133n pol\u0013itica",
+    "Infraestructura vieja y fracturada",
+    "Extracci\u00133n excesiva de mantos fre\u00131ticos",
+    "Falta de informaci\u00133n confiable",
+    "Manejo pol\u0013itico de servicios",
+    "Planes urbanos obsoletos"
+  ],
+  "Consecuencias": [
+    "Inundaciones recurrentes",
+    "Hundimiento de la ciudad",
+    "Escasez de agua en colonias",
+    "Agua de mala calidad",
+    "Desigualdad en acceso al agua",
+    "Negocio de pipas de agua",
+    "Conflictos sociales por agua",
+    "Degradaci\u00133n de servicios urbanos",
+    "P\u0013erdida de recarga de acu\u0013iferos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales",
+      "accion": "Permiten asentamientos irregulares"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo de agua"
+    },
+    {
+      "actor": "Coordinadores territoriales",
+      "accion": "Gestionan servicios por votos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Opera dotaci\u00133n de agua"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Instalan medidores de agua"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Participan en concesi\u00133n de servicios"
+    },
+    {
+      "actor": "Acad\u0013emicos",
+      "accion": "Realizan estudios de agua"
+    },
+    {
+      "actor": "Residents organizados",
+      "accion": "Presionan delegaciones por servicios"
+    },
+    {
+      "actor": "Pol\u0013iticos",
+      "accion": "Maquillan estad\u0013isticas oficiales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Cambia infraestructura en zonas selectas"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Modifica usos de suelo pol\u0013iticamente"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Construyen sin garantizar servicios"
+    },
+    {
+      "actor": "Habitantes informales",
+      "accion": "Negocian servicios por votos"
+    }
+  ],
+  "input_tokens": 9711,
+  "output_tokens": 742,
+  "error": null,
+  "items_antes_de_tope": {}
+}

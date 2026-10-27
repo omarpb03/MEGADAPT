@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Bajando el nivel de agua",
+    "Zona ya no es autosuficiente",
+    "Hundimientos diferenciales",
+    "Contaminaci\u0003n de agua",
+    "Explotaci\u0003n de agua subterránea",
+    "Cambio de uso de suelo",
+    "P\u00003rdida de humedad en chinampas",
+    "Escasez de agua en la parte alta",
+    "Falta de infraestructura adecuada",
+    "Conflictos por manejo de compuertas",
+    "Fragmentaci\u000003n institucional",
+    "Falta de planeaci\u000003n a largo plazo",
+    "Desconfianza hacia el gobierno",
+    "Presi\u000003n urbana sobre zonas ambientales"
+  ],
+  "Causas_principales": [
+    "Extracci\u000003n de agua de pozos",
+    "Fractura y grieta tras sismo del 85",
+    "Bloqueo de escurrimientos naturales",
+    "Asentamientos humanos irregulares",
+    "Descargas de drenaje clandestino",
+    "Falta de mantenimiento de infraestructura",
+    "Cambio de uso de suelo por abandono",
+    "Presi\u000003n de crecimiento urbano",
+    "Falta de pol\u000003tica de suelo",
+    "Decisiones pol\u000003ticas clientelares",
+    "Falta de coordinaci\u000003n entre delegaciones",
+    "Prioridad a demandas de servicios sobre conservaci\u000003n",
+    "Estigma de cultivo con aguas negras",
+    "Infraestructura vieja y saturada"
+  ],
+  "Consecuencias": [
+    "P\u000003rdida de niveles hidr\u000003ulicos",
+    "Secado de chinampas",
+    "Cambio de uso de suelo",
+    "Contaminaci\u000003n de canales y subsuelo",
+    "P\u000003rdida de biodiversidad",
+    "Reducci\u000003n de servicios ambientales",
+    "Incremento de temperatura local",
+    "Conflictos entre comunidades",
+    "Inundaciones en zona chinampera",
+    "P\u000003rdida de identidad patrimonial",
+    "Desconfianza y rechazo a propuestas gubernamentales",
+    "Abandono de actividad agroproductiva",
+    "Plusval\u000003a urbana sobre zonas ambientales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro de sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generar comunicaci\u000003n pluvial"
+    },
+    {
+      "actor": "Chinampas productores",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Pago de servicios ambientales"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro ante SIPAM"
+    },
+    {
+      "actor": "Planta de tratamiento",
+      "accion": "Surtimiento de agua tratada"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Propuesta de ollas de captaci\u000003n"
+    },
+    {
+      "actor": "Habitantes zona alta",
+      "accion": "Uso y mantenimiento de ollas"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regularizaci\u000003n de asentamientos"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci\u000003n de servicios b\u000003sicos"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti\u000003n de subsidios"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocatorias para proyectos comunitarios"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programa maestro de manejo de compuertas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Monitoreo digital de niveles hidr\u000003ulicos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Uso de vasos reguladores"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Prioridad a demandas urbanas"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Elaboraci\u000003n de programa de manejo"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Desazolve y reapertura de canales"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Solidaridad en faenas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Pago por servicios ambientales"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Vinculaci\u000003n para legitimidad"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Venta de productos a comercializadoras"
+    },
+    {
+      "actor": "Candidatos pol\u000003ticos",
+      "accion": "Regalo de rotopl\u000003s y dinero"
+    },
+    {
+      "actor": "Comisi\u000003n de Derechos Humanos",
+      "accion": "Resoluci\u000003n para reparar planta"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Trabajo en declaraci\u000003n de sitio arqueol\u000003gico"
+    }
+  ],
+  "input_tokens": 14029,
+  "output_tokens": 1297,
+  "error": null,
+  "items_antes_de_tope": {}
+}

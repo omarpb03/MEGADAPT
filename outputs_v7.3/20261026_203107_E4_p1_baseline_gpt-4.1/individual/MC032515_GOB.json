@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud en época de lluvias",
+    "Inundaciones en domicilios y barrancas",
+    "Reblandecimiento y deterioro del suelo",
+    "Taponamiento de drenaje y ríos por basura",
+    "Crecimiento de asentamientos irregulares en zonas de riesgo",
+    "Modificación del terreno por terraceo y corte de cerros"
+  ],
+  "Causas_principales": [
+    "Corte de árboles y terraceo por vecinos",
+    "Quema de raíces de árboles",
+    "Mala canalización de aguas residuales",
+    "Uso de letrinas y descarga a barrancas",
+    "Asentamientos irregulares en laderas",
+    "Exceso de basura en ríos y barrancas",
+    "Lluvias extraordinarias y granizo",
+    "Incendios que debilitan la vegetación",
+    "Construcción de viviendas por debajo del nivel de la carretera"
+  ],
+  "Consecuencias": [
+    "Deslizamientos de tierra y taludes",
+    "Inundaciones en casas y calles",
+    "Desbordamiento de barrancas",
+    "Contaminación por aguas residuales",
+    "Reblandecimiento del suelo",
+    "Daños a viviendas y bienes",
+    "Enfermedades por contacto con agua contaminada",
+    "Evacuaciones y uso de albergues",
+    "Taponamiento de drenaje y coladeras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notificación a vecinos en riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recomendaciones de mitigación de riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recorridos y monitoreo de zonas vulnerables"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Difusión de información y trípticos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Evacuación y apoyo en emergencias"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Limpieza y desinfección de casas afectadas"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Programa de limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Retiro y poda de árboles en riesgo"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Desazolve de drenaje y limpieza de rejillas"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Recorridos para evitar nuevos asentamientos"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Retiro de construcciones irregulares"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Vacunación y revisión de salud"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Construcción de muros de contención"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Ajustes en infraestructura urbana"
+    },
+    {
+      "actor": "Comité de Riesgos Hidrometereológicos",
+      "accion": "Canalización de apoyos por lluvia"
+    },
+    {
+      "actor": "Bomberos",
+      "accion": "Apoyo en extracción de agua"
+    },
+    {
+      "actor": "Secretaría de Protección Civil",
+      "accion": "Dictámenes y estudios de riesgo"
+    },
+    {
+      "actor": "Desarrollo Social",
+      "accion": "Provisión de albergues en emergencias"
+    }
+  ],
+  "input_tokens": 9151,
+  "output_tokens": 601,
+  "error": null,
+  "items_antes_de_tope": {}
+}

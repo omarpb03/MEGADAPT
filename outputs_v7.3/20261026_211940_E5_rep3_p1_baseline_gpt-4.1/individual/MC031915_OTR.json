@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Agua no alcanza para todos",
+    "Tandeo del agua insuficiente",
+    "Fugas por tubería vieja",
+    "Desperdicio de agua de ojos de agua",
+    "Venta de agua no regulada",
+    "Escasez de agua potable",
+    "Difícil obtener agua para uso diario",
+    "Temor a que repartan agua a zonas residenciales"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desmedido",
+    "Expropiación de tierras ejidales",
+    "Antigüedad de tuberías",
+    "Expansión de la mancha urbana",
+    "Desperdicio en ojos de agua",
+    "Capacidad limitada de tanques y tuberías",
+    "Falta de mantenimiento a infraestructura",
+    "Mal manejo de información por autoridades"
+  ],
+  "Consecuencias": [
+    "Días sin suministro de agua",
+    "Gastos en construcción de cisternas",
+    "Compra de agua en garrafones",
+    "Inconformidad entre habitantes",
+    "Desperdicio de agua potable",
+    "Baja calidad de servicio",
+    "Conflictos por posible redistribución",
+    "Dificultades para higiene y limpieza"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Hacen cisternas y tinacos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Reportan fugas de agua"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Arregla fugas cuando las reportan"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Capta agua de lluvia en tinas ciegas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Instala tinas ciegas para captación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Introducción de drenaje y tanques"
+    },
+    {
+      "actor": "Comisiones del pueblo",
+      "accion": "Solicitar información a autoridades"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Pláticas y reuniones por conflictos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Compra agua en plantas locales"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Bombear agua a tanques"
+    },
+    {
+      "actor": "Delegación y diputada",
+      "accion": "Apoyo para construcción comunitaria"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Mantenimiento a tuberías de agua"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Conservan agua en tinacos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Solicitan apoyo para cisternas"
+    }
+  ],
+  "input_tokens": 9433,
+  "output_tokens": 483,
+  "error": null,
+  "items_antes_de_tope": {}
+}

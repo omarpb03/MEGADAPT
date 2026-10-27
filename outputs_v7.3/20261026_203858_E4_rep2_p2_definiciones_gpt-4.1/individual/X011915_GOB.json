@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion de los canales",
+    "Descargas domiciliarias a los canales",
+    "Hundimiento y levantamiento del suelo",
+    "Acumulacion de lirio acuatico",
+    "Perdida de calidad del agua",
+    "Asentamientos irregulares en zona lacustre",
+    "Falta de circulacion y oxigenacion del agua",
+    "Abandono de chinampas",
+    "Falta de infraestructura de drenaje",
+    "Conflictos de uso de suelo"
+  ],
+  "Causas_principales": [
+    "Descargas de drenaje domiciliario",
+    "Falta de infraestructura de drenaje secundaria",
+    "Crecimiento de la mancha urbana",
+    "Corrupcion y tolerancia gubernamental",
+    "Abandono de chinampas por nuevas generaciones",
+    "Contradiccion de leyes y falta de coordinacion",
+    "Introduccion de especies invasoras como tilapia",
+    "Extraccion de agua de pozos",
+    "Falta de presupuesto y proyectos inconclusos",
+    "Turismo irresponsable",
+    "Falta de inspectores ambientales",
+    "Infraestructura antigua y deteriorada"
+  ],
+  "Consecuencias": [
+    "Contaminacion del agua",
+    "Perdida de especies acuaticas nativas",
+    "Acumulacion de sedimentos y azolve",
+    "Disminucion de profundidad de canales",
+    "Desequilibrio ecologico",
+    "Reduccion de superficie de suelo de conservacion",
+    "Inundaciones en barrios bajos",
+    "Perdida de calidad de vida",
+    "Abandono y ociosidad de chinampas",
+    "Conflictos sociales por propiedad",
+    "Deterioro del turismo",
+    "Falta de agua potable en asentamientos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Canaleros y sector turistico",
+      "accion": "Limpieza parcial de lirio"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de Mexico",
+      "accion": "Extraccion y distribucion de agua potable"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Programas de cero crecimiento poblacional"
+    },
+    {
+      "actor": "Secretaria de Desarrollo y Equidad (SEDEREC)",
+      "accion": "Proyectos productivos de conservacion"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Operativos contra asentamientos irregulares"
+    },
+    {
+      "actor": "Vecinos y poblacion local",
+      "accion": "Protestas y demandas ante autoridades"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Separacion y recoleccion de residuos solidos"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de Mexico",
+      "accion": "Operacion de plantas de rebombeo"
+    },
+    {
+      "actor": "CORENA y Secretaria del Medio Ambiente",
+      "accion": "Regulacion ambiental y vigilancia"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Recuperacion de zanjas y estacacion"
+    },
+    {
+      "actor": "UNAM y otras universidades",
+      "accion": "Introduccion de especies como tilapia"
+    },
+    {
+      "actor": "Asamblea de representantes y camara de diputados",
+      "accion": "Aprobacion de proyectos sustentables"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Proyectos de dragado de canales"
+    }
+  ],
+  "input_tokens": 25134,
+  "output_tokens": 873,
+  "error": null,
+  "items_antes_de_tope": {}
+}

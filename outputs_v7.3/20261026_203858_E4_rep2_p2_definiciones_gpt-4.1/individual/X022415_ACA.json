@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua en áreas agrícolas",
+    "Distribución desigual del agua",
+    "Contaminación de fuentes de agua",
+    "Falta de regulación en uso agrícola",
+    "Impacto de la urbanización en recursos hídricos",
+    "Gobernanza fragmentada del agua",
+    "Pérdida de suelos agrícolas por urbanización"
+  ],
+  "Causas_principales": [
+    "Expansión urbana sobre suelos agrícolas",
+    "Extracción de acuíferos",
+    "Decisiones influenciadas por racionalidad económica",
+    "Falta de regulación y monitoreo",
+    "Presiones del mercado sobre uso de suelo",
+    "Falta de educación ambiental",
+    "Fragmentación institucional y jurisdiccional",
+    "Cambios tecnológicos en agricultura",
+    "Corrupción en manejo de suelo y agua"
+  ],
+  "Consecuencias": [
+    "Reducción de áreas agrícolas",
+    "Contaminación por agroquímicos",
+    "Pérdida de autosuficiencia alimentaria",
+    "Asentamientos irregulares",
+    "Conflictos por uso de recursos",
+    "Deterioro de ríos y cuerpos de agua",
+    "Desplazamiento de productores locales",
+    "Falta de acceso equitativo al agua",
+    "Vulnerabilidad y riesgos socioambientales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Defensa de recursos y tierras"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementación de programas públicos"
+    },
+    {
+      "actor": "ONGs y organizaciones civiles",
+      "accion": "Sensibilización y educación ambiental"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigación y consultoría sobre agua"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Ocupación y producción agrícola"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Protestas y luchas por derechos"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Gestión y coordinación de recursos hídricos"
+    },
+    {
+      "actor": "Programas de extensionismo agrícola",
+      "accion": "Capacitación y apoyo a productores"
+    },
+    {
+      "actor": "Usuarios individuales",
+      "accion": "Estrategias micro de ahorro de agua"
+    },
+    {
+      "actor": "Delegaciones y juntas de vecinos",
+      "accion": "Negociaciones sobre asentamientos"
+    }
+  ],
+  "input_tokens": 19946,
+  "output_tokens": 599,
+  "error": null,
+  "items_antes_de_tope": {}
+}

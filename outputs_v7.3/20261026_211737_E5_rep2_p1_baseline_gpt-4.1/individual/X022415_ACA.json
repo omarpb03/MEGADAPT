@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua en áreas agrícolas",
+    "Extracción excesiva de acuíferos",
+    "Contaminación de fuentes de agua",
+    "Competencia entre usos urbanos y agrícolas",
+    "Falta de regulación del uso de agua agrícola",
+    "Poca sensibilidad y educación ambiental",
+    "Gestión compleja y fragmentada del agua",
+    "Impacto de la urbanización en disponibilidad",
+    "Problemas en la gobernanza del agua"
+  ],
+  "Causas_principales": [
+    "Expansión urbana sobre suelos agrícolas",
+    "Historia y cambios en uso de suelo",
+    "Racionalidades tecnológicas y económicas",
+    "Mercado cercano impulsa cambios de uso",
+    "Falta de regulación y monitoreo",
+    "Fragmentación institucional y jurisdiccional",
+    "Falta de planeación metropolitana sustentable",
+    "Entrada de mano de obra externa",
+    "Presiones y negociaciones políticas",
+    "Ausencia de estrategias de educación ambiental",
+    "Cambios culturales en percepción del agua"
+  ],
+  "Consecuencias": [
+    "Degradación de paisajes agrícolas",
+    "Deterioro y modificación de ríos",
+    "Reducción de áreas de bosque y suelo agrícola",
+    "Contaminación por agroquímicos",
+    "Perdida de autosuficiencia y flexibilidad agrícola",
+    "Asentamientos humanos irregulares",
+    "Desplazamiento de productores locales",
+    "Fragmentación social y pérdida de identidad agrícola",
+    "Dependencia de fuentes artificiales de agua",
+    "Procesos de ocupación urbana caóticos",
+    "Conflictos por uso y acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores locales",
+      "accion": "Hacen ofrendas a los volcanes"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Ponen invernaderos para producción"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Promueve producción orgánica"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Defienden acceso al agua"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Contratan mano de obra externa"
+    },
+    {
+      "actor": "Gobierno D.F",
+      "accion": "Implementa programas agrícolas"
+    },
+    {
+      "actor": "SEDEREC, SAGARPA, INCA Rural",
+      "accion": "Implementan programa de extensionismo"
+    },
+    {
+      "actor": "Universidad local",
+      "accion": "Gestiona espacios forestales"
+    },
+    {
+      "actor": "Organizaciones de productores",
+      "accion": "Se agrupan por tipo de producto"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Luchan por defensa de recursos"
+    },
+    {
+      "actor": "Alumnos y agrónomos",
+      "accion": "Capacitan en fertilizantes orgánicos"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Reutiliza agua de manera informal"
+    },
+    {
+      "actor": "Prestadores de servicios",
+      "accion": "Dan capacitación agrícola"
+    },
+    {
+      "actor": "ONG’s y comisiones de cuenca",
+      "accion": "Participan en gobernanza del agua"
+    },
+    {
+      "actor": "Universidad local",
+      "accion": "Realiza acciones de sensibilización"
+    }
+  ],
+  "input_tokens": 19819,
+  "output_tokens": 795,
+  "error": null,
+  "items_antes_de_tope": {}
+}

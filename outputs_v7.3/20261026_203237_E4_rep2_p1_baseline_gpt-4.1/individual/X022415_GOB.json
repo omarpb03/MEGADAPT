@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua tratada",
+    "Falta de calidad del agua",
+    "Cantidad insuficiente de agua",
+    "Hundimientos diferenciales",
+    "Fugas de agua en canales",
+    "Descargas de aguas negras",
+    "Impacto en la produccion chinampera",
+    "Abandono de chinampas",
+    "Descoordinacion institucional",
+    "Falta de mantenimiento a infraestructura",
+    "Desarraigo de nuevas generaciones"
+  ],
+  "Causas_principales": [
+    "Descargas de asentamientos irregulares",
+    "Falta de drenaje adecuado",
+    "Uso excesivo de agroquimicos y pesticidas",
+    "Limpieza de establos de ganado",
+    "Fugas en canales y vertederos",
+    "Hundimientos diferenciales por variacion de niveles de suelo",
+    "Falta de mantenimiento en plantas de tratamiento",
+    "Descoordinacion entre dependencias",
+    "Tecnologias no adaptadas a condiciones locales",
+    "Abandono de proyectos por falta de convencimiento social",
+    "Extraccion y manejo operativo del agua por sistema de aguas"
+  ],
+  "Consecuencias": [
+    "Contaminacion de productos agricolas",
+    "Dificultad para comercializar productos",
+    "Impacto economico negativo en productores",
+    "Abandono de chinampas",
+    "Perdida de biodiversidad",
+    "Inundaciones en zonas productivas",
+    "Riesgos de salud por aguas negras",
+    "Degradacion de zonas chinamperas",
+    "Turismo afectado por agua sucia",
+    "Perdida de identidad y arraigo",
+    "Desequilibrio en distribucion de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio",
+      "accion": "Coordinacion institucional y politica"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento de canales y refugios"
+    },
+    {
+      "actor": "Instituto de Biologia UNAM",
+      "accion": "Estudios de calidad y biodiversidad"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Monitoreo de aves y biodiversidad"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Manejo de esclusas y drenaje"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Implementacion de barreras y filtros"
+    },
+    {
+      "actor": "Turismo local",
+      "accion": "Peticiones para regular calidad"
+    },
+    {
+      "actor": "Conam",
+      "accion": "Responsabilidad en sitio Ramsar"
+    },
+    {
+      "actor": "SEDEMA",
+      "accion": "Atribuciones en manejo de agua"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Apoyo a sistema productivo"
+    },
+    {
+      "actor": "Cooperativas y organizaciones",
+      "accion": "Participacion en mega coloquio"
+    },
+    {
+      "actor": "UNAM y UAM",
+      "accion": "Definir criterios tecnicos"
+    },
+    {
+      "actor": "Productores y chef",
+      "accion": "Turismo culinario en chinampas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Propuestas de ordenamiento territorial"
+    },
+    {
+      "actor": "Investigadores",
+      "accion": "Catalogacion y georreferenciacion de chinampas"
+    }
+  ],
+  "input_tokens": 12070,
+  "output_tokens": 590,
+  "error": null,
+  "items_antes_de_tope": {}
+}

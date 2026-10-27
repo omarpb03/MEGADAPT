@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Falta de cultura en el usuario",
+    "Retención y recarga del manto acuífero",
+    "Escasez temporal de agua",
+    "Uso o abuso del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Tecnología y urbanización",
+    "Desarrollo inmobiliario",
+    "Falta de cultura en el usuario",
+    "Dispendio de agua",
+    "Deforestación y depredación",
+    "Cambios climáticos como el Niño y la Niña"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en zona urbana",
+    "Afectación al residente por no aprovechar el agua",
+    "Temporadas de estiaje con escurrimientos secos",
+    "Alteraciones en el ambiente",
+    "Desertificación y deforestación",
+    "Problemas de recarga del acuífero"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener el agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos económicos para conservación"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Incentivar infiltración en suelo de conservación"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestión del suministro urbano"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Apoyos a través de programas sociales"
+    },
+    {
+      "actor": "Comunidades y ejidos",
+      "accion": "Mantener áreas en buenas condiciones de humedad"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Normar extracción y suministro"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Participar en programas de sanidad forestal"
+    },
+    {
+      "actor": "Brigadas de campo",
+      "accion": "Prevención y combate de incendios"
+    },
+    {
+      "actor": "Grupo técnico operativo",
+      "accion": "Seguimiento a proyectos y apoyos"
+    },
+    {
+      "actor": "Usuarios",
+      "accion": "Uso racional del agua (propuesto)"
+    }
+  ],
+  "input_tokens": 13955,
+  "output_tokens": 385,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022515_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en la ciudad",
+    "Inundaciones en ciertas zonas",
+    "Complejidad del fenómeno urbano",
+    "Problemática de agua en la zona conurbada"
+  ],
+  "Causas_principales": [
+    "Población flotante que utiliza servicios",
+    "Fuentes de abastecimiento diversas",
+    "Acuífero metropolitano limitado",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Consecuencias": [
+    "Crisis del agua en ciertas zonas",
+    "Riesgo hídrico ya ocurre",
+    "Escasez e inundación simultáneas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 1360,
+  "output_tokens": 138,
+  "error": null,
+  "items_antes_de_tope": {}
+}

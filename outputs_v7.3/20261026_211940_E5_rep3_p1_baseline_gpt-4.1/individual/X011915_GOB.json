@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u0014fn de los canales",
+    "Descargas de drenaje domiciliario",
+    "Disminuci\u0014fn del nivel del agua",
+    "Falta de circulaci\u0014fn y oxigenaci\u0014fn",
+    "Acumulaci\u0014fn de basura y desechos",
+    "P\u0014erdida de especies acu\u0014dticas nativas",
+    "Abandono de las chinampas",
+    "Invasiones de la zona lacustre",
+    "Infraestructura de drenaje deteriorada",
+    "Falta de cumplimiento de normativas"
+  ],
+  "Causas_principales": [
+    "Administraciones de corta duraci\u0014fn",
+    "Tolerancia gubernamental hacia invasiones",
+    "Corrupci\u0014fn y falta de ejecuci\u0014fn",
+    "Falta de infraestructura de drenaje secundaria",
+    "Crecimiento de la mancha urbana",
+    "Descargas informales y oficiales de drenaje",
+    "Contradicci\u0014fn de leyes y jurisdicciones",
+    "Introducci\u0014fn de especies invasoras",
+    "P\u0014erdida de inter\u0014ds de nuevas generaciones",
+    "Sedimentaci\u0014fn y azolve",
+    "Extracci\u0014fn de agua de pozos",
+    "Mala coordinaci\u0014fn entre dependencias",
+    "Presupuesto insuficiente o desviado",
+    "Turismo no regulado y desordenado"
+  ],
+  "Consecuencias": [
+    "Canales color negro-verdoso",
+    "P\u0014erdida de captaci\u0014fn de agua",
+    "Reducci\u0014fn de profundidad de canales",
+    "Desaparici\u0014fn de especies emblem\u0014dticas",
+    "Incremento de basura y desechos en orillas",
+    "Inundaciones en zonas bajas",
+    "Chinampas abandonadas y ociosas",
+    "Conflictos sociales y apropiaci\u0014fn de terrenos",
+    "Deterioro de la calidad de agua",
+    "Declive del turismo alternativo",
+    "Conflicto por uso de suelo",
+    "Disminuci\u0014fn de la biodiversidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Medio Ambiente delegaci\u0014fn",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Canaleros, sector tur\u0014dstico",
+      "accion": "Limpieza de acumulaci\u0014fn de lirio"
+    },
+    {
+      "actor": "Delegaci\u0014fn Xochimilco",
+      "accion": "Apoyo en limpieza cuando es solicitado"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de M\u0014dxico",
+      "accion": "Suministro y control de agua potable"
+    },
+    {
+      "actor": "Sistemas de Aguas CDMX",
+      "accion": "Descarga de aguas tratadas al sistema"
+    },
+    {
+      "actor": "Gobiernos local y federal",
+      "accion": "Implementar normas y \u0014rdmenes legales"
+    },
+    {
+      "actor": "Gobierno Federal y del Distrito Federal",
+      "accion": "Coordinaci\u0014fn para manejo de zona lacustre"
+    },
+    {
+      "actor": "SACMEX, Cuencas de Aguas, Conagua",
+      "accion": "Gest\u0014fn jurisdiccional sobre cuerpos de agua"
+    },
+    {
+      "actor": "Delegaci\u0014fn Xochimilco",
+      "accion": "Programas de cero crecimiento poblacional"
+    },
+    {
+      "actor": "Secretar\u0014da de Desarrollo y Equidad (SEDEREC)",
+      "accion": "Proyectos productivos de conservaci\u0014fn"
+    },
+    {
+      "actor": "Delegaci\u0014fn Xochimilco, SEDEREC",
+      "accion": "Estacado y conservaci\u0014fn de orillas"
+    },
+    {
+      "actor": "Delegaci\u0014fn Xochimilco",
+      "accion": "Promoci\u0014fn de separaci\u0014fn de residuos"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Separaci\u0014fn de residuos org\u0014dnicos y s\u0014dlidos"
+    },
+    {
+      "actor": "Turistas",
+      "accion": "Arrojan basura y botellas a canales"
+    },
+    {
+      "actor": "Delegaci\u0014fn Xochimilco",
+      "accion": "Servicio de recolecci\u0014fn de basura casa por casa"
+    },
+    {
+      "actor": "CORENA y Secretar\u0014da del Medio Ambiente",
+      "accion": "Saneamiento vegetal y recuperaci\u0014fn de zanjas"
+    },
+    {
+      "actor": "Chinamperos y vecinos",
+      "accion": "Apropiaci\u0014fn y abandono de chinampas"
+    },
+    {
+      "actor": "Delegaci\u0014fn Xochimilco y vecinos",
+      "accion": "Acuerdos de control poblacional"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Intentos de operativos en asentamientos irregulares"
+    },
+    {
+      "actor": "UNAM, Secretar\u0014da de Agricultura",
+      "accion": "Introducci\u0014fn de tilapia y carpa"
+    },
+    {
+      "actor": "Laboratorio de Sistemas de Aguas de la Ciudad de M\u0014dxico",
+      "accion": "Estudios de calidad de agua (intermitentes)"
+    },
+    {
+      "actor": "Sector pol\u0014dtico",
+      "accion": "Restas de superficies de suelo de conservaci\u0014fn"
+    },
+    {
+      "actor": "Pescadores",
+      "accion": "Pago por limpieza espec\u0014dfica"
+    }
+  ],
+  "input_tokens": 25007,
+  "output_tokens": 1407,
+  "error": null,
+  "items_antes_de_tope": {}
+}

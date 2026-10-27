@@ -6,9 +6,9 @@ __pycache__/
 .vscode/
 
 # Datos de las entrevistas (no se suben)
-2_Análisis_Cualitativo_Integración_formato_estandarizado.xlsx
 Comparativa_Final_Humano_vs_LLM*.xlsx
 revision_parentesis.csv
+LLMs-ModelosMentales/
 
 # Resultados de versiones anteriores
 eval_nlp/

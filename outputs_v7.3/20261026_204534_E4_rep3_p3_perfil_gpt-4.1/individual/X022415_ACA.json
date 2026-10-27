@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problema de abastecimiento de agua",
+    "Distribuci\u000fn desigual del agua",
+    "Contaminaci\u000fn de fuentes de agua",
+    "Falta de regulaci\u000fn en uso agr cola del agua",
+    "Impacto de la urbanizaci\u000fn en el agua",
+    "Conflictos por uso de suelo y agua",
+    "Gobernanza fragmentada del agua",
+    "P rdida de suelos agr colas",
+    "Presi\u000fn sobre acu feros"
+  ],
+  "Causas_principales": [
+    "Expansi\u000fn urbana",
+    "Extracci\u000fn de acu feros",
+    "Decisiones influenciadas por racionalidad tecnol gica o econ mica",
+    "Mercado como motor de cambio",
+    "Rezago de pol ticas p blicas",
+    "Falta de regulaci\u000fn y monitoreo",
+    "Presiones pol ticas y negociaciones locales",
+    "Historia de ocupaci\u000fn y uso de suelo",
+    "Cambios en la mano de obra agr cola",
+    "Falta de educaci\u000fn ambiental"
+  ],
+  "Consecuencias": [
+    "Contaminaci\u000fn por agroqu micos",
+    "P rdida de tierras agr colas",
+    "Asentamientos irregulares",
+    "Disminuci\u000fn de producci\u000fn agr cola",
+    "Conflictos sociales por recursos",
+    "Flexibilidad y disyuntivas en productores",
+    "Desplazamiento de poblaci\u000fn rural",
+    "Deterioro de r dos y canales",
+    "Dependencia de fuentes externas de agua",
+    "Falta de participaci\u000fn social de largo alcance"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores locales",
+      "accion": "Defensa de recursos h dricos"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Cambio a invernaderos"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Contrataci\u000fn de mano de obra externa"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Promoci\u000fn de producci\u000fn org nica"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Programas de extensionismo agr cola"
+    },
+    {
+      "actor": "Comisiones de cuenca",
+      "accion": "Gesti\u000fn de recursos h dricos"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Sensibilizaci\u000fn y educaci\u000fn ambiental"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Ocupaci\u000fn de tierras para agricultura"
+    },
+    {
+      "actor": "Juntas de vecinos",
+      "accion": "Negociaci\u000fn de asentamientos irregulares"
+    },
+    {
+      "actor": "ONGs y grupos civiles",
+      "accion": "Organizar productores por sistema producto"
+    },
+    {
+      "actor": "Productores individuales",
+      "accion": "Re\u001bso y reciclaje de agua dom stica"
+    },
+    {
+      "actor": "Universidad y organizaciones",
+      "accion": "Negociaci\u000fn con pobladores por deforestaci\u000fn"
+    }
+  ],
+  "input_tokens": 20180,
+  "output_tokens": 886,
+  "error": null,
+  "items_antes_de_tope": {}
+}

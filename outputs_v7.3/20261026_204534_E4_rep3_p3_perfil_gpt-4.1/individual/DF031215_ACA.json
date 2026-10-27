@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribuci\u0003n desigual del agua",
+    "Suministro irregular en colonias populares",
+    "Desabasto por nuevas construcciones",
+    "Manejo discrecional de v\u0000e1lvulas",
+    "Impacto de obras urbanas en inundaciones",
+    "Falta de infraestructura en asentamientos irregulares",
+    "Prioridad baja del agua en pol\u0000edticas urbanas"
+  ],
+  "Causas_principales": [
+    "Peso pol\u0000edtico de secretar\u0000edas",
+    "Intereses inmobiliarios en desarrollo urbano",
+    "Crecimiento urbano m\u0000e1s r\u0000e1pido que infraestructura",
+    "Sesgo presupuestal hacia zonas centrales",
+    "Manejo discrecional por coordinadores territoriales",
+    "Falta de planeaci\u0000f3n urbana actualizada",
+    "Decisiones pol\u0000edticas sobre servicios"
+  ],
+  "Consecuencias": [
+    "Baja presi\u0000f3n y menos agua",
+    "Inundaciones frecuentes en Iztapalapa",
+    "Grietas y da\u0000f1os en viviendas",
+    "Incertidumbre en acceso al agua",
+    "Adaptaciones para almacenar agua",
+    "Consolidaci\u0000f3n lenta de servicios",
+    "Desigualdad en calidad de servicios",
+    "Desconfianza en autoridades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar aparici\u0000f3n de grietas"
+    },
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Controlar apertura de v\u0000e1lvulas"
+    },
+    {
+      "actor": "Habitantes asentamientos",
+      "accion": "Almacenar agua en tambos"
+    },
+    {
+      "actor": "Secretar\u0000eda de Obras",
+      "accion": "Bloquear proyectos comunitarios"
+    },
+    {
+      "actor": "Secretar\u0000eda de Medio Ambiente",
+      "accion": "Defender obras con impacto ambiental"
+    },
+    {
+      "actor": "Protecci\u0000f3n Civil",
+      "accion": "Desasolve y limpieza de drenaje"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Introducir tuber\u0000edas por etapas"
+    },
+    {
+      "actor": "Habitantes colonias populares",
+      "accion": "Gestionar servicios tras regularizaci\u0000f3n"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    },
+    {
+      "actor": "Administraci\u0000f3n p\u0000fablica",
+      "accion": "Implementar innovaciones en zonas centrales"
+    }
+  ],
+  "input_tokens": 12471,
+  "output_tokens": 660,
+  "error": null,
+  "items_antes_de_tope": {}
+}

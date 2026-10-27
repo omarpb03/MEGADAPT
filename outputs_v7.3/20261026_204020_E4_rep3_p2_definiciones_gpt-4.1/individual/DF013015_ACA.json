@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento en periferia",
+    "Agua de mala calidad",
+    "Costo elevado para gente pobre",
+    "Falta de servicios básicos en viviendas",
+    "Distribución desigual del agua",
+    "Tandeo y acceso irregular",
+    "Contaminación de fuentes de agua",
+    "Falta de coordinación institucional",
+    "Impacto de asentamientos irregulares",
+    "Inundaciones y encharcamientos"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva del subsuelo",
+    "Dependencia de cuencas externas",
+    "Visión de ciudad para quien puede pagar",
+    "Falta de coordinación entre organismos",
+    "Falta de planeación urbana",
+    "Corrupción en permisos de construcción",
+    "Falta de evaluación de impacto ambiental",
+    "Crecimiento poblacional sin control",
+    "Políticas parciales y no integrales",
+    "Costos altos de agua embotellada y pipas",
+    "Mal manejo de residuos sólidos",
+    "Entubamiento de ríos",
+    "Falta de cultura ambiental",
+    "Falta de mantenimiento en infraestructura"
+  ],
+  "Consecuencias": [
+    "Grietas y deslaves en viviendas",
+    "Deterioro de construcciones",
+    "Enfermedades por mala calidad de agua",
+    "Abandono de viviendas",
+    "Gasto excesivo en agua embotellada",
+    "Fracturas y lesiones por cargar agua",
+    "Conflictos sociales y políticos",
+    "Contaminación de acuíferos",
+    "Inseguridad en asentamientos",
+    "Desigualdad en acceso al agua",
+    "Pérdida de espacios de recarga",
+    "Problemas de salud pública",
+    "Desprestigio político por conflictos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Realizar marchas y plantones"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Dotar agua en pipas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Aprobar permisos de construcción"
+    },
+    {
+      "actor": "ONG y académicos",
+      "accion": "Asesorar en gestión comunitaria"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Instalar pozos de captación de lluvia"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Presionar por servicios y regularización"
+    },
+    {
+      "actor": "Instituciones de vivienda",
+      "accion": "Otorgar créditos y viviendas"
+    },
+    {
+      "actor": "Gobierno y vecinos",
+      "accion": "Cofinanciar mejoramiento de vivienda"
+    },
+    {
+      "actor": "Escuela de maristas",
+      "accion": "Promover reciclaje y composta"
+    },
+    {
+      "actor": "Delegación y DGCOH",
+      "accion": "Manejar plantas de tratamiento"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Conectarse ilegalmente a agua potable"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Permitir construcción en zonas de riesgo"
+    },
+    {
+      "actor": "Gobierno y organizaciones",
+      "accion": "Crear programas de mejoramiento de barrio"
+    }
+  ],
+  "input_tokens": 18255,
+  "output_tokens": 796,
+  "error": null,
+  "items_antes_de_tope": {}
+}

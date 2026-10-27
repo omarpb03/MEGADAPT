@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Calidad muy mala del agua",
+    "Sistema de tandeo de agua",
+    "Agua chocolatosa, amarillenta, con insectos",
+    "Cobro de agua sin servicio",
+    "Corrupción en distribución de agua",
+    "Proceso de privatización del agua",
+    "Desperdicio de agua en el barrio",
+    "Inundaciones fuera de la colonia",
+    "Mala distribución del recurso",
+    "Falta de mantenimiento en infraestructura de agua"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin compromiso",
+    "Mala gestión delegacional",
+    "Red sucia y sin mantenimiento",
+    "Corrupción en pipas y manejo político",
+    "Mala distribución según zona económica",
+    "Políticas públicas inadecuadas",
+    "Problemas estructurales a nivel nacional",
+    "Cultura de escasez y conformismo",
+    "Sequías y pozos secos en estiaje",
+    "Concesión a empresas privadas",
+    "Mala planeación urbana",
+    "Falta de árboles y áreas verdes",
+    "Priorización del presupuesto en seguridad",
+    "Falta de aplicación de leyes"
+  ],
+  "Consecuencias": [
+    "Compra de agua embotellada local",
+    "Enfermedades estomacales en niños",
+    "Gasto extra en garrafones o pipas",
+    "Sedimentación y lodo en tinacos",
+    "Uso de agua de mala calidad",
+    "Reutilización de aguas grises",
+    "Conflictos y contradicciones comunitarias",
+    "Acceso desigual entre zonas de la ciudad",
+    "Saturación y colapso de drenajes",
+    "Caminatas largas por falta de transporte por inundaciones",
+    "Agua de pipa vendida, antes era práctica común",
+    "Acumulación de basura en pozos de absorción"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Mujeres de la comunidad",
+      "accion": "Protestas y exigencias de agua"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Presionar por condonación y servicios"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Condonar pago de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Dotación de pipas de agua"
+    },
+    {
+      "actor": "Piperos, delegación",
+      "accion": "Distribuir agua en pipas"
+    },
+    {
+      "actor": "Diputados",
+      "accion": "Frenar privatización del agua"
+    },
+    {
+      "actor": "Organizaciones civiles, científicos",
+      "accion": "Defender derecho al agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Movimiento por el suministro de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Acumular agua en cisternas"
+    },
+    {
+      "actor": "Familias, comunidad",
+      "accion": "Reutilizar aguas grises"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Comprar pipas de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Recolectar agua de lluvia"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Exigir mantenimiento a pozos de absorción"
+    },
+    {
+      "actor": "Funcionarios, gobierno",
+      "accion": "Dar mensajes de ahorro de agua"
+    },
+    {
+      "actor": "Sedesol",
+      "accion": "Entregar despensas y construir techos"
+    },
+    {
+      "actor": "Gobierno federal/local",
+      "accion": "Poner campañas de cuidado del agua"
+    },
+    {
+      "actor": "Ciudadanos organizados",
+      "accion": "Proyectos locales de recolección de lluvia"
+    },
+    {
+      "actor": "Delegación, ciudadanía",
+      "accion": "Demanda y limpieza de alcantarillas"
+    }
+  ],
+  "input_tokens": 8998,
+  "output_tokens": 670,
+  "error": null,
+  "items_antes_de_tope": {}
+}

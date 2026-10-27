@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua insuficiente",
+    "Dotación irregular y tandeo",
+    "Mala calidad del agua",
+    "Corrupción en distribución",
+    "Privatización del servicio de agua",
+    "Alto costo de agua embotellada",
+    "Desigualdad en acceso al agua",
+    "Desperdicio de agua en algunas zonas",
+    "Falta de mantenimiento a infraestructura",
+    "Poca incidencia de autoridades en problemas"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin compromiso oficial",
+    "Infraestructura deficiente y vieja",
+    "Sistema de tandeo manipulado",
+    "Corrupción en manejo del agua",
+    "Uso político del agua",
+    "Falta de mantenimiento en red y pozos",
+    "Sequía y estiaje recurrente",
+    "Política pública basada en votos",
+    "Desigualdad económica y mala distribución",
+    "Falta de vigilancia y sanciones",
+    "Políticas de privatización de agua",
+    "Ausencia de campañas efectivas de concientización"
+  ],
+  "Consecuencias": [
+    "Falta de agua semanal o quincenal",
+    "Tener que comprar pipas de agua",
+    "Agua chocolatosa o con lodo",
+    "Gastos extras en agua embotellada",
+    "Organización vecinal para exigir agua",
+    "Enfermedades gastrointestinales en niños",
+    "Escuelas y casas sin higiene suficiente",
+    "Tiradero de agua en calles",
+    "Descontento y protestas sociales",
+    "Acumulación de agua en cisternas",
+    "Inundación en vialidades principales",
+    "Colapso de drenajes y mezcla de aguas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos y mujeres",
+      "accion": "Protestar y exigir dotación de agua"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Presionar para condonación de pagos"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Emitir decreto de condonación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Gestionar distribución de agua"
+    },
+    {
+      "actor": "Políticos locales",
+      "accion": "Usar agua como bandera electoral"
+    },
+    {
+      "actor": "Piperos de la delegación",
+      "accion": "Repartir agua en pipas"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumular agua en cisternas"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Reutilizar agua doméstica"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Comprar agua en garrafones"
+    },
+    {
+      "actor": "Locales purificadoras",
+      "accion": "Vender garrafones baratos"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Condonar pagos o regalar despensas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Construir pozos de absorción"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Demandar mantenimiento de pozos"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Liderar movimiento de defensa del agua"
+    },
+    {
+      "actor": "Pedro Moctezuma y movimiento universitario",
+      "accion": "Organizar defensa del agua"
+    },
+    {
+      "actor": "Sistema de aguas ciudad de méxico",
+      "accion": "Aplicar tandeo y cobros"
+    },
+    {
+      "actor": "Escuelas privadas",
+      "accion": "Pagar pipas para abastecimiento"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Recolectar agua de lluvia"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Dar mensajes de cuidar agua"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Gestionar entrevistas con funcionarios"
+    }
+  ],
+  "input_tokens": 8998,
+  "output_tokens": 653,
+  "error": null,
+  "items_antes_de_tope": {}
+}

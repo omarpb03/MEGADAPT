@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas urbanas",
+    "Calidad del agua no es muy buena",
+    "Presion urbana sobre zonas de conservación",
+    "Problemática del agua en asentamientos irregulares",
+    "Control de agua por grupos de piperos",
+    "Falta de continuidad generacional en proyectos productivos",
+    "Incompatibilidad de usos de suelo y agua"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios y políticos",
+    "Descoordinación institucional",
+    "Desmantelamiento de políticas rurales",
+    "Escala inadecuada de planeación",
+    "Competencia por recursos entre instituciones",
+    "Expansión urbana desordenada",
+    "Falta de apoyo al campo",
+    "Distorsión de políticas de vivienda",
+    "Presión de migración interna y externa",
+    "Debilitamiento de instituciones comunitarias",
+    "Lógica empresarial sobre bienestar social"
+  ],
+  "Consecuencias": [
+    "Proyectos distorsionados en la implementación",
+    "Agotamiento psicosocial de actores comunitarios",
+    "Conflictos por recursos y territorio",
+    "Gentrificación y sobreconstrucción de viviendas",
+    "Expansión urbana en zonas de conservación",
+    "Servicios de agua controlados por grupos de poder",
+    "Conflictos comunitarios por proyectos externos",
+    "Falta de acceso a servicios básicos",
+    "Pérdida de dinámicas agrarias tradicionales",
+    "Problemas de salud por mala calidad de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidades locales",
+      "accion": "Captación de agua de lluvia"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Filtración casera de agua"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Distribución de agua por tubería"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Venta y control de pipas de agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Proyectos de captación de agua"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Proyectos de captación pluvial"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Gestión de servicios y recursos"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Reconocimiento de derechos de agua"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Diseño de políticas ambientales"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Implementación de servicios básicos"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Negociación de recursos y servicios"
+    },
+    {
+      "actor": "Proyectos productivos agrícolas",
+      "accion": "Uso de agua para producción"
+    },
+    {
+      "actor": "Instituciones comunitarias",
+      "accion": "Fortalecimiento y transparencia"
+    }
+  ],
+  "input_tokens": 9843,
+  "output_tokens": 712,
+  "error": null,
+  "items_antes_de_tope": {}
+}

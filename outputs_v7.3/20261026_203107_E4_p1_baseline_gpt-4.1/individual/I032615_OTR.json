@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Infraestructura hidráulica vieja y obsoleta",
+    "Fugas de agua potable",
+    "Mala calidad del agua",
+    "Falta de infiltración de agua de lluvia",
+    "Pavimentación excesiva",
+    "Grietas y fracturas en viviendas",
+    "Privatización del agua",
+    "Mala administración del agua",
+    "Inundaciones en época de lluvias",
+    "Escasez de áreas verdes",
+    "Extracción excesiva de agua fósil",
+    "Contaminación de ríos y aguas residuales"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua y obsoleta",
+    "Falta de presupuesto para infraestructura",
+    "Modelo de desarrollo urbano extractivista",
+    "Territorio asentado sobre lago",
+    "Zona sísmica y de volcanes",
+    "Pavimentación que impide infiltración",
+    "Crecimiento constante de la población",
+    "Extracción de agua profunda",
+    "Falta de visión sustentable del gobierno",
+    "Privatización y clientelismo político",
+    "Mala gestión gubernamental",
+    "Falta de educación ambiental",
+    "Entubamiento y contaminación de ríos",
+    "Falta de aplicación de la ley de captación de agua"
+  ],
+  "Consecuencias": [
+    "Desperdicio del 40% de agua por fugas",
+    "Grietas y fracturas en viviendas",
+    "Hundimientos del suelo",
+    "Fractura de drenaje y red de agua potable",
+    "Agua de mala calidad",
+    "Agua potable no apta para consumo",
+    "Inundaciones recurrentes",
+    "Escasez de agua en zonas periféricas",
+    "Importación de agua de otras cuencas",
+    "Rompimiento del tejido social",
+    "Deterioro de la calidad de vida",
+    "Contaminación de mantos freáticos",
+    "Negocio con aguas residuales",
+    "Falta de conciencia ciudadana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Autogestión de vivienda y servicios"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instalación de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Construcción de pozos de infiltración"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Uso de adopasto y adoquín en áreas verdes"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Implementación de baños secos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Movilización para exigir servicios"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Diagnóstico y mapeo de riesgos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Educación ambiental y talleres"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Propuestas de gestión sustentable"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Suministro de agua por pipas"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Programa mitad y mitad para agua potable"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Gestión de pozos y extracción de agua"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "No aplicación de ley de captación"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Inversión en túneles emisores"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Cobro y privatización del agua"
+    },
+    {
+      "actor": "Carlos Slim",
+      "accion": "Concesión de aguas residuales"
+    },
+    {
+      "actor": "ONGs y universidades",
+      "accion": "Asesoría y proyectos de captación"
+    },
+    {
+      "actor": "Centro de diagnóstico de riesgos",
+      "accion": "Evaluación de grietas en viviendas"
+    },
+    {
+      "actor": "Colectivos culturales",
+      "accion": "Incidencia en educación ecológica"
+    },
+    {
+      "actor": "Mercado local",
+      "accion": "Infraestructura para cosecha de agua de lluvia"
+    },
+    {
+      "actor": "Escuelas",
+      "accion": "Proyectos de escuela sustentable"
+    },
+    {
+      "actor": "Comisiones de cuenca",
+      "accion": "Gestión de recursos hídricos"
+    }
+  ],
+  "input_tokens": 24925,
+  "output_tokens": 1070,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud en época de lluvias",
+    "Inundaciones en domicilios y barrancas",
+    "Reblandecimiento y deterioro del suelo",
+    "Taponamiento de drenaje por basura",
+    "Contaminación por desbordamiento de ríos",
+    "Crecimiento de asentamientos en zonas de riesgo"
+  ],
+  "Causas_principales": [
+    "Corte de cerros y terraceo",
+    "Deforestación y quema de raíces",
+    "Mala canalización de aguas residuales",
+    "Uso de letrinas y descarga a barrancas",
+    "Basura en ríos y barrancas",
+    "Lluvias extraordinarias",
+    "Construcción en zonas irregulares",
+    "Incendios que debilitan el suelo"
+  ],
+  "Consecuencias": [
+    "Deslizamientos de tierra",
+    "Inundaciones en viviendas",
+    "Desbordamiento de barrancas",
+    "Contaminación del agua",
+    "Enfermedades por contacto con agua contaminada",
+    "Daños a casas y bienes",
+    "Evacuación de personas",
+    "Pérdida de documentos y pertenencias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notificación a vecinos en riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recomendaciones de mitigación de riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recorridos y monitoreo de zonas vulnerables"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Atención inmediata en inundaciones"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Evacuación y apoyo en emergencias"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Difusión de información y trípticos"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Retiro y poda de árboles en riesgo"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Desazolve de drenaje y limpieza"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Recorridos para evitar asentamientos"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Retiro de construcciones irregulares"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Limpieza y desinfección con cloro"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Vacunación y atención médica"
+    },
+    {
+      "actor": "Desarrollo Social",
+      "accion": "Habilitación de albergues en emergencias"
+    },
+    {
+      "actor": "Comité de Riesgos Hidrometereológicos",
+      "accion": "Canalización de apoyos por lluvia"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Acatar recomendaciones de mitigación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Ajustes en infraestructura urbana"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Cobertura de taludes con plástico"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Monitoreo de estaciones pluviométricas"
+    }
+  ],
+  "input_tokens": 9151,
+  "output_tokens": 565,
+  "error": null,
+  "items_antes_de_tope": {}
+}

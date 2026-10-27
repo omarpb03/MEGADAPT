@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Riesgo en la ciudad",
+    "Acceso a bienes urbanos",
+    "Calidad de vida",
+    "Construcción del hábitat",
+    "Seguridad en condiciones de vida"
+  ],
+  "Causas_principales": [
+    "Política de desarrollo urbano del gobierno",
+    "Inversión privada y inmobiliarias",
+    "Corrupción y tráfico de influencias",
+    "Falta de coordinación entre recursos"
+  ],
+  "Consecuencias": [
+    "Alteración del medio ambiente",
+    "Aumento del riesgo",
+    "Desigualdad en el acceso a servicios",
+    "Impacto en la calidad de vida"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Movilización política y social"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Protestas y propuestas al gobierno"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoría y seguimiento a políticas públicas"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementación de programas de vivienda"
+    }
+  ],
+  "input_tokens": 6428,
+  "output_tokens": 204,
+  "error": null,
+  "items_antes_de_tope": {}
+}

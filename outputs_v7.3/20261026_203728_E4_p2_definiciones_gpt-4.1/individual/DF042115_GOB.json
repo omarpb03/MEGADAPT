@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Falta de agua potable en periferia",
+    "Exposición a fenómenos hidrometeorológicos",
+    "Enfermedades por agua contaminada",
+    "Interrupciones por fallas en infraestructura",
+    "Inundaciones locales",
+    "Desconfianza en el agua de la red"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Grandes consumidores industriales",
+    "Extracción de acuíferos",
+    "Crecimiento desordenado",
+    "Falta de mantenimiento de tinacos",
+    "Falta de mantenimiento de drenaje profundo",
+    "Suelo flexible y hundimiento",
+    "Diferencias ideológicas entre gobiernos",
+    "Falta de coordinación entre niveles de gobierno",
+    "Desinformación y barreras psicológicas",
+    "Invasión de reservas y ocupación de zonas peligrosas"
+  ],
+  "Consecuencias": [
+    "Vulnerabilidad de población migrante",
+    "Enfermedades respiratorias y gastrointestinales",
+    "Afectaciones en actividades económicas",
+    "Bajo rendimiento educativo",
+    "Aumento de enfermedades dermatológicas",
+    "Cortes de abastecimiento tras sismos",
+    "Inundaciones sectorizadas",
+    "Desigualdad en acceso a agua potable",
+    "Desperdicio de agua potable para usos no esenciales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de lagunas de regulación"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Creación de infraestructura reciente en Xochimilco y Chalco"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Almacenamiento de agua en tinacos"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Consumo de agua embotellada"
+    },
+    {
+      "actor": "Sociedad",
+      "accion": "Uso incipiente de captación de agua de lluvia"
+    },
+    {
+      "actor": "Sociedad",
+      "accion": "Uso incipiente de techos verdes"
+    },
+    {
+      "actor": "Protección Civil DF",
+      "accion": "Respuesta reactiva a eventos extremos"
+    },
+    {
+      "actor": "Secretaría de Salud federal",
+      "accion": "Acciones sanitarias tras desastres"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalación de sistemas de alerta hidrometeorológica"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Gestión de infraestructura hidráulica federal"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Capacitación y colaboración técnica"
+    }
+  ],
+  "input_tokens": 9938,
+  "output_tokens": 671,
+  "error": null,
+  "items_antes_de_tope": {}
+}

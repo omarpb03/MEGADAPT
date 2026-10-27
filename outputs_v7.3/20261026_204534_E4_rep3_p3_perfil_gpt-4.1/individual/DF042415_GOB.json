@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en colonias vulnerables",
+    "Enfermedades derivadas de inundaciones",
+    "Escasez de agua en la ciudad",
+    "Enfermedades gastrointestinales por agua",
+    "Subregistro de enfermedades por agua",
+    "Exposición a aguas negras en casas",
+    "Falta de información epidemiológica",
+    "Vulnerabilidad de grupos específicos"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para lluvias",
+    "Falta de drenaje en zonas irregulares",
+    "Asentamientos en zonas bajas",
+    "Agua entubada de baja calidad",
+    "Agua de pipas no totalmente limpia",
+    "Agua con sedimentos por escasez",
+    "Mezcla de aguas negras en inundaciones",
+    "Falta de cultura de prevención",
+    "Construcción sin normas",
+    "Falta de acceso a servicios sanitarios"
+  ],
+  "Consecuencias": [
+    "Dermatitis por contacto con agua",
+    "Conjuntivitis e irritación de mucosas",
+    "Enfermedades gástricas menores",
+    "Intoxicación por químicos de limpieza",
+    "Pérdida de pertenencias en inundaciones",
+    "Dificultad para volver a la normalidad",
+    "Mayor vulnerabilidad en niños y mujeres",
+    "Mayor afectación en adultos mayores y diabéticos",
+    "Subregistro de enfermedades",
+    "Uso de paliativos en vez de atención médica",
+    "Proliferación de moscos tras inundación"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Brigadas de limpieza tras inundación"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación de población afectada"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Medidas preventivas y apoyo"
+    },
+    {
+      "actor": "Sector Salud",
+      "accion": "Campañas de prevención y limpieza"
+    },
+    {
+      "actor": "Sector Salud",
+      "accion": "Provisión de cloro y agua potable"
+    },
+    {
+      "actor": "Sector Salud",
+      "accion": "Fumigación y desinfección"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difusión de información preventiva"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Limpieza y desinfección de casas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Apoyo con enseres y colchones"
+    },
+    {
+      "actor": "Dirección de Epidemiología",
+      "accion": "Análisis y mapas de enfermedades"
+    },
+    {
+      "actor": "Jurisdicción sanitaria",
+      "accion": "Levantamiento de información local"
+    },
+    {
+      "actor": "Escuelas y brigadas",
+      "accion": "Educación preventiva a niños"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Subir pertenencias para protegerlas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Uso de tabiques para elevar muebles"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Incrementar capacidad de drenaje"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Concientización sobre no tirar basura"
+    }
+  ],
+  "input_tokens": 12925,
+  "output_tokens": 544,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u0003n de fuentes de abastecimiento",
+    "Fugas por tuber\u000eda vieja",
+    "Desabasto en temporada de estiaje",
+    "Oposici\u0003n a obras de mejora",
+    "Contaminaci\u0003n por basura en r\u000edos",
+    "Crecimiento de la mancha urbana"
+  ],
+  "Causas_principales": [
+    "Tala clandestina en zona boscosa",
+    "Tuber\u000edas rebasan vida \u0003til",
+    "Falta de reforestaci\u0003n",
+    "Crecimiento de la poblaci\u0003n",
+    "Mala informaci\u0003n entre comuneros",
+    "Falta de cultura de la basura",
+    "Reducci\u0003n de agua enviada del Estado de M\u0003xico",
+    "Oposici\u0003n de comuneros y ejidatarios",
+    "Presupuesto insuficiente para obras",
+    "Pavimentaci\u0003n reduce filtraci\u0003n"
+  ],
+  "Consecuencias": [
+    "Baja recarga de manantiales",
+    "P\u000003rdida de agua por fugas",
+    "Servicio de agua por tandeo",
+    "Suspensi\u000003n de obras de sustituci\u000003n",
+    "Afectaciones en viviendas por inundaci\u000003n",
+    "Agua contaminada en temporada de lluvias",
+    "Desbordamiento de cauces",
+    "Dificultad para abastecer nuevas colonias",
+    "Acumulaci\u000003n de basura en barrancas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u000003n",
+      "accion": "Distribuci\u000003n de agua en colonias"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustituci\u000003n de tuber\u00000edas viejas"
+    },
+    {
+      "actor": "Delegaci\u000003n y Sistema de Aguas",
+      "accion": "Mantenimiento y limpieza de captaciones"
+    },
+    {
+      "actor": "Delegaci\u000003n",
+      "accion": "Reuni\u000003n de concertaci\u000003n con comuneros"
+    },
+    {
+      "actor": "Delegaci\u000003n",
+      "accion": "Abastecimiento de agua por pipas"
+    },
+    {
+      "actor": "Delegaci\u000003n y Ecolog\u000003a",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Monitoreo de calidad del agua"
+    },
+    {
+      "actor": "Poblaci\u000003n civil",
+      "accion": "Participaci\u000003n en reforestaci\u000003n"
+    },
+    {
+      "actor": "Televisoras",
+      "accion": "Mantenimiento temporal de r\u000003os"
+    },
+    {
+      "actor": "Participaci\u000003n ciudadana",
+      "accion": "Reuni\u000003n con avecindados por necesidades"
+    }
+  ],
+  "input_tokens": 11830,
+  "output_tokens": 777,
+  "error": null,
+  "items_antes_de_tope": {}
+}

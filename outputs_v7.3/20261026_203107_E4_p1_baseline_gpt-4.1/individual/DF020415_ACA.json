@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteración del medio ambiente",
+    "Alteración de la vocación natural del suelo urbano",
+    "Alteración de la infraestructura existente",
+    "Acceso a servicios urbanos y agua",
+    "Calidad de vida",
+    "Seguridad en condiciones de vida",
+    "Afectación por políticas públicas urbanas",
+    "Riesgo en asentamientos populares"
+  ],
+  "Causas_principales": [
+    "Política urbana que favorece inversionistas privados",
+    "Construcción de vías de comunicación que alteran asentamientos",
+    "Proyectos inmobiliarios que afectan colonias y zonas verdes",
+    "Condición neoliberal de la ciudad",
+    "Corrupción y tráfico de influencias",
+    "Reducción de recursos públicos para vivienda",
+    "Falta de canales formales de acceso a créditos",
+    "Contradicción en gobiernos de izquierda"
+  ],
+  "Consecuencias": [
+    "Afectación a la vida de asentamientos populares",
+    "Agrietamiento de casas y calles",
+    "Incremento del riesgo",
+    "Violación de usos del suelo",
+    "Movimientos sociales frustrados",
+    "Reducción de recursos para vivienda",
+    "Dificultad para acceder a bienes urbanos",
+    "Necesidad de movilización social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a política urbana"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoría en proyectos alternativos"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncias y propuestas al gobierno"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Plantones y marchas"
+    },
+    {
+      "actor": "ONG’s de vivienda y desarrollo urbano",
+      "accion": "Incidencia en nuevas normas de seguridad"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Generación de opinión pública"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Elaboración de propuestas normativas"
+    },
+    {
+      "actor": "ONG internacional HIC",
+      "accion": "Vínculo con derecho a la ciudad"
+    }
+  ],
+  "input_tokens": 6439,
+  "output_tokens": 577,
+  "error": null,
+  "items_antes_de_tope": {}
+}

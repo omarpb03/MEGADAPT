@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Falta de agua potable en periferia",
+    "Enfermedades por agua contaminada",
+    "Interrupciones por fallas en tuberías",
+    "Inundaciones locales",
+    "Desconfianza en agua de la red",
+    "Crecimiento desordenado de la ciudad",
+    "Vulnerabilidad de asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la poblaci\u0013n",
+    "Grandes consumidores industriales",
+    "Trasvase de agua de otras regiones",
+    "Extracci\u00133n de acu feros",
+    "Ocupaci\u0013n de zonas peligrosas",
+    "Falta de freno al crecimiento urbano",
+    "Desorden en asentamientos",
+    "Falta de conocimiento de la regi\u0013n por migrantes",
+    "Viviendas precarias",
+    "Contaminaci\u0013n",
+    "Falta de mantenimiento de tinacos",
+    "Barrera psicol\u0013gica sobre el agua potable",
+    "Mensaje impl\u0013cito de empresas embotelladoras",
+    "Fallas en infraestructura por sismos",
+    "Suelo flexible y hundimiento",
+    "Falta de coordinaci\u0013n entre niveles de gobierno",
+    "Separaci\u0013n entre gobierno local y federal",
+    "Falta de acceso a informaci\u0013n detallada",
+    "Capacidad limitada de unidades municipales",
+    "Falta de medidas preventivas suficientes"
+  ],
+  "Consecuencias": [
+    "Exposici\u0013n a fen\u0013menos extremos",
+    "Afectaciones a la salud",
+    "Enfermedades respiratorias",
+    "Brotes de alergia",
+    "Enfermedades gastrointestinales",
+    "Enfermedades dermatol\u0013gicas",
+    "Afectaci\u0013n en actividades econ\u0013micas",
+    "Bajo rendimiento educativo",
+    "Falta de higiene",
+    "Corte de abastecimiento tras sismos",
+    "Inundaciones en zonas espec\u0013ficas",
+    "Aislamiento de sectores urbanos",
+    "Desigualdad en acceso a agua potable",
+    "Desconfianza en el agua de la red",
+    "Dependencia de agua embotellada",
+    "Problemas en infraestructura hidr\u0013ulica",
+    "Vulnerabilidad de poblaci\u0013n migrante"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcci\u0013n de lagunas de regulaci\u0013n"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Creaci\u0013n de presas y bordos"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Regulaci\u00133n de cuerpos de agua"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Almacenamiento de agua en tinacos"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Consumo de agua embotellada"
+    },
+    {
+      "actor": "Algunas familias",
+      "accion": "Recolecci\u0013n de agua de lluvia"
+    },
+    {
+      "actor": "Algunas familias",
+      "accion": "Instalaci\u00133n de techos verdes"
+    },
+    {
+      "actor": "Secretar\u0013a de Salud federal",
+      "accion": "Acciones sanitarias tras desastres"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalaci\u00133n de sistemas de alerta hidrometeorol\u0013gica"
+    },
+    {
+      "actor": "Protecci\u00133n Civil DF",
+      "accion": "Respuesta a eventos extremos"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Operaci\u0013n de infraestructura hidr\u0013ulica federal"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Capacitaci\u0013n en monitoreo y mantenimiento"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Construcci\u00133n de emisores y t\u0013nel oriente"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Control de enfermedades en periferia"
+    }
+  ],
+  "input_tokens": 10172,
+  "output_tokens": 1057,
+  "error": null,
+  "items_antes_de_tope": {}
+}

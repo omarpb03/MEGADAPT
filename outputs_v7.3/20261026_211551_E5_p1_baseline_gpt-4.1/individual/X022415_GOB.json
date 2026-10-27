@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion de cuerpos de agua",
+    "Mala calidad del agua tratada",
+    "Cantidad insuficiente de agua en canales",
+    "Hundimientos diferenciales por manejo del agua",
+    "Descargas de aguas negras a canales",
+    "Abandono de chinampas por problemas de agua",
+    "Falta de coordinación entre dependencias",
+    "Desapego generacional al trabajo agrícola",
+    "Inundaciones en zonas chinamperas",
+    "Pérdida de biodiversidad acuática"
+  ],
+  "Causas_principales": [
+    "Descargas directas de aguas negras",
+    "Falta de drenaje en asentamientos irregulares",
+    "Descargas de establos lecheros al canal",
+    "Uso excesivo de agroquímicos en invernaderos",
+    "Mantenimiento deficiente a plantas de tratamiento",
+    "Fugas en la red hidráulica",
+    "Plantas de tratamiento con altibajos",
+    "Decisiones unilaterales de sistema de aguas",
+    "Hundimientos diferenciales por agua",
+    "Abandono de tecnologías inapropiadas",
+    "Ausencia de convenio entre dependencias",
+    "Desarraigo campesino de nuevas generaciones",
+    "Falta de enfoque integral en política pública"
+  ],
+  "Consecuencias": [
+    "Dificultad para comercializar productos",
+    "Productos agrícolas contaminados",
+    "Baja economía de productores",
+    "Abandono de la chinampa",
+    "Merma de turismo por mal olor",
+    "Inundaciones con pérdidas económicas",
+    "Riesgo sanitario por aguas negras",
+    "Degradación del paisaje chinampero",
+    "Pérdida de hábitat de especies nativas",
+    "Inseguridad alimentaria en la región"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento y filtrado de canales"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Coordinación y creación de políticas"
+    },
+    {
+      "actor": "Instituto de Biología UNAM",
+      "accion": "Proyectos de refugios para biodiversidad"
+    },
+    {
+      "actor": "Conam y Conabio",
+      "accion": "Modelos y estudios para manejo del agua"
+    },
+    {
+      "actor": "Productores y chef",
+      "accion": "Turismo y venta de productos in situ"
+    },
+    {
+      "actor": "Delegacion y productores",
+      "accion": "Manejo de esclusas"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Manejo hidráulico y rebombeo"
+    },
+    {
+      "actor": "UNAM y UAM",
+      "accion": "Monitoreo de biodiversidad y criterios técnicos"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Decretar y administrar áreas protegidas"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Catálogo y georreferenciación de chinampas"
+    }
+  ],
+  "input_tokens": 12070,
+  "output_tokens": 529,
+  "error": null,
+  "items_antes_de_tope": {}
+}

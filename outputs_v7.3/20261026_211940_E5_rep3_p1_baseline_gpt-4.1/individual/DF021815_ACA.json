@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en acceso al agua",
+    "Desconfianza en calidad del agua",
+    "Falta de manejo de la demanda",
+    "Opacidad en la gestión técnica",
+    "Infraestructura de drenaje insuficiente",
+    "Inundaciones recurrentes",
+    "Presiones inmobiliarias sobre recursos",
+    "Acceso limitado en asentamientos informales"
+  ],
+  "Causas_principales": [
+    "Gestión patrimonialista del recurso",
+    "Mecanismos de control político",
+    "Arreglos opacos internos",
+    "Intereses inmobiliarios fuertes",
+    "Esquemas tarifarios regresivos",
+    "Aprobaciones condicionadas de desarrollo urbano",
+    "Expansión urbana en zonas de conservación",
+    "Infraestructura antigua y deteriorada",
+    "Ausencia de manejo de demanda",
+    "Política de vivienda agotada",
+    "Presión por especulación de terrenos",
+    "No enfoque en calidad de agua"
+  ],
+  "Consecuencias": [
+    "Zonas sin servicio regular",
+    "Pago mayor por litro consumido",
+    "Inundaciones crónicas en Iztapalapa y Chalco",
+    "Enfermedades y brotes como cólera",
+    "Emergencia sanitaria por aguas negras",
+    "Crecimiento urbano desordenado",
+    "Acceso segmentado según intereses",
+    "Consolidación de asentamientos irregulares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Aprobación de licencias de agua"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Control de circuitos de distribución"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Manejo opaco de asignación de agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presión para obtener autorizaciones"
+    },
+    {
+      "actor": "Pobladores y vecinos",
+      "accion": "Presión y protestas por suministro"
+    },
+    {
+      "actor": "Delegaciones políticas",
+      "accion": "Negociaciones en función del control político"
+    },
+    {
+      "actor": "Gobierno de la ciudad",
+      "accion": "Sistema de tarifas y precios"
+    },
+    {
+      "actor": "Fiduciarios y consejos",
+      "accion": "Administración de desarrollos urbanos"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Visibiliza problemas de inundaciones"
+    },
+    {
+      "actor": "Usuarios particulares",
+      "accion": "Compra de agua embotellada por desconfianza"
+    },
+    {
+      "actor": "Autoridades urbanas",
+      "accion": "Recalificación de tierras tras obras viales"
+    },
+    {
+      "actor": "Académicos y ciudadanos",
+      "accion": "Participación en grupos sobre el agua"
+    }
+  ],
+  "input_tokens": 13810,
+  "output_tokens": 673,
+  "error": null,
+  "items_antes_de_tope": {}
+}

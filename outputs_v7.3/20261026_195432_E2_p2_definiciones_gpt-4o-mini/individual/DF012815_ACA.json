@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtención y distribución del agua",
+    "Calidad del agua",
+    "Escasez de agua",
+    "Crecimiento inadecuado de la ciudad"
+  ],
+  "Causas_principales": [
+    "Crecimiento descontrolado de la ciudad",
+    "Asentamientos irregulares",
+    "Falta de infraestructura adecuada",
+    "Decisiones políticas absurdas"
+  ],
+  "Consecuencias": [
+    "Problemas de abastecimiento",
+    "Inundaciones",
+    "Disminución de la recarga de mantos freáticos",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Operar la dotación de agua"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Tomar decisiones políticas sobre asentamientos"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Concesionar servicios de agua"
+    },
+    {
+      "actor": "Población",
+      "accion": "Protestar por falta de agua"
+    }
+  ],
+  "input_tokens": 9711,
+  "output_tokens": 204,
+  "error": null,
+  "items_antes_de_tope": {}
+}

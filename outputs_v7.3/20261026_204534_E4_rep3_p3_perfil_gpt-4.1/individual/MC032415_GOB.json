@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u000fn de fuentes de abastecimiento",
+    "Fugas en tuber\u000edas viejas",
+    "Desabasto en temporada de estiaje",
+    "Oposici\u000fn a obras de infraestructura",
+    "Contaminaci\u000fn por basura en r\u000edos y manantiales",
+    "Crecimiento de la mancha urbana",
+    "Problemas de tandeo y suministro desigual",
+    "Almacenamiento insuficiente en tanques",
+    "Tiradero de agua en temporada de lluvias"
+  ],
+  "Causas_principales": [
+    "Tala clandestina en zona boscosa",
+    "Tuber\u000edas rebasan vida \u000fatil",
+    "Falta de presupuesto para sustituci\u000fn de tuber\u000edas",
+    "Crecimiento de la mancha urbana",
+    "Oposici\u000fn de comuneros y ejidatarios",
+    "Mala informaci\u000fn sobre obras",
+    "Falta de cultura y educaci\u000fn ambiental",
+    "Reducci\u000fn del agua enviada desde el Estado de M\u000exico",
+    "Basura arrastrada por lluvias",
+    "Falta de expropiaci\u000fn y regularizaci\u000fn de terrenos",
+    "Tanques de almacenamiento peque\u000f1os",
+    "Falta de terrenos para nuevos tanques"
+  ],
+  "Consecuencias": [
+    "Baja recarga de manantiales",
+    "Disminuci\u000fn del gasto de agua",
+    "Suspensi\u000fn temporal del suministro",
+    "P\u000009rdida de agua por fugas",
+    "Servicio de agua por tandeo",
+    "Desabasto en colonias nuevas",
+    "Afectaciones a viviendas por inundaci\u000fn",
+    "Agua contaminada por basura",
+    "Obras de mejora suspendidas",
+    "Conflictos con comuneros y ejidatarios",
+    "Incremento del consumo por densificaci\u000fn urbana",
+    "Problemas de vialidad por desbordamiento"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u000fn",
+      "accion": "Distribuci\u000fn de agua en colonias"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Env\u00000do de agua en bloque"
+    },
+    {
+      "actor": "Delegaci\u000fn y Sistema de Aguas",
+      "accion": "Mantenimiento y reparaci\u00000fn de fugas"
+    },
+    {
+      "actor": "Delegaci\u000fn y Sistema de Aguas",
+      "accion": "Limpieza y desazolve de manantiales"
+    },
+    {
+      "actor": "Delegaci\u000fn y Sistema de Aguas",
+      "accion": "Lavado y desinfecci\u00000fn de tanques"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustituci\u00000fn de tuber\u000edas viejas"
+    },
+    {
+      "actor": "Delegaci\u000fn",
+      "accion": "Distribuci\u00000fn de agua por pipas"
+    },
+    {
+      "actor": "Delegaci\u000fn y Sistema de Aguas",
+      "accion": "Reuni\u00000fn de concertaci\u00000fn con comuneros"
+    },
+    {
+      "actor": "Delegaci\u000fn y Ecolog\u00000da",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Ecolog\u00000da",
+      "accion": "Recolecci\u00000fn de basura en barrancas"
+    },
+    {
+      "actor": "Poblaci\u00000fn civil",
+      "accion": "Participaci\u00000fn en reforestaci\u00000fn"
+    },
+    {
+      "actor": "Delegaci\u00000fn y Sistema de Aguas",
+      "accion": "Informar y explicar proyectos a vecinos"
+    },
+    {
+      "actor": "Delegaci\u00000fn",
+      "accion": "Programa de tandeo de agua"
+    },
+    {
+      "actor": "Delegaci\u00000fn",
+      "accion": "Abastecimiento gratuito por pipa"
+    },
+    {
+      "actor": "Delegaci\u00000fn y Sistema de Aguas",
+      "accion": "Solicitud de construcci\u00000fn de tanques"
+    },
+    {
+      "actor": "Poblaci\u00000fn local",
+      "accion": "Almacenamiento en tinacos y cisternas"
+    },
+    {
+      "actor": "Participaci\u00000fn ciudadana",
+      "accion": "Reuni\u00000fn con avecindados por necesidades"
+    }
+  ],
+  "input_tokens": 12064,
+  "output_tokens": 1126,
+  "error": null,
+  "items_antes_de_tope": {}
+}

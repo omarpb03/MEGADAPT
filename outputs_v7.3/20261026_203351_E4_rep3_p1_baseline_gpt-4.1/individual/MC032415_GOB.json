@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminucin de fuentes de abastecimiento",
+    "Fugas por tubera vieja",
+    "Desabasto en temporada de estiaje",
+    "Oposicin a obras de mejora",
+    "Contaminacin por basura en ros y manantiales",
+    "Crecimiento de la mancha urbana",
+    "Falta de recarga de mantos acuferos"
+  ],
+  "Causas_principales": [
+    "Tala clandestina en zona boscosa",
+    "Tuberas rebasan vida atil",
+    "Crecimiento de la mancha urbana",
+    "Reduccin de agua del Estado de Mxico",
+    "Falta de reforestacin",
+    "Falta de conciencia ambiental",
+    "Oposicin de comuneros y ejidatarios",
+    "Falta de presupuesto para obras",
+    "Falta de expropiacin de terrenos",
+    "Basura tirada por paseantes y santeros",
+    "Calles pavimentadas sin filtracin",
+    "Tradiciones y desinformacin de residentes"
+  ],
+  "Consecuencias": [
+    "Baja recarga de manantiales",
+    "Disminucin de caudal en estiaje",
+    "Desabasto en colonias",
+    "Agua contaminada por basura",
+    "Taponamientos e inundaciones puntuales",
+    "Prdida de agua por fugas",
+    "Servicio de agua por tandeo",
+    "Oposicin a sustitucin de tuberas",
+    "Lentitud en obras de mejora",
+    "Mayor consumo por densificacin urbana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegacin",
+      "accion": "Distribucin de agua en colonias"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitucin de tuberas viejas"
+    },
+    {
+      "actor": "Delegacin y Sistema de Aguas",
+      "accion": "Mantenimiento y reparacin de fugas"
+    },
+    {
+      "actor": "Delegacin y Sistema de Aguas",
+      "accion": "Limpieza de captaciones y tanques"
+    },
+    {
+      "actor": "Delegacin",
+      "accion": "Distribucin de agua por pipas"
+    },
+    {
+      "actor": "Delegacin y Ecologfa",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Monitoreo de calidad de agua"
+    },
+    {
+      "actor": "Delegacin y Sistema de Aguas",
+      "accion": "Reunin con comuneros para concertacin"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Almacenamiento en tinacos y cisternas"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Oposicin a obras de mejora"
+    },
+    {
+      "actor": "Comuneros y ejidatarios",
+      "accion": "Venta de terrenos para urbanizacin"
+    },
+    {
+      "actor": "Poblacin civil y televisoras",
+      "accion": "Participacin en limpieza de ros"
+    },
+    {
+      "actor": "Participacin ciudadana",
+      "accion": "Reunin con avecindados para necesidades"
+    },
+    {
+      "actor": "Delegacin y Sistema de Aguas",
+      "accion": "Solicitud de construccin de tanques"
+    },
+    {
+      "actor": "Delegacin y Ecologfa",
+      "accion": "Educacin ambiental sobre basura"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 775,
+  "error": null,
+  "items_antes_de_tope": {}
+}

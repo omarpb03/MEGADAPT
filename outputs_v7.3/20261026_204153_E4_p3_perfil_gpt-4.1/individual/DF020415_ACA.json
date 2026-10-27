@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteración del medio ambiente",
+    "Alteración de la vocación natural del suelo urbano",
+    "Alteración de la infraestructura existente",
+    "Acceso a servicios urbanos y agua",
+    "Calidad de vida en el hábitat",
+    "Seguridad para vivir en la ciudad"
+  ],
+  "Causas_principales": [
+    "Política urbana que favorece inversionistas privados",
+    "Construcción de vías de comunicación que alteran asentamientos",
+    "Proyectos inmobiliarios que afectan barrios",
+    "Condición neoliberal de la ciudad",
+    "Reducción de recursos públicos para vivienda",
+    "Corrupción y tráfico de influencias en gobierno"
+  ],
+  "Consecuencias": [
+    "Afectación a asentamientos populares",
+    "Afectación a colonias de clase media",
+    "Afectación a zonas verdes de la ciudad",
+    "Agrietamiento de casas y calles",
+    "Incremento del riesgo y vulnerabilidad",
+    "Dificultad para acceder a créditos y recursos",
+    "Movimientos sociales frustrados"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a política urbana"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoría en proyectos alternativos"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncias y propuestas al gobierno"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Plantones y marchas"
+    },
+    {
+      "actor": "ONG’s y movimientos urbanos",
+      "accion": "Elaboración de propuestas normativas"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Generación de opinión pública"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Participación en foros internacionales"
+    },
+    {
+      "actor": "HIC (Habitat International Coalition)",
+      "accion": "Vínculo internacional por derecho a la ciudad"
+    }
+  ],
+  "input_tokens": 6800,
+  "output_tokens": 382,
+  "error": null,
+  "items_antes_de_tope": {}
+}

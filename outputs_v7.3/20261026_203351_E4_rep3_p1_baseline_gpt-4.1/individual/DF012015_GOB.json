@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Inundaciones en comunidades urbanas",
+    "Problemas con la calidad del agua",
+    "Falta de inversión en infraestructura hidráulica",
+    "Disponibilidad limitada de agua de lluvia",
+    "Baja presión de agua en zonas"
+  ],
+  "Causas_principales": [
+    "Proyectos urbanos sin infraestructura hidráulica",
+    "Falta de servicios en terrenos baratos",
+    "Seis meses sin lluvias",
+    "Mala calidad de agua en pozos",
+    "Recursos públicos insuficientes",
+    "Fugas en redes de agua"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren abastecimiento deficiente",
+    "Comunidades sufren inundaciones",
+    "Costo elevado de vivienda por falta de servicios",
+    "Gente recibe poca agua a la semana",
+    "Agua con hierro, manganeso, nitrógeno",
+    "Necesidad de acarrear agua largas distancias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Presupuestar infraestructura hidráulica"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejar fondos para vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuir agua con pipas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Rehabilitar redes para recuperar caudales"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Construir plantas potabilizadoras"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectar rebombeos para baja presión"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Invertir en programas de agua"
+    },
+    {
+      "actor": "Técnicos especialistas",
+      "accion": "Proponer soluciones específicas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Invertir 18 mil millones en agua"
+    }
+  ],
+  "input_tokens": 4091,
+  "output_tokens": 346,
+  "error": null,
+  "items_antes_de_tope": {}
+}

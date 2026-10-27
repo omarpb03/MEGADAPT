@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua en Xochimilco",
+    "Mala calidad del agua tratada",
+    "Cantidad insuficiente de agua en canales",
+    "Hundimientos diferenciales por manejo de agua",
+    "Falta de navegabilidad en canales",
+    "Inundaciones en zonas chinamperas y urbanas"
+  ],
+  "Causas_principales": [
+    "Descargas de aguas negras de asentamientos irregulares",
+    "Fugas en la red de canales",
+    "Uso excesivo de agroquimicos en invernaderos",
+    "Descargas de establos de ganado",
+    "Falta de mantenimiento en plantas de tratamiento",
+    "Decisiones aisladas de sistema de aguas",
+    "Hundimientos diferenciales por variacion de niveles de suelo",
+    "Abandono de tecnologias no adaptadas localmente",
+    "Falta de coordinacion institucional",
+    "Venta de agua tratada a industrias"
+  ],
+  "Consecuencias": [
+    "Productos de Xochimilco no se venden",
+    "Productores deben abaratar sus productos",
+    "Abandono de chinampas",
+    "Impacto negativo en economia local",
+    "Peligro para biodiversidad nativa",
+    "Turismo afectado por agua sucia",
+    "Inundaciones de viveros y perdida de cultivos",
+    "Zonas degradadas y contaminadas",
+    "Potenciales riesgos de salud por aguas negras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Reactivacion chinampera con refugios"
+    },
+    {
+      "actor": "Instituto de biologia UNAM",
+      "accion": "Proyectos de refugios de biodiversidad"
+    },
+    {
+      "actor": "Autoridad zona patrimonio",
+      "accion": "Coordinacion de politicas publicas"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Delegacion y productores",
+      "accion": "Manejo de esclusas en canales"
+    },
+    {
+      "actor": "Conam y conabio",
+      "accion": "Colaboracion en biodiversidad y agua"
+    },
+    {
+      "actor": "Sederec y sedema",
+      "accion": "Apoyo a sistema productivo"
+    },
+    {
+      "actor": "Universidades UNAM y UAM",
+      "accion": "Monitoreo y estudios tecnicos"
+    },
+    {
+      "actor": "Turismo local",
+      "accion": "Promocion de turismo alternativo"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Pago de seguro por perdidas"
+    }
+  ],
+  "input_tokens": 12431,
+  "output_tokens": 625,
+  "error": null,
+  "items_antes_de_tope": {}
+}

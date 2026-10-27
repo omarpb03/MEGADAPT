@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua por tandeo",
+    "Fugas en la tubería",
+    "Desperdicio de agua en ojo de agua",
+    "Dificultad para conseguir drenaje",
+    "Acceso desigual al agua limpia",
+    "Temor a reducción de agua por obras",
+    "Problemas para captar agua de lluvia"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desordenado",
+    "Venta de tierras ejidales",
+    "Tubería muy vieja",
+    "Falta de mantenimiento de infraestructura",
+    "Decisiones del gobierno sobre expropiación",
+    "Prioridad a zonas residenciales",
+    "Falta de información de la delegación",
+    "Desperdicio en ojo de agua no aprovechado"
+  ],
+  "Consecuencias": [
+    "Días sin agua en las casas",
+    "Gasto en cisternas y bombas",
+    "Compra de agua en garrafón",
+    "Dificultad para el aseo personal",
+    "Pérdida de actividades agrícolas",
+    "Inconformidad de la gente",
+    "Conflictos por distribución de agua",
+    "Pérdida de usos y costumbres"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo del agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas de agua"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Arregla fugas y controla bombeo"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Hacen cisternas y tinacos"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Solicitan cisternas y captación lluvia"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Introduce tanques de almacenamiento"
+    },
+    {
+      "actor": "Comisiones del pueblo",
+      "accion": "Solicitan información y servicios"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Organiza reuniones informativas"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Compran agua en garrafón"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construye presas y drenaje profundo"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Hacen tinas ciegas para captación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Apoya con semillas y programas"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Proporciona tractores y apoyo agrícola"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulsa granjas y da animales"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Participan en faenas para servicios"
+    }
+  ],
+  "input_tokens": 9794,
+  "output_tokens": 698,
+  "error": null,
+  "items_antes_de_tope": {}
+}

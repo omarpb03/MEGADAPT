@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas de drenaje domiciliario",
+    "Hundimiento de las chinampas",
+    "Acumulación de basura y desechos",
+    "Falta de oxigenación y circulación",
+    "Pérdida de especies acuáticas nativas",
+    "Invasión de la zona lacustre",
+    "Infraestructura de drenaje deteriorada",
+    "Descargas de aguas tratadas",
+    "Abandono de chinampas",
+    "Acumulación de lirio acuático",
+    "Falta de coordinación institucional",
+    "Asentamientos irregulares",
+    "Extracción excesiva de agua de pozos",
+    "Conflictos por uso de suelo"
+  ],
+  "Causas_principales": [
+    "Descargas domiciliarias a los canales",
+    "Falta de infraestructura de drenaje",
+    "Crecimiento de la mancha urbana",
+    "Corrupción y tolerancia gubernamental",
+    "Abandono de chinampas por nuevas generaciones",
+    "Contradicción de leyes y normatividad",
+    "Proyectos inconclusos por cambios políticos",
+    "Introducción de especies exóticas (tilapia)",
+    "Extracción de agua del subsuelo",
+    "Falta de presupuesto y coordinación",
+    "Turismo irresponsable",
+    "Falta de inspectores ambientales",
+    "Acumulación de sedimentos y materia orgánica",
+    "Falta de mantenimiento de canales",
+    "Operativos fallidos contra asentamientos"
+  ],
+  "Consecuencias": [
+    "Contaminación del agua",
+    "Pérdida de calidad del agua",
+    "Disminución de profundidad de canales",
+    "Pérdida de especies acuáticas nativas",
+    "Desequilibrio ecológico",
+    "Acumulación de basura y lirio",
+    "Inundaciones en zonas bajas",
+    "Hundimiento y levantamiento de terrenos",
+    "Abandono de tierras agrícolas",
+    "Conflictos sociales por invasiones",
+    "Deterioro del paisaje lacustre",
+    "Reducción de superficie de conservación",
+    "Falta de agua potable en asentamientos",
+    "Problemas de salud pública",
+    "Desaparición de apantles y zanjas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Canaleros y sector turístico",
+      "accion": "Limpieza parcial de canales"
+    },
+    {
+      "actor": "Medio Ambiente delegacional",
+      "accion": "Apoyo en limpieza de lirio"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de México",
+      "accion": "Gestión de pozos y agua potable"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservación"
+    },
+    {
+      "actor": "Vecinos y residentes",
+      "accion": "Protestas ante autoridades"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Operativos contra asentamientos"
+    },
+    {
+      "actor": "CORENA y Secretaría del Medio Ambiente",
+      "accion": "Regulación ambiental y vigilancia"
+    },
+    {
+      "actor": "UNAM",
+      "accion": "Introducción de tilapia y monitoreo"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Programas de cero crecimiento urbano"
+    },
+    {
+      "actor": "Población local",
+      "accion": "Separación de residuos sólidos y orgánicos"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Recolección diferenciada de basura"
+    },
+    {
+      "actor": "Asamblea y cámaras legislativas",
+      "accion": "Aprobación de proyectos sustentables"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Estacación y conservación de orillas"
+    },
+    {
+      "actor": "Dirección General de Medio Ambiente",
+      "accion": "Recuperación de zanjas y apantles"
+    },
+    {
+      "actor": "Jefatura delegacional Xochimilco",
+      "accion": "Coordinación con Sistema de Aguas"
+    },
+    {
+      "actor": "Turistas",
+      "accion": "Arrojo de basura a canales"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Vigilancia de crecimiento urbano"
+    },
+    {
+      "actor": "Laboratorio de Sistemas de Aguas",
+      "accion": "Análisis de calidad de agua"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Reciclaje de residuos orgánicos"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Apoyo a invernaderos"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Implementación de políticas de conservación"
+    }
+  ],
+  "input_tokens": 25007,
+  "output_tokens": 832,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas de conservación",
+    "Problemática del agua en asentamientos humanos irregulares",
+    "Mala calidad del agua en zonas urbanas",
+    "Control y acceso desigual al agua por grupos de poder (piperos)",
+    "Dificultades para acceso al agua por descoordinación institucional",
+    "Presión urbana sobre zonas de infiltración del acuífero",
+    "Uso de agroquímicos en producción agrícola que afecta el agua"
+  ],
+  "Causas_principales": [
+    "Intereses económicos y políticos en urbanización",
+    "Descoordinación y competencia institucional",
+    "Debilitamiento de políticas rurales y falta de apoyo al campo",
+    "Crecimiento de asentamientos irregulares",
+    "Poca transparencia en programas de agua",
+    "Prioridad a vivienda sobre medio ambiente",
+    "Ausencia de estudios de factibilidad de agua en nuevos desarrollos",
+    "Presión inmobiliaria sobre zonas de conservación",
+    "Fragilidad/fragmentación de instituciones comunitarias",
+    "Distorsión de normativa urbana y suelo de conservación"
+  ],
+  "Consecuencias": [
+    "Consolidación de grupos de poder como los piperos",
+    "Persistencia de proyectos mal implementados o distorsionados",
+    "Gentrificación y presión sobre zonas de conservación",
+    "Conflictos comunitarios por recursos",
+    "Carencia prolongada de servicios básicos como agua",
+    "Aumento en dificultad de acceso al recurso hídrico",
+    "Pérdida de continuidad generacional en proyectos productivos",
+    "Expansión urbana sobre áreas de infiltración hídrica"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad",
+      "accion": "Gestión del agua por tuberías"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Venta y distribución de agua en pipas"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Gestión y toma de decisiones de acceso al agua"
+    },
+    {
+      "actor": "Residentes de asentamientos",
+      "accion": "Captación y filtración de agua lluvia"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Implementación de proyectos productivos y forestales"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Proyectos de captación de agua de lluvia"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Reconocimiento de derechos a agua en ejidos"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Reparto de pipas de agua gratuita"
+    },
+    {
+      "actor": "Productores organizados Xochimilco",
+      "accion": "Conservación con proyectos productivos"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Planeación y políticas ambientales"
+    },
+    {
+      "actor": "CORET",
+      "accion": "Regulación y expropiación de tierras"
+    },
+    {
+      "actor": "Habitantes de Milpa Alta",
+      "accion": "Producción de nopal con instancias comunitarias"
+    },
+    {
+      "actor": "Habitantes Xochimilco",
+      "accion": "Implementación de invernaderos, uso de agroquímicos"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Filtración casera de agua, organización para acceso"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Negociación y gestión de servicios públicos"
+    },
+    {
+      "actor": "Delegaciones/autoridades locales",
+      "accion": "Regularización de toma de agua y tuberías"
+    },
+    {
+      "actor": "PAOT",
+      "accion": "Visualización de incompatibilidades suelo-agua"
+    }
+  ],
+  "input_tokens": 9716,
+  "output_tokens": 653,
+  "error": null,
+  "items_antes_de_tope": {}
+}

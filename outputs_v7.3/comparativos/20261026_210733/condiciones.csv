@@ -1,0 +1,13 @@
+﻿condicion,experimento,prompt,modelo,temperatura,tope,esquema,repeticiones,corridas,metrica,preocupacion,causa,consecuencia,accion,TOTAL,piso_TOTAL,ganancia_TOTAL
+E1 · p1_baseline,E1,p1_baseline,gpt-4o-mini,0.0,,con_largo,3,"E1, E1_rep2, E1_rep3",bertscore,0.7835,0.7674,0.7708,0.7379,0.7647,0.7503,0.0144
+E1 · p1_baseline,E1,p1_baseline,gpt-4o-mini,0.0,,con_largo,3,"E1, E1_rep2, E1_rep3",chrf,0.2555,0.2241,0.1652,0.2119,0.2135,0.1659,0.0476
+E2 · p2_definiciones,E2,p2_definiciones,gpt-4o-mini,0.0,,con_largo,3,"E2, E2_rep2, E2_rep3",bertscore,0.788,0.7641,0.7712,0.738,0.7648,0.7501,0.0147
+E2 · p2_definiciones,E2,p2_definiciones,gpt-4o-mini,0.0,,con_largo,3,"E2, E2_rep2, E2_rep3",chrf,0.2663,0.2149,0.1724,0.2177,0.2169,0.1671,0.0499
+E3 · p3_perfil,E3,p3_perfil,gpt-4o-mini,0.0,,con_largo,3,"E3, E3_rep2, E3_rep3",bertscore,0.7845,0.7659,0.7746,0.7407,0.7662,0.7512,0.015
+E3 · p3_perfil,E3,p3_perfil,gpt-4o-mini,0.0,,con_largo,3,"E3, E3_rep2, E3_rep3",chrf,0.258,0.2242,0.1824,0.2181,0.2197,0.169,0.0507
+E4 · p1_baseline,E4,p1_baseline,gpt-4.1,0.0,,con_largo,3,"E4, E4_rep2, E4_rep3",bertscore,0.764,0.7646,0.7675,0.7305,0.7562,0.7426,0.0136
+E4 · p1_baseline,E4,p1_baseline,gpt-4.1,0.0,,con_largo,3,"E4, E4_rep2, E4_rep3",chrf,0.2296,0.2329,0.2,0.2214,0.2199,0.1734,0.0465
+E4 · p2_definiciones,E4,p2_definiciones,gpt-4.1,0.0,,con_largo,3,"E4, E4_rep2, E4_rep3",bertscore,0.7622,0.7576,0.7583,0.7235,0.7499,0.7375,0.0124
+E4 · p2_definiciones,E4,p2_definiciones,gpt-4.1,0.0,,con_largo,3,"E4, E4_rep2, E4_rep3",chrf,0.2388,0.2256,0.1872,0.2037,0.213,0.1693,0.0438
+E4 · p3_perfil,E4,p3_perfil,gpt-4.1,0.0,,con_largo,3,"E4, E4_rep2, E4_rep3",bertscore,0.7656,0.7528,0.7456,0.7263,0.7473,0.7361,0.0113
+E4 · p3_perfil,E4,p3_perfil,gpt-4.1,0.0,,con_largo,3,"E4, E4_rep2, E4_rep3",chrf,0.2384,0.212,0.1664,0.21,0.206,0.1628,0.0432

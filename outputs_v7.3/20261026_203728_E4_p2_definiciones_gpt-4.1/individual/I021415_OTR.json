@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Mala calidad del agua",
+    "Sistema de tandeo insuficiente",
+    "Corrupción en distribución de agua",
+    "Privatización del agua",
+    "Desperdicio de agua en la comunidad",
+    "Falta de mantenimiento a pozos de absorción",
+    "Inundaciones en vialidades cercanas"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin compromiso",
+    "Juego político con el agua",
+    "Corrupción en manejo del agua",
+    "Falta de políticas públicas efectivas",
+    "Mala distribución de la riqueza",
+    "Falta de mantenimiento a la red",
+    "Privatización y concesiones",
+    "Falta de árboles y captación de agua",
+    "Falta de aplicación de leyes",
+    "Mala gestión delegacional y federal"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en hogares",
+    "Agua chocolatosa y con insectos",
+    "Gastos en agua embotellada",
+    "Enfermedades estomacales en niños",
+    "Falta de higiene en escuelas",
+    "Tiradero de agua en calles",
+    "Inundaciones en calzada Ermita",
+    "Colapso de drenajes",
+    "Contaminación de aguas y subsuelo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Movilización y presión a delegación"
+    },
+    {
+      "actor": "Organizaciones políticas",
+      "accion": "Uso del agua como bandera"
+    },
+    {
+      "actor": "Mujeres de la comunidad",
+      "accion": "Protestas y exigencias de agua"
+    },
+    {
+      "actor": "Gobierno y vecinos",
+      "accion": "Instalación de tomas de agua"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Condonación del pago de agua"
+    },
+    {
+      "actor": "Diputados y organizaciones",
+      "accion": "Presión para condonación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Distribución de agua en pipas"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Venta y reparto de agua"
+    },
+    {
+      "actor": "Organizaciones locales",
+      "accion": "Frenar privatización del agua"
+    },
+    {
+      "actor": "Pedro Moctezuma y UAM",
+      "accion": "Movimiento de defensa del agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernández",
+      "accion": "Movimiento por suministro de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Cosecha y reutilización de agua"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Compra de pipas de agua"
+    },
+    {
+      "actor": "Gobierno delegacional",
+      "accion": "Construcción de pozos de absorción"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Demanda de mantenimiento a pozos"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Limpieza de alcantarillas bajo presión"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Instalación de cisternas y flotadores"
+    },
+    {
+      "actor": "Escuelas y centros infantiles",
+      "accion": "Compra de garrafones de agua"
+    },
+    {
+      "actor": "Gobierno federal y local",
+      "accion": "Campañas de cuidado del agua"
+    }
+  ],
+  "input_tokens": 9125,
+  "output_tokens": 584,
+  "error": null,
+  "items_antes_de_tope": {}
+}

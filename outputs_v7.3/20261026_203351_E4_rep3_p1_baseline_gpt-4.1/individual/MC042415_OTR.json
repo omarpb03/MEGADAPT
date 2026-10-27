@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del rio Eslava",
+    "Asentamientos humanos irregulares toman agua",
+    "Escasez de agua en el pueblo",
+    "Calidad del agua consumida",
+    "Recarga de mantos acuiferos",
+    "Pérdida de suelo de conservación",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano anárquico",
+    "Asentamientos humanos irregulares",
+    "Falta de planeación urbana",
+    "Falta de educación ambiental",
+    "Pérdida de valores y respeto",
+    "Insuficientes programas de gobierno",
+    "Ganado en la parte alta",
+    "Familias numerosas y desdoblamiento familiar"
+  ],
+  "Consecuencias": [
+    "Río convertido en drenaje",
+    "Contaminación de mantos freáticos",
+    "Escasez de agua",
+    "Pérdida de presión en el agua",
+    "Pérdida de áreas verdes",
+    "Venta de tierras ejidales",
+    "Deterioro de la calidad del agua",
+    "Destrucción de zonas de recarga"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporación a reserva ecológica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento cero urbano"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestación masiva"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Sistemas de riego por gravedad"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producción agrícola y ganadera"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Comercialización de trucha"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de bosques"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Limpieza y brechas contra incendios"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Propuesta de muro ecológico"
+    },
+    {
+      "actor": "Ejido y gobierno",
+      "accion": "Proyectos de conservación de suelo y agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programas limitados de apoyo"
+    },
+    {
+      "actor": "Ejido y Secretaría del Medio Ambiente",
+      "accion": "Ordenamiento ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Bajar ganado de la parte alta"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Censo ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de producción rural"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Remuneración económica a ejidatarios"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Recuperación de tierras perdidas"
+    }
+  ],
+  "input_tokens": 6922,
+  "output_tokens": 526,
+  "error": null,
+  "items_antes_de_tope": {}
+}

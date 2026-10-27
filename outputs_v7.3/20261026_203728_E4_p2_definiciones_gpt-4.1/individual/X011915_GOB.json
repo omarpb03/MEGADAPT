@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u000fn de los canales",
+    "Descargas de drenaje domiciliario",
+    "Hundimiento y deterioro de chinampas",
+    "Acumulaci\u000fn de basura y desechos",
+    "Falta de circulaci\u000fn y oxigenaci\u000fn del agua",
+    "P\u000erdida de especies acu\u000001ticas nativas",
+    "Infraestructura de drenaje deteriorada",
+    "Asentamientos irregulares en zona lacustre",
+    "Abandono de chinampas",
+    "Falta de coordinaci\u000fn institucional",
+    "Falta de presupuesto para proyectos",
+    "Mala calidad del agua tratada que llega"
+  ],
+  "Causas_principales": [
+    "Descargas domiciliarias directas a canales",
+    "Falta de infraestructura de drenaje secundaria",
+    "Crecimiento de la mancha urbana",
+    "Corrupci\u00000fn y tolerancia gubernamental",
+    "Abandono de chinampas por nuevas generaciones",
+    "Contradicci\u00000fn de leyes y normatividad",
+    "Falta de cumplimiento de ordenamientos legales",
+    "Proyectos sin continuidad por cambios pol\u00000dticos",
+    "Introducci\u00000fn de especies invasoras como tilapia",
+    "Extracci\u00000fn de agua de pozos",
+    "Falta de inspectores ambientales",
+    "Turismo irresponsable",
+    "Falta de coordinaci\u00000fn entre dependencias",
+    "Desvi\u00000fo de presupuesto",
+    "Infraestructura antigua y deteriorada"
+  ],
+  "Consecuencias": [
+    "Agua de mala calidad",
+    "P\u00000erdida de profundidad en canales",
+    "Acumulaci\u00000fn de sedimentos y materia org\u000001nica",
+    "Disminuci\u00000fn de especies acu\u000001ticas nativas",
+    "Proliferaci\u00000fn de lirio acu\u000001tico",
+    "Invasiones y conflictos por la tierra",
+    "Abandono de tierras de cultivo",
+    "Desequilibrio ecol\u000001gico",
+    "Inundaciones en zonas bajas",
+    "P\u00000erdida de biodiversidad",
+    "Conflictos sociales",
+    "Falta de agua potable en asentamientos",
+    "Contaminaci\u00000fn por residuos s\u000003lidos y org\u000001nicos",
+    "Deterioro del paisaje y turismo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u00000fn Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Canaleros y sector tur\u00000dstico",
+      "accion": "Limpieza parcial de canales"
+    },
+    {
+      "actor": "Medio Ambiente delegaci\u00000fn",
+      "accion": "Apoyo en limpieza de lirio"
+    },
+    {
+      "actor": "Sistemas de Aguas CDMX",
+      "accion": "Extracci\u00000fn y distribuci\u00000fn de agua potable"
+    },
+    {
+      "actor": "Vecinos y residentes",
+      "accion": "Protestas y demandas ante autoridades"
+    },
+    {
+      "actor": "CORENA y Medio Ambiente",
+      "accion": "Proyectos de saneamiento y estacaci\u00000fn"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservaci\u00000fn"
+    },
+    {
+      "actor": "Gobierno CDMX y Federal",
+      "accion": "Coordinaci\u00000fn para manejo de residuos"
+    },
+    {
+      "actor": "Poblaci\u00000fn local",
+      "accion": "Separaci\u00000fn de residuos s\u000003lidos y org\u000001nicos"
+    },
+    {
+      "actor": "Delegaci\u00000fn Xochimilco",
+      "accion": "Programas de cero crecimiento poblacional"
+    },
+    {
+      "actor": "UNAM y Secretar\u00000da Agricultura",
+      "accion": "Introducci\u00000fn de tilapia"
+    },
+    {
+      "actor": "Delegaci\u00000fn Xochimilco",
+      "accion": "Recuperaci\u00000fn de zanjas y apantles"
+    },
+    {
+      "actor": "Gobierno CDMX y Federal",
+      "accion": "Dragado de canales"
+    },
+    {
+      "actor": "Sistemas de Aguas CDMX",
+      "accion": "Operaci\u00000fn de plantas de rebombeo"
+    },
+    {
+      "actor": "Asamblea y c\u000001maras legislativas",
+      "accion": "Aprobaci\u00000fn de proyectos sustentables"
+    },
+    {
+      "actor": "Delegaci\u00000fn Xochimilco",
+      "accion": "Acuerdos de control poblacional"
+    }
+  ],
+  "input_tokens": 25134,
+  "output_tokens": 1167,
+  "error": null,
+  "items_antes_de_tope": {}
+}

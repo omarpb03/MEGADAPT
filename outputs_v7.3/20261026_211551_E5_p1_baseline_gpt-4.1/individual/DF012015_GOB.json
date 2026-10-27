@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua insuficiente",
+    "Inundaciones urbanas frecuentes",
+    "Mala calidad del agua",
+    "Falta de inversión en infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Proyectos de desarrollo sin infraestructura hidráulica",
+    "Terrenos baratos sin servicios",
+    "Seis meses sin lluvias",
+    "Financiamiento público insuficiente",
+    "Zonas urbanas lejos de fuentes de agua"
+  ],
+  "Consecuencias": [
+    "Comunidades con problemas de abastecimiento",
+    "Problemas de inundaciones en nuevos desarrollos",
+    "Costo elevado para introducir agua",
+    "Sectores de la ciudad con muy poca agua",
+    "Mala calidad del agua por contaminantes"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Desarrollo de proyectos urbanos"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Fondo de vivienda para población sin recursos"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Distribución de pipas de agua"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Rehabilitación de redes para recuperar caudales"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Construcción de plantas potabilizadoras"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyecto de re-bombeos para presión de agua"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Inversión privada en infraestructura"
+    },
+    {
+      "actor": "Técnicos especialistas",
+      "accion": "Diagnóstico y soluciones para calidad agua"
+    }
+  ],
+  "input_tokens": 4091,
+  "output_tokens": 296,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,79 @@
+{
+  "fecha": "2026-10-26T20:41:57",
+  "script_version": "7.3",
+  "experimento": "E4",
+  "modelo": "gpt-4.1",
+  "temperatura": 0.0,
+  "prompt_variant": "p3_perfil",
+  "max_items_postproceso": null,
+  "esquema": "con_largo",
+  "esquema_json": {
+    "$defs": {
+      "AccionActor": {
+        "properties": {
+          "actor": {
+            "description": "Quién realiza la acción (institución, grupo o persona), en 1 a 3 palabras.",
+            "title": "Actor",
+            "type": "string"
+          },
+          "accion": {
+            "description": "La acción, resumida en 4 o 5 palabras.",
+            "title": "Accion",
+            "type": "string"
+          }
+        },
+        "required": [
+          "actor",
+          "accion"
+        ],
+        "title": "AccionActor",
+        "type": "object"
+      }
+    },
+    "properties": {
+      "Preocupacion_principal_acerca_del_agua": {
+        "description": "Preocupaciones principales sobre el agua, cada una de 4 o 5 palabras.",
+        "items": {
+          "type": "string"
+        },
+        "title": "Preocupacion Principal Acerca Del Agua",
+        "type": "array"
+      },
+      "Causas_principales": {
+        "description": "Causas del problema mencionadas, cada una de 4 o 5 palabras.",
+        "items": {
+          "type": "string"
+        },
+        "title": "Causas Principales",
+        "type": "array"
+      },
+      "Consecuencias": {
+        "description": "Consecuencias o efectos mencionados, cada una de 4 o 5 palabras.",
+        "items": {
+          "type": "string"
+        },
+        "title": "Consecuencias",
+        "type": "array"
+      },
+      "Acciones_y_Actores_que_realizan_dichas_acciones": {
+        "description": "Acciones realizadas o propuestas, con el actor que las realiza.",
+        "items": {
+          "$ref": "#/$defs/AccionActor"
+        },
+        "title": "Acciones Y Actores Que Realizan Dichas Acciones",
+        "type": "array"
+      }
+    },
+    "required": [
+      "Preocupacion_principal_acerca_del_agua",
+      "Causas_principales",
+      "Consecuencias",
+      "Acciones_y_Actores_que_realizan_dichas_acciones"
+    ],
+    "title": "QualitativeAnalysisSchema",
+    "type": "object"
+  },
+  "prompt_text": "Eres un analista socio-ambiental cualitativo especializado en gestión del agua y riesgo hídrico en áreas urbanas.\n\nTu perfil:\nTienes formación en geografía humana y ambiental y eres investigador sénior en ciencias de la sostenibilidad. Estudias cómo hogares, comunidades e instituciones enfrentan riesgos asociados al clima, el agua y los desastres, y por qué unos se adaptan mejor que otros. Tienes experiencia en trabajo de campo con entrevistas, encuestas a hogares y talleres participativos.\n\nTu marco de lectura (sirve para reconocer qué es relevante en la entrevista, no para nombrar las etiquetas; las etiquetas siempre usan las palabras de la persona):\n- La vulnerabilidad depende de la posición social: un mismo evento afecta de forma distinta según los recursos, el poder y el respaldo institucional de cada actor.\n- Lo social y lo natural forman un solo sistema.\n- Los actores enfrentan varias presiones a la vez: climáticas, económicas y políticas.\n- Las decisiones tomadas a otras escalas, como mercados o políticas nacionales, repercuten en lo local.\n- Las acciones frente a un problema son políticas: producen ganadores y perdedores y pueden generar nuevas vulnerabilidades.\n- La forma en que se plantea un problema influye en cómo se atiende.\n\nRecibirás la transcripción de una entrevista. Los hablantes pueden aparecer como Entrevistador/Respondente, E1/E2 o sin etiquetas, y puede haber más de dos participantes.\n\nTu tarea es identificar en la entrevista:\n1. Preocupaciones principales acerca del agua\n2. Causas principales\n3. Consecuencias\n4. Acciones y actores que realizan dichas acciones\n\nDefiniciones:\nCodifica desde la perspectiva de la persona entrevistada, no desde tu conocimiento del tema. Las cuatro categorías forman una secuencia: problema, causas, consecuencias y acciones.\n\n1. Preocupaciones principales acerca del agua: los problemas del agua que la persona pone en el centro de su relato.\n2. Causas principales: lo que, según la persona, provoca o empeora esos problemas.\n3. Consecuencias: los efectos que, según la persona, producen esos problemas.\n4. Acciones y actores: lo que se hace o se propone hacer frente a esos problemas, y quién lo hace.\n\nReglas:\n- Usa las mismas palabras y expresiones que usa la persona entrevistada.\n- No interpretes ni agregues información que no esté en la transcripción.\n- Cada elemento debe ser una idea breve de varias palabras, no una oración completa ni un párrafo.\n- Escribe todo en español.\n\nDevuelve el resultado en formato JSON, con un campo para cada una de las cuatro categorías.",
+  "prompts_dir": "C:\\Users\\ariel\\Documents\\GitHub\\Repositorios\\MEGADAPT\\PROMPTS",
+  "carpeta_transcripciones": "C:\\Users\\ariel\\Desktop\\CHAMBA\\TITULACION\\SERVICIO SOCIAL\\PROYECTO\\Archivo socioinstitucional\\NUEVO_ORDEN\\ORGANIZACION_ARCHIVOS\\_TRANSCRIPCIONES\\_TRANSCRIPCIONES_35"
+}

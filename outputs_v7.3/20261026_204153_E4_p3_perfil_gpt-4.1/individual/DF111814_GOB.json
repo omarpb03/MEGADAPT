@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Retenci\u00133n y recarga del manto acu\u00133fero",
+    "Escasez de agua en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la poblaci\u00133n",
+    "Tecnolog\u00133a y urbanizaci\u00133n",
+    "Falta de cultura en el usuario",
+    "Dispendio de agua",
+    "Deforestaci\u00133n y depredaci\u00133n",
+    "Cambios clim\u00133ticos como el Ni\u00133o y la Ni\u00133a"
+  ],
+  "Consecuencias": [
+    "No hay abasto suficiente de agua",
+    "Afectaci\u0013bn al residente por no aprovechar el agua",
+    "Escurrimientos que se secan en estiaje",
+    "Afectaci\u0013bn al centro de la ciudad",
+    "Alteraciones en el ambiente",
+    "Zonas des\u0013brticas o deforestadas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener el agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos econ\u0013bmicos para conservaci\u0013bn"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Mantener \u0013reas en buenas condiciones de humedad"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de M\u0013bxico",
+      "accion": "Gesti\u0013bn del agua en zona urbana"
+    },
+    {
+      "actor": "Secretar\u0013da de Medio Ambiente",
+      "accion": "Mantener suelo de conservaci\u0013bn"
+    },
+    {
+      "actor": "Usuarios",
+      "accion": "Uso racional del agua"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Normar extracci\u0013bn y suministro de agua"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigaci\u0013bn en sanidad forestal"
+    }
+  ],
+  "input_tokens": 14316,
+  "output_tokens": 542,
+  "error": null,
+  "items_antes_de_tope": {}
+}

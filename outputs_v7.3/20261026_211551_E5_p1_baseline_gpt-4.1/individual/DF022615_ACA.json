@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua",
+    "Falta de cultura del agua",
+    "Cortes y tandeos de agua",
+    "Consumo elevado en establos y agricultura",
+    "Contaminacion del agua con desechos",
+    "Falta de acceso en colonias densas",
+    "Calidad del agua para consumo humano",
+    "Corrupcion en distribucion de agua",
+    "Uso intensivo de agroquimicos",
+    "Salinidad del agua en Xochimilco"
+  ],
+  "Causas_principales": [
+    "No se recicla agua en viviendas",
+    "Desinterés del gobierno",
+    "Urbanización y desarrollo de la ciudad",
+    "Falta de supervisión y corrupción",
+    "Sobreexplotación de pozos",
+    "Falta de programas para captura de agua",
+    "Uso de excreta animal sin regulación",
+    "Rompimiento de flujos naturales del agua",
+    "Falta de diseño en recolección de desechos",
+    "Uso irracional en praderas"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua potable",
+    "Riesgo de escasez de agua",
+    "Contaminación de mantos freáticos",
+    "Salinización de suelos agrícolas",
+    "Ausencia de abejas por agroquímicos",
+    "Necesidad de hervir agua para consumo",
+    "Conflicto entre vecinos y establos",
+    "Inundaciones en colonias urbanizadas",
+    "Concentración de poder político local",
+    "Pobreza fomenta corrupción"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ingeniería industrial/biotecnología",
+      "accion": "Proponen reciclar aguas grises"
+    },
+    {
+      "actor": "Productores lecheros",
+      "accion": "Almacenan agua en cisternas"
+    },
+    {
+      "actor": "Vecinos Iztapalapa",
+      "accion": "Se quejan por consumo de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Realiza cambios en uso del agua"
+    },
+    {
+      "actor": "Grupo UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    },
+    {
+      "actor": "Lecheros Xochimilco",
+      "accion": "Acuerdos políticos para acceso al agua"
+    },
+    {
+      "actor": "Plantas de tratamiento",
+      "accion": "Suministran agua tratada a zonas agrícolas"
+    },
+    {
+      "actor": "REDES",
+      "accion": "Restauración ecológica en Xochimilco"
+    },
+    {
+      "actor": "Comunidades originarias",
+      "accion": "Tienen organización interna de gestión"
+    },
+    {
+      "actor": "Productores ganaderos",
+      "accion": "Llevan estiércol a Xochimilco"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Implementa tandeos y pipas de agua"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Usan estiércol como composta"
+    },
+    {
+      "actor": "SAGARPA/autoridades",
+      "accion": "No supervisan uso de agroquímicos"
+    },
+    {
+      "actor": "Chapingo",
+      "accion": "Construcción de terrazas para capturar agua"
+    },
+    {
+      "actor": "Universidades, productores, gobierno",
+      "accion": "Estudios sobre pozos sobreexplotados"
+    },
+    {
+      "actor": "Asociación de charros",
+      "accion": "Dan equinoterapia"
+    },
+    {
+      "actor": "Comisión de Cuencas de la Compañía",
+      "accion": "Estudian cuerpos de agua"
+    }
+  ],
+  "input_tokens": 13290,
+  "output_tokens": 632,
+  "error": null,
+  "items_antes_de_tope": {}
+}

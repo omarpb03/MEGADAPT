@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento en periferia",
+    "Agua de mala calidad",
+    "Costo elevado del agua para pobres",
+    "Distribuci\u000fn desigual del agua",
+    "Falta de coordinaci\u000fn institucional",
+    "Tandeo y acceso irregular",
+    "Contaminaci\u000fn de aguas fre\u00001aticas",
+    "Inundaciones y encharcamientos",
+    "Falta de servicios b\u00001asicos en viviendas",
+    "Impacto de la vivienda en disponibilidad de agua"
+  ],
+  "Causas_principales": [
+    "Extracci\u00001fn excesiva de agua del subsuelo",
+    "Dependencia de cuencas externas",
+    "Criterios econ\u00001fmicos en distribuci\u00001fn",
+    "Falta de coordinaci\u00001fn entre organismos",
+    "Corrupci\u00001fn en otorgamiento de permisos",
+    "Crecimiento urbano sin planeaci\u00001fn",
+    "Pol\u00001fticas parciales y no integrales",
+    "Falta de evaluaci\u00001fn de impacto ambiental",
+    "Privatizaci\u00001fn de propiedad social",
+    "Abandono de servicios en zonas irregulares",
+    "Preferencia a desarrollos de clase media alta",
+    "Falta de cultura ambiental y capacitaci\u00001fn"
+  ],
+  "Consecuencias": [
+    "Grietas y deslaves en Iztapalapa",
+    "Viviendas agrietadas y abandonadas",
+    "Gasto extra en agua embotellada",
+    "Levantarse de madrugada para almacenar agua",
+    "Uso de pipas y agua cara",
+    "Deterioro de construcciones por encharcamientos",
+    "Fracturas y lesiones por cargar agua",
+    "Conflictos sociales por acceso al agua",
+    "Contaminaci\u00001fn de barrancas y r\u00001fos",
+    "Abandono de viviendas sin servicios",
+    "Desigualdad en acceso a agua potable",
+    "Problemas de salud por mala calidad del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios y presionar gobierno"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Marchas, plantones, escritos por agua"
+    },
+    {
+      "actor": "Delegaci\u00001fn",
+      "accion": "Distribuir agua en pipas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Autorizar permisos y regularizaci\u00001fn"
+    },
+    {
+      "actor": "ONGs y asesores",
+      "accion": "Apoyar gesti\u00001fn y capacitaci\u00001fn"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Instalar pozos de captaci\u00001fn de lluvia"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenar agua en tinacos y botes"
+    },
+    {
+      "actor": "Empresas constructoras",
+      "accion": "Fraccionar proyectos para evitar impacto"
+    },
+    {
+      "actor": "Autoridades delegacionales",
+      "accion": "Dar permisos sin evaluaci\u00001fn adecuada"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Proponer proyectos de mejoramiento barrial"
+    },
+    {
+      "actor": "Gobierno y ONG",
+      "accion": "Cofinanciar mejoramiento de vivienda"
+    },
+    {
+      "actor": "Escuela de hermanos maristas",
+      "accion": "Colectar PET y hacer composta"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Secuestrar m\u00001aquinas para negociar agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Invertir en rehabilitaci\u00001fn de pozos"
+    },
+    {
+      "actor": "Delegaci\u00001fn",
+      "accion": "Poner drenaje tras fallas en sistemas alternativos"
+    }
+  ],
+  "input_tokens": 18489,
+  "output_tokens": 946,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Mala calidad del agua",
+    "Escasez de agua en temporada de sequía",
+    "Uso político del agua",
+    "Corrupción en distribución de agua",
+    "Privatización del sistema de agua",
+    "Desperdicio de agua en la comunidad",
+    "Falta de mantenimiento a pozos de absorción",
+    "Inundaciones en vialidades principales"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares sin compromiso de servicios",
+    "Juego político y manipulación electoral",
+    "Falta de mantenimiento en la red",
+    "Saturación y contaminación de pozos",
+    "Mala distribución de la riqueza",
+    "Falta de políticas públicas efectivas",
+    "Corrupción en autoridades y piperos",
+    "Privatización y concesión a privados",
+    "Falta de árboles y captación de agua",
+    "No aplicación de leyes ambientales",
+    "Presupuesto insuficiente para agua",
+    "Mala gestión entre delegación y federación"
+  ],
+  "Consecuencias": [
+    "Agua chocolatosa y con insectos",
+    "Sedimentación y lodo en recipientes",
+    "Enfermedades estomacales en niños",
+    "Gasto en agua embotellada",
+    "Organización comunitaria para acopio",
+    "Desigualdad en acceso al agua",
+    "Tiradero de agua en calles",
+    "Inundaciones en calzada Ermita y vialidades",
+    "Colapso de drenajes",
+    "Falta de higiene en escuelas",
+    "Presión social y manifestaciones",
+    "Cultura de escasez y resignación"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Movilización y presión a delegación"
+    },
+    {
+      "actor": "Líderes políticos",
+      "accion": "Uso del agua como bandera política"
+    },
+    {
+      "actor": "Mujeres de la comunidad",
+      "accion": "Protestas y exigencia de agua"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Dotación de tomas de agua"
+    },
+    {
+      "actor": "Gobierno y comunidad",
+      "accion": "Instalación de tuberías y tomas"
+    },
+    {
+      "actor": "Asamblea Legislativa",
+      "accion": "Condonación del pago de agua"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Presión para condonación y mejoras"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Sistema de tandeo de agua"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Distribución de agua en pipas"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Compra de agua embotellada local"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumulación y reutilización de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Recolección de agua de lluvia"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Construcción de pozos de absorción"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Demanda de mantenimiento a pozos"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Pago de pipas para abastecimiento"
+    },
+    {
+      "actor": "Organizaciones y científicos",
+      "accion": "Movimiento de defensa del agua"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Proyectos locales de captación"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Campañas de concientización insuficientes"
+    }
+  ],
+  "input_tokens": 9125,
+  "output_tokens": 887,
+  "error": null,
+  "items_antes_de_tope": {}
+}

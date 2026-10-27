@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del agua",
+    "Fugas de agua",
+    "Calidad del agua",
+    "Cantidad de agua",
+    "Impacto en la producción agrícola",
+    "Problemas de salud por aguas contaminadas",
+    "Inundaciones en asentamientos irregulares",
+    "Desinterés de nuevas generaciones por la chinampa"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Contaminación por invernaderos",
+    "Fugas en el sistema de agua",
+    "Desecación de cuerpos de agua",
+    "Uso de pesticidas y agroquímicos",
+    "Hundimientos diferenciales",
+    "Falta de mantenimiento a plantas de tratamiento",
+    "Desconexión entre instituciones"
+  ],
+  "Consecuencias": [
+    "Deterioro del ecosistema chinampero",
+    "Impacto en la economía de los productores",
+    "Abandono de chinampas",
+    "Pérdida de biodiversidad",
+    "Problemas de salud pública",
+    "Disminución del turismo",
+    "Dificultades en la comercialización de productos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Coordinar políticas de conservación y manejo del agua"
+    },
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Realizar estudios sobre calidad de agua"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Implementar tratamientos de agua en chinampas"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Gestionar recursos para el manejo del agua"
+    },
+    {
+      "actor": "Conanp",
+      "accion": "Proteger y cuidar áreas naturales protegidas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Establecer políticas públicas para la conservación"
+    }
+  ],
+  "input_tokens": 12059,
+  "output_tokens": 341,
+  "error": null,
+  "items_antes_de_tope": {}
+}

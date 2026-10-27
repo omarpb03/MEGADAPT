@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022515_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Inundaciones",
+    "Complejidad del fenómeno urbano regional",
+    "Distribución desigual del agua"
+  ],
+  "Causas_principales": [
+    "Población flotante",
+    "Fuentes de abastecimiento diversas",
+    "Mosaico de unidades político-administrativas"
+  ],
+  "Consecuencias": [
+    "Crisis del agua en ciertas zonas",
+    "Riesgo hídrico ya ocurre",
+    "Escasez e inundación simultáneas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 988,
+  "output_tokens": 118,
+  "error": null,
+  "items_antes_de_tope": {}
+}

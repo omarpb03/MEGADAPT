@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Falta de inversión en infraestructura",
+    "Programas sociales sin servicios",
+    "Mala planificación urbana"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren escasez",
+    "Aumento de inundaciones",
+    "Costos elevados de vivienda"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Destinar presupuesto a infraestructura"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Proveer vivienda a bajo costo"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Implementar proyectos de potabilización"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Invertir 18 mil millones en agua"
+    }
+  ],
+  "input_tokens": 4452,
+  "output_tokens": 159,
+  "error": null,
+  "items_antes_de_tope": {}
+}

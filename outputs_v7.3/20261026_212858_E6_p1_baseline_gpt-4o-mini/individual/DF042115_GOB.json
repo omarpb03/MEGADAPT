@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Contaminación del agua",
+    "Percepción de desconfianza hacia el agua potable",
+    "Riesgos hidrometeorológicos",
+    "Efectos de salud por falta de agua potable"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Demanda de agua por la industria",
+    "Extracción de acuíferos",
+    "Construcción desmedida en zonas vulnerables",
+    "Falta de mantenimiento a infraestructura",
+    "Desinformación sobre el agua potable"
+  ],
+  "Consecuencias": [
+    "Aumento de enfermedades respiratorias",
+    "Enfermedades gastrointestinales",
+    "Problemas de salud en población vulnerable",
+    "Inundaciones locales",
+    "Interrupciones en el suministro de agua tras sismos",
+    "Contaminación del agua almacenada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Construcción de lagunas de regulación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalación de sistemas de alerta hidrometeorológica"
+    },
+    {
+      "actor": "Comisión Nacional del Agua (Conagua)",
+      "accion": "Monitoreo de la calidad del agua"
+    },
+    {
+      "actor": "Organizaciones no gubernamentales",
+      "accion": "Propuestas para restaurar cuerpos de agua en la ciudad"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Mantenimiento de infraestructura de drenaje"
+    }
+  ],
+  "input_tokens": 9800,
+  "output_tokens": 287,
+  "error": null,
+  "items_antes_de_tope": {}
+}

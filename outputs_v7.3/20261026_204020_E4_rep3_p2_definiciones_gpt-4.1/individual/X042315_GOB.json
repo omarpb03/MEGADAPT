@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminucin de niveles hidr ulicos",
+    "Exceso de extracci n de agua subterránea",
+    "Contaminaci n de agua por drenajes",
+    "P 9rdida de autosuficiencia hidr ulica",
+    "Hundimientos diferenciales en zona lacustre",
+    "Cambio de uso de suelo chinampero",
+    "Falta de infraestructura para manejo de agua",
+    "Fragmentaci n institucional en gesti n del agua",
+    "Falta de reaprovechamiento de aguas grises y negras",
+    "Conflictos por manejo de compuertas y esclusas",
+    "Desconfianza hacia autoridades externas",
+    "Presi n urbana sobre zonas ambientales"
+  ],
+  "Causas_principales": [
+    "Extracci n hist rica de agua por acueductos y pozos",
+    "Grietas y fracturas tras sismo de 1985",
+    "Bloqueo de escurrimientos naturales por asentamientos humanos",
+    "Descargas de drenaje dom stico y clandestino",
+    "Falta de mantenimiento de infraestructura hidr ulica",
+    "Pol ticas delegacionales centradas en demandas inmediatas",
+    "Regularizaci n de asentamientos irregulares",
+    "Cambio generacional y p 9rdida de identidad chinampera",
+    "Falta de planeaci n a mediano y largo plazo",
+    "Fragmentaci n de competencias institucionales",
+    "Presi n pol tica y clientelar sobre pol ticas de suelo",
+    "Falta de incentivos para conservar chinampas"
+  ],
+  "Consecuencias": [
+    "Descenso de niveles de agua en canales y chinampas",
+    "Secado y abandono de chinampas",
+    "Contaminaci n de suelos y aguas subterráneas",
+    "P 9rdida de biodiversidad y servicios ambientales",
+    "Cambio de uso de suelo a asentamientos humanos",
+    "Reducci n de productividad agropecuaria",
+    "Conflictos entre comunidades por manejo de agua",
+    "P 9rdida de identidad y tradiciones chinamperas",
+    "Incremento de temperatura urbana",
+    "Inundaciones por manejo inadecuado de compuertas",
+    "Desconfianza y rechazo a proyectos gubernamentales",
+    "Deterioro de imagen y valor patrimonial de la zona"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro de zona como sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generar comunicaci n pluvial entre zonas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de seccionar lagunas con compuertas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Pago de servicios ambientales a chinamperos"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro ante SIPAM de sistemas tradicionales"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Venta a comercializadoras"
+    },
+    {
+      "actor": "Planta de tratamiento cerro de la estrella",
+      "accion": "Surtimiento de agua tratada"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de ollas de captaci n de agua de lluvia"
+    },
+    {
+      "actor": "Habitantes zona cerril",
+      "accion": "Mantenimiento de ollas de captaci n"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Acciones pedag gicas y l dicas para nuevas generaciones"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generar hubs comunitarios para educaci n ambiental"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programa maestro de manejo de esclusas y compuertas"
+    },
+    {
+      "actor": "Autoridad local y franceses",
+      "accion": "Propuesta de monitoreo digital de niveles hidr ulicos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Uso de vasos reguladores para amortiguar drenaje"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci n de servicios a asentamientos"
+    },
+    {
+      "actor": "Autoridad local y UAM",
+      "accion": "Elaboraci n de programa de manejo Ramsar"
+    },
+    {
+      "actor": "Habitantes chinamperos",
+      "accion": "Relleno de canales para ampliar parcelas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Censo de chinampas y canales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de pago por servicios ambientales"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Rescate y declaraci n de sitio arqueol gico"
+    },
+    {
+      "actor": "Universidades (UNAM, UAM)",
+      "accion": "Legitimaci n de propuestas t cnicas"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti n de subsidios rurales"
+    },
+    {
+      "actor": "Comisi n de Derechos Humanos",
+      "accion": "Resoluci n para reparar planta de tratamiento"
+    },
+    {
+      "actor": "Productores y gobierno",
+      "accion": "Negociaci n para ceder tierras a cambio de pago hidr ulico"
+    },
+    {
+      "actor": "Candidatos pol ticos",
+      "accion": "Regalo de rotopl s y dinero por votos"
+    },
+    {
+      "actor": "Habitantes zona alta",
+      "accion": "Apertura de caminos y brechas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de pol tica de suelo regulada"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de zona de amortiguamiento patrimonial"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Prioridad a demandas urbanas sobre criterios ambientales"
+    }
+  ],
+  "input_tokens": 13795,
+  "output_tokens": 1190,
+  "error": null,
+  "items_antes_de_tope": {}
+}

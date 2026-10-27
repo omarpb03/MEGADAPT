@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio del agua",
+    "Falta de cultura del agua",
+    "Problemas de acceso en Iztapalapa",
+    "Contaminacion de fuentes naturales",
+    "Salinización del agua en Xochimilco",
+    "Corrupción en distribución de agua",
+    "Falta de vigilancia en normatividad",
+    "Uso intensivo de agroquímicos",
+    "Falta de programas de captura de agua",
+    "Inundaciones en zonas urbanizadas",
+    "Sobreexplotación de pozos",
+    "Privatización de llaves públicas"
+  ],
+  "Causas_principales": [
+    "Falta de interés del gobierno",
+    "Falta de financiamiento",
+    "Urbanización de zonas lacustres",
+    "Corrupción en autoridades",
+    "Falta de vigilancia gubernamental",
+    "Adelgazamiento de gobiernos",
+    "Uso indiscriminado de agroquímicos",
+    "Falta de diseño en recolección de desechos",
+    "Falta de programas de captura de agua",
+    "Presión de urbanización",
+    "Pobreza y bajos salarios",
+    "Falta de aplicación de leyes",
+    "Rompimiento de flujos naturales de agua",
+    "Falta de restricción en uso de contaminantes"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua",
+    "Riegos con aguas negras",
+    "Contaminación de mantos freáticos",
+    "Salinización de suelos",
+    "Ausencia de abejas por insecticidas",
+    "Enfermedades por agua no potable",
+    "Inundaciones en colonias bajas",
+    "Corrupción en acceso al agua",
+    "Desigualdad en distribución de agua",
+    "Sobreexplotación de pozos",
+    "Pérdida de recarga de acuíferos",
+    "Mortalidad de animales no percibida",
+    "Falta de conciencia sobre calidad de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gente de biotecnología",
+      "accion": "Propuesta de reciclo de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Cambios en uso del agua"
+    },
+    {
+      "actor": "Vecinos de Iztapalapa",
+      "accion": "Quejas por consumo de agua"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Uso de excreta para suelos artificiales"
+    },
+    {
+      "actor": "Grupo UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Uso de filtros en chinampas"
+    },
+    {
+      "actor": "Productores de Iztapalapa",
+      "accion": "Almacenamiento de agua en cisternas"
+    },
+    {
+      "actor": "Productores de establos",
+      "accion": "Traslado de estiércol a Xochimilco"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Planta de composta"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Falta de vigilancia de normatividad"
+    },
+    {
+      "actor": "Productores agropecuarios Hidalgo",
+      "accion": "Estudio sobre pozos sobreexplotados"
+    },
+    {
+      "actor": "ONG REDES",
+      "accion": "Restauración ecológica en Xochimilco"
+    },
+    {
+      "actor": "Pueblos originarios",
+      "accion": "Organización propia para gestión"
+    },
+    {
+      "actor": "Universidades y productores",
+      "accion": "Estudio conjunto sobre agua"
+    },
+    {
+      "actor": "Chapingo",
+      "accion": "Construcción de terrazas para capturar agua"
+    },
+    {
+      "actor": "Comisión de Cuencas",
+      "accion": "Estudio y manejo de cuerpos de agua"
+    },
+    {
+      "actor": "Policía montada",
+      "accion": "Cría de caballos"
+    },
+    {
+      "actor": "Asociación de charros",
+      "accion": "Equinoterapia"
+    },
+    {
+      "actor": "Productores de Milpa Alta",
+      "accion": "Uso de estiércol para retención de humedad"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Plan Texcoco de suelos de conservación"
+    }
+  ],
+  "input_tokens": 13290,
+  "output_tokens": 742,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en la calidad del agua",
+    "Escasez de agua en ciertas zonas",
+    "Inequidad en el acceso al agua",
+    "Problemas de inundaciones en la ciudad"
+  ],
+  "Causas_principales": [
+    "Mala gestión del recurso hídrico",
+    "Intereses políticos y económicos",
+    "Falta de infraestructura adecuada",
+    "Desarrollo urbano descontrolado"
+  ],
+  "Consecuencias": [
+    "Aumento de enfermedades por agua contaminada",
+    "Desigualdad en el acceso al agua",
+    "Inundaciones recurrentes en ciertas áreas",
+    "Desconfianza generalizada en el servicio de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar políticas de gestión del agua"
+    },
+    {
+      "actor": "Comités de colonias",
+      "accion": "Crear interlocución con el sistema de agua"
+    },
+    {
+      "actor": "Investigadores",
+      "accion": "Estudiar la calidad del agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Negociar acceso a agua para nuevos proyectos"
+    }
+  ],
+  "input_tokens": 13937,
+  "output_tokens": 216,
+  "error": null,
+  "items_antes_de_tope": {}
+}

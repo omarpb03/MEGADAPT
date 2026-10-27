@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion de los canales",
+    "Descargas de drenaje domiciliario",
+    "Hundimiento y perdida de profundidad",
+    "Acumulacion de lirio acuatico",
+    "Asentamientos irregulares en zona lacustre",
+    "Falta de circulacion y oxigenacion del agua",
+    "Perdida de especies acuaticas nativas",
+    "Abandono de chinampas",
+    "Falta de infraestructura de drenaje",
+    "Conflictos por uso de suelo",
+    "Falta de calidad en agua tratada",
+    "Falta de presupuesto y coordinacion institucional",
+    "Basura y residuos solidos en canales"
+  ],
+  "Causas_principales": [
+    "Descargas domiciliarias a los canales",
+    "Falta de infraestructura de drenaje secundaria",
+    "Crecimiento de la mancha urbana",
+    "Corrupcion y tolerancia gubernamental",
+    "Abandono de chinampas por nuevas generaciones",
+    "Contradiccion de leyes y normatividad",
+    "Proyectos mal implementados",
+    "Extraccion de agua por pozos",
+    "Falta de presupuesto para proyectos",
+    "Turismo irresponsable",
+    "Falta de inspectores ambientales",
+    "Mal manejo de residuos solidos",
+    "Introduccion de especies invasoras",
+    "Falta de circulacion de agua por cierre de canales"
+  ],
+  "Consecuencias": [
+    "Agua maltratada y contaminada",
+    "Perdida de especies acuaticas nativas",
+    "Acumulacion de sedimentos y materia organica",
+    "Disminucion de profundidad de canales",
+    "Desequilibrio ecologico",
+    "Inundaciones en zonas bajas",
+    "Conflictos sociales por uso de suelo",
+    "Abandono y ociosidad de chinampas",
+    "Perdida de calidad de vida",
+    "Deterioro del turismo tradicional",
+    "Dificultad para navegar canales",
+    "Falta de agua potable en asentamientos",
+    "Poca reactivacion de especies animales",
+    "Desconfianza y conflicto institucional"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Canaleros y sector turistico",
+      "accion": "Limpieza parcial de canales"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Extraccion y distribucion de agua potable"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Apoyo en limpieza de lirio"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservacion"
+    },
+    {
+      "actor": "Vecinos y residentes",
+      "accion": "Protesta y demanda ante autoridades"
+    },
+    {
+      "actor": "Gobierno del DF y Federal",
+      "accion": "Coordinacion para limpieza y conservacion"
+    },
+    {
+      "actor": "CORENA y Medio Ambiente",
+      "accion": "Regulacion ambiental y vigilancia"
+    },
+    {
+      "actor": "Poblacion local",
+      "accion": "Separacion de residuos solidos y organicos"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Programas de cero crecimiento poblacional"
+    },
+    {
+      "actor": "UNAM y Secretaria Agricultura",
+      "accion": "Introduccion de tilapia y carpa"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Recuperacion de zanjas y estacacion"
+    },
+    {
+      "actor": "Asamblea y camara diputados",
+      "accion": "Aprobacion de proyectos sustentables"
+    },
+    {
+      "actor": "Laboratorio Sistemas de Aguas",
+      "accion": "Analisis de calidad de agua"
+    },
+    {
+      "actor": "Delegacion y jefatura",
+      "accion": "Manejo de pozos de agua potable"
+    },
+    {
+      "actor": "Proyectos internacionales",
+      "accion": "Apoyo financiero para conservacion"
+    },
+    {
+      "actor": "Poblacion local",
+      "accion": "Cultivo en invernaderos"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Recuperacion de apantles y canales"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Reforestacion y sanidad vegetal"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Dragado de canales"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Mantenimiento de esclusas"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Manejo de residuos solidos"
+    },
+    {
+      "actor": "Delegacion y Medio Ambiente",
+      "accion": "Propuesta de plantas tratadoras de agua"
+    }
+  ],
+  "input_tokens": 25368,
+  "output_tokens": 827,
+  "error": null,
+  "items_antes_de_tope": {}
+}

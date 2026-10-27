@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en viviendas",
+    "Tandeo del suministro de agua",
+    "Descomposturas y fugas en tubería",
+    "Desperdicio de agua de manantiales",
+    "Calidad variable del agua en garrafón",
+    "Dificultad en obtener drenaje",
+    "Poca captación de agua de lluvia doméstica",
+    "Distribución inequitativa del agua",
+    "Temor a reducción del reparto local"
+  ],
+  "Causas_principales": [
+    "Crecimiento poblacional rápido",
+    "Venta y expropiación de parcelas agrícolas",
+    "Urbanización de zona rural",
+    "Antigüedad de la tubería",
+    "Fugas por infraestructura vieja",
+    "Desinformación de autoridades",
+    "Expansión de la mancha urbana",
+    "Pérdida de áreas de recarga natural"
+  ],
+  "Consecuencias": [
+    "Dejan días sin agua",
+    "Compra de agua en garrafón",
+    "Alto costo de cisternas",
+    "Batalla para el aseo personal",
+    "Ejidatarios sin tierras ni casa",
+    "Pérdida de producción agrícola",
+    "Pérdida de usos y costumbres",
+    "Mayor migración por falta de empleo",
+    "Venta de terrenos por necesidad",
+    "Desperdicio de agua en manantiales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Control del tandeo del agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Atención y reparación de fugas"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Manejo del suministro y reparaciones"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Solicitar cisternas y captación pluvial"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Reportar fugas a la delegación"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Instalación de tinacos y cisternas"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Expropiación y regulación de tierras"
+    },
+    {
+      "actor": "CORET y Procuraduría Agraria",
+      "accion": "Regularización y escrituración de tierras"
+    },
+    {
+      "actor": "Comisiones y asambleas locales",
+      "accion": "Gestión de servicios e información"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construcción de presas y drenaje profundo"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Faenas para introducir servicios"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Participar en reuniones informativas"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulso de granjas y animales"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Proporcionar tractores y equipo agrícola"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Entrega de semillas y apoyo hortícola"
+    },
+    {
+      "actor": "CONAFOR",
+      "accion": "Pago para limpieza y servicios ambientales"
+    },
+    {
+      "actor": "Delegación y diputados",
+      "accion": "Apoyo para proyectos comunitarios"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Venta directa de jitomate orgánico"
+    }
+  ],
+  "input_tokens": 9433,
+  "output_tokens": 828,
+  "error": null,
+  "items_antes_de_tope": {}
+}

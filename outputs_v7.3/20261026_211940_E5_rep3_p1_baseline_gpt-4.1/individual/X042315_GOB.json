@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u000fn de los niveles hidr\u00001eulicos",
+    "P\u000023rdida de autosuficiencia de agua",
+    "Exceso de extracci\u000023n de agua subterran\u000023ea",
+    "Contaminaci\u000023n por descargas de aguas negras",
+    "Cambio de uso de suelo chinampero",
+    "Conflictos entre usos urbano y rural",
+    "Riesgos de hundimientos diferenciales",
+    "Fragmentaci\u000023n institucional en la gesti\u000023n de agua"
+  ],
+  "Causas_principales": [
+    "Construcci\u000023n del acueducto y bomba",
+    "Explotaci\u000023n de ojos de agua y pozos",
+    "Grieta y fractura despu\u000023s del sismo del 85",
+    "Bloqueo de escurrimientos naturales",
+    "Crecimiento de asentamientos irregulares",
+    "Descargas clandestinas de drenaje",
+    "Falta de planeaci\u000023n a mediano plazo de delegaciones",
+    "Cambio cultural respecto a la tierra",
+    "Regularizaci\u000023n y dotaci\u000023n de servicios a asentamientos"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en zona cerril",
+    "Secamiento de chinampas",
+    "Perdida de humedad para la producci\u000023n agrícola",
+    "Contaminaci\u000023n de subsuelo y canales",
+    "P\u000023rdida de biodiversidad y servicios ambientales",
+    "Conflictos intercomunitarios por apertura de compuertas",
+    "Conversi\u000023n de suelos chinamperos en urbanos",
+    "Disminuci\u00000n del efecto regulador de temperatura",
+    "Indemnizaciones por inundaci\u000023n de zonas productivas",
+    "Desconfianza y estigma hacia autoridades y proyectos externos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro del sitio ante RAMSAR"
+    },
+    {
+      "actor": "Autoridad local y francesa",
+      "accion": "Convenios para financiamiento de proyectos hidráulicos"
+    },
+    {
+      "actor": "Autoridad local y UAM",
+      "accion": "Elaboraci\u000023n de programa de manejo"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "Gobierno ciudad y delegaci\u000023n",
+      "accion": "Dotaci\u000023n de servicios en asentamientos irregulares"
+    },
+    {
+      "actor": "Habitantes zona cerril",
+      "accion": "Mantenimiento de ollas de captaci\u000023n"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Manejo de vasos reguladores"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti\u000023n de subsidios y proyectos"
+    },
+    {
+      "actor": "Universidades UNAM y UAM",
+      "accion": "Investigaci\u000023n y legitimaci\u000023n de propuestas"
+    },
+    {
+      "actor": "Comunidad local",
+      "accion": "Apertura y cierre de compuertas"
+    },
+    {
+      "actor": "Delegaciones Xochimilco y Tláhuac",
+      "accion": "Estrategias distintas de gesti\u000023n de agua"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Solicitud de registro SIPAM"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Rescate de zona arqueol\u000033gica"
+    },
+    {
+      "actor": "Productores zona Chalco",
+      "accion": "Aceptaci\u000023n de pago por inundaci\u000023n"
+    },
+    {
+      "actor": "Academia UAM/UNAM",
+      "accion": "Propuesta de museo del agua"
+    },
+    {
+      "actor": "Poblaci\u000023n joven local",
+      "accion": "Acciones pedag\u000033gicas y l\u000023udicas para conservaci\u000023n"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Creaci\u000023n de loter\u000023a y exposiciones tem\u000021ticas"
+    },
+    {
+      "actor": "Comunidad local",
+      "accion": "Obstrucci\u000023n/cambio de canales para ampliar chinampas"
+    },
+    {
+      "actor": "Gobierno federal/local",
+      "accion": "Pago por servicios ambientales"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 869,
+  "error": null,
+  "items_antes_de_tope": {}
+}

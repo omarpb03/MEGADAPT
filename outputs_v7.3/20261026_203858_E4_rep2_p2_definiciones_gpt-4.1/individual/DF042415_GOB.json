@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en zonas urbanas",
+    "Enfermedades derivadas de inundaciones",
+    "Escasez de agua en la ciudad",
+    "Enfermedades gastrointestinales por agua",
+    "Subregistro de enfermedades relacionadas al agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para canalizar agua",
+    "Cambio climático provoca sequías e inundaciones",
+    "Asentamientos en zonas irregulares",
+    "Falta de servicios sanitarios y drenaje",
+    "Agua entubada de baja calidad",
+    "Agua de pipas no totalmente limpia",
+    "Cultura de no asistir al médico",
+    "Exposición directa al agua contaminada",
+    "Mezcla de aguas negras y pluviales",
+    "Falta de mantenimiento en cisternas"
+  ],
+  "Consecuencias": [
+    "Dermatitis y enfermedades de la piel",
+    "Conjuntivitis e irritación de mucosas",
+    "Enfermedades gástricas",
+    "Intoxicación por químicos de limpieza",
+    "Proliferación de moscos",
+    "Subregistro de casos de enfermedad",
+    "Mayor vulnerabilidad en niños, mujeres y adultos mayores",
+    "Dificultad para volver a la normalidad",
+    "Amputaciones en diabéticos por infecciones",
+    "Enfermedades gastrointestinales por agua contaminada",
+    "Deshidratación severa en niños",
+    "Pérdida de pertenencias por inundación"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Brigadas de limpieza y fumigación"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporcionar cloro y agua potable"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Campañas preventivas y folletos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emitir medidas preventivas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Coordinación de evacuaciones"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación de población afectada"
+    },
+    {
+      "actor": "Bomberos",
+      "accion": "Sacar agua y limpiar casas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Atención inicial de emergencias"
+    },
+    {
+      "actor": "Jurisdicción sanitaria",
+      "accion": "Levantamiento de información de salud"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Limpieza y desinfección de casas"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Subir pertenencias para protegerlas"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difusión de información sobre desastres"
+    },
+    {
+      "actor": "Dirección General de Epidemiología",
+      "accion": "Análisis y mapas de enfermedades"
+    },
+    {
+      "actor": "Sector salud en escuelas",
+      "accion": "Educación preventiva a niños"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Entrega de apoyos materiales"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Uso de tabiques para elevar muebles"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Autoprotección ante inundaciones"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Incrementar capacidad de drenaje"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Concientización sobre no tirar basura"
+    }
+  ],
+  "input_tokens": 12691,
+  "output_tokens": 859,
+  "error": null,
+  "items_antes_de_tope": {}
+}

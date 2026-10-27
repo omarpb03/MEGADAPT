@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en el acceso al agua",
+    "Calidad deficiente del agua",
+    "Escasez y tandeos de agua",
+    "Inundaciones recurrentes",
+    "Infraestructura de drenaje deficiente",
+    "Opacidad en la gestion del agua"
+  ],
+  "Causas_principales": [
+    "Incapacidad en la gestion del recurso",
+    "Intereses particulares en la gestion",
+    "Falta de manejo de la demanda",
+    "Esquema tarifario inequitativo",
+    "Presiones inmobiliarias",
+    "Arreglos opacos internos",
+    "Negligencia en drenaje pluvial",
+    "Urbanizacion adicional sin planeacion",
+    "Infraestructura vieja y deteriorada"
+  ],
+  "Consecuencias": [
+    "Zonas con servicio irregular de agua",
+    "Desconfianza en la calidad del agua",
+    "Mayor consumo de agua embotellada",
+    "Transferencia de costos a los pobres",
+    "Inundaciones con aguas negras",
+    "Enfermedades y secuelas por inundaciones",
+    "Consolidacion de asentamientos irregulares",
+    "Conflictos entre comunidades y desarrollos",
+    "Presion politica y protestas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controlar autorizaciones de agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presionar para obtener agua"
+    },
+    {
+      "actor": "Vecinos y pobladores",
+      "accion": "Realizar movimientos contestatarios"
+    },
+    {
+      "actor": "Delegados politicos",
+      "accion": "Negociar intereses por control politico"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Proveer infraestructura de tubos"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Visibilizar inundaciones"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Realizar obras de bombeo y drenaje"
+    },
+    {
+      "actor": "Academicos y ciudadanos",
+      "accion": "Proponer comites de colonias"
+    },
+    {
+      "actor": "Industria de agua embotellada",
+      "accion": "Aprovechar desconfianza en agua"
+    }
+  ],
+  "input_tokens": 13937,
+  "output_tokens": 545,
+  "error": null,
+  "items_antes_de_tope": {}
+}

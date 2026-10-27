@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Falta de cultura en el uso del agua",
+    "Crecimiento de la población",
+    "Tecnología que consume más agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Tecnología en urbanización",
+    "Uso y abuso del agua",
+    "Falta de infraestructura",
+    "Desperdicio de agua"
+  ],
+  "Consecuencias": [
+    "Escasez de agua",
+    "Afectación a la población",
+    "Dificultades en el abastecimiento",
+    "Impacto en el medio ambiente"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Incentivar la conservación del suelo de conservación"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestionar el suministro de agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Mantener el suelo de conservación"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Realizar obras de prevención y conservación del agua"
+    }
+  ],
+  "input_tokens": 13944,
+  "output_tokens": 214,
+  "error": null,
+  "items_antes_de_tope": {}
+}

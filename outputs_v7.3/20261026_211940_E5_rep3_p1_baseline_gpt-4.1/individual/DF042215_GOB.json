@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Zonas susceptibles de inundaci\u0003fn",
+    "Inundaciones s\u00003abitas en ciudades",
+    "Falta de mapas de riesgo actualizados",
+    "Movilidad afectada por inundaciones",
+    "Obst\u000031culos para acceso a informaci\u0003fn",
+    "Insuficiente difusi\u00003fn de informaci\u0003fn a la poblaci\u0003fn",
+    "Drenaje insuficiente en zonas urbanas",
+    "Cultura de la poblaci\u0003fn respecto al agua"
+  ],
+  "Causas_principales": [
+    "Lluvias intensas",
+    "Cambio de uso de suelo urbano",
+    "Crecimiento vertical de la ciudad",
+    "Obstrucci\u00003fn por basura en drenaje",
+    "Falta de mantenimiento de alcantarillado",
+    "Problemas en sistema de alcantarillado",
+    "Desbordamiento de r\u000031os o cuerpos de agua",
+    "Falta de difusi\u00003fn informaci\u0003fn de riesgo",
+    "Falta de cultura de cuidado ambiental",
+    "Eventos hist\u000033ricos de inundaci\u0003fn no considerados"
+  ],
+  "Consecuencias": [
+    "P\u000031rdidas humanas por inundaci\u0003fn",
+    "P\u000031rdida de varones que cuidan propiedad",
+    "Movilidad severamente afectada",
+    "Charcos y encharcamientos recurrentes",
+    "Aumento de temperatura urbana",
+    "Problemas de salud asociados",
+    "Da\u000031o a infraestructuras urbanas",
+    "Depresiones en terreno causan inundaciones",
+    "Falta de preparaci\u0003fn poblacional",
+    "Hundimientos en zonas espec\u00003dficas",
+    "Zonas cr\u000033nicas de encharcamiento"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles inundaci\u0003fn"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Mapear peligros y vulnerabilidad"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar informaci\u0003fn v\u00004da infograf\u00003das"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Construir \u00003dndice de vulnerabilidad"
+    },
+    {
+      "actor": "Secretar\u00003da de Salud",
+      "accion": "Proveer datos oficiales de decesos"
+    },
+    {
+      "actor": "Protecci\u00003fn Civil estatal y municipal",
+      "accion": "Recopilar y validar eventos"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Compartir informaci\u0003fn t\u000039cnica y mapas"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Emitir declaratorias de emergencia"
+    },
+    {
+      "actor": "Cenapred y autoridades estatales",
+      "accion": "Hacer recomendaciones preventivas"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Realizar obras de infraestructura"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Proponer mapas de peligro"
+    },
+    {
+      "actor": "Cenapred y universidades",
+      "accion": "Aplicar metodolog\u00003da percepci\u0003fn de riesgo"
+    },
+    {
+      "actor": "Sedatu (antes Sedesol)",
+      "accion": "Financiar atlas y estudios municipales"
+    },
+    {
+      "actor": "Consultor\u00003das privadas",
+      "accion": "Elaborar estudios o atlas de riesgos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Proporcionar datos estaciones climatol\u000033gicas"
+    },
+    {
+      "actor": "Poblaci\u00003fn local",
+      "accion": "Reportar experiencias y percepci\u0003fn de riesgo"
+    },
+    {
+      "actor": "Poblaci\u00003fn local",
+      "accion": "Arrojar basura a la calle"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Organizar jornadas regionales colaborativas"
+    },
+    {
+      "actor": "Autoridades de delegaciones",
+      "accion": "Difundir mapas en espacios p\u00003ablicos"
+    },
+    {
+      "actor": "Autoridades del DF",
+      "accion": "No compartir informaci\u0003fn correctamente"
+    },
+    {
+      "actor": "Estado de M\u000039xico y otros estados",
+      "accion": "Trabajar colaborativamente con Cenapred"
+    }
+  ],
+  "input_tokens": 14961,
+  "output_tokens": 825,
+  "error": null,
+  "items_antes_de_tope": {}
+}

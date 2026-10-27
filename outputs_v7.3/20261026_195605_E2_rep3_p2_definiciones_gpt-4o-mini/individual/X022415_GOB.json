@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del agua",
+    "Fugas de agua",
+    "Calidad del agua",
+    "Cantidad de agua insuficiente"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Contaminación por invernaderos",
+    "Contaminación por ganado",
+    "Fugas en el sistema de drenaje"
+  ],
+  "Consecuencias": [
+    "Impacto en la producción agrícola",
+    "Pérdida de biodiversidad",
+    "Afectación al turismo",
+    "Problemas de salud potenciales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio Mundial",
+      "accion": "Coordinar políticas de gestión"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Mejorar calidad del agua en chinampas"
+    },
+    {
+      "actor": "Instituto de Biología de la UNAM",
+      "accion": "Investigar calidad del agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Gestionar recursos hídricos"
+    }
+  ],
+  "input_tokens": 12197,
+  "output_tokens": 199,
+  "error": null,
+  "items_antes_de_tope": {}
+}

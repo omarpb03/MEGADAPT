@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del rio Eslava",
+    "Asentamientos humanos irregulares toman agua",
+    "Escasez de agua",
+    "Calidad del agua que bebemos",
+    "Recarga de los mantos acuiferos",
+    "Pérdida de suelo de conservación"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano",
+    "Asentamientos humanos irregulares",
+    "Falta de planeacion del crecimiento",
+    "Falta de educacion y respeto",
+    "Gobierno invierte en otras cosas",
+    "Familias van creciendo",
+    "Poca remuneracion por trabajo",
+    "Programas de gobierno muy limitados"
+  ],
+  "Consecuencias": [
+    "Río convertido en drenaje",
+    "Agua contaminada",
+    "Pérdida de áreas de recarga",
+    "Presión del agua ya no existe",
+    "Gente vende la tierra",
+    "Pérdida de parcelas",
+    "Problemas para la ciudad",
+    "No hay vida sin agua y bosque"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporar a reserva ecológica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento cero urbano"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construir presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construir pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestar la parte alta"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Sistemas de riego por gravedad"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producir alfalfa, zacate, maíz"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producir y comercializar trucha"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyecto de muro ecológico"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Hacer desalojos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento a los bosques"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Limpieza y brecha contra incendios"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de conservación de suelo y agua"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Propuesta de bajar ganado del cerro"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Ganado tabulado en parte baja"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Censo ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de producción rural"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Plantar árboles"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Algunos programas de conservación"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Proyectos con Secretaría del Medio Ambiente"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Apoyar ordenamiento ganadero"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programas de empleo eventuales"
+    },
+    {
+      "actor": "Visitantes",
+      "accion": "Conservar naturaleza y áreas"
+    },
+    {
+      "actor": "Visitantes",
+      "accion": "Recoger basura de mascotas"
+    }
+  ],
+  "input_tokens": 7283,
+  "output_tokens": 881,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua",
+    "Falta de cultura del agua",
+    "Problemas de acceso al agua",
+    "Contaminación del agua",
+    "Salinización del agua en Xochimilco"
+  ],
+  "Causas_principales": [
+    "Construcción sin reciclaje de agua",
+    "Desinterés del gobierno",
+    "Uso de aguas negras y grises",
+    "Corrupción en la distribución de agua",
+    "Falta de normatividad y supervisión"
+  ],
+  "Consecuencias": [
+    "Desigualdad en el acceso al agua",
+    "Contaminación de fuentes de agua",
+    "Problemas de salud por agua no potable",
+    "Dificultades para la producción agrícola",
+    "Aumento de la pobreza y corrupción"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Propuestas de cambio en uso de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Almacenamiento de agua en cisternas"
+    },
+    {
+      "actor": "Investigadores",
+      "accion": "Estudios sobre calidad de agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Restauración ecológica y gestión del agua"
+    }
+  ],
+  "input_tokens": 13651,
+  "output_tokens": 230,
+  "error": null,
+  "items_antes_de_tope": {}
+}

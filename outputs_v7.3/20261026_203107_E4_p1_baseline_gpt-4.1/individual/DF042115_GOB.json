@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua insuficiente",
+    "Crecimiento desordenado de la población",
+    "Calidad del agua potable",
+    "Falta de mantenimiento de tinacos",
+    "Exposición a fenómenos hidrometeorológicos",
+    "Infraestructura vulnerable a sismos",
+    "Desconfianza en el agua de la red",
+    "Enfermedades por agua contaminada",
+    "Inundaciones locales y fallas en drenaje",
+    "Falta de coordinación entre niveles de gobierno"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población y bienes",
+    "Grandes consumidores industriales",
+    "Trasvase de agua de otras cuencas",
+    "Extracción excesiva de acuíferos",
+    "Ocupación de zonas peligrosas",
+    "Falta de freno a la urbanización",
+    "Migración sin conocimiento local",
+    "Viviendas precarias en asentamientos",
+    "Contaminación y falta de higiene",
+    "Falta de mantenimiento en infraestructura",
+    "Diferencias ideológicas entre gobiernos",
+    "Desconfianza promovida por empresas embotelladoras",
+    "Falta de capacitación en manejo de agua",
+    "Suelo flexible y hundimientos",
+    "Falta de información compartida entre gobiernos"
+  ],
+  "Consecuencias": [
+    "Vulnerabilidad social y física",
+    "Enfermedades respiratorias y alergias",
+    "Enfermedades gastrointestinales y dermatológicas",
+    "Afectación a actividades económicas",
+    "Bajo rendimiento educativo",
+    "Interrupciones en el abastecimiento por sismos",
+    "Inundaciones controladas en sectores",
+    "Falla catastrófica en drenaje profundo",
+    "Aislamiento de problemas por cuadrantes",
+    "Desperdicio de agua potable",
+    "Dependencia de agua embotellada",
+    "Limitada mitigación de riesgos",
+    "Falta de contacto directo con población vulnerable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de vasos reguladores"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Infraestructura de bombeo y compuertas"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Regulación de áreas para agua"
+    },
+    {
+      "actor": "Secretaría de Salud federal",
+      "accion": "Acciones sanitarias en emergencias"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalación de sistemas de alerta"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Capacitación a unidades estatales"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Operación de infraestructura federal"
+    },
+    {
+      "actor": "Universidades (UNAM)",
+      "accion": "Apoyo en capacitación y difusión"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Uso incipiente de captación de lluvia"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Uso de calentadores solares"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Mantenimiento deficiente de tinacos"
+    },
+    {
+      "actor": "Empresas embotelladoras",
+      "accion": "Promoción de agua embotellada"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "No compartir información detallada"
+    },
+    {
+      "actor": "Protección Civil DF",
+      "accion": "Reacción ante eventos extremos"
+    },
+    {
+      "actor": "Protección Civil federal",
+      "accion": "Coordinación con gobiernos locales"
+    }
+  ],
+  "input_tokens": 9811,
+  "output_tokens": 640,
+  "error": null,
+  "items_antes_de_tope": {}
+}

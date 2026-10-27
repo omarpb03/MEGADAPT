@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en las casas",
+    "Tandeo del suministro de agua",
+    "Fugas frecuentes en la tubería",
+    "Desperdicio de agua en ojo de agua",
+    "Dificultad para captar agua de lluvia",
+    "Problemas para conseguir drenaje",
+    "Temor a que el agua se desvíe a zonas residenciales",
+    "Venta de agua en garrafones"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desordenado",
+    "Aumento de la población",
+    "Antigüedad de la tubería",
+    "Falta de mantenimiento del sistema de agua",
+    "Desinformación de la delegación",
+    "Expropiación y urbanización de tierras agrícolas",
+    "Desperdicio de agua en nacimientos no aprovechados",
+    "Falta de compromiso para captar agua de lluvia"
+  ],
+  "Consecuencias": [
+    "Días sin agua en las casas",
+    "Batallar para obtener agua",
+    "Gasto en construcción de cisternas",
+    "Compra de agua en garrafones",
+    "Descontento e inconformidad de la gente",
+    "Pérdida de usos y costumbres",
+    "Pérdida de tierras agrícolas",
+    "Dificultad para regar invernaderos",
+    "Fugas de agua no atendidas rápidamente"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo del agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Arregla fugas de agua"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Solicitan cisternas y captación"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Hacen faenas para meter agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Introduce tanques y tubería"
+    },
+    {
+      "actor": "Comisiones del pueblo",
+      "accion": "Solicitan información y servicios"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construye presas para captación"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Construyen cisternas en casas"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Compran agua en garrafones"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Organiza reuniones informativas"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Hacen reuniones y pláticas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Entrega agua por tandeo"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "No entrega servicios al regularizar"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Proporciona tractores y apoyo"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulsa granjas y da animales"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Apoya captación en azoteas"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Delimita zona ecológica"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Reúso de agua de lluvia"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Atiende reportes de fugas"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Controla apertura y cierre de agua"
+    }
+  ],
+  "input_tokens": 9560,
+  "output_tokens": 602,
+  "error": null,
+  "items_antes_de_tope": {}
+}

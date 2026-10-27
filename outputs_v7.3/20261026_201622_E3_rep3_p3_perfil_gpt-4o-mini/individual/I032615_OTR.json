@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Fugas de agua potable",
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Inundaciones en la zona",
+    "Problemas de infraestructura hidráulica"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua",
+    "Mala administración del agua",
+    "Pavimentación excesiva",
+    "Falta de captación de agua de lluvia",
+    "Crecimiento poblacional descontrolado"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua",
+    "Contaminación del agua",
+    "Grietas en viviendas",
+    "Inseguridad hídrica",
+    "Problemas de salud por agua contaminada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Instalación de plantas potabilizadoras"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Construcción de cisternas de captación"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Educación ambiental sobre el agua"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Manejo de pozos de agua"
+    },
+    {
+      "actor": "Centro de Diagnóstico de Riesgos Geológicos",
+      "accion": "Evaluación de grietas en viviendas"
+    }
+  ],
+  "input_tokens": 25286,
+  "output_tokens": 239,
+  "error": null,
+  "items_antes_de_tope": {}
+}

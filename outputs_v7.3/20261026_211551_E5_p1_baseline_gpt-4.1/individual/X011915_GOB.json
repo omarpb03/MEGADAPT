@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas domiciliarias a los canales",
+    "Hundimiento y movimientos del suelo",
+    "Perdida de superficie de suelo de conservación",
+    "Acumulación de residuos y basura",
+    "Falta de oxigenación y circulación del agua",
+    "Abandono de chinampas",
+    "Asentamientos irregulares en zona lacustre",
+    "Infraestructura de drenaje deteriorada",
+    "Descenso del nivel de agua",
+    "Entrada de especies invasoras",
+    "Conflicto y contradiccion en normatividad",
+    "Desvío de presupuesto y corrupción",
+    "Falta de presupuesto para conservación"
+  ],
+  "Causas_principales": [
+    "Descargas de drenaje doméstico",
+    "Falta de infraestructura de drenaje",
+    "Crecimiento de la mancha urbana",
+    "Corrupción en permisos y transacciones",
+    "Abandono de la chinampería",
+    "Descoordinación institucional",
+    "Entrada de agua residual tratada",
+    "Temblores, microsismos y hundimientos",
+    "Desviaciones de agua por canales",
+    "Introducción de tilapia y carpa",
+    "Turismo poco responsable",
+    "Presión social para no aplicar la ley",
+    "Falta de inspección ambiental",
+    "Desvío de presupuesto público"
+  ],
+  "Consecuencias": [
+    "Deterioro grave de la calidad del agua",
+    "Pérdida de especies acuáticas nativas",
+    "Disminución del volumen de agua",
+    "Ocultamiento de la problemática real",
+    "Conflictos sociales por la propiedad",
+    "Reducción de áreas productivas",
+    "Acumulación de sedimento y lirio",
+    "Inundaciones en barrios bajos",
+    "Pérdida de biodiversidad",
+    "Fuerte abandono de chinampas",
+    "Disminución del turismo de calidad",
+    "Afectación a la salud",
+    "Sedimentos ricos pero mal manejados",
+    "Inequidad territorial y social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso del lirio como abono"
+    },
+    {
+      "actor": "Sector turístico, caneleros",
+      "accion": "Limpieza de algunos canales"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX (SACMEX)",
+      "accion": "Manejo de pozos de extracción"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Programas de cero crecimiento"
+    },
+    {
+      "actor": "Habitantes de barrios",
+      "accion": "Descargas de aguas domiciliarias"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Programas de separación de basura"
+    },
+    {
+      "actor": "Residentes locales",
+      "accion": "Protesta social ante autoridades"
+    },
+    {
+      "actor": "Vecinos y colindantes",
+      "accion": "Apropiación de chinampas abandonadas"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente y CORENA",
+      "accion": "Proyectos de restauración y regulación"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de estacación"
+    },
+    {
+      "actor": "Asamblea y legisladores",
+      "accion": "Aprobación de proyectos sustentables"
+    },
+    {
+      "actor": "UNAM",
+      "accion": "Introducción de tilapia"
+    },
+    {
+      "actor": "Gobierno Federal y CDMX",
+      "accion": "Coordinación para limpieza y manejo"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Apoyo en separación de residuos"
+    },
+    {
+      "actor": "Residentes irregulares",
+      "accion": "Construcción de viviendas sin drenaje"
+    },
+    {
+      "actor": "Sistemas de Aguas CDMX",
+      "accion": "Aporte de agua del Cerro de la Estrella"
+    },
+    {
+      "actor": "Dirección de Medio Ambiente Xochimilco",
+      "accion": "Recuperación de zanjas y apantles"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Abandono y ocasional reactivación"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Falta de ejecución de leyes"
+    },
+    {
+      "actor": "Comisarios ejidales",
+      "accion": "Decisiones sobre uso de pozos"
+    },
+    {
+      "actor": "Jefatura delegacional",
+      "accion": "Coordinación de manejo del agua potable"
+    },
+    {
+      "actor": "Turistas",
+      "accion": "Arrojo de basura en canales"
+    }
+  ],
+  "input_tokens": 25007,
+  "output_tokens": 811,
+  "error": null,
+  "items_antes_de_tope": {}
+}

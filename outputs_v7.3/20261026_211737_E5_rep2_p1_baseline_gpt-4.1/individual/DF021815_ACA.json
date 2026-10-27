@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en la distribución de agua",
+    "Calidad dudosa del agua de la llave",
+    "Falta de manejo de la demanda",
+    "Presión política y control sobre servicios de agua",
+    "Acceso limitado en zonas de pobreza",
+    "Servicio deficiente de drenaje e inundaciones",
+    "Opacidad y corrupción en la gestión del agua"
+  ],
+  "Causas_principales": [
+    "Gestión deficiente y opaca del recurso",
+    "Intereses particulares y patrimonialismo",
+    "Presión inmobiliaria en zonas específicas",
+    "Política de vivienda agotada o fallida",
+    "Crecimiento urbano desordenado",
+    "Distribución desigual por circuitos políticos",
+    "Falta de manejo de la demanda",
+    "Infraestructura vieja y no renovada",
+    "Falta de visión para drenaje pluvial",
+    "Criterios tarifarios injustos"
+  ],
+  "Consecuencias": [
+    "Desconfianza hacia el agua de la llave",
+    "Ciudadanos sin acceso a agua potable",
+    "Mayor consumo de agua embotellada",
+    "Inundaciones frecuentes en zonas vulnerables",
+    "Zonas de conservación absorbidas por desarrollo informal",
+    "Encarecimiento de vivienda central",
+    "Transferencia de costos a los más pobres",
+    "Conflictos entre habitantes históricos y nuevos desarrollos",
+    "Consolidación de colonias irregulares con servicios deficientes",
+    "Deterioro de infraestructura hidráulica"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Funcionarios públicos",
+      "accion": "Introducción selectiva de servicios de agua"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Aprobación de factibilidad para desarrollos urbanos"
+    },
+    {
+      "actor": "Habitantes de zonas irregulares",
+      "accion": "Solicitud informal de servicios tras asentamiento"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presionar para acceso preferente al agua"
+    },
+    {
+      "actor": "Vecinos y pobladores originales",
+      "accion": "Protestas y presión política por acceso al agua"
+    },
+    {
+      "actor": "Delegados políticos",
+      "accion": "Negociaciones por distribución de servicios"
+    },
+    {
+      "actor": "Autoridades urbanísticas",
+      "accion": "Recalificación de terrenos para proyectos"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Exponer problemas de inundación y drenaje"
+    },
+    {
+      "actor": "Investigadores y académicos",
+      "accion": "Analizar tarifas y distribución desigual"
+    },
+    {
+      "actor": "Industria de agua embotellada",
+      "accion": "Fomentar desconfianza en agua de la llave"
+    },
+    {
+      "actor": "Sistemas de Aguas de Baja Sur",
+      "accion": "Cobertura total de agua potable"
+    },
+    {
+      "actor": "Gobierno de la Ciudad de México",
+      "accion": "Construcción de infraestructura de bombeo"
+    }
+  ],
+  "input_tokens": 13810,
+  "output_tokens": 724,
+  "error": null,
+  "items_antes_de_tope": {}
+}

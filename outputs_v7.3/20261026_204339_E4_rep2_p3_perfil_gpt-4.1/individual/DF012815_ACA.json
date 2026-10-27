@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtenci\u0003n y distribuci\u000003n del agua",
+    "Calidad del agua",
+    "Escasez de agua",
+    "P\u000003rdidas en la red hidr\u000003ulica",
+    "Dotaci\u000003n desigual de agua",
+    "Manejo pol\u000003tico del agua",
+    "Infraestructura obsoleta",
+    "Crecimiento urbano en zonas de recarga"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad",
+    "Asentamientos en zonas inadecuadas",
+    "Falta de planeaci\u000003n urbana",
+    "Decisiones pol\u000003ticas sin criterio t\u000003cnico",
+    "Corrupci\u000003n y control pol\u000003tico",
+    "Sobreexplotaci\u000003n de mantos fre\u000003ticos",
+    "Infraestructura vieja y deficiente",
+    "Fugas y p\u000003rdidas en tuber\u000003as",
+    "Urbanizaci\u000003n de zonas de recarga",
+    "Falta de informaci\u000003n confiable",
+    "Negocio de pipas y tandeo",
+    "Desfase entre planes y realidad urbana"
+  ],
+  "Consecuencias": [
+    "Inundaciones recurrentes",
+    "Hundimiento de la ciudad",
+    "Escasez en colonias populares",
+    "Agua de mala calidad",
+    "Dotaci\u000003n por tandeo o pipas",
+    "Desigualdad en acceso al agua",
+    "Conflictos sociales por el agua",
+    "Degradaci\u000003n de servicios urbanos",
+    "P\u000003rdida de recarga de acu\u000003feros",
+    "Servicios de p\u000003sima calidad",
+    "Corrupci\u000003n en concesiones",
+    "Desinformaci\u000003n sobre consumo real"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales",
+      "accion": "Permiten asentamientos irregulares"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo y pipas"
+    },
+    {
+      "actor": "Coordinadores territoriales",
+      "accion": "Gestionan servicios por votos"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Opera dotaci\u000003n de agua"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Participan en servicios urbanos"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Cambia usos de suelo pol\u000003ticamente"
+    },
+    {
+      "actor": "Residentes organizados",
+      "accion": "Presionan para resolver problemas"
+    },
+    {
+      "actor": "Acad\u000003micos",
+      "accion": "Realizan estudios independientes"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Autoriza extracci\u000003n de otras cuencas"
+    },
+    {
+      "actor": "Empresas concesionarias",
+      "accion": "Instalan medidores de agua"
+    },
+    {
+      "actor": "Pol\u000003ticos",
+      "accion": "Intercambian servicios por votos"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Construyen sin garantizar servicios"
+    }
+  ],
+  "input_tokens": 9945,
+  "output_tokens": 820,
+  "error": null,
+  "items_antes_de_tope": {}
+}

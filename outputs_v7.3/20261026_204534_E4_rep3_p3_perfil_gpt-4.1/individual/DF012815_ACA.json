@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtenci\u0003n y distribuci\u0003n del agua",
+    "Calidad del agua",
+    "Escasez de agua",
+    "P\u0000e9rdidas en la red hidr\u000001ulica",
+    "Dotaci\u000001n desigual de agua",
+    "Infraestructura vieja y deficiente",
+    "Crecimiento urbano en zonas de recarga",
+    "Manejo pol\u000001tico del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad sin previsi\u000003n",
+    "Asentamientos informales permitidos por autoridades",
+    "Decisiones pol\u000001ticas sin base t\u000009cnica",
+    "Extracci\u000003n excesiva de mantos fre\u000001ticos",
+    "Urbanizaci\u000003n de zonas de recarga",
+    "Infraestructura obsoleta y mal mantenida",
+    "Corrupci\u000003n y control pol\u000001tico",
+    "Falta de informaci\u000003n confiable",
+    "Planes urbanos desactualizados",
+    "Negocio de pipas y tandeo",
+    "Falta de coordinaci\u000003n entre organismos"
+  ],
+  "Consecuencias": [
+    "Inundaciones recurrentes",
+    "Hundimiento de la ciudad",
+    "Escasez en colonias populares",
+    "Agua de mala calidad en oriente",
+    "Dotaci\u000003n por tandeo o pipas",
+    "Desigualdad en acceso al agua",
+    "Conflictos sociales por el agua",
+    "P\u000009rdidas de agua en la red",
+    "Degradaci\u000003n de servicios urbanos",
+    "Protestas en cuencas vecinas",
+    "Servicios de p\u000009sima calidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales",
+      "accion": "Permiten asentamientos informales"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo y pipas"
+    },
+    {
+      "actor": "Coordinadores territoriales",
+      "accion": "Gestionan servicios por votos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Opera dotaci\u000003n de agua"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Participan en servicios urbanos"
+    },
+    {
+      "actor": "Pol\u000001ticos",
+      "accion": "Toman decisiones sobre infraestructura"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Se organizan para exigir servicios"
+    },
+    {
+      "actor": "Acad\u000009micos",
+      "accion": "Realizan estudios sobre agua"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Autoriza extracci\u000003n de otras cuencas"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Cambia usos de suelo pol\u000001ticamente"
+    },
+    {
+      "actor": "Empresas concesionarias",
+      "accion": "Instalan medidores de agua"
+    },
+    {
+      "actor": "Poblaci\u000003n de asentamientos",
+      "accion": "Negocia servicios por votos"
+    }
+  ],
+  "input_tokens": 9945,
+  "output_tokens": 791,
+  "error": null,
+  "items_antes_de_tope": {}
+}

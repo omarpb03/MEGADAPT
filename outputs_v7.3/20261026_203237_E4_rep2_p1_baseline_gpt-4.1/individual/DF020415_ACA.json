@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteración del medio ambiente",
+    "Alteración de la vocación natural del suelo urbano",
+    "Alteración de la infraestructura existente",
+    "Acceso a servicios urbanos y agua",
+    "Calidad de vida",
+    "Seguridad en condiciones de vida",
+    "Afectación por políticas públicas urbanas",
+    "Preferencia a inversionistas privados",
+    "Afectación de zonas verdes",
+    "Riesgo en la ciudad"
+  ],
+  "Causas_principales": [
+    "Política urbana del gobierno",
+    "Preferencia a inversionistas privados",
+    "Construcción de vías de comunicación",
+    "Contexto neoliberal de la ciudad",
+    "Corrupción y tráfico de influencias",
+    "Falta de recursos para vivienda",
+    "Reducción de organismos públicos de vivienda",
+    "Contradicción en gobiernos de izquierda",
+    "Presupuesto sujeto a la Federación"
+  ],
+  "Consecuencias": [
+    "Afectación a asentamientos populares",
+    "Afectación a colonias de clase media",
+    "Afectación a zonas verdes",
+    "Agrietamiento de casas y calles",
+    "Incremento del riesgo",
+    "Deterioro de la calidad de vida",
+    "Movimientos sociales frustrados",
+    "Reducción de acceso a recursos",
+    "Necesidad de movilización social"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a política urbana"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoría en proyectos de agua"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncias y propuestas al gobierno"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Plantones y marchas"
+    },
+    {
+      "actor": "ONG’s de desarrollo urbano",
+      "accion": "Promoción de Carta por el derecho a la ciudad"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Generación de opinión pública"
+    },
+    {
+      "actor": "Ejidatarios y comuneros",
+      "accion": "Negociación con el gobierno"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Elaboración de propuestas normativas"
+    },
+    {
+      "actor": "Organizaciones internacionales",
+      "accion": "Foros y vinculación internacional"
+    },
+    {
+      "actor": "HIC (Habitat International Coalition)",
+      "accion": "Trabajo por derecho a la ciudad"
+    }
+  ],
+  "input_tokens": 6439,
+  "output_tokens": 459,
+  "error": null,
+  "items_antes_de_tope": {}
+}

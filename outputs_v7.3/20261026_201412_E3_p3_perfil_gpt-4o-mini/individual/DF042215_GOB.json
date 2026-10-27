@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por lluvias intensas",
+    "Zonas susceptibles a inundaciones",
+    "Falta de información sobre inundaciones",
+    "Sistemas de drenaje insuficientes",
+    "Basura en drenajes y alcantarillas",
+    "Cambio climático y lluvias intensas",
+    "Falta de mantenimiento en infraestructura"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Basura acumulada en drenajes",
+    "Falta de cultura de cuidado",
+    "Sistemas de drenaje obsoletos",
+    "Cambio en patrones de precipitación",
+    "Falta de información oficial",
+    "Falta de colaboración entre instituciones"
+  ],
+  "Consecuencias": [
+    "Aumento de inundaciones en la ciudad",
+    "Pérdidas humanas por inundaciones",
+    "Afectaciones a la movilidad",
+    "Daños a la infraestructura",
+    "Pérdida de confianza en autoridades",
+    "Desinformación en la población"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Mapear zonas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar información sobre inundaciones"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Realizar obras de infraestructura"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar infografías educativas"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generar base de datos de vulnerabilidad"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Identificar problemas locales de inundación"
+    },
+    {
+      "actor": "Sedesol",
+      "accion": "Financiar atlas de riesgo"
+    }
+  ],
+  "input_tokens": 15322,
+  "output_tokens": 315,
+  "error": null,
+  "items_antes_de_tope": {}
+}

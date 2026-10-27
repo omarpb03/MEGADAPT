@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento en periferia",
+    "Agua de mala calidad",
+    "Costo elevado para gente pobre",
+    "Falta de servicios básicos en viviendas",
+    "Distribución desigual del agua",
+    "Tandeo y acceso irregular",
+    "Contaminación de aguas freáticas",
+    "Inundaciones y encharcamientos",
+    "Falta de coordinación institucional",
+    "Falta de mantenimiento en infraestructura"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva del subsuelo",
+    "Dependencia de cuencas externas",
+    "Visión de ciudad para quien puede pagar",
+    "Falta de coordinación entre organismos",
+    "Falta de planeación urbana",
+    "Corrupción en otorgamiento de permisos",
+    "Crecimiento poblacional sin control",
+    "Malas políticas de vivienda",
+    "Falta de educación ambiental",
+    "Infraestructura insuficiente",
+    "Políticas parciales y no integrales"
+  ],
+  "Consecuencias": [
+    "Grietas y deslaves en suelo",
+    "Viviendas agrietadas y abandonadas",
+    "Gasto elevado en agua embotellada",
+    "Enfermedades por mala calidad de agua",
+    "Fracturas y lesiones por cargar agua",
+    "Deterioro de construcciones",
+    "Pérdida de fauna y vegetación",
+    "Contaminación de barrancas y ríos",
+    "Desigualdad en acceso al agua",
+    "Conflictos sociales y políticos",
+    "Abandono de viviendas sin servicios"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Realizar marchas y plantones"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Dar permisos de construcción"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Distribuir agua por tandeo"
+    },
+    {
+      "actor": "Empresas constructoras",
+      "accion": "Construir viviendas sin servicios"
+    },
+    {
+      "actor": "ONG y académicos",
+      "accion": "Asesorar en gestión comunitaria"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Instalar pozos de captación de lluvia"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Almacenar agua en tinacos y botes"
+    },
+    {
+      "actor": "Delegación y DGCOH",
+      "accion": "Manejar plantas de tratamiento"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Conectarse ilegalmente a red potable"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Proponer proyectos de mejoramiento"
+    },
+    {
+      "actor": "Gobierno y ONG",
+      "accion": "Cofinanciar mejoramiento de vivienda"
+    },
+    {
+      "actor": "Escuela de maristas",
+      "accion": "Colectar PET y hacer composta"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Entubar ríos y rellenar barrancas"
+    },
+    {
+      "actor": "Cooperativas",
+      "accion": "Construir vivienda sobre escombro"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Bloquear obras para negociar agua"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Aprobar tomas especiales de agua"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 827,
+  "error": null,
+  "items_antes_de_tope": {}
+}

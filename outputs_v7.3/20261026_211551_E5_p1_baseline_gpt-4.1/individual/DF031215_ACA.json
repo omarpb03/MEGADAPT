@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro irregular de agua",
+    "Distribuci\u0010n inequitativa del agua",
+    "Desabasto por nuevas construcciones",
+    "Uso irracional y despilfarro del agua",
+    "Manejo centralizado y falta de informaci\u0010n",
+    "Impacto de proyectos urbanos sobre el recurso",
+    "Tandeo diferenciado seg\u0010n zona",
+    "Prioridades pol\u0010ticas influyendo el abasto",
+    "Problemas de inundaci\u0010n en zonas urbanas"
+  ],
+  "Causas_principales": [
+    "Crecimiento acelerado de asentamientos",
+    "Infraestructura insuficiente o rezagada",
+    "Presiones del sector inmobiliario",
+    "Decisiones discrecionales sobre suministro",
+    "Priorizaci\u0010n de zonas centrales y poniente",
+    "Falta de planeaci\u0010n urbana actualizada",
+    "Sesgo presupuestal y pol\u0010tico",
+    "Manejo opaco de mecanismos de abasto",
+    "Desarrollo urbano guiado por intereses econ\u0010micos",
+    "Subutilizaci\u0010n percibida de infraestructura"
+  ],
+  "Consecuencias": [
+    "Disminuci\u0010n de presi\u0010n y cantidad de agua",
+    "Mustra de tandeo a zonas populares",
+    "Pobladores sin garant\u0010a de servicios",
+    "Construcci\u0010n de vivienda sin abasto",
+    "Incertidumbre y conflicto entre habitantes",
+    "Emergencia de organizaci\u0010n vecinal",
+    "Aparici\u0010n de grietas en viviendas",
+    "Inundaciones frecuentes en ciertas zonas",
+    "Ventaja de zonas privilegiadas",
+    "Proyectos locales afectados o cancelados"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Control discrecional de v\u0010lvulas de agua"
+    },
+    {
+      "actor": "Habitantes colonias populares",
+      "accion": "Almacenamiento en tambos y tinacos"
+    },
+    {
+      "actor": "Secretar\u0010a de Obras P\u0010blicas",
+      "accion": "Priorizar sus proyectos sobre otros"
+    },
+    {
+      "actor": "Comit\u0010 t\u0010cnico mixto",
+      "accion": "Dictaminaci\u0010n de proyectos barriales"
+    },
+    {
+      "actor": "Sociedad civil/academia",
+      "accion": "Defensa de proyectos comunitarios"
+    },
+    {
+      "actor": "UPREZ y vecinos",
+      "accion": "Documentar riesgo de grietas"
+    },
+    {
+      "actor": "Protecci\u0010n Civil",
+      "accion": "Acciones preventivas de desasolve"
+    },
+    {
+      "actor": "Secretar\u0010a de Medio Ambiente",
+      "accion": "Defende proyectos que afectan recursos"
+    },
+    {
+      "actor": "Personas con poder econ\u0010mico",
+      "accion": "Organizar protestas por intereses propios"
+    },
+    {
+      "actor": "Secretar\u0010a Desarrollo Urbano",
+      "accion": "Impulsar construcci\u0010n vertical por sector inmobiliario"
+    },
+    {
+      "actor": "Habitantes con vivienda regularizada",
+      "accion": "Construcci\u0010n de cisternas y tinacos"
+    },
+    {
+      "actor": "Habitantes de Xochimilco",
+      "accion": "Almacenamiento de agua en recipientes"
+    },
+    {
+      "actor": "Gobierno local/delegaci\u0010n",
+      "accion": "Introducci\u0010n progresiva de tuber\u0010as"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Campañas espor\u0010dicas de cuidado del agua"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Concesionado de autopistas urbanas"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Resistencia a proyectos urban\u0010sticos"
+    },
+    {
+      "actor": "Academia y organizaciones",
+      "accion": "Elaboraci\u0010n de estudios y cat\u0010logos"
+    }
+  ],
+  "input_tokens": 12110,
+  "output_tokens": 785,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio del agua",
+    "Falta de cultura del agua",
+    "Problemas de acceso al agua",
+    "Uso de aguas negras para riego",
+    "Contaminacion del agua",
+    "Salinizacion del agua en Xochimilco",
+    "Corrupcion en distribucion de agua",
+    "Falta de vigilancia en uso de agua",
+    "Sobreexplotacion de pozos",
+    "Falta de programas de captura de agua"
+  ],
+  "Causas_principales": [
+    "Falta de interes del gobierno",
+    "Falta de financiamiento",
+    "Urbanizacion de zonas lacustres",
+    "Corrupcion en autoridades",
+    "Falta de vigilancia gubernamental",
+    "Falta de restriccion en contaminantes",
+    "Falta de programas de recoleccion de desperdicios",
+    "Presion de urbanizacion",
+    "Falta de aplicacion de leyes",
+    "Falta de cultura del agua",
+    "Rompimiento de flujos naturales",
+    "Uso intensivo de agroquimicos",
+    "Falta de conocimiento tecnico",
+    "Pobreza y bajos salarios"
+  ],
+  "Consecuencias": [
+    "Agua desperdiciada",
+    "Jardines regados con aguas negras",
+    "Colonias sin agua",
+    "Tandeo de agua",
+    "Necesidad de almacenar agua",
+    "Contaminacion de mantos freaticos",
+    "Sal en la tierra de Xochimilco",
+    "Muerte de abejas por insecticidas",
+    "Hongos en invernaderos",
+    "Corrupcion en reparto de agua",
+    "Privatizacion de llaves publicas",
+    "Desigualdad en acceso al agua",
+    "Inundaciones en colonias bajas",
+    "Riesgo de salud por agua contaminada",
+    "Sobreexplotacion de pozos",
+    "Poca recarga de acuifero"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gente de biotecnologia",
+      "accion": "Propuesta de reciclo de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Cambio en uso del agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Quejas por consumo de establos"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Acuerdos politicos para agua"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Uso de excreta para suelo artificial"
+    },
+    {
+      "actor": "Grupo UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Uso de filtros en chinampas"
+    },
+    {
+      "actor": "Productores de Iztapalapa",
+      "accion": "Almacenamiento de agua en cisternas"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "No vigilancia de normatividad"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Llevar estiércol a Xochimilco"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Planta de composta"
+    },
+    {
+      "actor": "ONG REDES",
+      "accion": "Restauracion ecologica en Xochimilco"
+    },
+    {
+      "actor": "Pueblos originarios",
+      "accion": "Organizacion propia para gestion"
+    },
+    {
+      "actor": "Asociacion de charros",
+      "accion": "Uso de caballos para equinoterapia"
+    },
+    {
+      "actor": "Policia montada",
+      "accion": "Cria de caballos"
+    },
+    {
+      "actor": "Productores agropecuarios Hidalgo",
+      "accion": "Estudio sobre pozos y uso de agua"
+    },
+    {
+      "actor": "Universidades y gobierno",
+      "accion": "Colaboracion en estudios de agua"
+    },
+    {
+      "actor": "Empresas papel",
+      "accion": "Concesion de zonas boscosas"
+    },
+    {
+      "actor": "Chapingo irrigacion",
+      "accion": "Construccion de terrazas para capturar agua"
+    }
+  ],
+  "input_tokens": 13651,
+  "output_tokens": 984,
+  "error": null,
+  "items_antes_de_tope": {}
+}

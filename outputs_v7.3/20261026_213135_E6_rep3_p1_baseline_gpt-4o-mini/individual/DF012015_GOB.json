@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones",
+    "Calidad del agua"
+  ],
+  "Causas_principales": [
+    "Falta de inversión en infraestructura hidráulica",
+    "Desarrollo urbano sin servicios",
+    "Mala gestión del gobierno"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren problemas de abastecimiento",
+    "Aumento de costos en vivienda",
+    "Mala calidad de agua afecta a la población"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Destinar presupuestos para infraestructuras hidráulicas"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejar fondos para vivienda"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Implementar proyectos de rehabilitación de redes y plantas potabilizadoras"
+    }
+  ],
+  "input_tokens": 4080,
+  "output_tokens": 162,
+  "error": null,
+  "items_antes_de_tope": {}
+}

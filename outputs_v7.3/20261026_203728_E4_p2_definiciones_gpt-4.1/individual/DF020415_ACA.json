@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteraci\u00133n del medio ambiente",
+    "Alteraci\u00133n de la vocaci\u00133n natural del suelo urbano",
+    "Alteraci\u00133n de la infraestructura existente",
+    "Acceso a servicios urbanos y agua",
+    "Seguridad en condiciones de vida",
+    "Afectaci\u00133n por proyectos inmobiliarios",
+    "Riesgo urbano por pol\u0013dticas p\u0013ablicas"
+  ],
+  "Causas_principales": [
+    "Pol\u0013dtica urbana que favorece inversionistas privados",
+    "Construcci\u00133n de v\u0013edas de comunicaci\u0013bn para intereses privados",
+    "Proyectos inmobiliarios que violan usos del suelo",
+    "Condici\u0013bn neoliberal de la ciudad",
+    "Corrupci\u0013bn y tr\u0013afico de influencias",
+    "Reducci\u0013bn de recursos p\u0013ablicos para vivienda",
+    "Clientelismo pol\u0013dtico"
+  ],
+  "Consecuencias": [
+    "Afectaci\u0013bn a asentamientos populares",
+    "Afectaci\u0013bn a zonas verdes",
+    "Agrietamiento de casas y calles",
+    "Incremento del riesgo urbano",
+    "Deterioro de la calidad de vida",
+    "Reducci\u0013bn de acceso a vivienda",
+    "Frustraci\u0013bn de movimientos sociales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a pol\u0013dtica urbana"
+    },
+    {
+      "actor": "ONGs de vivienda",
+      "accion": "Asesor\u0013da en proyectos alternativos"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncias y propuestas al gobierno"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Movilizaci\u0013bn y plantones"
+    },
+    {
+      "actor": "ONGs y movimientos urbanos",
+      "accion": "Elaboraci\u0013bn de iniciativas de ley"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Generaci\u0013bn de opini\u0013bn p\u0013ablica"
+    },
+    {
+      "actor": "ONGs internacionales",
+      "accion": "V\u0013dnculos y foros internacionales"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Aprendizaje normativo y defensa legal"
+    }
+  ],
+  "input_tokens": 6566,
+  "output_tokens": 665,
+  "error": null,
+  "items_antes_de_tope": {}
+}

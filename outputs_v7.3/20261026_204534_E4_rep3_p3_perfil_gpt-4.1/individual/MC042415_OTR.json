@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del rio Eslava",
+    "Asentamientos humanos irregulares toman agua",
+    "Escasez de agua",
+    "Calidad del agua que bebemos",
+    "Recarga de los mantos acuiferos",
+    "Pérdida de suelo de conservación"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano",
+    "Asentamientos humanos irregulares",
+    "Falta de planeacion del crecimiento",
+    "Falta de educacion y respeto",
+    "Gobierno invierte en otras cosas",
+    "Familias van creciendo",
+    "Poca remuneracion lleva a venta de tierras"
+  ],
+  "Consecuencias": [
+    "Río convertido en drenaje",
+    "Agua contaminada",
+    "Pérdida de áreas de recarga",
+    "Escasez de agua en el pueblo",
+    "Presión baja en el agua",
+    "Pérdida de tierras ejidales",
+    "Problemas para la vida silvestre y humana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporar a reserva ecológica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento cero urbano"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construir presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construir pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestar la parte alta"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Sistemas de riego por gravedad"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producir alfalfa, zacate, maíz"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producir y comercializar trucha"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyecto de muro ecológico"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Hacer desalojos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de conservación de suelo y agua"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Apoyar algunos programas"
+    },
+    {
+      "actor": "Secretaría del Medio Ambiente",
+      "accion": "Colaborar en proyectos de conservación"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Propuesta de bajar ganado del cerro"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Censo ganadero y control de carga"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de producción rural abajo"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Emplear a 200 personas en proyectos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Remuneración anual a ejidatarios"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Educar a compañeros sobre conservación"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de reforestaciones"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Limpieza y brechas contra incendios"
+    }
+  ],
+  "input_tokens": 7283,
+  "output_tokens": 816,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua en casas",
+    "Falta de reciclaje de agua",
+    "Problemas de acceso al agua en Iztapalapa",
+    "Uso de aguas negras para riego",
+    "Falta de cultura del agua",
+    "Contaminacion de cuerpos de agua",
+    "Salinizacion del agua en Xochimilco",
+    "Corrupcion en distribucion de agua",
+    "Falta de vigilancia en uso de agroquimicos",
+    "Sobreexplotacion de pozos",
+    "Inundaciones en zonas urbanizadas",
+    "Abandono de programas de conservacion hidrica"
+  ],
+  "Causas_principales": [
+    "Falta de interes del gobierno",
+    "Falta de financiamiento",
+    "Urbanizacion descontrolada",
+    "Corrupcion en autoridades",
+    "Falta de vigilancia y cumplimiento de leyes",
+    "Adelgazamiento de los gobiernos",
+    "Uso intensivo de agroquimicos",
+    "Falta de restricciones en contaminantes",
+    "Ruptura de flujos naturales de agua",
+    "Presion de urbanizacion",
+    "Pobreza y bajos salarios",
+    "Falta de programas de captura de agua"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua potable",
+    "Acceso limitado al agua",
+    "Uso de aguas contaminadas",
+    "Contaminacion de acuiferos",
+    "Salinizacion de suelos",
+    "Mortalidad de abejas",
+    "Enfermedades por agua no potable",
+    "Inundaciones en colonias bajas",
+    "Desigualdad en distribucion de agua",
+    "Corrupcion en reparto de agua",
+    "Poder politico basado en control de agua",
+    "Abandono de suelos de conservacion"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Biotecnologia e ingenieria industrial",
+      "accion": "Proponen reciclar aguas grises"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Riego de jardines con aguas tratadas"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Quejan por consumo de agua en establos"
+    },
+    {
+      "actor": "Productores lecheros",
+      "accion": "Almacenan agua en cisternas"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Acuerdos politicos para agua"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Usan excreta para suelos artificiales"
+    },
+    {
+      "actor": "Grupo UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Filtros en chinampas para riego"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "No vigilan uso de agroquimicos"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Llevan estiércol a Xochimilco"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Planta de composta"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "No aplica normatividad ambiental"
+    },
+    {
+      "actor": "ONG REDES",
+      "accion": "Restauracion ecologica en Xochimilco"
+    },
+    {
+      "actor": "Pueblos originarios",
+      "accion": "Organizacion propia para gestion"
+    },
+    {
+      "actor": "Asociacion de charros",
+      "accion": "Equinoterapia y uso de caballos"
+    },
+    {
+      "actor": "Productores agropecuarios Hidalgo",
+      "accion": "Estudian sobreexplotacion de pozos"
+    },
+    {
+      "actor": "Universidades y gobierno",
+      "accion": "Colaboran en estudios de agua"
+    },
+    {
+      "actor": "Chapingo",
+      "accion": "Construccion de terrazas para capturar agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Abandona programas de conservacion"
+    }
+  ],
+  "input_tokens": 13417,
+  "output_tokens": 960,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mal servicio o falta de agua",
+    "Distribuci\u00133n desigual del agua",
+    "Tandeo inequitativo",
+    "Desabasto por nuevas construcciones",
+    "Infraestructura hidr\u00131ulica insuficiente",
+    "Inundaciones frecuentes",
+    "Falta de pol\u00131tica de riesgo",
+    "Uso irracional del agua",
+    "Dotaci\u00133n deficiente en colonias populares",
+    "Prioridad baja en zonas perif\u00131ricas"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano acelerado",
+    "Infraestructura primaria rezagada",
+    "Prioridades pol\u00131ticas y presupuestales",
+    "Discrecionalidad en distribuci\u00133n de agua",
+    "Sesgo hacia \u00131reas centrales y poniente",
+    "Falta de planeaci\u00133n urbana actualizada",
+    "Intereses del capital inmobiliario",
+    "Designaci\u00133n pol\u00131tica de funcionarios",
+    "Expansi\u00133n de asentamientos irregulares",
+    "Falta de mediciones de consumo real"
+  ],
+  "Consecuencias": [
+    "Baja presi\u00133n y menos agua",
+    "Inundaciones en zonas vulnerables",
+    "Grietas y da\u00131os en viviendas",
+    "Desigualdad en acceso al agua",
+    "Conflictos entre vecinos",
+    "Servicio deficiente por a\u00131os",
+    "Uso de tambos y pipas",
+    "Incertidumbre en regularizaci\u00133n",
+    "Despilfarro en zonas con agua continua",
+    "Innovaci\u00133n concentrada en zonas privilegiadas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Controla v\u00131lvulas de agua"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentan aparici\u00133n de grietas"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realiza estudios con vecinos"
+    },
+    {
+      "actor": "Secretar\u00131a de Obras",
+      "accion": "Prioriza grandes proyectos urbanos"
+    },
+    {
+      "actor": "Secretar\u00131a de Desarrollo Urbano",
+      "accion": "Promueve construcci\u00133n vertical"
+    },
+    {
+      "actor": "Habitantes de colonias populares",
+      "accion": "Almacenan agua en tambos"
+    },
+    {
+      "actor": "Habitantes organizados",
+      "accion": "Usan instrumentos legales viejos"
+    },
+    {
+      "actor": "Protecci\u00133n Civil",
+      "accion": "Desasolve y limpieza de drenaje"
+    },
+    {
+      "actor": "Sociedad civil y acad\u0013)micos",
+      "accion": "Participan en comit\u00131s t\u0013)cnicos"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Implementan tandeo de agua"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Construyen y operan autopistas"
+    },
+    {
+      "actor": "Secretar\u00131a de Medio Ambiente",
+      "accion": "Defiende obras p\u00133blicas"
+    },
+    {
+      "actor": "Habitantes de asentamientos irregulares",
+      "accion": "Gestionan servicios tras regularizaci\u00133n"
+    },
+    {
+      "actor": "Administraci\u00133n p\u0013)blica",
+      "accion": "Implementa innovaci\u00133n en zonas centrales"
+    }
+  ],
+  "input_tokens": 12110,
+  "output_tokens": 669,
+  "error": null,
+  "items_antes_de_tope": {}
+}

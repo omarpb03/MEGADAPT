@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por lluvias",
+    "Escasez de agua potable",
+    "Enfermedades derivadas de fenómenos naturales",
+    "Exposición a aguas negras",
+    "Subregistro de enfermedades",
+    "Vulnerabilidad de grupos específicos"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para desfogue",
+    "Falta de drenaje en zonas irregulares",
+    "Cambio climático",
+    "Asentamientos en zonas vulnerables",
+    "Falta de acceso a servicios sanitarios",
+    "Agua entubada de baja calidad",
+    "Cultura de no asistir al médico"
+  ],
+  "Consecuencias": [
+    "Dermatitis por contacto con agua",
+    "Conjuntivitis e irritación de mucosas",
+    "Enfermedades gastrointestinales",
+    "Intoxicación por químicos de limpieza",
+    "Pérdida de pertenencias",
+    "Dificultad para volver a la normalidad",
+    "Subregistro de casos de enfermedad",
+    "Mayor afectación en niños, mujeres y adultos mayores",
+    "Amputaciones en diabéticos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Campañas de prevención y limpieza"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Brigadas de atención y limpieza"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación y resguardo de casas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Medidas preventivas e informativas"
+    },
+    {
+      "actor": "Bomberos",
+      "accion": "Sacar agua y limpieza"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Limpieza y desinfección de casas"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Provisión de cloro y agua potable"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Fumigación y desinfección"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difusión de información y recomendaciones"
+    },
+    {
+      "actor": "Dirección General de Epidemiología",
+      "accion": "Análisis y mapas de enfermedades"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Subir pertenencias para evitar daños"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Entrega de apoyos materiales"
+    },
+    {
+      "actor": "Brigadas de salud",
+      "accion": "Vacunación y entrega de sueros"
+    },
+    {
+      "actor": "Escuelas",
+      "accion": "Educación preventiva a niños"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "No consumir agua estancada"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Mezcla de químicos para limpieza"
+    },
+    {
+      "actor": "Jurisdicción sanitaria",
+      "accion": "Levantamiento de información de afectados"
+    }
+  ],
+  "input_tokens": 12564,
+  "output_tokens": 491,
+  "error": null,
+  "items_antes_de_tope": {}
+}

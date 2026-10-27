@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Zonas susceptibles de inundación",
+    "Inundaciones súbitas y decesos",
+    "Divulgación insuficiente de información",
+    "Falta de datos oficiales de riesgo",
+    "Creciente intensidad de lluvias urbanas",
+    "Saturación del sistema de drenaje",
+    "Arrojando basura al drenaje",
+    "Falta de colaboración institucional",
+    "Cambios producidos por urbanización"
+  ],
+  "Causas_principales": [
+    "Lluvias intensas y súbitas",
+    "Desbordamiento de ríos",
+    "Eventos históricos de huracanes",
+    "Carencia de mantenimiento en drenaje",
+    "Arrojando basura y escombros",
+    "Crecimiento urbano vertical",
+    "Carencia de cultura ciudadana",
+    "Falta de información oficial compartida",
+    "Cambios de uso de suelo",
+    "Infraestructura de drenaje insuficiente"
+  ],
+  "Consecuencias": [
+    "Muertes y pérdidas humanas",
+    "Inundaciones repetitivas en zonas urbanas",
+    "Pérdida de movilidad urbana",
+    "Formación de charcos y afectaciones viales",
+    "Afectaciones socioeconómicas",
+    "Aumento de temperatura y microclimas",
+    "Hundimiento del terreno",
+    "Falta de prevención adecuada",
+    "Insuficiente anticipación de riesgos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar mapas y escenarios de peligro"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generar infografías educativas"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Depurar base de datos oficiales"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proveer datos de decesos"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Compartir mapas y estadísticas"
+    },
+    {
+      "actor": "Protección Civil estatal",
+      "accion": "Elaborar atlas de riesgo"
+    },
+    {
+      "actor": "Protección Civil municipal",
+      "accion": "Validar y compartir datos de inundación"
+    },
+    {
+      "actor": "Cenapred y universidades",
+      "accion": "Aplicar metodologías de percepción de riesgo"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Realizar obras de infraestructura"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Divulgar información de riesgo"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Identificar sitios problemáticos"
+    },
+    {
+      "actor": "Sedatu",
+      "accion": "Financiar elaboración de atlas"
+    },
+    {
+      "actor": "Instituciones académicas",
+      "accion": "Realizar estudios climatológicos"
+    },
+    {
+      "actor": "Población",
+      "accion": "Utilizar infografías preventivas"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Emitir recomendaciones técnicas"
+    }
+  ],
+  "input_tokens": 14961,
+  "output_tokens": 525,
+  "error": null,
+  "items_antes_de_tope": {}
+}

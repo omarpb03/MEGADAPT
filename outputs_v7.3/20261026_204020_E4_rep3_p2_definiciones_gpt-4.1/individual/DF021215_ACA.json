@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas urbanas",
+    "Calidad del agua no es muy buena",
+    "Presión urbana sobre zonas de conservación",
+    "Problemática del agua en asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios y políticos",
+    "Descoordinación institucional",
+    "Desmantelamiento de políticas rurales",
+    "Expansión urbana desordenada",
+    "Gestión deficiente de recursos",
+    "Lógica de tuberías y piperos",
+    "Falta de estudios de factibilidad de agua",
+    "Distorsión de políticas de vivienda",
+    "Debilitamiento de instituciones comunitarias"
+  ],
+  "Consecuencias": [
+    "Consolidación de grupos de poder piperos",
+    "Conflictos comunitarios",
+    "Falta de acceso a servicios básicos",
+    "Gentrificación y desplazamiento",
+    "Pérdida de zonas de infiltración",
+    "Proyectos productivos afectados",
+    "Problemas de salud por mala calidad de agua",
+    "Conflictos por expropiación de tierras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidades locales",
+      "accion": "Captación de agua de lluvia"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Filtración casera de agua"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Distribución de agua por tubería"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Venta y reparto de agua"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Gestión de servicios de agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Proyectos de captación de agua"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Proyectos de captación de lluvia"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementación de políticas ambientales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Apoyo a proyectos productivos"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Decisión sobre acceso a agua"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Reparto de pipas de agua"
+    },
+    {
+      "actor": "CORET",
+      "accion": "Expropiación y regularización territorial"
+    }
+  ],
+  "input_tokens": 9843,
+  "output_tokens": 593,
+  "error": null,
+  "items_antes_de_tope": {}
+}

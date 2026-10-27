@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua en canales",
+    "Mala calidad del agua tratada",
+    "Insuficiente cantidad de agua",
+    "Hundimientos diferenciales por agua",
+    "Falta de navegabilidad en canales",
+    "Inundaciones en zonas productivas",
+    "Impacto en la produccion chinampera",
+    "Desabasto o variabilidad en suministro"
+  ],
+  "Causas_principales": [
+    "Descargas de asentamientos irregulares",
+    "Falta de drenajes en asentamientos",
+    "Drenajes regulares dirigiendo agua a canales por hundimientos",
+    "Uso excesivo de pesticidas y agroquimicos",
+    "Limpias de cuenca lechera van a canales",
+    "Fugas de agua en canales",
+    "Super grieta en zona de los lagos",
+    "Reporte inexacto de sistema de aguas",
+    "Falta de mantenimiento en plantas de tratamiento",
+    "Falta de coordinacion institucional",
+    "Tecnologias inadaptadas a condiciones locales",
+    "Abandono de sistemas tradicionales de produccion",
+    "Desarraigo de nuevas generaciones",
+    "Manejo operativo y no ecologico del agua"
+  ],
+  "Consecuencias": [
+    "Productos contaminados dificiles de vender",
+    "Impacto economico en productores",
+    "Abandono de chinampas",
+    "Perdida de calidad de vida",
+    "Afectacion al turismo por agua sucia",
+    "Inundaciones con aguas negras",
+    "Potenciales riesgos de salud",
+    "Perdida de biodiversidad",
+    "Peligran especies nativas como ajolote",
+    "Zonas degradadas y contaminadas",
+    "Perdida de espacios productivos",
+    "Conflicto entre usos urbanos y productivos",
+    "Desinteres y desarraigo comunitario"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "AZP",
+      "accion": "Coordinacion institucional y planeacion"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Reactivacion chinampera tradicional"
+    },
+    {
+      "actor": "Instituto de Biologia UNAM",
+      "accion": "Construccion de refugios de biodiversidad"
+    },
+    {
+      "actor": "Productores y turismo",
+      "accion": "Integracion de turismo alternativo"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento y filtracion de canales"
+    },
+    {
+      "actor": "Productores con chef",
+      "accion": "Diversificacion con experiencias culinarias"
+    },
+    {
+      "actor": "Algunas ONGs y cooperativas",
+      "accion": "Participacion en proyectos de restauracion"
+    },
+    {
+      "actor": "Delegacion y productores",
+      "accion": "Manejo de esclusas de agua"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Suministro y gestion operativa del agua"
+    },
+    {
+      "actor": "UNAM y UAM",
+      "accion": "Generacion de bases tecnicas y monitoreo"
+    },
+    {
+      "actor": "Productores de San Gregorio y Tlahuac",
+      "accion": "Restauracion e implementacion de laberintos de riego"
+    },
+    {
+      "actor": "Conam y Conabio",
+      "accion": "Apoyo en manejo y biodiversidad"
+    },
+    {
+      "actor": "Usuarios locales",
+      "accion": "Adaptacion y replicacion de modelos exitosos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Otorgar presupuestos y estructura institucional"
+    },
+    {
+      "actor": "SEDEREC, SEDEMA, Sectur",
+      "accion": "Apoyo e implementacion de alternativas productivas"
+    },
+    {
+      "actor": "Productores y delegacion",
+      "accion": "Manejo de canales y recursos hidricos"
+    }
+  ],
+  "input_tokens": 12070,
+  "output_tokens": 911,
+  "error": null,
+  "items_antes_de_tope": {}
+}

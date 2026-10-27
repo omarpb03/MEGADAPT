@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Falta de infiltraci\u0013n al manto acu\u0013fero",
+    "Escasez temporal de agua",
+    "Dispendio de agua",
+    "Falta de cultura en el usuario"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la poblaci\u0013n",
+    "Tecnolog\u0013a y urbanizaci\u0013n",
+    "Uso o abuso del agua",
+    "Falta de cultura en el usuario",
+    "Deforestaci\u0013n y depredaci\u0013n",
+    "Cambios clim\u0013ticos",
+    "Demanda exagerada",
+    "Falta de uso racional del agua"
+  ],
+  "Consecuencias": [
+    "Insuficiencia de abasto de agua",
+    "Afectaci\u0013n a la zona urbana",
+    "P\u001a9rdida de oportunidad econ\u0013mica con el agua",
+    "Escasez temporal en estiaje",
+    "Alteraciones en el ambiente",
+    "Desertificaci\u0013n",
+    "Problemas de recarga del acu\u0013fero"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos econ\u0013micos para conservaci\u0013n"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Capacitaci\u0013n y talleres sobre agua"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gesti\u0013n del suministro urbano"
+    },
+    {
+      "actor": "Secretar\u0013a de Medio Ambiente",
+      "accion": "Mantenimiento del suelo de conservaci\u0013n"
+    },
+    {
+      "actor": "Comunidades agrarias",
+      "accion": "Solicitud y ejecuci\u0013n de proyectos"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigaci\u0013n en sanidad forestal"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Regulaci\u0013n de extracci\u0013n y suministro"
+    },
+    {
+      "actor": "Usuarios",
+      "accion": "Uso racional del agua (propuesto)"
+    }
+  ],
+  "input_tokens": 14082,
+  "output_tokens": 610,
+  "error": null,
+  "items_antes_de_tope": {}
+}

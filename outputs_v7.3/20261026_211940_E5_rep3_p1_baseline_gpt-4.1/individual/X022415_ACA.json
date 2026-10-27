@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problem\u001atica con el abastecimiento de agua",
+    "Distribuci\u00001fn y caracter sticas de corrientes de agua",
+    "Deterioro de r\u00001cos y modificaciones de cauces",
+    "Extracci\u00001fn de acu feros",
+    "Contaminaci\u00001fn de fuentes de agua",
+    "Uso de agroqu micos",
+    "Falta de regulaci\u00001fn en uso y desperdicio de agua",
+    "Hist rica coexistencia de uso de suelo rural y urbano",
+    "Acceso desigual al agua para agricultura",
+    "Gesti\u00001fn irregular y compleja del agua"
+  ],
+  "Causas_principales": [
+    "Expansi\u00001fn urbana",
+    "Cambio en uso de suelo",
+    "Decisiones influenciadas por racionalidades tecnol gicas o econ micas",
+    "Presi\u00001fn del mercado",
+    "Trajectorias familiares de los productores",
+    "Falta de regulaci\u00001fn plena en agua agr cola",
+    "Programas p blicos poco alineados con din mica local",
+    "Asimilaci\u00001fn de racionalidad urbana en zonas rurales",
+    "Ausencia de sistema de gobernanza metropolitano",
+    "Operaci\u00001fn hormiga y asentamientos irregulares",
+    "Falta de monitoreo y aplicaci\u00001fn de normas"
+  ],
+  "Consecuencias": [
+    "Desplazamiento de productores",
+    "P rdida de uso agrícola y forestal",
+    "Degradaci\u00001fn ambiental y paisaj stica",
+    "Contaminaci\u00001fn por agroqu micos",
+    "Transformaci\u00001fn de tierras a uso urbano",
+    "Desabasto temporal de agua",
+    "Defensa restringida de recursos por productores",
+    "Asentamientos irregulares",
+    "Fragmentaci\u00001fn social y cultural",
+    "Agotamiento de acu feros y desecaci\u00001fn de chinampas",
+    "Movimientos sociales de corto alcance",
+    "Incremento de vulnerabilidades y riesgos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores rurales",
+      "accion": "Defensa de recursos h drico y tierra"
+    },
+    {
+      "actor": "Productores rurales",
+      "accion": "Cambio de uso de suelo a invernaderos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Promoci\u00001fn de agricultura org nica"
+    },
+    {
+      "actor": "SAGARPA, SEDEREC, INCA Rural",
+      "accion": "Implementaci\u00001fn de programas de extensionismo agr cola"
+    },
+    {
+      "actor": "Comisiones de cuenca",
+      "accion": "Establecimiento y administraci\u00001fn de cuenca"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Ocupaci\u00001fn y producci\u00001fn en tierras locales"
+    },
+    {
+      "actor": "Productores urbanos",
+      "accion": "Contrataci\u00001fn de mano de obra externa"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Protesta por derechos y servicios b sicos"
+    },
+    {
+      "actor": "Universidad, organizaciones civiles",
+      "accion": "Procesos de sensibilizaci\u00001fn y negociaci\u00001fn"
+    },
+    {
+      "actor": "Juntas de vecinos, delegados",
+      "accion": "Negociaci\u00001fn para asentamientos irregulares"
+    },
+    {
+      "actor": "Prestadores de servicios profesionales",
+      "accion": "Apoyo t cnico y capacitaci\u00001fn a productores"
+    },
+    {
+      "actor": "Proyectos educativos",
+      "accion": "Cursos de capacitaci\u00001fn y educaci\u00001fn ambiental"
+    },
+    {
+      "actor": "Productores individuales",
+      "accion": "Reciclaje de agua y uso eficiente"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Administraci\u00001fn de espacios forestales"
+    }
+  ],
+  "input_tokens": 19819,
+  "output_tokens": 1029,
+  "error": null,
+  "items_antes_de_tope": {}
+}

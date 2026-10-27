@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022515_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en la ciudad",
+    "Inundaciones en ciertas zonas",
+    "Crisis del agua en zonas",
+    "Abundancia de agua en otras zonas"
+  ],
+  "Causas_principales": [
+    "Mosaico de unidades político administrativo",
+    "Movilidad de la población entre zonas",
+    "Fuentes de abastecimiento fuera del DF",
+    "Diversidad de población en la zona"
+  ],
+  "Consecuencias": [
+    "Escasez en determinadas zonas",
+    "Abundancia en otras zonas",
+    "Inundaciones en ciertas zonas",
+    "Gran riesgo ya ocurre"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gente del Estado de México",
+      "accion": "Utiliza los servicios"
+    },
+    {
+      "actor": "Habitantes del DF",
+      "accion": "Se mueven entre fronteras"
+    }
+  ],
+  "input_tokens": 1360,
+  "output_tokens": 169,
+  "error": null,
+  "items_antes_de_tope": {}
+}

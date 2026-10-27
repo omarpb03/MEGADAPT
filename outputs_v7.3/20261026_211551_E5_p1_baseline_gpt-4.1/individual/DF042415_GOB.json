@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por lluvias e infraestructura",
+    "Enfermedades por exposición al agua",
+    "Escasez de agua y tandeos",
+    "Acceso a información epidemiológica",
+    "Vulnerabilidad de grupos específicos",
+    "Proliferación de enfermedades dermatológicas",
+    "Proliferación de enfermedades gastrointestinales"
+  ],
+  "Causas_principales": [
+    "Cambio climático sequías e inundaciones",
+    "Infraestructura insuficiente de drenaje",
+    "Viviendas en zonas irregulares",
+    "Ausencia de piso firme y drenaje",
+    "Acceso insuficiente a servicios sanitarios",
+    "Agua potable con sedimentos",
+    "Falta de cultura de prevención",
+    "Acceso limitado a información epidemiológica"
+  ],
+  "Consecuencias": [
+    "Dermatitis y enfermedades de piel",
+    "Conjuntivitis e irritación de mucosas",
+    "Enfermedades gastrointestinales",
+    "Intoxicación por químicos en limpieza",
+    "Subregistro de casos de enfermedad",
+    "Pérdida de pertenencias por inundación",
+    "Pérdida de electrodomésticos",
+    "Daños a viviendas",
+    "Dificultad para volver a la normalidad",
+    "Proliferación de moscos y posibles brotes",
+    "Exposición de grupos vulnerables",
+    "Respuesta limitada ante emergencias pequeñas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Brigadas de salud y limpieza"
+    },
+    {
+      "actor": "Gobierno DF",
+      "accion": "Coordinación en emergencias mayores"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación y resguardo casas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Medidas preventivas e información"
+    },
+    {
+      "actor": "Salud Delegacional",
+      "accion": "Desinfección y fumigación viviendas"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difundir información y recomendaciones"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Limpieza y rescate pertenencias"
+    },
+    {
+      "actor": "Sector salud federal",
+      "accion": "Campañas de vacunación y prevención"
+    },
+    {
+      "actor": "Dirección de Epidemiología DF",
+      "accion": "Análisis y mapeo de enfermedades"
+    },
+    {
+      "actor": "Secretaría de Salud federal",
+      "accion": "Proporcionar agua potable y cloro"
+    },
+    {
+      "actor": "Protección Civil federal",
+      "accion": "Investigación y prevención técnica"
+    },
+    {
+      "actor": "Personas afectadas",
+      "accion": "Elevar pertenencias, usar tabiques"
+    },
+    {
+      "actor": "Sector salud escuelas",
+      "accion": "Brigadas preventivas en escuelas"
+    },
+    {
+      "actor": "Jurisdicción sanitaria delegacional",
+      "accion": "Registro y levantamientos post-desastre"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Clorar y hervir agua"
+    },
+    {
+      "actor": "Gobiernos local y federal",
+      "accion": "Entrega de apoyos (colchones, refrigeradores)"
+    }
+  ],
+  "input_tokens": 12564,
+  "output_tokens": 545,
+  "error": null,
+  "items_antes_de_tope": {}
+}

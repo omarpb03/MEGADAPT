@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Desperdicio de agua",
+    "Problemas de tandeo"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Fugas en tuberías",
+    "Antigüedad de la infraestructura",
+    "Expropiación de tierras"
+  ],
+  "Consecuencias": [
+    "Dificultad para obtener agua",
+    "Aumento en la venta de agua en garrafones",
+    "Problemas de salud por agua contaminada",
+    "Inconformidad de la comunidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Controla el tandeo de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Repara fugas en tuberías"
+    },
+    {
+      "actor": "Comisiones del Pueblo de San Bernabé",
+      "accion": "Solicitan información al gobierno sobre el suministro de agua"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Construyen cisternas para captar agua de lluvia"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Realizan reuniones para llegar a acuerdos sobre el agua"
+    }
+  ],
+  "input_tokens": 9422,
+  "output_tokens": 231,
+  "error": null,
+  "items_antes_de_tope": {}
+}

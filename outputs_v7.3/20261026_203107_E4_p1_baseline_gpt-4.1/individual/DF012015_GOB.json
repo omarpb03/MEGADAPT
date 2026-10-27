@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Inundaciones en comunidades urbanas",
+    "Problemas con la calidad del agua",
+    "Falta de inversión en infraestructura hidráulica",
+    "Disponibilidad limitada de agua de lluvia",
+    "Baja presión de agua en zonas específicas"
+  ],
+  "Causas_principales": [
+    "Proyectos urbanos sin infraestructura hidráulica",
+    "Falta de servicios en terrenos baratos",
+    "Seis meses sin lluvias en la ciudad",
+    "Pozos con mala calidad de agua",
+    "Recursos públicos insuficientes para obras",
+    "Fugas en las redes de agua"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren falta de agua",
+    "Comunidades sufren inundaciones",
+    "Costo elevado de vivienda por falta de servicios",
+    "Gente recibe poca agua a la semana",
+    "Mala calidad de agua en zonas específicas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Desarrolla proyectos urbanos sin infraestructura"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Maneja fondos para vivienda social"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuyen agua con pipas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectos de rehabilitación de redes"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectos de plantas potabilizadoras"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectos de rebombeos"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Invierte en programas de agua"
+    },
+    {
+      "actor": "Técnicos especialistas",
+      "accion": "Proponen soluciones específicas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Programa inversión de 18 mil millones en agua"
+    }
+  ],
+  "input_tokens": 4091,
+  "output_tokens": 335,
+  "error": null,
+  "items_antes_de_tope": {}
+}

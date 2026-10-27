@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u00133n de niveles hidr\u0013e1ulicos",
+    "Exceso de extracci\u00133n de agua subterránea",
+    "Contaminaci\u00133n por descargas de aguas negras",
+    "P\u0013e9rdida de autosuficiencia hidr\u0013e1ulica",
+    "Hundimientos diferenciales en la zona lacustre",
+    "Cambio de uso de suelo chinampero",
+    "Falta de infraestructura para manejo de agua",
+    "Fragmentaci\u00133n institucional en gesti\u0013f3n del agua",
+    "Falta de reaprovechamiento de aguas grises y negras",
+    "Conflictos por manejo de compuertas y esclusas",
+    "Desconfianza hacia autoridades externas",
+    "P\u0013e9rdida de vocaci\u0013f3n ambiental y cultural"
+  ],
+  "Causas_principales": [
+    "Extracci\u0013f3n hist\u0013f3rica de pozos y ojos de agua",
+    "Fractura y grieta tras sismo de 1985",
+    "Bloqueo de escurrimientos naturales por asentamientos humanos",
+    "Descargas clandestinas de drenaje",
+    "Cierre o mal funcionamiento de plantas de tratamiento",
+    "Cambio de uso de suelo por abandono chinampero",
+    "Falta de planeaci\u0013f3n a mediano y largo plazo",
+    "Presi\u0013f3n urbana y regularizaci\u0013f3n de asentamientos",
+    "Falta de una sola instancia responsable de compuertas",
+    "Infraestructura hidr\u0013e1ulica obsoleta o insuficiente",
+    "Falta de incentivos para conservar chinampas",
+    "Descoordinaci\u0013f3n entre delegaciones y SACMEX"
+  ],
+  "Consecuencias": [
+    "Bajada de niveles de agua en canales",
+    "Secado de chinampas y humedales",
+    "P\u0013e9rdida de biodiversidad y servicios ambientales",
+    "Contaminaci\u0013f3n de suelos y aguas subterráneas",
+    "P\u0013e9rdida de productividad agropecuaria",
+    "Cambio de uso de suelo a asentamientos humanos",
+    "Conflictos entre comunidades por manejo de agua",
+    "Reducci\u0013f3n de capacidad de vasos reguladores",
+    "Incremento de temperatura local",
+    "P\u0013e9rdida de identidad y tradiciones chinamperas",
+    "Desconfianza y rechazo a proyectos gubernamentales",
+    "Mayor vulnerabilidad ante cambio clim\u0013e1tico"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro de humedales ante SEMARNAT y CONAM"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de sitio Ramsar para Tláhuac"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generar comunicaci\u0013f3n pluvial entre zonas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de seccionar laguna con compuertas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Pago de servicios ambientales a chinamperos"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Solicitud de ficha t\u0013e9cnica para SIPAM"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro ante SIPAM y UNESCO"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Venta de productos a comercializadoras"
+    },
+    {
+      "actor": "Planta de tratamiento cerro de la estrella",
+      "accion": "Surtimiento de agua tratada a zona"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de sistemas tradicionales de acopio"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Construcci\u0013f3n de ollas de captaci\u0013f3n de lluvia"
+    },
+    {
+      "actor": "Habitantes zona cerril",
+      "accion": "Mantenimiento de ollas de captaci\u0013f3n"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Acciones pedag\u0013f3gicas y l\u0013faddicas para nuevas generaciones"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generaci\u0013f3n de hubs comunitarios para educaci\u0013f3n ambiental"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Manejo r\u0013fasticos de compuertas y esclusas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de programa maestro de manejo de compuertas"
+    },
+    {
+      "actor": "Autoridad local y franceses",
+      "accion": "Propuesta de monitoreo digital de niveles hidr\u0013e1ulicos"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regularizaci\u0013f3n de asentamientos humanos"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci\u0013f3n de servicios b\u0013e1sicos a asentamientos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Manejo de vasos reguladores para drenaje"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Bombeo de agua a vasos reguladores"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de pago por servicios ambientales"
+    },
+    {
+      "actor": "Habitantes chinamperos",
+      "accion": "Relleno de canales para ampliar parcelas"
+    },
+    {
+      "actor": "Habitantes chinamperos",
+      "accion": "Abandono o renta de chinampas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Censo y monitoreo de chinampas y canales"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Elaboraci\u0013f3n de programa de manejo Ramsar"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Trabajo para declaraci\u0013f3n de sitio arqueol\u0013f3gico"
+    },
+    {
+      "actor": "Universidades (UNAM, UAM)",
+      "accion": "Legitimaci\u0013f3n de propuestas t\u0013e9cnicas"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti\u0013f3n de subsidios y proyectos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Solidaridad y acuerdos para uso de suelo"
+    },
+    {
+      "actor": "Comisi\u0013f3n de Derechos Humanos",
+      "accion": "Resoluci\u0013f3n para reparar planta de tratamiento"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de pol\u0013e1tica de compensaci\u0013f3n ambiental"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocatorias abiertas para proyectos ciudadanos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Cambio de uso de suelo por necesidades familiares"
+    },
+    {
+      "actor": "Secretar\u0013eDa de Desarrollo Urbano y Vivienda",
+      "accion": "Pol\u0013e1ticas de regularizaci\u0013f3n de suelo"
+    },
+    {
+      "actor": "Candidatos pol\u0013eDticos",
+      "accion": "Regalo de rotopl\u0013e1s y dinero para votos"
+    },
+    {
+      "actor": "Habitantes zona alta",
+      "accion": "Apertura de brechas y caminos"
+    },
+    {
+      "actor": "Habitantes zona baja",
+      "accion": "Acopio de agua para mantener humedad"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Resistencia a proyectos externos por desconfianza"
+    },
+    {
+      "actor": "Productores de Tláhuac",
+      "accion": "Aceptaci\u0013f3n de ceder tierras por pago de impuesto hidr\u0013e1ulico"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de sobre elevaci\u0013f3n y ampliaci\u0013f3n de laguna"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Proyecto de museo del agua"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Venta de parcelas por necesidades econ\u0013f3micas"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 1566,
+  "error": null,
+  "items_antes_de_tope": {}
+}

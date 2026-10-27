@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteración del medio ambiente",
+    "Alteración de la vocación natural del suelo urbano",
+    "Afectación a la infraestructura existente",
+    "Seguridad en condiciones de vida",
+    "Calidad de vida urbana",
+    "Acceso a bienes urbanos",
+    "Riesgo por políticas públicas urbanas",
+    "Procesamiento del agua y recursos",
+    "Incidencia de proyectos inmobiliarios sobre agua"
+  ],
+  "Causas_principales": [
+    "Preferencia a inversionistas privados",
+    "Política de desarrollo urbano del gobierno",
+    "Construcción de vías de comunicación",
+    "Alteración del suelo por inversión privada",
+    "Déficit de recursos públicos para vivienda y servicios",
+    "Reducción de organismos públicos de vivienda",
+    "Corrupción y malas construcciones",
+    "Tráfico de influencias",
+    "Condición neoliberal de la ciudad",
+    "Globalización de la ciudad"
+  ],
+  "Consecuencias": [
+    "Afectación a asentamientos populares",
+    "Afectación a colonias de clase media",
+    "Afectación a zonas verdes",
+    "Agrietamiento de casas y calles",
+    "Alteración de condiciones de seguridad",
+    "Aumento del riesgo urbano",
+    "Movimientos sociales frustrados",
+    "Reducción del acceso a recursos",
+    "Lucha por vivienda y negociación social",
+    "Conciencia social tras desastres"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a políticas urbanas"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoría e intervención social"
+    },
+    {
+      "actor": "Gobierno D.F",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Resistencias ciudadanas",
+      "accion": "Plantones y marchas de protesta"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Interpelación y negociación política"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Diseño de iniciativas de ley"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Elaboración de propuestas normativas"
+    },
+    {
+      "actor": "ONG’s de desarrollo urbano",
+      "accion": "Incidir en el gobierno"
+    },
+    {
+      "actor": "Movimiento urbano",
+      "accion": "Participación en organismos internacionales"
+    },
+    {
+      "actor": "Habitat International Coalition",
+      "accion": "Vinculación internacional por derecho a ciudad"
+    },
+    {
+      "actor": "Residencia local y sociedad civil",
+      "accion": "Movilización y generación de opinión pública"
+    }
+  ],
+  "input_tokens": 6439,
+  "output_tokens": 661,
+  "error": null,
+  "items_antes_de_tope": {}
+}

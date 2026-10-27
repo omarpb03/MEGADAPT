@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Tandeo del agua",
+    "Escasez de agua en casas",
+    "Fugas en la tubería",
+    "Desperdicio de agua en ojo de agua",
+    "Dificultad para conseguir drenaje",
+    "Calidad del agua de garrafón",
+    "Captación insuficiente de agua de lluvia",
+    "Conflicto por instalación de tubería",
+    "Acceso desigual al agua tratada"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desordenado",
+    "Expropiación de tierras ejidales",
+    "Tubería muy vieja",
+    "Aumento de población foránea",
+    "Falta de mantenimiento del sistema de agua",
+    "Decisiones del gobierno sobre distribución",
+    "Desinformación de la delegación",
+    "Desperdicio en ojo de agua sin control",
+    "Falta de inversión en infraestructura",
+    "Expansión de la mancha urbana"
+  ],
+  "Consecuencias": [
+    "Días sin agua en casas",
+    "Batallar para obtener agua",
+    "Gasto en cisternas y bombas",
+    "Compra de agua en garrafón",
+    "Pérdida de usos y costumbres",
+    "Ejidatarios sin casa ni tierra",
+    "Desigualdad en acceso al agua",
+    "Desperdicio de agua potable",
+    "Conflicto e inconformidad comunitaria",
+    "Pérdida de actividades agrícolas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo del agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Arregla fugas de agua"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Hacen faenas para servicios"
+    },
+    {
+      "actor": "Comisiones del pueblo",
+      "accion": "Solicitan información al gobierno"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Instala tubería nueva"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Construyen cisternas y tinacos"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Captan agua de lluvia"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Compran agua en garrafón"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Organiza reuniones informativas"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construye presas y drenaje profundo"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Venden jitomate orgánico"
+    },
+    {
+      "actor": "Delegación y diputados",
+      "accion": "Apoyan proyectos comunitarios"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Proporciona tractores y apoyo agrícola"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulsa granjas y da animales"
+    },
+    {
+      "actor": "CONAFOR",
+      "accion": "Da apoyo para limpieza ambiental"
+    },
+    {
+      "actor": "Personas",
+      "accion": "Solicitan cisternas y captación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Mejora suministro en campañas electorales"
+    }
+  ],
+  "input_tokens": 9794,
+  "output_tokens": 564,
+  "error": null,
+  "items_antes_de_tope": {}
+}

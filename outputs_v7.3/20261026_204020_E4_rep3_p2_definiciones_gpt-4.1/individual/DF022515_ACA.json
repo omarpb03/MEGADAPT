@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022515_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en la ciudad",
+    "Inundaciones en ciertas zonas",
+    "Crisis del agua en zonas específicas"
+  ],
+  "Causas_principales": [
+    "Mosaico de unidades político administrativas",
+    "Fuentes de abastecimiento fuera del DF",
+    "Población flotante que utiliza servicios",
+    "Diversidad y movimiento de la población"
+  ],
+  "Consecuencias": [
+    "Escasez en determinadas zonas",
+    "Abundancia en otras zonas",
+    "Zonas que se inundan",
+    "Gran riesgo ya ocurre"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ninguno mencionado",
+      "accion": "No se mencionan acciones"
+    }
+  ],
+  "input_tokens": 1126,
+  "output_tokens": 143,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Bajando el nivel de agua",
+    "Zona ya no es autosuficiente",
+    "Hundimientos diferenciales",
+    "Contaminaci\u0003n de agua por drenajes",
+    "Explotaci\u0003n de agua subterránea",
+    "Cambio de uso de suelo chinampero",
+    "P\u000003rdida de humedad en chinampas",
+    "Escasez de agua en la parte alta",
+    "Carencia de servicios b\u000003sicos de agua",
+    "Conflictos por manejo de compuertas",
+    "Falta de planeaci\u000003n a mediano plazo",
+    "Fragmentaci\u000003n institucional",
+    "Extracci\u000003n de agua para la ciudad",
+    "P\u000003rdida de servicios ambientales"
+  ],
+  "Causas_principales": [
+    "Grieta tras el sismo del 85",
+    "Explotaci\u000003n de pozos y ojos de agua",
+    "Bloqueo de escurrimientos naturales por asentamientos",
+    "Descargas de aguas negras y grises",
+    "Falta de infraestructura adecuada",
+    "Cambio de uso de suelo por crecimiento urbano",
+    "Falta de mantenimiento de canales",
+    "Decisiones pol\u000003ticas delegacionales",
+    "Falta de planeaci\u000003n institucional",
+    "Extracci\u000003n hist\u000003rica de agua para la ciudad",
+    "Presi\u000003n de regularizaci\u000003n de asentamientos",
+    "Desconfianza hacia el gobierno central",
+    "Fragmentaci\u000003n de responsabilidades",
+    "Infraestructura vieja y saturada"
+  ],
+  "Consecuencias": [
+    "P\u000003rdida de niveles hidr\u000003ulicos",
+    "Secado de chinampas",
+    "P\u000003rdida de productividad agropecuaria",
+    "Contaminaci\u000003n de canales y subsuelo",
+    "P\u000003rdida de biodiversidad",
+    "Cambio de uso de suelo a urbano",
+    "Conflictos entre pueblos y barrios",
+    "Inundaciones en zona chinampera",
+    "P\u000003rdida de servicios ambientales",
+    "Incremento de temperatura local",
+    "Desconfianza y rechazo a proyectos oficiales",
+    "Abandono de chinampas",
+    "Deterioro de identidad patrimonial",
+    "Presi\u000003n para vender tierras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad ambiental",
+      "accion": "Registro de sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad ambiental",
+      "accion": "Propuesta de pago por servicios ambientales"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro ante SIPAM"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regularizaci\u000003n de asentamientos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Manejo de vasos reguladores"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Propuesta de compuertas y esclusas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Construcci\u000003n de ollas de captaci\u000003n"
+    },
+    {
+      "actor": "Habitantes zona alta",
+      "accion": "Mantenimiento de ollas de captaci\u000003n"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti\u000003n de subsidios y proyectos"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Elaboraci\u000003n de estudios y programas"
+    },
+    {
+      "actor": "Gobierno franc\u000003s",
+      "accion": "Financiamiento de proyectos ambientales"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Elaboraci\u000003n de programa de manejo"
+    },
+    {
+      "actor": "Habitantes zona baja",
+      "accion": "Presi\u000003n para conservar humedad"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci\u000003n de servicios b\u000003sicos"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Abandono o renta de chinampas"
+    },
+    {
+      "actor": "Autoridad ambiental",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Autoridad ambiental",
+      "accion": "Programas pedag\u000003gicos y l\u000003dicos"
+    },
+    {
+      "actor": "Habitantes zona alta",
+      "accion": "Apertura de caminos y brechas"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Prioridad a demandas urbanas"
+    }
+  ],
+  "input_tokens": 14029,
+  "output_tokens": 1188,
+  "error": null,
+  "items_antes_de_tope": {}
+}

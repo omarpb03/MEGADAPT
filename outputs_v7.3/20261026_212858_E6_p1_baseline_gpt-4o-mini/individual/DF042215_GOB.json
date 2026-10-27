@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones",
+    "Zonas susceptibles de inundación",
+    "Inundaciones pluviales",
+    "Inundaciones costeras",
+    "Inundaciones lacustres",
+    "Inundaciones súbitas",
+    "Falta de información sobre inundaciones",
+    "Basura en drenajes",
+    "Sistema de drenaje insuficiente",
+    "Cambio climático",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Causas_principales": [
+    "Desbordamiento de ríos",
+    "Ciclones tropicales",
+    "Frentes fríos",
+    "Crecimiento de zonas urbanas",
+    "Mantenimiento inadecuado del drenaje",
+    "Acumulación de basura",
+    "Falta de cultura de cuidado del medio ambiente",
+    "Cambio climático",
+    "Urbanización excesiva"
+  ],
+  "Consecuencias": [
+    "Decesos por inundaciones",
+    "Daños materiales",
+    "Afectaciones a la movilidad",
+    "Pérdida de tiempo en desplazamientos",
+    "Impacto en la salud pública",
+    "Destrucción de infraestructura",
+    "Pérdida de cultivos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar información sobre inundaciones mediante infografías"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Recopilar información de unidades estatales y municipales de protección civil"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar mapas de peligro por inundación"
+    },
+    {
+      "actor": "Gobiernos estatales y municipales",
+      "accion": "Realizar obras de infraestructura para mitigar inundaciones"
+    },
+    {
+      "actor": "Sedesol/Sedartu",
+      "accion": "Financiar atlas de riesgos a escala municipal"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Identificar problemas de inundación y colaborar en la recopilación de datos"
+    }
+  ],
+  "input_tokens": 14950,
+  "output_tokens": 371,
+  "error": null,
+  "items_antes_de_tope": {}
+}

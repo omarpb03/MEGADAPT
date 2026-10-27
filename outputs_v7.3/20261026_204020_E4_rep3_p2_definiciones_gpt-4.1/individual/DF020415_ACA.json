@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteración del medio ambiente urbano",
+    "Alteración de la vocación natural del suelo",
+    "Afectación de la infraestructura existente",
+    "Acceso a servicios urbanos y agua",
+    "Seguridad de vivir en la ciudad",
+    "Impacto de políticas públicas urbanas",
+    "Preferencia a inversionistas privados",
+    "Construcción de vías que afectan asentamientos",
+    "Violación de usos del suelo",
+    "Destrucción ecológica por informalidad",
+    "Reducción de recursos públicos para vivienda"
+  ],
+  "Causas_principales": [
+    "Política de desarrollo urbano del gobierno",
+    "Preferencia a inversionistas privados",
+    "Gobernanza empresarial",
+    "Condición neoliberal de la ciudad",
+    "Falta de recursos para vivienda",
+    "Corrupción y tráfico de influencias",
+    "Malas construcciones",
+    "Falta de autonomía del gobierno local",
+    "Reducción de organismos públicos de vivienda",
+    "Clientelismo político",
+    "Presión de la globalización"
+  ],
+  "Consecuencias": [
+    "Alteración de la calidad de vida",
+    "Aumento del riesgo urbano",
+    "Afectación de zonas verdes",
+    "Agrietamiento de casas y calles",
+    "Movimientos sociales frustrados",
+    "Reducción de acceso a vivienda",
+    "Canales formales de acceso cerrados",
+    "Necesidad de movilización social",
+    "Conflictos entre gobierno y sociedad civil"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a política urbana"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesoría en proyectos de agua"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas de mejoramiento de vivienda"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Denuncias y propuestas al gobierno"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Movilización y plantones"
+    },
+    {
+      "actor": "ONG’s y movimientos",
+      "accion": "Elaboración de iniciativas de ley"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Generación de opinión pública"
+    },
+    {
+      "actor": "ONG’s internacionales (HIC)",
+      "accion": "Vínculos y foros internacionales"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Aprendizaje normativo y defensa legal"
+    },
+    {
+      "actor": "ONG’s de desarrollo urbano",
+      "accion": "Incidencia en nuevas normas y reglamentos"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Negociación con autoridades"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Programas con participación ciudadana"
+    }
+  ],
+  "input_tokens": 6566,
+  "output_tokens": 501,
+  "error": null,
+  "items_antes_de_tope": {}
+}

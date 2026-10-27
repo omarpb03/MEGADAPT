@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas urbanas",
+    "Calidad del agua no es muy buena",
+    "Presión urbana sobre zonas de conservación",
+    "Problemática del agua en asentamientos irregulares",
+    "Control del agua por grupos de piperos"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios y políticos",
+    "Descoordinación institucional entre dependencias",
+    "Desmantelamiento de políticas rurales",
+    "Expansión urbana desordenada",
+    "Falta de estudios de factibilidad de agua",
+    "Distorsión de políticas de vivienda",
+    "Debilitamiento de instituciones comunitarias",
+    "Lógica de tubería para distribución de agua",
+    "Presión de asentamientos humanos irregulares"
+  ],
+  "Consecuencias": [
+    "Conflictos por acceso al agua",
+    "Gentrificación y desplazamiento social",
+    "Debilitamiento de la conservación del suelo",
+    "Problemas internos en comunidades",
+    "Proyectos productivos afectados",
+    "Dependencia de pipas de agua",
+    "Confusión en tenencia de la tierra",
+    "Falta de continuidad generacional en proyectos agrícolas",
+    "Toma de instalaciones por falta de recursos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Distribución de agua por tuberías"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Venta y control de pipas de agua"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Captación de agua de lluvia"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Filtración casera de agua"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Proyectos de captación de lluvia"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Gestión de recursos y servicios"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Reconocimiento de avecindados"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Entrega de servicios básicos"
+    },
+    {
+      "actor": "ONG’s",
+      "accion": "Proyectos productivos y forestales"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Negociación de recursos y servicios"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Diseño de políticas ambientales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementación de políticas de vivienda"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Conservación de territorio con proyectos"
+    },
+    {
+      "actor": "PAOT",
+      "accion": "Visualización de incompatibilidades de uso de suelo"
+    },
+    {
+      "actor": "CORET",
+      "accion": "Expropiación y regulación territorial"
+    }
+  ],
+  "input_tokens": 9716,
+  "output_tokens": 492,
+  "error": null,
+  "items_antes_de_tope": {}
+}

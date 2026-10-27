@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua insuficiente",
+    "Crecimiento desordenado de la población",
+    "Calidad del agua potable",
+    "Falta de mantenimiento de tinacos",
+    "Exposición a fenómenos hidrometeorológicos",
+    "Enfermedades por agua contaminada",
+    "Infraestructura vulnerable a sismos",
+    "Desconfianza en el agua de la red",
+    "Inundaciones locales en la ciudad",
+    "Falta de coordinación entre niveles de gobierno"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población y bienes",
+    "Grandes consumidores industriales",
+    "Trasvase de agua de otras cuencas",
+    "Extracción excesiva de acuíferos",
+    "Ocupación de zonas peligrosas",
+    "Falta de freno a la urbanización",
+    "Migración sin conocimiento local",
+    "Viviendas improvisadas y precarias",
+    "Contaminación del agua",
+    "Falta de mantenimiento de infraestructura",
+    "Falta de mantenimiento de tinacos",
+    "Desinformación y barreras psicológicas",
+    "Influencia de empresas embotelladoras",
+    "Suelo flexible y hundimientos",
+    "Diferencias ideológicas entre gobiernos",
+    "Organización fragmentada de instituciones",
+    "Falta de contacto directo con población"
+  ],
+  "Consecuencias": [
+    "Vulnerabilidad social y física",
+    "Enfermedades respiratorias y alergias",
+    "Enfermedades gastrointestinales",
+    "Enfermedades dermatológicas",
+    "Afectación a actividades económicas",
+    "Afectación al rendimiento educativo",
+    "Falta de higiene en asentamientos",
+    "Interrupción de agua por sismos",
+    "Inundaciones controladas en sectores",
+    "Aislamiento de problemas por cuadrantes",
+    "Desconfianza en el agua potable",
+    "Consumo excesivo de agua embotellada",
+    "Falta de información compartida",
+    "Limitada mitigación de riesgos",
+    "Falta de adaptación de infraestructura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de vasos reguladores"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Regulación de áreas para agua"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Apoyo a otros estados en emergencias"
+    },
+    {
+      "actor": "Secretaría de Salud federal",
+      "accion": "Acciones sanitarias en desastres"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalación de sistemas de alerta"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Capacitación a gobiernos locales"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Gestión de infraestructura hidráulica"
+    },
+    {
+      "actor": "Universidades (UNAM)",
+      "accion": "Colaboración en proyectos nacionales"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Uso incipiente de captación de lluvia"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Uso de calentadores solares"
+    },
+    {
+      "actor": "Población urbana",
+      "accion": "Mantenimiento deficiente de tinacos"
+    },
+    {
+      "actor": "Empresas embotelladoras",
+      "accion": "Promoción implícita de agua embotellada"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Limitación de acceso a información detallada"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Coordinación en cauces federales"
+    },
+    {
+      "actor": "Protección Civil DF",
+      "accion": "Reacción ante eventos extremos"
+    },
+    {
+      "actor": "Protección Civil federal",
+      "accion": "Apoyo en casos excepcionales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Construcción de infraestructura reciente"
+    },
+    {
+      "actor": "Población en asentamientos",
+      "accion": "Edificación de viviendas improvisadas"
+    }
+  ],
+  "input_tokens": 9811,
+  "output_tokens": 712,
+  "error": null,
+  "items_antes_de_tope": {}
+}

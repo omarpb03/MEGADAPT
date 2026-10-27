@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u000fn del agua en Xochimilco",
+    "Mala calidad del agua tratada",
+    "Cantidad insuficiente de agua en canales",
+    "Hundimientos diferenciales por manejo de agua",
+    "Abandono de chinampas por problemas de agua",
+    "Falta de coordinaci\u000fn institucional en gesti\u000fn del agua"
+  ],
+  "Causas_principales": [
+    "Descargas de asentamientos irregulares",
+    "Falta de drenaje en asentamientos",
+    "Descargas de aguas negras a canales",
+    "Uso excesivo de agroqu micos en invernaderos",
+    "Residuos de la cuenca lechera",
+    "Fugas en la red hidr\u000eulica",
+    "Falta de mantenimiento en plantas de tratamiento",
+    "Tecnolog as no adaptadas a condiciones locales",
+    "Desinter\u000es de nuevas generaciones por la chinampa",
+    "Decisiones aisladas de sistema de aguas",
+    "Falta de visi\u000fn integral en manejo de agua"
+  ],
+  "Consecuencias": [
+    "Productos contaminados no se venden",
+    "Abaratamiento de productos chinamperos",
+    "Impacto negativo en econom a local",
+    "Abandono de chinampas",
+    "P\u00000e9rdida de biodiversidad",
+    "Inundaciones en zonas chinamperas",
+    "Riesgos de salud por aguas negras",
+    "Turismo afectado por agua sucia",
+    "Degradaci\u00000fn de zonas de conservaci\u00000fn",
+    "Conflictos entre productores y autoridades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio",
+      "accion": "Coordinaci\u00000fn interinstitucional para pol\u00000dticas"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento de canales y barreras"
+    },
+    {
+      "actor": "Instituto de Biolog\u00000da UNAM",
+      "accion": "Estudios de calidad de agua"
+    },
+    {
+      "actor": "Productores y UNAM",
+      "accion": "Reactivaci\u00000fn chinampera con refugios"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Turismo alternativo en chinampas"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Delegaci\u00000fn y productores",
+      "accion": "Manejo de esclusas en canales"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Decretos y figuras de protecci\u00000fn"
+    },
+    {
+      "actor": "UNAM y UAM",
+      "accion": "Monitoreo de biodiversidad y agua"
+    },
+    {
+      "actor": "Autoridad de la Zona Patrimonio",
+      "accion": "Catalogaci\u00000fn geo referenciada de chinampas"
+    },
+    {
+      "actor": "Productores y chef",
+      "accion": "Turismo culinario en chinampas"
+    },
+    {
+      "actor": "Prestadores de servicios tur\u00000esticos",
+      "accion": "Peticiones para regular calidad de agua"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Pago de seguro por p\u00000e9rdidas"
+    },
+    {
+      "actor": "Conam y dependencias",
+      "accion": "Definir l\u00000dneas de acci\u00000fn en biodiversidad y agua"
+    }
+  ],
+  "input_tokens": 12197,
+  "output_tokens": 868,
+  "error": null,
+  "items_antes_de_tope": {}
+}

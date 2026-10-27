@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua por tandeo",
+    "Fugas en la tubería",
+    "Desperdicio de agua en ojo de agua",
+    "Dificultad para conseguir drenaje",
+    "Calidad del agua en garrafones",
+    "Acceso desigual al agua tratada",
+    "Temor a reducción de agua por obras",
+    "Falta de captación de agua de lluvia en viviendas"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desmedido",
+    "Expropiación y venta de tierras",
+    "Tubería muy vieja",
+    "Falta de mantenimiento de infraestructura",
+    "Decisiones del gobierno sobre distribución",
+    "Desinformación sobre obras hidráulicas",
+    "Prioridad a zonas residenciales",
+    "Desperdicio en ojo de agua no aprovechado",
+    "Falta de recursos para proyectos",
+    "Requisitos y plazos estrictos en apoyos"
+  ],
+  "Consecuencias": [
+    "Batallar para obtener agua",
+    "Gasto en cisternas y bombas",
+    "Compra de agua en garrafón",
+    "Pérdida de agua por fugas",
+    "Inconformidad de la gente",
+    "Pérdida de usos y costumbres",
+    "Ejidatarios sin casa ni tierra",
+    "Pérdida de actividades agrícolas",
+    "Contaminación por aguas residuales",
+    "Zonas inundadas en el centro",
+    "Desigualdad en acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla tandeo del agua"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Atiende reportes de fugas"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas de agua"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Construyen cisternas y tinacos"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Hacen tinas ciegas para captación"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construye presas y drenaje profundo"
+    },
+    {
+      "actor": "Comisiones del pueblo",
+      "accion": "Solicitan información y servicios"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Realizan faenas para servicios"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Organiza reuniones informativas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Compran agua en garrafón"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Apoya con semillas para macetas"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Proporciona tractores y apoyos"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulsa granjas y da animales"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Venden jitomate orgánico"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Solicitan cisternas y captación"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Delimita zona ecológica"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Realizan reuniones y pláticas"
+    }
+  ],
+  "input_tokens": 9794,
+  "output_tokens": 807,
+  "error": null,
+  "items_antes_de_tope": {}
+}

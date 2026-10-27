@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones",
+    "Escasez de agua",
+    "Enfermedades derivadas de inundaciones",
+    "Contaminación del agua"
+  ],
+  "Causas_principales": [
+    "Cambio climático",
+    "Infraestructura inadecuada",
+    "Falta de servicios sanitarios",
+    "Pobreza y vulnerabilidad social"
+  ],
+  "Consecuencias": [
+    "Enfermedades de la piel",
+    "Enfermedades gástricas",
+    "Irritaciones de mucosas",
+    "Subregistro de enfermedades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Campañas de prevención y vacunación"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Evacuación y limpieza de casas"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Provisión de agua potable y cloro"
+    },
+    {
+      "actor": "Brigadas de salud",
+      "accion": "Fumigación y desinfección"
+    }
+  ],
+  "input_tokens": 12925,
+  "output_tokens": 195,
+  "error": null,
+  "items_antes_de_tope": {}
+}

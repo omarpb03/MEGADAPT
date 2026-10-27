@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Control de piperos",
+    "Calidad del agua",
+    "Problemática del agua constante"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios",
+    "Descoordinación institucional",
+    "Desmantelamiento de políticas rurales",
+    "Falta de estudios de factibilidad"
+  ],
+  "Consecuencias": [
+    "Conflictos por recursos",
+    "Gentrificación",
+    "Proyectos distorsionados",
+    "Presión urbana sobre comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Gestionar servicios para asentamientos"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Proyectos de captación de agua"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Captación de agua de lluvia"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Fortalecer instituciones comunitarias"
+    }
+  ],
+  "input_tokens": 10077,
+  "output_tokens": 177,
+  "error": null,
+  "items_antes_de_tope": {}
+}

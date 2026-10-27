@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Infraestructura hidráulica vieja y obsoleta",
+    "Fugas de agua potable",
+    "Mala calidad del agua",
+    "Falta de infiltración de agua de lluvia",
+    "Inundaciones en época de lluvias",
+    "Grietas y fracturas en viviendas",
+    "Privatización del agua",
+    "Gestión incorrecta del agua",
+    "Escasez aparente por mala administración",
+    "Desconexión de la gente con el ciclo del agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua",
+    "Falta de presupuesto para infraestructura",
+    "Modelo de desarrollo urbano extractivista",
+    "Pavimentación excesiva",
+    "Extracción excesiva de agua de pozos profundos",
+    "Zona de riesgo sísmico y de hundimientos",
+    "Visión ingenieril del gobierno",
+    "Intereses de privatización",
+    "Crecimiento constante de la población",
+    "Falta de educación ambiental",
+    "Falta de aplicación de la ley de captación de agua",
+    "Trampa de las comisiones de cuenca",
+    "Clientelismo político",
+    "Falta de organización comunitaria"
+  ],
+  "Consecuencias": [
+    "Desperdicio del 40% del agua por fugas",
+    "Agua de mala calidad",
+    "Fractura de viviendas y drenaje",
+    "Hundimientos",
+    "Inundaciones recurrentes",
+    "Problemas de abastecimiento en otras colonias",
+    "Movilización comunitaria",
+    "Desplazamiento de agua de otras cuencas",
+    "Pérdida de áreas verdes",
+    "Normalización de la mala calidad del agua",
+    "Desarraigo territorial",
+    "Falta de conciencia sobre el agua",
+    "Conflictos por clientelismo en el reparto de pipas",
+    "Demanda de agua insatisfecha en zonas periféricas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Autoconstrucción de viviendas"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Negociación de zona especial de desarrollo"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Introducción de servicios básicos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instalación de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Construcción de pozos de infiltración"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Uso de adopasto y adoquín en áreas verdes"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instalación de baños secos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Movilización para exigir agua"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Diagnóstico y mapeo de riesgos"
+    },
+    {
+      "actor": "Comité de grietas",
+      "accion": "Monitoreo de viviendas afectadas"
+    },
+    {
+      "actor": "Colectivos y ONG",
+      "accion": "Propuestas de gestión sustentable"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Apoyo en estudios y proyectos"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Envío de pipas de agua"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Programas de manejo de residuos"
+    },
+    {
+      "actor": "Gobierno federal y local",
+      "accion": "Gestión centralizada del agua"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Cobro y concesión de agua"
+    },
+    {
+      "actor": "Centro de diagnóstico de riesgos",
+      "accion": "Evaluación de grietas"
+    },
+    {
+      "actor": "Mercado y escuelas",
+      "accion": "Infraestructura para cosecha de agua de lluvia"
+    },
+    {
+      "actor": "ONG y universidades",
+      "accion": "Proyectos de vivienda sustentable"
+    },
+    {
+      "actor": "Grupo promotor de cuenca",
+      "accion": "Foros y caravanas de concientización"
+    },
+    {
+      "actor": "Comisión de cuenca",
+      "accion": "Gestión de recursos hídricos"
+    },
+    {
+      "actor": "Investigadores",
+      "accion": "Talleres y educación ambiental"
+    }
+  ],
+  "input_tokens": 25286,
+  "output_tokens": 1049,
+  "error": null,
+  "items_antes_de_tope": {}
+}

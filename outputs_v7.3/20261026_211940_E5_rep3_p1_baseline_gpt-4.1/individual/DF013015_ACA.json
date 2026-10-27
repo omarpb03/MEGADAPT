@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento desigual entre colonias",
+    "Problemas de calidad del agua",
+    "Alto costo del agua para pobres",
+    "Escasez en delegaciones periféricas",
+    "Falta de servicios en nuevas viviendas",
+    "Extracción excesiva de agua del subsuelo",
+    "Contaminación del agua y suelos",
+    "Tandeo de agua en barrios populares"
+  ],
+  "Causas_principales": [
+    "Falta de coordinación institucional",
+    "Criterios económicos en distribución",
+    "Corrupción en el otorgamiento de permisos",
+    "Crecimiento urbano sin planeación hídrica",
+    "Programas de vivienda desvinculados del agua",
+    "Privatización y venta de ejidos",
+    "Falta de evaluación de impacto ambiental",
+    "Poca vigilancia y castigo oficial",
+    "Extracción del subsuelo para abastecimiento",
+    "Urbanización en zonas de recarga",
+    "Políticas parciales y no integrales"
+  ],
+  "Consecuencias": [
+    "Periferias sin acceso al agua",
+    "Gente paga más cara el agua",
+    "Enfermedades y riesgos sanitarios",
+    "Grietas y deslaves debido a extracción",
+    "Desigualdad territorial y social",
+    "Abandonan o no habitan viviendas",
+    "Deterioro de construcciones por encharcamiento",
+    "Invasión y uso inadecuado de barrancas",
+    "Ineficiencia en plantas de tratamiento",
+    "Contaminación de acuíferos y suelo",
+    "Mujeres sufren más por carga de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimientos urbanos populares",
+      "accion": "Gestionar servicios mediante marchas"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Demandar agua a gobierno central"
+    },
+    {
+      "actor": "Gobierno delegacional",
+      "accion": "Dotar agua en pipas a barrios"
+    },
+    {
+      "actor": "INVI D.F",
+      "accion": "Financiar producción social de vivienda"
+    },
+    {
+      "actor": "Constructoras privadas",
+      "accion": "Realizar vivienda llave en mano"
+    },
+    {
+      "actor": "Delegación o municipio",
+      "accion": "Dar permisos de construcción sin evaluación"
+    },
+    {
+      "actor": "ONG y universidades",
+      "accion": "Asesorar proyectos de mejoramiento"
+    },
+    {
+      "actor": "Autoridades locales y vecinos",
+      "accion": "Negociar regularización de colonias"
+    },
+    {
+      "actor": "Vecinos autogestivos",
+      "accion": "Mejorar vivienda con asesoría"
+    },
+    {
+      "actor": "Funcionarios delegacionales",
+      "accion": "Aprobar obras a grandes empresas"
+    },
+    {
+      "actor": "SACMEX y CONAGUA",
+      "accion": "Asignar cuotas de agua"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Instalar pozos de captación de lluvia"
+    },
+    {
+      "actor": "Escuela de maristas y vecinos",
+      "accion": "Centros ambientales y reciclaje de PET"
+    },
+    {
+      "actor": "ONGs locales",
+      "accion": "Educar en separación de residuos"
+    },
+    {
+      "actor": "Vecinos afectados",
+      "accion": "Bloquear oficinas o calles"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Presionar por servicios urbanos"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "Poca vigilancia e implementación"
+    },
+    {
+      "actor": "Pobladores rurales y urbanos",
+      "accion": "Conectarse a red potable ilegalmente"
+    },
+    {
+      "actor": "Plantas de tratamiento comunitarias",
+      "accion": "Descargar lodos contaminados a barrancas"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 638,
+  "error": null,
+  "items_antes_de_tope": {}
+}

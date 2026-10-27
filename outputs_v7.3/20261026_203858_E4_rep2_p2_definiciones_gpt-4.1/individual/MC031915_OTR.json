@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua por tandeo",
+    "Fugas frecuentes en la tubería",
+    "Desperdicio de agua en ojo de agua",
+    "Difícil acceso al agua potable",
+    "Problemas para captar agua de lluvia",
+    "Temor a reducción de agua por obras",
+    "Falta de información sobre obras hidráulicas"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desordenado",
+    "Aumento de población",
+    "Tubería muy vieja",
+    "Expropiación y venta de tierras",
+    "Expansión de la mancha urbana",
+    "Falta de mantenimiento del sistema",
+    "Mal manejo de recursos por autoridades",
+    "Desperdicio en ojo de agua no aprovechado"
+  ],
+  "Consecuencias": [
+    "Días sin agua en las casas",
+    "Batallar para obtener agua",
+    "Gasto en cisternas y bombas",
+    "Compra de agua en garrafón",
+    "Descontento e inconformidad social",
+    "Pérdida de actividades agrícolas",
+    "Pérdida de usos y costumbres",
+    "Contaminación por fugas y desperdicio"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controla el tandeo del agua"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Atiende reportes de fugas"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reportan fugas y problemas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Construyen cisternas y tinacos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Hace tinas ciegas para captación"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construye presas y drenaje profundo"
+    },
+    {
+      "actor": "Comisiones del pueblo",
+      "accion": "Solicitan información y servicios"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Realizan reuniones y pláticas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Organiza reuniones informativas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Compran agua en garrafón"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Apoya con semillas y programas"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Proporciona tractores y apoyo agrícola"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulsa granjas y da animales"
+    }
+  ],
+  "input_tokens": 9560,
+  "output_tokens": 635,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022515_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en la ciudad",
+    "Problema real para la gente",
+    "Gran crisis del agua",
+    "Gran riesgo en ciertas zonas"
+  ],
+  "Causas_principales": [
+    "Población flotante utiliza servicios",
+    "Fuentes de abastecimiento diversas",
+    "Zona conurbada extensa",
+    "Mosaico de unidades político administrativas"
+  ],
+  "Consecuencias": [
+    "Escasez en determinadas zonas",
+    "Abundancia de agua en otras",
+    "Inundaciones en ciertas zonas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 999,
+  "output_tokens": 121,
+  "error": null,
+  "items_antes_de_tope": {}
+}

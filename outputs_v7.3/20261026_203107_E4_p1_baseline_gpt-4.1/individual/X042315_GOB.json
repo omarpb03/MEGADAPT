@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u00133n de niveles hidr\u00131ulicos",
+    "Exceso de explotaci\u00133n de pozos",
+    "Contaminaci\u00133n por descargas de aguas negras",
+    "P\u0013aerdida de autosuficiencia hidr\u00131ulica",
+    "Hundimientos diferenciales",
+    "Cambio de uso de suelo chinampero",
+    "Falta de infraestructura para manejo de agua",
+    "Fragmentaci\u0013c3n institucional en gesti\u0013c3n del agua",
+    "Falta de reaprovechamiento de aguas grises",
+    "Conflictos por manejo de compuertas",
+    "Desconfianza hacia autoridades externas",
+    "Presi\u0013c3n urbana sobre zonas lacustres"
+  ],
+  "Causas_principales": [
+    "Explotaci\u0013c3n de ojos de agua y pozos",
+    "Fractura y grietas tras el sismo del 85",
+    "Bloqueo de escurrimientos naturales por asentamientos",
+    "Descargas clandestinas de drenaje",
+    "Extracci\u0013c3n hist\u0013c3rica de agua para la ciudad",
+    "Cambio de uso de suelo por abandono chinampero",
+    "Falta de planeaci\u0013c3n a mediano plazo",
+    "Intereses pol\u0013c3ticos delegacionales",
+    "Infraestructura hidr\u0013c3ulica obsoleta",
+    "Falta de una sola instancia responsable",
+    "Presi\u0013c3n de regularizaci\u0013c3n de asentamientos",
+    "Falta de incentivos para conservar chinampas"
+  ],
+  "Consecuencias": [
+    "Secado de zonas chinamperas",
+    "P\u0013aerdida de biodiversidad",
+    "Contaminaci\u0013c3n de canales y subsuelo",
+    "Reducci\u0013c3n de servicios ambientales",
+    "Cambio de uso de suelo a urbano",
+    "Conflictos entre comunidades por agua",
+    "P\u0013aerdida de identidad patrimonial",
+    "Reducci\u0013c3n de capacidad de vasos reguladores",
+    "Inundaciones en zonas chinamperas",
+    "Deterioro de calidad de agua para riego",
+    "Abandono de chinampas",
+    "Incremento de temperatura urbana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro de humedales ante SEMARNAT"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generar comunicaci\u0013c3n pluvial"
+    },
+    {
+      "actor": "Chinampers",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Solicitud de ficha t\u0013c3a9cnica SIPAM"
+    },
+    {
+      "actor": "Gobierno franc\u0013c3a9s",
+      "accion": "Financiamiento de proyectos ambientales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Creaci\u0013c3n de infraestructura para agua"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programa de ordenamiento territorial"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Conservaci\u0013c3b3n de tradiciones"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Difusi\u0013c3b3n de valores patrimoniales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Identificaci\u0013c3b3n de fuentes naturales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Recuperaci\u0013c3b3n de vocaci\u0013c3b3n natural"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Impulso de infraestructura hidr\u0013c3a1ulica"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de reciclamiento de aguas"
+    },
+    {
+      "actor": "Habitantes zona cerril",
+      "accion": "Bloqueo de escurrimientos naturales"
+    },
+    {
+      "actor": "Habitantes zona cerril",
+      "accion": "Construcci\u0013c3b3n de ollas de captaci\u0013c3b3n"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci\u0013c3b3n de servicios a asentamientos"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regularizaci\u0013c3b3n de asentamientos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Operaci\u0013c3b3n de vasos reguladores"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Extracci\u0013c3b3n de agua para la ciudad"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Abandono o renta de chinampas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de pago por servicios ambientales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programa maestro de manejo de compuertas"
+    },
+    {
+      "actor": "Universidades (UAM, UNAM)",
+      "accion": "Elaboraci\u0013c3b3n de estudios y censos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Mantenimiento de ollas de captaci\u0013c3b3n"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Solidaridad en faenas comunitarias"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Trabajo en declaraci\u0013c3b3n de sitio arqueol\u0013c3b3gico"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti\u0013c3b3n de subsidios rurales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocatorias abiertas para proyectos"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Difusi\u0013c3b3n de informaci\u0013c3b3n ambiental"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Desazolve y reapertura de canales"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Obstrucci\u0013c3b3n de canales para ampliar chinampa"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Comisi\u0013c3b3n de Derechos Humanos",
+      "accion": "Emisi\u0013c3b3n de resoluci\u0013c3b3n por contaminaci\u0013c3b3n"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Elaboraci\u0013c3b3n de programa de manejo Ramsar"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Venta de parcelas por necesidad"
+    },
+    {
+      "actor": "Candidatos pol\u0013c3adticos",
+      "accion": "Regalo de rotopl\u0013c3a1s y dinero"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Presi\u0013c3b3n para detener obras"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Cambio de uso de suelo por abandono"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 1858,
+  "error": null,
+  "items_antes_de_tope": {}
+}

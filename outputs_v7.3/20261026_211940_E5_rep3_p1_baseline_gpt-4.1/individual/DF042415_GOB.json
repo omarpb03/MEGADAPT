@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Enfermedades derivadas de inundaciones",
+    "Exposición a aguas negras",
+    "Escasez de agua en la ciudad",
+    "Infecciones gastrointestinales por agua",
+    "Subregistro de enfermedades por agua",
+    "Impacto de cambio climático en sequías",
+    "Débil infraestructura para canalizar agua",
+    "Enfermedades de la piel en inundaciones",
+    "Proliferación de mosquitos tras inundación",
+    "Posibles intoxicaciones por limpieza"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para desfogar agua",
+    "Construcción de viviendas en lugares irregulares",
+    "Falta de normatividad en viviendas vulnerables",
+    "Presencia de aguas negras en inundaciones",
+    "Poca cultura de asistencia al médico",
+    "Problemas de drenaje en zonas bajas",
+    "Acceso insuficiente a servicios sanitarios",
+    "Subregistros por percepción social sobre salud",
+    "Escasez crónica de agua potable",
+    "Agua de pipas no totalmente limpia",
+    "Sedimentos en agua doméstica",
+    "Desarrollo urbano sin servicios básicos",
+    "Falta de pavimentación en zonas vulnerables"
+  ],
+  "Consecuencias": [
+    "Enfermedades de la piel",
+    "Dermatitis por exposición directa",
+    "Infecciones gastrointestinales",
+    "Subregistro de enfermedades a causa del agua",
+    "Conjuntivitis y problemas de mucosas",
+    "Fallecimientos por inundación extrema",
+    "Intoxicación por químicos de limpieza",
+    "Afectaciones graves en diabéticos",
+    "Mayor impacto en niños y mujeres",
+    "Mayor dificultad en adultos mayores para recuperarse",
+    "Daño y pérdida de pertenencias",
+    "Proliferación de mosquitos",
+    "Más vulnerabilidad en viviendas sin drenaje",
+    "Impacto económico en familias afectadas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sector Salud",
+      "accion": "Brigadas informativas y limpieza"
+    },
+    {
+      "actor": "Sector Salud",
+      "accion": "Entrega de cloro y desinfectante"
+    },
+    {
+      "actor": "Sector Salud",
+      "accion": "Campañas de prevención y vacunación"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Coordinación de evacuaciones"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación de población"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Resguardo de casas afectadas"
+    },
+    {
+      "actor": "Bomberos",
+      "accion": "Sacar el agua de casas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Limpieza conjunta con habitantes"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Brigadas de salud locales"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Solicitud de ayuda entre delegaciones"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Fumigación y desinfección"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Limpieza y rescate de pertenencias"
+    },
+    {
+      "actor": "Gobierno DF",
+      "accion": "Apoyo material post-inundación"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difusión de campañas informativas"
+    },
+    {
+      "actor": "Secretarías de epidemiología",
+      "accion": "Levantamiento de información de enfermedades"
+    },
+    {
+      "actor": "Dirección General de Epidemiología DF",
+      "accion": "Análisis y mapeo de enfermedades"
+    },
+    {
+      "actor": "Amas de casa",
+      "accion": "Desinfección y lavado de objetos"
+    },
+    {
+      "actor": "Habitantes afectados",
+      "accion": "Subida de muebles por prevención"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Reparto de agua potable en emergencias"
+    }
+  ],
+  "input_tokens": 12564,
+  "output_tokens": 666,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Fugas en tuberías",
+    "Contaminación del agua",
+    "Deforestación y tala clandestina",
+    "Falta de infraestructura adecuada"
+  ],
+  "Causas_principales": [
+    "Agotamiento de fuentes de abastecimiento",
+    "Tala clandestina que afecta recargas",
+    "Fugas por tuberías viejas",
+    "Crecimiento urbano descontrolado",
+    "Falta de conciencia ambiental"
+  ],
+  "Consecuencias": [
+    "Desabasto de agua en temporadas de estiaje",
+    "Contaminación del agua potable",
+    "Afectaciones a la salud por calidad del agua",
+    "Inundaciones por basura en cauces",
+    "Conflictos comunitarios por percepción de robo de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Financiamiento de infraestructura"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participación en reforestación"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Concientización sobre el cuidado del agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Limpieza de cauces y barrancas"
+    }
+  ],
+  "input_tokens": 11830,
+  "output_tokens": 341,
+  "error": null,
+  "items_antes_de_tope": {}
+}

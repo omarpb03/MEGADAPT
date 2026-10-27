@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Inundaciones en comunidades",
+    "Problemas con la calidad del agua",
+    "Baja presi\u0003n de agua",
+    "Fugas en las redes"
+  ],
+  "Causas_principales": [
+    "Proyectos urbanos sin infraestructura hidr\u0000e1ulica",
+    "Falta de inversi\u0000f3n en infraestructura",
+    "Terrenos baratos sin servicios",
+    "Recursos p\u0000fablicos insuficientes",
+    "Zonas donde no hay servicios",
+    "Pozos con hierro, fierro, manganeso, nitr\u0000f3geno"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren abastecimiento insuficiente",
+    "Comunidades sufren inundaciones",
+    "Gente recibe muy poca agua a la semana",
+    "Mala calidad de agua en zonas focalizadas",
+    "Costo elevado de vivienda por falta de servicios"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Presupuestos para infraestructura hidr\u0000e1ulica"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejo de fondos para vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuci\u0000f3n de agua con pipas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Construcci\u0000f3n de plantas potabilizadoras"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Rehabilitaci\u0000f3n de redes para fugas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Proyectos de rebombeos para baja presi\u0000f3n"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Inversi\u0000f3n en programas de agua"
+    }
+  ],
+  "input_tokens": 4218,
+  "output_tokens": 481,
+  "error": null,
+  "items_antes_de_tope": {}
+}

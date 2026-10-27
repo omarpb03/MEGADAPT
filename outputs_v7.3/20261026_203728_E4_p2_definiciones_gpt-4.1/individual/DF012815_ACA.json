@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de obtenci\u0013n y distribuci\u0013n del agua",
+    "Calidad del agua insuficiente",
+    "Escasez de agua en zonas urbanas",
+    "Infraestructura de agua obsoleta",
+    "P\u0013erdidas de agua en redes",
+    "Dotaci\u0013n desigual de agua",
+    "Control pol\u0013itico del agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento inadecuado de la ciudad",
+    "Asentamientos en zonas de recarga",
+    "Falta de planeaci\u0013n urbana",
+    "Decisiones pol\u0013iticas sin criterio t\u0013ecnico",
+    "Corrupci\u0013n y componendas pol\u0013iticas",
+    "Infraestructura vieja y fracturada",
+    "Extracci\u0013n excesiva de mantos fre\u0013aticos",
+    "Urbanizaci\u0013n de suelos de conservaci\u0013n",
+    "Falta de informaci\u0013n confiable",
+    "Manejo pol\u0013itico de servicios",
+    "Falta de inversi\u0013n en tecnolog\u0013ia"
+  ],
+  "Consecuencias": [
+    "Inundaciones recurrentes",
+    "Hundimiento de la ciudad",
+    "Escasez de agua en colonias",
+    "Agua de mala calidad",
+    "Dotaci\u0013n por tandeo o pipas",
+    "Desigualdad en acceso al agua",
+    "Conflictos sociales por el agua",
+    "Degradaci\u00133n de servicios urbanos",
+    "P\u0013erdida de recarga de acu\u0013iferos",
+    "Negocio de agua en pipas",
+    "Desinformaci\u0013n sobre consumo real"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales",
+      "accion": "Permiten asentamientos irregulares"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo de agua"
+    },
+    {
+      "actor": "Coordinadores territoriales",
+      "accion": "Gestionan servicios por votos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Opera dotaci\u0013n de agua"
+    },
+    {
+      "actor": "Camiones cisterna",
+      "accion": "Distribuyen agua por pipas"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Participan en concesi\u00133n de servicios"
+    },
+    {
+      "actor": "Empresa de medidores",
+      "accion": "Instala medidores de agua"
+    },
+    {
+      "actor": "Acad\u0013emicos",
+      "accion": "Realizan estudios de consumo"
+    },
+    {
+      "actor": "Residents organizados",
+      "accion": "Presionan para resolver servicios"
+    },
+    {
+      "actor": "Pol\u0013iticos",
+      "accion": "Maquillan estad\u0013isticas oficiales"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Cambia usos de suelo pol\u0013iticamente"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Negocian permisos por favores"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Cambia infraestructura en zonas selectas"
+    },
+    {
+      "actor": "Sectores p\u0013ublico y privado",
+      "accion": "Proponen concesionar servicios"
+    },
+    {
+      "actor": "T\u0013ecnicos preparados",
+      "accion": "Deber\u0013ian modernizar planeaci\u0013n urbana"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de M\u0013exico",
+      "accion": "Entrega informaci\u0013n oficial limitada"
+    }
+  ],
+  "input_tokens": 9711,
+  "output_tokens": 915,
+  "error": null,
+  "items_antes_de_tope": {}
+}

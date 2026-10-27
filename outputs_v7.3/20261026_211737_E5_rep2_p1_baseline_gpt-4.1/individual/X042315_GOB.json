@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Descenso de niveles de agua",
+    "Contaminacion de los canales",
+    "Perdida de autosuficiencia hidraulica",
+    "Sobreexplotacion de pozos",
+    "Cambio de uso de suelo chinampero",
+    "Azolve excesivo en vasos reguladores",
+    "Desaparecen humedales y zonas lacustres",
+    "Inactividad de plantas de tratamiento",
+    "Desconfianza hacia la autoridad",
+    "Fragmentacion de criterios institucionales",
+    "Deficit de infraestructura hidraulica",
+    "Conflicto entre usos urbanos y rurales",
+    "Abandono de chinampas",
+    "Intereses politicos sobre criterios ambientales",
+    "Drenaje clandestino y aguas negras"
+  ],
+  "Causas_principales": [
+    "Fractura y grieta por sismo del 85",
+    "Explotacion historica de ojos de agua y pozos",
+    "Clausura de casa de bombas original",
+    "Crecimiento urbano sobre zonas lacustres",
+    "Demandas politicas y clientelismo electoral",
+    "Bloqueo de escurrimientos naturales por asentamientos humanos",
+    "Falta de planeacion territorial",
+    "Desviacion de aguas por infraestructura urbana",
+    "Mala calidad del agua tratada",
+    "Descargas domiciliarias y drenaje clandestino",
+    "Abandono de practicas tradicionales",
+    "Falta de recursos para desazolve",
+    "Criterios institucionales divergentes",
+    "Desinformacion y estigmas sobre uso de agua",
+    "Erosion y falta de atencion a terrazas"
+  ],
+  "Consecuencias": [
+    "Hundimientos diferenciales",
+    "Perdida de capacidad de canales y chinampas",
+    "Contaminacion por aguas negras",
+    "Sequia y abandono de chinampas",
+    "Transformacion a uso urbano",
+    "Desaparicion de servicios ambientales",
+    "Perdida de biodiversidad y aves migratorias",
+    "Incremento de temperatura urbana",
+    "Inundaciones por desbordamiento de drenaje",
+    "Resentimiento hacia la ciudad",
+    "Falta de agua para riego y servicios",
+    "Debate institucional sin resolucion",
+    "Exodo de generaciones jovenes",
+    "Presion inmobiliaria sobre zonas productivas",
+    "Deterioro del patrimonio y tradiciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales y federales",
+      "accion": "Gestionar sitio Ramsar y SIPAM"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Solicitar ficha tecnica agroproductiva"
+    },
+    {
+      "actor": "Chinampas y chinamperos",
+      "accion": "Mantener uso agroproductivo tradicional"
+    },
+    {
+      "actor": "Delegaciones Xochimilco y Tlahuac",
+      "accion": "Regularizar asentamientos humanos"
+    },
+    {
+      "actor": "Productores y residentes",
+      "accion": "Rellenar canales y agrandar parcelas"
+    },
+    {
+      "actor": "Sistema de aguas CDMX (SACMEX)",
+      "accion": "Bombear agua a vasos reguladores"
+    },
+    {
+      "actor": "Planta de tratamiento Cerro de la Estrella",
+      "accion": "Verter agua tratada a la zona"
+    },
+    {
+      "actor": "Gobierno frances",
+      "accion": "Apoyar con recursos para proyectos hidraulicos"
+    },
+    {
+      "actor": "UAM",
+      "accion": "Elaborar programa de manejo Ramsar"
+    },
+    {
+      "actor": "Sociedad civil y organizaciones sociales",
+      "accion": "Impulsar rescate y declaratoria de sitio arqueologico"
+    },
+    {
+      "actor": "Productores rurales",
+      "accion": "Mantener y dar mantenimiento a ollas de captacion"
+    },
+    {
+      "actor": "Autoridad ambiental local",
+      "accion": "Desarrollar programa maestro de control de compuertas"
+    },
+    {
+      "actor": "Candidatos politicos",
+      "accion": "Regalar rotoplas y recursos a habitantes"
+    },
+    {
+      "actor": "Universidades (UNAM, UAM)",
+      "accion": "Vincularse para legitimacion y estudios"
+    },
+    {
+      "actor": "Comision de derechos humanos",
+      "accion": "Emitir resoluciones para reparar plantas de tratamiento"
+    },
+    {
+      "actor": "Residencia local",
+      "accion": "Faenas para nivelar y apoyar obras comunitarias"
+    },
+    {
+      "actor": "Autoridad ambiental y academia",
+      "accion": "Proponer monitoreo digital de niveles de agua"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocar a iniciativas ciudadanas abiertas"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Abrir o cerrar llaves para proveer agua"
+    },
+    {
+      "actor": "Comercializadores",
+      "accion": "Comprar barato a chinamperos y revender caro"
+    },
+    {
+      "actor": "Autoridad ambiental y francesa",
+      "accion": "Crear santuarios de biodiversidad"
+    }
+  ],
+  "input_tokens": 13668,
+  "output_tokens": 1178,
+  "error": null,
+  "items_antes_de_tope": {}
+}

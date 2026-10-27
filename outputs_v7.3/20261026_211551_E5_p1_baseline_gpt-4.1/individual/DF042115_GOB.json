@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Crecimiento de la población",
+    "Demanda industrial de agua",
+    "Calidad del agua",
+    "Falta de mantenimiento de tinacos",
+    "Falta de higiene en el almacenamiento",
+    "Enfermedades por calidad del agua",
+    "Infraestructura dañada por sismos",
+    "Exposición a fenómenos hidrometeorológicos",
+    "Inundaciones locales",
+    "Vulnerabilidad de asentamientos irregulares",
+    "Desconfianza en el agua de la red"
+  ],
+  "Causas_principales": [
+    "Crecimiento desordenado de la ciudad",
+    "Crecimiento de la población migrante",
+    "Trasvase de agua de otras regiones",
+    "Extracción de acuíferos",
+    "Deficiencia de infraestructura hidráulica",
+    "Falta de mantenimiento en infraestructuras",
+    "Falta de control en vivienda precaria",
+    "Falta de mantenimiento de tinacos",
+    "Influencia de campañas de agua embotellada",
+    "Problemas de coordinación gobierno local-federal",
+    "Falta de adaptación de infraestructura al suelo",
+    "Invasión de reservas y ocupación de zonas peligrosas"
+  ],
+  "Consecuencias": [
+    "Enfermedades respiratorias",
+    "Aumento de alergias",
+    "Enfermedades gastrointestinales",
+    "Enfermedades dermatológicas",
+    "Afectación a la salud infantil y adultos mayores",
+    "Disminución en actividades económicas",
+    "Disminución en rendimiento educativo",
+    "Cortes de abastecimiento tras sismo",
+    "Exclusión de zonas periféricas en servicios",
+    "Vulnerabilidad social y física",
+    "Problemas de higiene en zonas irregulares",
+    "Inundaciones controladas en ciertas zonas",
+    "Desconfianza en agua potable de la red"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de vasos de regulación"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo sectorizado de inundaciones"
+    },
+    {
+      "actor": "Protección Civil DF",
+      "accion": "Respuesta reactiva a emergencias"
+    },
+    {
+      "actor": "Protección Civil DF",
+      "accion": "Prevención con Atlas de riesgo"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalación de sistemas de alerta hidrometeorológica"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Capacitación a unidades estatales"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Operación en infraestructura federal"
+    },
+    {
+      "actor": "Secretaría de Salud federal",
+      "accion": "Atención de emergencias sanitarias"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Mantenimiento de infraestructura hidráulica"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Captación pluvial incipiente"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de infraestructura para regulación"
+    },
+    {
+      "actor": "Universidades (UNAM)",
+      "accion": "Capacitación y difusión técnica"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Trasvase de agua de otras regiones"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Falta de mantenimiento de tinacos"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Promoción de techos verdes y disminución de impuestos"
+    }
+  ],
+  "input_tokens": 9811,
+  "output_tokens": 611,
+  "error": null,
+  "items_antes_de_tope": {}
+}

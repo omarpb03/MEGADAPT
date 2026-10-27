@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Infraestructura hidráulica obsoleta",
+    "Fugas de agua potable",
+    "Falta de infiltración de agua de lluvia",
+    "Inundaciones en época de lluvias",
+    "Grietas y fracturas en viviendas",
+    "Privatización del agua",
+    "Gestión incorrecta del agua",
+    "Escasez artificial por mala administración",
+    "Desvinculación de la comunidad con el ciclo del agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua",
+    "Falta de presupuesto para infraestructura",
+    "Modelo de desarrollo urbano extractivista",
+    "Pavimentación excesiva",
+    "Extracción excesiva de agua subterránea",
+    "Falta de infiltración por áreas verdes",
+    "Visión ingenieril del gobierno",
+    "Privatización y clientelismo político",
+    "Crecimiento constante de la población",
+    "Falta de educación ambiental",
+    "Falta de aplicación de la ley de captación de agua",
+    "Intereses económicos en la gestión del agua"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua por fugas",
+    "Agua de mala calidad",
+    "Fractura de viviendas y drenaje",
+    "Hundimientos y grietas",
+    "Inundaciones recurrentes",
+    "Suministro de agua por tandeo",
+    "Dependencia de pipas en otras colonias",
+    "Deterioro del tejido social",
+    "Desarraigo de la comunidad",
+    "Calidad de vida demeritada",
+    "Conflictos por clientelismo en el reparto de agua",
+    "Falta de conciencia sobre el agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Autogestión de vivienda y servicios"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instalación de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Construcción de pozos de infiltración"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Educación ambiental y charlas"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Movilización para exigir agua"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Diagnóstico y mapeo de riesgos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Propuestas de captación de agua de lluvia"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instalación de baños secos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Organización de comités de grietas"
+    },
+    {
+      "actor": "ONGs y universidades",
+      "accion": "Asesoría y diseño participativo"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Suministro de agua por pipas"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Programas de manejo de residuos"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Gestión de pozos y extracción"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Infraestructura hidráulica y drenaje"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "No aplicación de ley de captación"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Cobro y concesión de agua"
+    },
+    {
+      "actor": "Investigadores y universidades",
+      "accion": "Realización de estudios geofísicos"
+    },
+    {
+      "actor": "Colectivos de cuenca",
+      "accion": "Promoción de gestión sustentable"
+    },
+    {
+      "actor": "Mercado y escuelas",
+      "accion": "Proyectos de cosecha de agua de lluvia"
+    },
+    {
+      "actor": "Centro de diagnóstico de riesgos",
+      "accion": "Evaluación de grietas en viviendas"
+    }
+  ],
+  "input_tokens": 25286,
+  "output_tokens": 674,
+  "error": null,
+  "items_antes_de_tope": {}
+}

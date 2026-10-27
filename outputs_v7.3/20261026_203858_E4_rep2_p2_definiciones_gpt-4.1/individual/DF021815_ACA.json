@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en el acceso al agua",
+    "Calidad deficiente del agua",
+    "Escasez y tandeos de agua",
+    "Inundaciones recurrentes",
+    "Infraestructura hidráulica obsoleta",
+    "Gestión opaca y politizada del agua"
+  ],
+  "Causas_principales": [
+    "Incapacidad en la gestión del recurso",
+    "Ausencia de manejo de la demanda",
+    "Intereses particulares y patrimonialismo",
+    "Opacidad en la gestión técnica",
+    "Presión inmobiliaria",
+    "Crecimiento urbano informal",
+    "Distorsión por política de vivienda",
+    "Infraestructura vieja y no repuesta",
+    "Falta de planeación en drenaje pluvial",
+    "Negociaciones políticas centralizadas"
+  ],
+  "Consecuencias": [
+    "Desconfianza en la calidad del agua",
+    "Mayor consumo de agua embotellada",
+    "Transferencia de costos a los más pobres",
+    "Zonas con servicio irregular o insuficiente",
+    "Enfermedades por agua contaminada",
+    "Inundaciones con aguas negras",
+    "Afectación de vialidades por encharcamientos",
+    "Consolidación de asentamientos irregulares",
+    "Presiones y protestas vecinales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Autoriza licencias de agua"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Decide distribución por circuitos"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presionan para obtener agua"
+    },
+    {
+      "actor": "Vecinos y pobladores",
+      "accion": "Realizan protestas y presiones"
+    },
+    {
+      "actor": "Delegados políticos",
+      "accion": "Negocian acceso y servicios"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Instalan redes de agua y drenaje"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Visibiliza inundaciones"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Realiza grandes obras hidráulicas"
+    },
+    {
+      "actor": "Industria de agua embotellada",
+      "accion": "Aprovecha desconfianza en agua"
+    }
+  ],
+  "input_tokens": 13937,
+  "output_tokens": 562,
+  "error": null,
+  "items_antes_de_tope": {}
+}

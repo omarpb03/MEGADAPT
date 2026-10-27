@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Infraestructura hidráulica vieja y obsoleta",
+    "Fugas de agua potable",
+    "Mala calidad del agua",
+    "Falta de infiltración de agua de lluvia",
+    "Inundaciones en época de lluvias",
+    "Grietas y hundimientos en viviendas",
+    "Privatización del agua",
+    "Gestión incorrecta del agua",
+    "Escasez aparente por mala administración",
+    "Falta de conciencia comunitaria sobre el agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua y deteriorada",
+    "Territorio asentado sobre lago y suelos endebles",
+    "Zona sísmica y volcánica",
+    "Pavimentación excesiva que impide infiltración",
+    "Modelo de desarrollo urbano extractivista",
+    "Falta de aplicación de presupuesto para infraestructura",
+    "Visión ingenieril y política del gobierno",
+    "Crecimiento constante de la población",
+    "Importación de agua de otras cuencas",
+    "Privatización y clientelismo político",
+    "Falta de educación ambiental",
+    "Falta de participación comunitaria",
+    "Trampa de las comisiones de cuenca",
+    "Falta de aplicación de la ley de captación de agua"
+  ],
+  "Consecuencias": [
+    "Desperdicio del 40% del agua por fugas",
+    "Agua de mala calidad",
+    "Fractura de viviendas y drenaje",
+    "Hundimientos y grietas en viviendas",
+    "Inundaciones recurrentes",
+    "Suministro de agua por tandeo o pipas",
+    "Afectación al patrimonio inmobiliario",
+    "Pérdida de áreas verdes y ecosistemas",
+    "Deterioro de la calidad de vida",
+    "Normalización de la mala calidad del agua",
+    "Desmovilización comunitaria",
+    "Clientelismo y desigualdad en el acceso al agua",
+    "Contaminación de ríos y mantos freáticos",
+    "Negocio privado con aguas residuales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Autogestión de vivienda y servicios"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instalación de cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Construcción de pozos de infiltración"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Uso de adopasto y adoquín en áreas verdes"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Implementación de baños secos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Educación ambiental y charlas"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Movilización para exigir agua"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Diagnóstico y mapeo de riesgos"
+    },
+    {
+      "actor": "Comité de grietas",
+      "accion": "Vinculación con Protección Civil"
+    },
+    {
+      "actor": "Colectivos y ONG",
+      "accion": "Propuestas de gestión sustentable"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Apoyo en estudios y proyectos"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Suministro de agua por pipas"
+    },
+    {
+      "actor": "Gobierno del DF",
+      "accion": "No aplicación de ley de captación"
+    },
+    {
+      "actor": "Gobierno federal y local",
+      "accion": "Inversión en túneles emisores"
+    },
+    {
+      "actor": "Empresas privadas",
+      "accion": "Cobro y concesión de agua"
+    },
+    {
+      "actor": "Carlos Slim",
+      "accion": "Concesión de aguas residuales"
+    },
+    {
+      "actor": "Mercado y escuelas",
+      "accion": "Infraestructura para cosecha de agua de lluvia"
+    },
+    {
+      "actor": "ONG y universidades",
+      "accion": "Asesoría y acompañamiento en proyectos"
+    },
+    {
+      "actor": "Grupo promotor de cuenca",
+      "accion": "Foros y caravanas de concientización"
+    },
+    {
+      "actor": "Comisión de cuenca",
+      "accion": "Gestión de recursos y propuestas"
+    }
+  ],
+  "input_tokens": 25052,
+  "output_tokens": 1026,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribucion desigual del agua",
+    "Suministro irregular en colonias populares",
+    "Tandeo diferenciado por zona",
+    "Desabasto por nuevas construcciones",
+    "Impacto de obras urbanas en inundaciones",
+    "Falta de infraestructura en asentamientos nuevos",
+    "Prioridad baja del agua en politicas urbanas",
+    "Manejo discrecional de valvulas de agua",
+    "Falta de equidad en acceso al agua"
+  ],
+  "Causas_principales": [
+    "Peso politico de secretarias como Obras",
+    "Prioridad a zonas centrales y poniente",
+    "Crecimiento urbano mas rapido que infraestructura",
+    "Decisiones discrecionales de coordinadores territoriales",
+    "Sesgo presupuestal hacia zonas privilegiadas",
+    "Intereses inmobiliarios en desarrollo urbano",
+    "Falta de planeacion y actualizacion de programas",
+    "Regularizacion de tenencia no garantiza servicios",
+    "Infraestructura primaria rezagada",
+    "Falta de medicion de usos de infraestructura"
+  ],
+  "Consecuencias": [
+    "Baja presion y desabasto en colonias",
+    "Inundaciones frecuentes en Iztapalapa",
+    "Grietas y daños en viviendas",
+    "Incertidumbre en acceso al agua",
+    "Uso de pipas y tambos para almacenamiento",
+    "Consolidacion lenta de servicios publicos",
+    "Percepcion de injusticia y favoritismo",
+    "Duplicidad de viviendas y demanda artificial",
+    "Dificultad para exigir derechos con instrumentos obsoletos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Control discrecional de valvulas"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar aparicion de grietas"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    },
+    {
+      "actor": "Secretaria de Obras",
+      "accion": "Bloquear proyectos comunitarios"
+    },
+    {
+      "actor": "Habitantes de colonias populares",
+      "accion": "Almacenar agua en tambos"
+    },
+    {
+      "actor": "Habitantes organizados",
+      "accion": "Usar programas de desarrollo urbano"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Introducir tuberia por etapas"
+    },
+    {
+      "actor": "Vecinos afectados",
+      "accion": "Manifestarse ante obras urbanas"
+    },
+    {
+      "actor": "Secretaria de Medio Ambiente",
+      "accion": "Defender obras con impacto ambiental"
+    },
+    {
+      "actor": "Sociedad civil y academicos",
+      "accion": "Participar en comites tecnicos"
+    },
+    {
+      "actor": "Habitantes de Xochimilco",
+      "accion": "Recurrir a instrumentos viejos para exigir derechos"
+    }
+  ],
+  "input_tokens": 12471,
+  "output_tokens": 492,
+  "error": null,
+  "items_antes_de_tope": {}
+}

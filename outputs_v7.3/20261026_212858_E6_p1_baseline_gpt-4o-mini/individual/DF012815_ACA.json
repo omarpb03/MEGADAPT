@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtención, distribución y calidad del agua",
+    "Escasez de agua",
+    "Crecimiento inadecuado de la ciudad",
+    "Asentamientos irregulares",
+    "Control político sobre el agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad sin planificación",
+    "Construcción de asentamientos sin servicios de drenaje",
+    "Extracción de agua de mantos freáticos a gran profundidad",
+    "Políticas inadecuadas y decisiones absurdas",
+    "Corrupción y colusión entre políticos y desarrolladores"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en la ciudad",
+    "Problemas de calidad del agua",
+    "Dependencia de pipas para el suministro de agua",
+    "Desigualdades en el acceso al agua",
+    "Inundaciones en áreas urbanas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Responsable de la dotación de agua"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Toma decisiones políticas sobre el uso del suelo y servicios"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Construcción de proyectos sin garantizar servicios básicos"
+    },
+    {
+      "actor": "Población",
+      "accion": "Protestas por falta de agua y servicios"
+    }
+  ],
+  "input_tokens": 9573,
+  "output_tokens": 264,
+  "error": null,
+  "items_antes_de_tope": {}
+}

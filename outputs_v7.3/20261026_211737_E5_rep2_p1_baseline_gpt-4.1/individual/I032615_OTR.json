@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Infraestructura hidráulica antigua y obsoleta",
+    "Pérdida de agua por fugas",
+    "Escasa infiltración de agua de lluvia",
+    "Mala calidad del agua potable",
+    "Inundaciones en época de lluvias",
+    "Extractivismo y privatización del agua",
+    "Falta de concientización sobre el ciclo del agua",
+    "Ruptura del tejido social por megaproyectos",
+    "Riesgo por asentamientos en zona de lago",
+    "Falta de gestión sustentable y participativa"
+  ],
+  "Causas_principales": [
+    "Territorio de mucho riesgo sísmico y volcánico",
+    "Suelo lacustre y susceptible a movimientos",
+    "Infraestructura obsoleta y sin mantenimiento",
+    "Falta de recursos para infraestructura",
+    "Modelo de desarrollo extractivista",
+    "Pavimentación excesiva que impide infiltración",
+    "Gobierno no aplica presupuesto en infraestructura",
+    "Visión ingenieril predominante",
+    "Crecimiento constante de la población urbana",
+    "Mal manejo de aguas residuales",
+    "Importación de agua de otras cuencas",
+    "Privatización de servicios hidráulicos",
+    "Proyectos políticos y clientelismo",
+    "Desvinculación entre ciudadanía y gestión del agua"
+  ],
+  "Consecuencias": [
+    "40% de desperdicio del agua por fugas",
+    "Grietas y fracturas en viviendas",
+    "Fractura del drenaje y red de agua potable",
+    "Hundimientos de suelo",
+    "Mala calidad del agua potable",
+    "Tandeo y suministro irregular",
+    "Uso de pipas en zonas periféricas",
+    "Contaminación de ríos y aguas residuales",
+    "Marcada segregación social y territorial",
+    "Inseguridad y debilitamiento de tejido social",
+    "Inundaciones recurrentes",
+    "Cantidad insuficiente de áreas verdes",
+    "Problemas de salud y desconfianza en el agua",
+    "Fuga de recursos y beneficios hacia empresas privadas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad El Molino",
+      "accion": "Autogestión de vivienda y servicios"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Reparación de fallas en suministro"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Gestión de pozos y extracción de agua"
+    },
+    {
+      "actor": "Sistema de Aguas de México",
+      "accion": "Administración del agua en el DF"
+    },
+    {
+      "actor": "Colectivos y organizaciones civiles",
+      "accion": "Organización de foros y caravanas"
+    },
+    {
+      "actor": "Comités vecinales",
+      "accion": "Diagnóstico y monitoreo de grietas"
+    },
+    {
+      "actor": "Universidad UAM y universidades",
+      "accion": "Investigación y propuestas de cuenca"
+    },
+    {
+      "actor": "Centro para la sustentabilidad Calixcahuicopa",
+      "accion": "Promoción de visión de cuenca hidrológica"
+    },
+    {
+      "actor": "Equipo comunitario El Molino",
+      "accion": "Implementación de cisternas ferrocemento"
+    },
+    {
+      "actor": "Escuelas y jardines de niños",
+      "accion": "Cosecha y uso de agua de lluvia"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instalación de zanjas filtrantes y adopasto"
+    },
+    {
+      "actor": "Mercado de El Molino",
+      "accion": "Infraestructura para cosecha de lluvia"
+    },
+    {
+      "actor": "Colectivo cultural",
+      "accion": "Educación ambiental y talleres"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Movilización para exigir servicios"
+    },
+    {
+      "actor": "Grupos promotores de cuenca",
+      "accion": "Propuesta de gestión sustentable"
+    },
+    {
+      "actor": "ONGs y universidades",
+      "accion": "Asesoría en vivienda sustentable"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Inversión en túnel emisor de aguas"
+    },
+    {
+      "actor": "Empresa privada (Slim)",
+      "accion": "Gestión de aguas residuales"
+    },
+    {
+      "actor": "Protección civil",
+      "accion": "Valoración de viviendas con grietas"
+    }
+  ],
+  "input_tokens": 24925,
+  "output_tokens": 1030,
+  "error": null,
+  "items_antes_de_tope": {}
+}

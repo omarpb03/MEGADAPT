@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del rio Eslava",
+    "Asentamientos humanos irregulares toman agua",
+    "Escasez de agua en el pueblo",
+    "Calidad del agua consumida",
+    "Recarga de mantos acuiferos",
+    "Presion sobre zonas de recarga",
+    "Pérdida de suelo de conservación",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desordenado",
+    "Asentamientos humanos irregulares",
+    "Falta de planeacion urbana",
+    "Falta de educacion ambiental",
+    "Pérdida de valores y respeto",
+    "Falta de programas de gobierno suficientes",
+    "Familias numerosas y desdoblamiento familiar",
+    "Abandono de la agricultura",
+    "Contaminacion por basura",
+    "Ganado en la parte alta"
+  ],
+  "Consecuencias": [
+    "Río convertido en drenaje",
+    "Agua contaminada en zonas bajas",
+    "Pérdida de presión de agua",
+    "Escasez de agua potable",
+    "Contaminacion de mantos freáticos",
+    "Pérdida de áreas verdes",
+    "Venta de tierras ejidales",
+    "Dificultad para consolidar proyectos productivos",
+    "Reducción de calidad de vida",
+    "Pérdida de biodiversidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporación a reserva ecológica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento urbano cero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestación masiva"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Sistemas de riego por gravedad"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producción agrícola y ganadera"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Comercialización de trucha"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de bosques"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Limpieza y brechas contra incendios"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Propuesta de muro ecológico"
+    },
+    {
+      "actor": "Ejido y gobierno",
+      "accion": "Proyectos de conservación de suelo y agua"
+    },
+    {
+      "actor": "Ejido y gobierno",
+      "accion": "Ordenamiento ganadero"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programas de conservación limitados"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Limpieza de áreas públicas"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Apoyo a proyectos productivos"
+    },
+    {
+      "actor": "Grupos internacionales",
+      "accion": "Apoyo a conservación"
+    },
+    {
+      "actor": "Cuadrillas del ejido",
+      "accion": "Mantenimiento y limpieza de bosques"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Producción de alimentos orgánicos"
+    },
+    {
+      "actor": "Secretaría del Medio Ambiente",
+      "accion": "Convenios de conservación"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reducción de ganado en cerros"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Ganado tabulado en parte baja"
+    }
+  ],
+  "input_tokens": 6922,
+  "output_tokens": 607,
+  "error": null,
+  "items_antes_de_tope": {}
+}

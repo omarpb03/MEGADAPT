@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas de drenaje domiciliario",
+    "Hundimiento de chinampas",
+    "Acumulación de basura y desechos",
+    "Falta de oxigenación y circulación",
+    "Pérdida de especies acuáticas nativas",
+    "Invasión de la zona lacustre",
+    "Infraestructura de drenaje deteriorada",
+    "Descargas de aguas tratadas",
+    "Asentamientos irregulares",
+    "Falta de conservación de chinampas",
+    "Acumulación de lirio acuático",
+    "Falta de coordinación institucional",
+    "Extracción excesiva de agua de pozos",
+    "Falta de presupuesto para proyectos",
+    "Falta de inspectores ambientales"
+  ],
+  "Causas_principales": [
+    "Descargas domiciliarias a canales",
+    "Falta de infraestructura de drenaje",
+    "Crecimiento de la mancha urbana",
+    "Corrupción y tolerancia gubernamental",
+    "Abandono de chinampas",
+    "Contradicción de leyes y normatividad",
+    "Proyectos inconclusos por cambios políticos",
+    "Introducción de especies exóticas",
+    "Extracción de agua del subsuelo",
+    "Falta de presupuesto y coordinación",
+    "Turismo irresponsable",
+    "Falta de educación ambiental",
+    "Deterioro de la red de drenaje",
+    "Falta de mantenimiento de canales",
+    "Falta de inspectores ambientales"
+  ],
+  "Consecuencias": [
+    "Contaminación del agua",
+    "Pérdida de calidad del agua",
+    "Acumulación de sedimentos y nutrientes",
+    "Desaparición de especies nativas",
+    "Proliferación de lirio acuático",
+    "Hundimiento y levantamiento de terrenos",
+    "Pérdida de superficie de conservación",
+    "Inundaciones en zonas bajas",
+    "Conflictos sociales por invasiones",
+    "Abandono de chinampas",
+    "Reducción de profundidad de canales",
+    "Desequilibrio ecológico",
+    "Dificultad para navegación",
+    "Pérdida de atractivo turístico",
+    "Falta de información sobre calidad de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Canaleros y prestadores de servicios",
+      "accion": "Limpieza parcial de canales"
+    },
+    {
+      "actor": "Medio Ambiente delegacional",
+      "accion": "Apoyo en limpieza de canales"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestión de pozos y agua potable"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservación"
+    },
+    {
+      "actor": "Vecinos y residentes",
+      "accion": "Protesta ante autoridades"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Operativos en asentamientos irregulares"
+    },
+    {
+      "actor": "CORENA y Secretaría del Medio Ambiente",
+      "accion": "Regulación ambiental y vigilancia"
+    },
+    {
+      "actor": "Población local",
+      "accion": "Separación de residuos sólidos y orgánicos"
+    },
+    {
+      "actor": "Turistas",
+      "accion": "Arrojo de basura a canales"
+    },
+    {
+      "actor": "UNAM",
+      "accion": "Introducción de tilapia"
+    },
+    {
+      "actor": "Asamblea de representantes y legisladores",
+      "accion": "Aprobación de proyectos sustentables"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Programas de cero crecimiento poblacional"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Recuperación de zanjas y estacación"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Manejo de residuos sólidos"
+    },
+    {
+      "actor": "Laboratorio de Sistemas de Aguas",
+      "accion": "Análisis de calidad de agua"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Cultivo en invernaderos"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Apoyo a invernaderos"
+    },
+    {
+      "actor": "Delegación Xochimilco",
+      "accion": "Proyectos de dragado de canales"
+    }
+  ],
+  "input_tokens": 25007,
+  "output_tokens": 768,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento irregular de agua",
+    "Mala calidad del agua",
+    "Sistema de tandeo",
+    "Corrupcion en distribucion de agua",
+    "Privatizacion del agua",
+    "Desigualdad en acceso al agua",
+    "Desperdicio de agua",
+    "Falta de mantenimiento a pozos de absorcion",
+    "Costos altos de agua potable",
+    "Falta de politicas publicas efectivas"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Juego politico con el agua",
+    "Corrupcion en manejo del agua",
+    "Falta de mantenimiento de la red",
+    "Mala distribucion de la riqueza",
+    "Politicas publicas enfocadas en votos",
+    "Privatizacion del sistema de agua",
+    "Falta de arbolado y captacion de agua",
+    "Falta de aplicacion de leyes",
+    "Presupuesto insuficiente para agua"
+  ],
+  "Consecuencias": [
+    "Agua chocolatosa y con insectos",
+    "Sedimentacion de lodo en recipientes",
+    "Enfermedades estomacales en ninos",
+    "Gasto en garrafones de agua",
+    "Organizacion para almacenar agua",
+    "Escasez en temporada de estiaje",
+    "Tiradero de agua en calles",
+    "Inundaciones en vialidades principales",
+    "Colapso de drenajes",
+    "Contaminacion de aguas y subsuelo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Movilizacion y protestas por agua"
+    },
+    {
+      "actor": "Mujeres",
+      "accion": "Exigir dotacion de agua"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Distribuir agua por pipas"
+    },
+    {
+      "actor": "Organizaciones",
+      "accion": "Presionar para condonacion de pagos"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Decretar condonacion de pago de agua"
+    },
+    {
+      "actor": "Diputados",
+      "accion": "Presionar al sistema de agua"
+    },
+    {
+      "actor": "Piperos",
+      "accion": "Entregar agua en pipas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar sistema de tandeo"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Acumular agua en cisternas"
+    },
+    {
+      "actor": "Hogares",
+      "accion": "Comprar garrafones de agua"
+    },
+    {
+      "actor": "Escuelas particulares",
+      "accion": "Pagar pipas de agua"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Reutilizar agua domestica"
+    },
+    {
+      "actor": "Vecinos",
+      "accion": "Tirar agua lavando banquetas"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Frenar privatizacion del agua"
+    },
+    {
+      "actor": "Maestra Alicia Hernandez",
+      "accion": "Movimiento por suministro de agua"
+    },
+    {
+      "actor": "Pedro Moctezuma",
+      "accion": "Defensa del agua"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Construir pozos de absorcion"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Demandar limpieza de pozos"
+    },
+    {
+      "actor": "Escuelas",
+      "accion": "Consumir agua embotellada"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Campanas de cuidado del agua"
+    }
+  ],
+  "input_tokens": 9359,
+  "output_tokens": 880,
+  "error": null,
+  "items_antes_de_tope": {}
+}

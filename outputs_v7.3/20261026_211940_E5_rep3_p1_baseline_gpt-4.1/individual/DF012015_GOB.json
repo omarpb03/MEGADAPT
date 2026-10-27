@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones urbanas",
+    "Calidad del agua",
+    "Falta de infraestructura hidráulica",
+    "Disponibilidad de agua de lluvia"
+  ],
+  "Causas_principales": [
+    "Falta de inversión infraestructura hidráulica",
+    "Proyectos urbanos sin obras hidráulicas",
+    "Zonas urbanas sin servicios",
+    "Presupuesto público insuficiente",
+    "Poco uso de captación pluvial"
+  ],
+  "Consecuencias": [
+    "Problemas de abastecimiento de agua",
+    "Inundaciones en comunidades nuevas",
+    "Viviendas en zonas sin agua",
+    "Redes hidráulicas deficientes",
+    "Agua de mala calidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Destinar presupuesto infraestructura hidráulica"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejar fondos para vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuir pipas de agua"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Invertir en agua con retribución"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Rehabilitación redes hidráulicas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Construir plantas potabilizadoras"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectar rebombeos por baja presión"
+    },
+    {
+      "actor": "Especialistas hidráulica",
+      "accion": "Proponer soluciones técnicas"
+    },
+    {
+      "actor": "Gobierno ciudad",
+      "accion": "Programa inversión 18 mil millones pesos"
+    }
+  ],
+  "input_tokens": 4091,
+  "output_tokens": 293,
+  "error": null,
+  "items_antes_de_tope": {}
+}

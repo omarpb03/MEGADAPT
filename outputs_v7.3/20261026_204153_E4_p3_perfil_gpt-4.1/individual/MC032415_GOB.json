@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminución de fuentes de abastecimiento",
+    "Fugas por tuberías viejas",
+    "Desabasto en temporada de estiaje",
+    "Oposición a obras de mejora",
+    "Contaminación por basura en ríos",
+    "Crecimiento de la mancha urbana",
+    "Problemas de distribución en zonas nuevas",
+    "Tandeo y suministro irregular"
+  ],
+  "Causas_principales": [
+    "Tala clandestina en zonas boscosas",
+    "Tuberías rebasadas en vida útil",
+    "Reducción de agua enviada del Estado de México",
+    "Falta de reforestación",
+    "Crecimiento de la población",
+    "Urbanización y pavimentación",
+    "Oposición de comuneros y ejidatarios",
+    "Falta de presupuesto para obras",
+    "Mala información entre vecinos",
+    "Falta de cultura para manejo de basura"
+  ],
+  "Consecuencias": [
+    "Baja recarga de manantiales",
+    "Pérdida de agua por fugas",
+    "Suministro insuficiente en colonias",
+    "Suspensión de obras de mejora",
+    "Taponamientos e inundaciones por basura",
+    "Servicio de agua por tandeo",
+    "Afectaciones en viviendas cercanas a cauces",
+    "Conflictos con la comunidad",
+    "Dificultad para ampliar infraestructura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Distribución de agua en colonias"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustitución de tuberías viejas"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Mantenimiento y limpieza de captaciones"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Programa de reparación de fugas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Suministro de agua por pipas"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Lavado y desinfección de tanques"
+    },
+    {
+      "actor": "Delegación y Ecología",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Comuneros y ejidatarios",
+      "accion": "Oposición a obras de infraestructura"
+    },
+    {
+      "actor": "Población civil",
+      "accion": "Participación en reforestación propuesta"
+    },
+    {
+      "actor": "Delegación y Sistema de Aguas",
+      "accion": "Reuniones de concertación con vecinos"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Almacenamiento de agua en tinacos"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Petición de pipas en CESAC"
+    },
+    {
+      "actor": "Área de Ecología",
+      "accion": "Recolección de basura en barrancas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Propuesta de construcción de presas"
+    }
+  ],
+  "input_tokens": 12064,
+  "output_tokens": 740,
+  "error": null,
+  "items_antes_de_tope": {}
+}

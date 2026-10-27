@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Retención y filtración del agua",
+    "Demanda excesiva de agua",
+    "Cultura del usuario del agua",
+    "Escasez temporal en estiaje"
+  ],
+  "Causas_principales": [
+    "Demanda exagerada de agua",
+    "Crecimiento de la población",
+    "Urbanización y desarrollo tecnológico",
+    "Falta de cultura en el usuario",
+    "Deforestación y depredación",
+    "Cambios climáticos como El Niño y La Niña"
+  ],
+  "Consecuencias": [
+    "Agua no da abasto abajo",
+    "Temporalidad en escasez de agua",
+    "Zonas urbanas más afectadas",
+    "Insatisfacción de residentes por no aprovechar el agua local",
+    "Mayor riesgo de incendios en secas",
+    "Desertificación por deforestación"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener el agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Capacitación y talleres sobre conservación"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos económicos a grupos agrarios"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Convenios de colaboración interinstitucional"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Presencia y vigilancia diaria en suelo de conservación"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Abasto de agua urbana"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Apoyos a servicios ambientales"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Regulación de extracción de agua"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Proyectos para captar y conservar agua"
+    },
+    {
+      "actor": "Universidades y colegios",
+      "accion": "Investigación sobre sanidad y tecnología del agua"
+    }
+  ],
+  "input_tokens": 13955,
+  "output_tokens": 350,
+  "error": null,
+  "items_antes_de_tope": {}
+}

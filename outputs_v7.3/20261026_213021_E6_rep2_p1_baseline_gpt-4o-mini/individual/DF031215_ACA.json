@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Irregularidad en el suministro de agua",
+    "Desabasto de agua en colonias populares",
+    "Impacto de nuevas construcciones en el abastecimiento de agua",
+    "Inundaciones en ciertas zonas de la ciudad",
+    "Calidad del agua y su tratamiento"
+  ],
+  "Causas_principales": [
+    "Crecimiento acelerado de la urbanización",
+    "Falta de infraestructura adecuada",
+    "Desinterés político en la planificación urbana",
+    "Desigualdad en la distribución de servicios",
+    "Control discrecional del suministro de agua"
+  ],
+  "Consecuencias": [
+    "Disminución de la presión del agua en colonias",
+    "Aumento de inundaciones en ciertas áreas",
+    "Desigualdad en el acceso al agua",
+    "Conflictos entre vecinos por el suministro de agua",
+    "Dependencia de pipas para el abastecimiento de agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementación de tandeo en el suministro de agua"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Documentación de problemas de agua y organización comunitaria"
+    },
+    {
+      "actor": "Secretaría de Obras Públicas",
+      "accion": "Negación de proyectos que interfieren con obras existentes"
+    },
+    {
+      "actor": "Coordinadores territoriales",
+      "accion": "Control de válvulas de agua en comunidades"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Protestas ante proyectos que afectan sus intereses"
+    }
+  ],
+  "input_tokens": 12099,
+  "output_tokens": 287,
+  "error": null,
+  "items_antes_de_tope": {}
+}

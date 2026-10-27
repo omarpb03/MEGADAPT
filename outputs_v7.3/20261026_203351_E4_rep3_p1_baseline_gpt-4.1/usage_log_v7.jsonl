@@ -1,0 +1,3 @@
+{"fecha": "2026-10-26T20:37:26", "modelo": "gpt-4.1", "prompt_variant": "p1_baseline", "csv_salida": "analysis_v7_p1_baseline.csv", "tokens_entrada": 269451, "tokens_salida": 15034, "costo_usd_estimado": 0.659174, "entrevistas_recortadas": []}
+{"fecha": "2026-10-26T20:53:16", "modelo": "gpt-4.1", "prompt_variant": "p1_baseline", "csv_salida": "analysis_v7_p1_baseline.csv", "tokens_entrada": 0, "tokens_salida": 0, "costo_usd_estimado": 0.0, "entrevistas_recortadas": []}
+{"fecha": "2026-10-26T20:56:16", "modelo": "gpt-4.1", "prompt_variant": "p1_baseline", "csv_salida": "analysis_v7_p1_baseline.csv", "tokens_entrada": 11703, "tokens_salida": 775, "costo_usd_estimado": 0.029606, "entrevistas_recortadas": []}

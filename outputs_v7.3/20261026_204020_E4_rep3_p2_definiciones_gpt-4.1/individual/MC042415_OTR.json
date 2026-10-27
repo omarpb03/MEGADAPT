@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u0003n del r\u0000edo Eslava",
+    "P\u0000e9rdida de agua limpia",
+    "Escasez de agua en el pueblo",
+    "Calidad del agua para consumo",
+    "Recarga de mantos acu\u0000edferos",
+    "Crecimiento urbano sobre zonas de recarga"
+  ],
+  "Causas_principales": [
+    "Asentamientos humanos irregulares",
+    "Crecimiento urbano an\u000003rquico",
+    "Falta de planeaci\u000003n urbana",
+    "P\u0000e9rdida de valores y educaci\u000003n ambiental",
+    "Contaminaci\u000003n por basura",
+    "Ganado en la parte alta",
+    "Falta de apoyo suficiente del gobierno"
+  ],
+  "Consecuencias": [
+    "R\u0000edo convertido en drenaje",
+    "Agua contaminada para consumo",
+    "P\u0000e9rdida de tierras de conservaci\u000003n",
+    "Escasez de agua en el pueblo",
+    "Presi\u000003n sobre zonas de recarga",
+    "Disminuci\u000003n de presi\u000003n de agua",
+    "Venta de tierras por falta de empleo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporaci\u000003n a reserva ecol\u000003gica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento urbano cero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcci\u000003n de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcci\u000003n de pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestaci\u000003n masiva"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de riego por gravedad"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producci\u000003n de alimentos y carne"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyecto de muro ecol\u000003gico"
+    },
+    {
+      "actor": "Ejido y gobierno",
+      "accion": "Convenios de conservaci\u000003n"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Desalojos en zonas invadidas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de bosques"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Ordenamiento ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Bajar ganado de la parte alta"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programas de conservaci\u000003n limitados"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Educaci\u000003n ambiental a productores"
+    }
+  ],
+  "input_tokens": 7049,
+  "output_tokens": 770,
+  "error": null,
+  "items_antes_de_tope": {}
+}

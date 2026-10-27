@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones en el país",
+    "Zonas susceptibles de inundación",
+    "Inundaciones pluviales",
+    "Inundaciones costeras",
+    "Inundaciones lacustres",
+    "Inundaciones súbitas",
+    "Falta de información sobre inundaciones",
+    "Sistema de drenaje insuficiente",
+    "Basura en drenajes",
+    "Cambio climático y lluvias intensas"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Mantenimiento inadecuado del drenaje",
+    "Acumulación de basura",
+    "Falta de cultura de cuidado",
+    "Cambio climático",
+    "Obstrucción del flujo de agua",
+    "Falta de información oficial",
+    "Desbordamiento de ríos",
+    "Características del terreno"
+  ],
+  "Consecuencias": [
+    "Pérdidas humanas",
+    "Daños materiales",
+    "Afectación a la movilidad",
+    "Impacto en la economía",
+    "Destrucción de infraestructura",
+    "Pérdida de cultivos",
+    "Desplazamiento de personas",
+    "Aumento de vulnerabilidad",
+    "Falta de acceso a servicios básicos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificación de zonas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaboración de infografías sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Recopilación de datos sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgación de información sobre inundaciones"
+    },
+    {
+      "actor": "Gobiernos locales",
+      "accion": "Implementación de medidas preventivas"
+    },
+    {
+      "actor": "Gobiernos locales",
+      "accion": "Elaboración de mapas de peligro"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Actualización de bases de datos sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Capacitación a autoridades locales"
+    },
+    {
+      "actor": "Sedesol",
+      "accion": "Financiamiento de atlas de riesgos"
+    }
+  ],
+  "input_tokens": 15088,
+  "output_tokens": 392,
+  "error": null,
+  "items_antes_de_tope": {}
+}

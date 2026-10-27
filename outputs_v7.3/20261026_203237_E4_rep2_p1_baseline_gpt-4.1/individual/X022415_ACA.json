@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua en el D.F",
+    "Extracción de acuíferos en Xochimilco",
+    "Contaminación de fuentes de agua",
+    "Regulación insuficiente del uso agrícola",
+    "Presión urbana sobre zonas agrícolas",
+    "Falta de gobernanza metropolitana",
+    "Acceso desigual al agua",
+    "Impacto de la urbanización en el agua",
+    "Falta de sensibilización ambiental",
+    "Manejo de residuos y drenaje"
+  ],
+  "Causas_principales": [
+    "Expansión urbana",
+    "Historia de ocupación y uso de suelo",
+    "Decisiones influenciadas por racionalidad tecnológica o económica",
+    "Mercado como motor de cambio",
+    "Falta de regulación y monitoreo",
+    "Presiones políticas y negociaciones locales",
+    "Falta de educación ambiental",
+    "Cambios en la mano de obra agrícola",
+    "Competencia por el valor de la tierra",
+    "Ausencia de gobernanza metropolitana macro"
+  ],
+  "Consecuencias": [
+    "Pérdida de suelo agrícola",
+    "Contaminación por agroquímicos",
+    "Asentamientos irregulares",
+    "Desplazamiento de productores locales",
+    "Cambio de uso de suelo a urbano",
+    "Reducción de autosuficiencia alimentaria",
+    "Deterioro de ríos y modificación de cauces",
+    "Falta de acceso a servicios públicos",
+    "Fragmentación social y cultural",
+    "Desigualdad en acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores locales",
+      "accion": "Defensa de recursos y tierras"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de agua sin regulación"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Cambio a invernaderos"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Contratación de mano de obra externa"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Promoción de producción orgánica"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Implementación de programas públicos agrícolas"
+    },
+    {
+      "actor": "SAGARPA, SEDEREC, INCA Rural",
+      "accion": "Programa de extensionismo agrícola"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Procesos de sensibilización y negociación"
+    },
+    {
+      "actor": "Juntas de vecinos y delegados",
+      "accion": "Negociaciones sobre asentamientos irregulares"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Ocupación y producción agrícola en nuevas zonas"
+    },
+    {
+      "actor": "ONG’s y grupos civiles",
+      "accion": "Organización para defensa de recursos"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Cursos de capacitación ambiental"
+    },
+    {
+      "actor": "Productores urbanos",
+      "accion": "Uso de agua de lluvia y reciclaje doméstico"
+    },
+    {
+      "actor": "Comisión de Cuenca",
+      "accion": "Gestión y regulación del agua"
+    }
+  ],
+  "input_tokens": 19819,
+  "output_tokens": 759,
+  "error": null,
+  "items_antes_de_tope": {}
+}

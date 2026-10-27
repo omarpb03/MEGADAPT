@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u00133n de niveles hidr\u00131ulicos",
+    "Exceso de extracci\u00133n de agua subterránea",
+    "Contaminaci\u00133n por descargas de aguas negras",
+    "Hundimientos diferenciales en zona lacustre",
+    "P\u0013a\u00131rdida de autosuficiencia hidr\u00131ulica",
+    "Cambio de uso de suelo chinampero",
+    "Falta de infraestructura para manejo de agua",
+    "Fragmentaci\u00133n institucional en gesti\u00133n del agua",
+    "Conflictos por manejo de compuertas y esclusas",
+    "Falta de reaprovechamiento de aguas grises y negras",
+    "Azolve y obstrucci\u00133n de canales",
+    "Desconfianza hacia autoridades externas",
+    "Presi\u00133n urbana sobre zonas ambientales"
+  ],
+  "Causas_principales": [
+    "Extracci\u00133n hist\u0013r\u0013f3rica de pozos",
+    "Fracturas y grietas post-sismo",
+    "Bloqueo de escurrimientos naturales por asentamientos",
+    "Descargas clandestinas de drenaje",
+    "Falta de planeaci\u00133n a mediano y largo plazo",
+    "Pol\u0013c\u0013dticas clientelares y regularizaci\u00133n de asentamientos",
+    "Infraestructura hidr\u00131ulica obsoleta",
+    "Falta de inversi\u0013f3n en mantenimiento",
+    "Cambio generacional y p\u0013a\u0013trdida de identidad chinampera",
+    "Conflictos entre delegaciones y autoridades",
+    "Falta de una sola instancia responsable",
+    "Presi\u00133n inmobiliaria y especulaci\u0013f3n de suelo"
+  ],
+  "Consecuencias": [
+    "Secado de chinampas y canales",
+    "P\u0013a\u0013trdida de biodiversidad y servicios ambientales",
+    "Contaminaci\u00133n de suelos y aguas",
+    "Reducci\u0013f3n de producci\u0013f3n agropecuaria",
+    "Cambio de uso de suelo a asentamientos",
+    "Incremento de temperatura local",
+    "Conflictos sociales e interpoblacionales",
+    "P\u0013a\u0013trdida de identidad patrimonial",
+    "Inundaciones en zonas chinamperas",
+    "Deterioro de calidad de vida",
+    "Desconfianza y rechazo a proyectos gubernamentales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro de sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de pago por servicios ambientales"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro SIPAM de zona chinampera"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Venta a comercializadoras"
+    },
+    {
+      "actor": "Planta de tratamiento cerro de la estrella",
+      "accion": "Suministro de agua tratada"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de compuertas y esclusas"
+    },
+    {
+      "actor": "Gobierno franc\u00131\u00139s",
+      "accion": "Financiamiento de proyectos ambientales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programa maestro de manejo de agua"
+    },
+    {
+      "actor": "Universidades (UAM, UNAM)",
+      "accion": "Elaboraci\u00133n de estudios y programas"
+    },
+    {
+      "actor": "Comunidad local",
+      "accion": "Mantenimiento de ollas de captaci\u00133n"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci\u00133n de servicios a asentamientos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Manejo de vasos reguladores"
+    },
+    {
+      "actor": "Comisi\u0013f3n de Derechos Humanos",
+      "accion": "Resoluci\u0013f3n para reparar planta"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Acciones pedag\u0013f3gicas y l\u0013fdicas para nuevas generaciones"
+    },
+    {
+      "actor": "Productores y familias",
+      "accion": "Relleno de canales para ampliar parcelas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Censo de chinampas y canales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "INAH",
+      "accion": "Trabajo en declaraci\u0013f3n de sitio arqueol\u0013f3gico"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Gesti\u0013f3n de subsidios rurales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocatorias abiertas para proyectos comunitarios"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de monitoreo digital de niveles hidr\u00131ulicos"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de separaci\u0013f3n de aguas grises y negras"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de acopio tradicional de agua de lluvia"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Aceptaci\u0013f3n de pago por inundaci\u0013f3n de tierras"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "V\u0013ednculo de legitimidad para proyectos"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generaci\u0013f3n de zona de amortiguamiento patrimonial"
+    }
+  ],
+  "input_tokens": 13795,
+  "output_tokens": 1090,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación de los canales",
+    "Descargas de drenaje",
+    "Hundimiento de las chinampas",
+    "Falta de infraestructura de drenaje",
+    "Calidad del agua",
+    "Desdoblamiento de la sociedad"
+  ],
+  "Causas_principales": [
+    "Construcción de casas sin drenaje",
+    "Irregularidades en el gobierno",
+    "Falta de cumplimiento de normativas",
+    "Crecimiento urbano descontrolado",
+    "Descargas domiciliarias informales",
+    "Destrucción de la zona lacustre"
+  ],
+  "Consecuencias": [
+    "Aumento de la contaminación",
+    "Pérdida de biodiversidad",
+    "Problemas de salud pública",
+    "Deterioro de la calidad del agua",
+    "Inundaciones en barrios",
+    "Desplazamiento de especies nativas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno local",
+      "accion": "Proyectos de limpieza de canales"
+    },
+    {
+      "actor": "Delegación de Xochimilco",
+      "accion": "Realización de estudios de calidad de agua"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de México",
+      "accion": "Mantenimiento de drenajes"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participación en limpieza de canales"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservación"
+    },
+    {
+      "actor": "Instituciones educativas",
+      "accion": "Investigación sobre calidad del agua"
+    }
+  ],
+  "input_tokens": 25368,
+  "output_tokens": 278,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Mala calidad del agua",
+    "Desperdicio de agua por fugas",
+    "Falta de infraestructura adecuada",
+    "Riesgo de inundaciones",
+    "Problemas de abastecimiento de agua"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua y obsoleta",
+    "Desarrollo urbano no planificado",
+    "Pavimentación excesiva que impide la infiltración",
+    "Extracción de agua de pozos profundos",
+    "Contaminación de aguas por mezcla con aguas residuales"
+  ],
+  "Consecuencias": [
+    "Desabastecimiento de agua en algunas zonas",
+    "Inundaciones en épocas de lluvia",
+    "Grietas en viviendas",
+    "Problemas de salud por mala calidad del agua",
+    "Desplazamiento de comunidades por problemas de infraestructura"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Manejo de la infraestructura hidráulica"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Regulación y supervisión de pozos de agua"
+    },
+    {
+      "actor": "Comunidad de El Molino",
+      "accion": "Construcción de cisternas y pozos de infiltración"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Educación y concientización sobre el uso del agua"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigación y propuestas de soluciones sustentables"
+    }
+  ],
+  "input_tokens": 24914,
+  "output_tokens": 274,
+  "error": null,
+  "items_antes_de_tope": {}
+}

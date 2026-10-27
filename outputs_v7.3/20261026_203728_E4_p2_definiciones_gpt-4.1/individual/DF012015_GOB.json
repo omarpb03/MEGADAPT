@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Inundaciones en comunidades",
+    "Problemas con la calidad del agua",
+    "Baja presión de agua",
+    "Fugas en las redes"
+  ],
+  "Causas_principales": [
+    "Falta de inversión en infraestructura hidráulica",
+    "Proyectos urbanos sin contemplar infraestructura hidráulica",
+    "Terrenos baratos sin servicios",
+    "Recursos públicos insuficientes",
+    "Zonas alejadas de fuentes de agua"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren de abastecimiento de agua",
+    "Comunidades sufren inundaciones",
+    "Gente recibe muy poca agua a la semana",
+    "Mala calidad de agua en ciertas zonas",
+    "Costo elevado de introducir agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Presupuestos para infraestructura hidráulica"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Manejar fondos para vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuir agua con pipas"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Proyectos de rehabilitación de redes"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Proyectos de plantas potabilizadoras"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Invertir en infraestructura hidráulica"
+    }
+  ],
+  "input_tokens": 4218,
+  "output_tokens": 366,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032515_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Deslizamientos de talud en época de lluvias",
+    "Inundaciones en domicilios y barrancas",
+    "Reblandecimiento y deterioro del suelo",
+    "Taponamiento de drenaje y ríos por basura",
+    "Crecimiento de asentamientos en zonas de riesgo"
+  ],
+  "Causas_principales": [
+    "Corte de cerros y terraceo",
+    "Quema y tala de árboles",
+    "Mala canalización de aguas residuales",
+    "Uso de letrinas y descarga a barrancas",
+    "Basura en ríos y barrancas",
+    "Lluvias extraordinarias",
+    "Construcción de viviendas en zonas irregulares",
+    "Incendios que debilitan el suelo"
+  ],
+  "Consecuencias": [
+    "Deslizamientos de tierra",
+    "Inundaciones en viviendas",
+    "Desbordamiento de barrancas",
+    "Contaminación por aguas residuales",
+    "Daños a casas y personas",
+    "Enfermedades por contacto con agua contaminada",
+    "Evacuaciones y uso de albergues",
+    "Pérdida de pertenencias"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Protección Civil",
+      "accion": "Notificación a vecinos en riesgo"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Recomendaciones de mitigación de riesgo"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Trabajo preventivo continuo"
+    },
+    {
+      "actor": "Ecología",
+      "accion": "Limpieza de ríos y barrancas"
+    },
+    {
+      "actor": "Obras",
+      "accion": "Desazolve de drenaje y barrancas"
+    },
+    {
+      "actor": "Tenencia de la Tierra",
+      "accion": "Recorridos para evitar asentamientos"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Evacuación y apoyo en emergencias"
+    },
+    {
+      "actor": "Jurisdicción Sanitaria",
+      "accion": "Limpieza y desinfección con cloro y cal"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Campañas de información y trípticos"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Instalación de muros de contención"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Monitoreo pluviométrico"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Capacitaciones y talleres de prevención"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Recorridos de monitoreo en zonas vulnerables"
+    },
+    {
+      "actor": "Comité de Riesgos Hidrometereológicos",
+      "accion": "Canalización de apoyos por lluvia"
+    },
+    {
+      "actor": "Secretaría de Protección Civil",
+      "accion": "Dictámenes de riesgo y coordinación"
+    },
+    {
+      "actor": "SEDUVI y Medio Ambiente",
+      "accion": "Revisión para regularización de asentamientos"
+    },
+    {
+      "actor": "Desarrollo Social",
+      "accion": "Habilitación de albergues en emergencias"
+    }
+  ],
+  "input_tokens": 9278,
+  "output_tokens": 530,
+  "error": null,
+  "items_antes_de_tope": {}
+}

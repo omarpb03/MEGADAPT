@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Fugas de agua potable",
+    "Mala calidad del agua",
+    "Escasez de agua",
+    "Abastecimiento de agua",
+    "Inundaciones"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica obsoleta",
+    "Pavimentación excesiva",
+    "Mala gestión del agua",
+    "Falta de inversión pública",
+    "Crecimiento poblacional descontrolado"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua",
+    "Contaminación del agua",
+    "Grietas en viviendas",
+    "Inseguridad hídrica",
+    "Conflictos por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Organización para gestión del agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Instalación de plantas potabilizadoras"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Educación ambiental sobre agua"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigación sobre gestión del agua"
+    },
+    {
+      "actor": "Colectivos",
+      "accion": "Propuestas de infraestructura sustentable"
+    }
+  ],
+  "input_tokens": 25286,
+  "output_tokens": 214,
+  "error": null,
+  "items_antes_de_tope": {}
+}

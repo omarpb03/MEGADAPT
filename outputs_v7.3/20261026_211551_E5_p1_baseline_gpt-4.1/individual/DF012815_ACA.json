@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones recurrentes en la ciudad",
+    "Dotación inadecuada de agua potable",
+    "Escasez de agua en colonias",
+    "Calidad deficiente del agua",
+    "Pérdidas de agua en redes",
+    "Infraestructura vieja y fracturada",
+    "Manejo político de la dotación",
+    "Desigualdades en acceso al agua",
+    "Expansión urbana en zonas de recarga"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano sin previsión",
+    "Asentamientos en zonas de recarga",
+    "Decisiones políticas sin visión técnica",
+    "Falta de planeación urbana actualizada",
+    "Sobreexplotación de mantos freáticos",
+    "Perdida de áreas de conservación",
+    "Infraestructura obsoleta de agua",
+    "Extracción mayor que recarga",
+    "Fugas y pérdidas en tuberías",
+    "Negocio y control político del agua",
+    "Corrupción en otorgamiento de permisos"
+  ],
+  "Consecuencias": [
+    "Hundimiento del suelo",
+    "Escasez de agua en zonas urbanas",
+    "Calidad mala del agua en oriente",
+    "Dotación por tandeo y pipas",
+    "Degradación de servicios urbanos",
+    "Desigualdad entre colonias",
+    "Conflictos sociales por agua",
+    "Inundaciones persistentes",
+    "Recarga del acuífero casi nula",
+    "Servicios deteriorados en asentamientos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comisión Hidrológica/Cuenca",
+      "accion": "Extracción de pozos profundos"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad",
+      "accion": "Dotación operativa de agua potable"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo y pipas"
+    },
+    {
+      "actor": "Coordinador Territorial",
+      "accion": "Manejo local de servicios"
+    },
+    {
+      "actor": "Jefes delegacionales",
+      "accion": "Coordinación tandeo por votos"
+    },
+    {
+      "actor": "Población asentamientos irregulares",
+      "accion": "Negocia servicios por votos"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Cambia usos del suelo"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Negocian permisos por favores"
+    },
+    {
+      "actor": "Residentes organizados",
+      "accion": "Presionan para servicios"
+    },
+    {
+      "actor": "Académicos",
+      "accion": "Realizan estudios de agua"
+    },
+    {
+      "actor": "Empresa privada",
+      "accion": "Instalación de medidores de agua"
+    },
+    {
+      "actor": "Partidos políticos",
+      "accion": "Controlan servicios para votos"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Renueva infraestructura selectivamente"
+    }
+  ],
+  "input_tokens": 9584,
+  "output_tokens": 509,
+  "error": null,
+  "items_antes_de_tope": {}
+}

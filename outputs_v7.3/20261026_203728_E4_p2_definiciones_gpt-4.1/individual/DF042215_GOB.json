@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones súbitas en zonas urbanas",
+    "Zonas susceptibles de inundación",
+    "Falta de divulgación de mapas de peligro",
+    "Saturación y falta de mantenimiento del drenaje",
+    "Acumulación de basura en alcantarillas",
+    "Crecimiento urbano desordenado",
+    "Falta de información oficial y validada",
+    "Dificultad de acceso a información de riesgo"
+  ],
+  "Causas_principales": [
+    "Lluvias intensas y eventos extremos",
+    "Desbordamiento de ríos y cuerpos de agua",
+    "Sistema de drenaje insuficiente",
+    "Falta de mantenimiento del alcantarillado",
+    "Acumulación de basura en drenaje",
+    "Crecimiento vertical y cambio de uso de suelo",
+    "Falta de cultura de la población",
+    "Falta de colaboración entre instituciones",
+    "Información no compartida por autoridades locales"
+  ],
+  "Consecuencias": [
+    "Pérdidas humanas por inundaciones",
+    "Afectaciones a la movilidad urbana",
+    "Daños a infraestructura y viviendas",
+    "Pérdida de tiempo en traslados",
+    "Aumento de temperatura urbana",
+    "Mayor vulnerabilidad de ciertas zonas",
+    "Desinformación de la población",
+    "Falta de preparación ante inundaciones"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificación de zonas susceptibles"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaboración de mapas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgación de infografías educativas"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Compilación de información oficial"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Validación de eventos históricos"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generación de base de datos de vulnerabilidad"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Emisión de recomendaciones técnicas"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Solicitud de apoyo para mapas de peligro"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Implementación de obras preventivas"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Levantamiento de bordos y obras hidráulicas"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Identificación de zonas problemáticas"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Participación en encuestas de percepción"
+    },
+    {
+      "actor": "Sedatu/Sedesol",
+      "accion": "Financiamiento de atlas de riesgo"
+    },
+    {
+      "actor": "Conagua",
+      "accion": "Provisión de información hidrometeorológica"
+    },
+    {
+      "actor": "Protección Civil estatal/municipal",
+      "accion": "Compilación y entrega de datos oficiales"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Aplicación de metodologías de percepción"
+    },
+    {
+      "actor": "Cenapred y autoridades locales",
+      "accion": "Organización de jornadas regionales"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Revisión y depuración de bases de datos"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Divulgación de información a la población"
+    },
+    {
+      "actor": "Sedatu",
+      "accion": "Apoyo a delegaciones para atlas de riesgo"
+    }
+  ],
+  "input_tokens": 15088,
+  "output_tokens": 608,
+  "error": null,
+  "items_antes_de_tope": {}
+}

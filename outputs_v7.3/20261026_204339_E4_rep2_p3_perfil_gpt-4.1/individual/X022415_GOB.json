@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua en canales",
+    "Mala calidad del agua tratada",
+    "Cantidad insuficiente de agua",
+    "Hundimientos diferenciales",
+    "Fugas de agua en canales",
+    "Inundaciones en zonas chinamperas",
+    "Abandono de chinampas",
+    "Desarraigo de nuevas generaciones"
+  ],
+  "Causas_principales": [
+    "Descargas de aguas negras de asentamientos irregulares",
+    "Drenajes afectados por hundimientos diferenciales",
+    "Uso excesivo de pesticidas y agroquimicos en invernaderos",
+    "Residuos de la cuenca lechera y ganado",
+    "Falta de mantenimiento en plantas de tratamiento",
+    "Fugas identificadas en canales",
+    "Falta de coordinacion institucional",
+    "Decisiones aisladas de sistema de aguas",
+    "Tecnologias no adaptadas a condiciones locales",
+    "Venta de agua tratada a industrias",
+    "Falta de arraigo en nuevas generaciones"
+  ],
+  "Consecuencias": [
+    "Dificultad para comercializar productos",
+    "Abaratamiento de productos chinamperos",
+    "Impacto negativo en economia local",
+    "Abandono de la chinampa",
+    "Pérdida de biodiversidad",
+    "Inundaciones de viveros y perdida de cultivos",
+    "Zonas degradadas y contaminadas",
+    "Potenciales riesgos de salud",
+    "Turismo afectado por agua sucia",
+    "Desinteres por trabajar la tierra"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento de canales y apantles"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Construccion de barreras para filtrar agua"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Reactivacion chinampera con refugios de biodiversidad"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Coordinacion con dependencias y academia"
+    },
+    {
+      "actor": "Instituto de biologia UNAM",
+      "accion": "Estudios de calidad y cantidad de agua"
+    },
+    {
+      "actor": "UAM y UNAM",
+      "accion": "Definir criterios para manejo de especies"
+    },
+    {
+      "actor": "Sistema de aguas CDMX",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Delegacion y productores",
+      "accion": "Manejo de esclusas en canales"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Catalogacion y mapeo de chinampas"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Propuestas de ordenamiento territorial"
+    },
+    {
+      "actor": "Productores y chefs",
+      "accion": "Turismo alternativo en chinampas"
+    },
+    {
+      "actor": "Prestadores de servicios turisticos",
+      "accion": "Peticiones para regular calidad del agua"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Promocion de mega coloquio participativo"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Propuestas de manejo integral de lagos"
+    }
+  ],
+  "input_tokens": 12431,
+  "output_tokens": 784,
+  "error": null,
+  "items_antes_de_tope": {}
+}

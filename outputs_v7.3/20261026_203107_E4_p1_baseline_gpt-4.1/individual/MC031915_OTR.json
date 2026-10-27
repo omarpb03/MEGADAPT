@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en las casas",
+    "Tandeo del agua por días",
+    "Fugas frecuentes en la tubería",
+    "Desperdicio de agua en ojo de agua",
+    "Dificultad para obtener agua potable",
+    "Problemas para captar agua de lluvia",
+    "Temor a que el agua se desvíe a zonas residenciales",
+    "Falta de información sobre obras hidráulicas"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano acelerado",
+    "Expropiación y venta de tierras ejidales",
+    "Aumento de la población",
+    "Tubería muy vieja",
+    "Desperdicio de agua en nacimientos",
+    "Falta de mantenimiento en infraestructura",
+    "Expansión de la mancha urbana",
+    "Falta de compromiso para captar agua de lluvia"
+  ],
+  "Consecuencias": [
+    "Días sin agua en las casas",
+    "Batallar para obtener agua",
+    "Gasto en construcción de cisternas",
+    "Compra de agua en garrafón",
+    "Desigualdad en acceso al agua",
+    "Pérdida de usos y costumbres",
+    "Ejidatarios sin tierras ni casa",
+    "Contaminación por aguas residuales",
+    "Inundaciones en colonias del centro",
+    "Pérdida de zonas agrícolas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación",
+      "accion": "Controlar el tandeo del agua"
+    },
+    {
+      "actor": "Sistema de aguas",
+      "accion": "Arreglar fugas reportadas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Reportar fugas y problemas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Construir cisternas y tinacos"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Captar agua de lluvia en tinas ciegas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Solicitar cisternas y apoyo"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Introducir tubería y tanques"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Realizar faenas para servicios"
+    },
+    {
+      "actor": "Comisiones del pueblo",
+      "accion": "Solicitar información y negociar"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Construir presas para captación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Organizar reuniones informativas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Comprar agua en garrafón"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Cerrar compuertas de presas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Vender productos del invernadero"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Impulsar granjas y dar animales"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Proporcionar tractores y apoyo"
+    },
+    {
+      "actor": "CONAFOR",
+      "accion": "Dar apoyo para limpieza"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Delimitar zona ecológica"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Hacer reuniones y asambleas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Mejorar suministro en campañas"
+    }
+  ],
+  "input_tokens": 9433,
+  "output_tokens": 578,
+  "error": null,
+  "items_antes_de_tope": {}
+}

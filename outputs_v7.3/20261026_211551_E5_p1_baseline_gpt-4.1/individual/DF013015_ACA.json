@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento de agua",
+    "Mala calidad del agua",
+    "Costos elevados para personas pobres",
+    "Falta de servicios básicos en viviendas",
+    "Distribución desigual del agua",
+    "Tandeo de agua",
+    "Agua de mala calidad en zonas periféricas",
+    "Contaminación de aguas freáticas",
+    "Inundaciones y encharcamientos",
+    "Falta de mantenimiento y regularización",
+    "Falta de articulación institucional"
+  ],
+  "Causas_principales": [
+    "Ciudad construida sobre un lago",
+    "Extracción de agua del subsuelo",
+    "Abastecimiento del agua por cuencas externas",
+    "Falta de coordinación interinstitucional",
+    "Visión de la ciudad para quien puede pagar",
+    "Problemas de ubicación de viviendas",
+    "Decisiones fragmentadas entre instituciones",
+    "Corrupción en otorgamiento de permisos",
+    "Falta de estudios de impacto ambiental reales",
+    "Venta de terrenos ex-ejidales",
+    "Crecimiento poblacional sin control",
+    "Políticas parciales del gobierno",
+    "Falta de cultura y capacitación ambiental",
+    "Percepción de que todo lo resuelve el gobierno"
+  ],
+  "Consecuencias": [
+    "Dificultad de acceso al agua potable",
+    "Gasto elevado en agua embotellada",
+    "Dependencia de pipas de agua",
+    "Deterioro de viviendas por encharcamientos",
+    "Fracturas en viviendas por grietas",
+    "Abandonos de viviendas",
+    "Espera de reubicación de familias",
+    "Impacto a la salud por mala calidad del agua",
+    "Desequilibrios sociales y desigualdad",
+    "Contaminación del subsuelo",
+    "Problemas de convivencia por falta de servicios",
+    "Abandono de viviendas inhabitables",
+    "Conflictos sociales y movilizaciones",
+    "Desechos sólidos y escombros rellenando barrancas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Realizar marchas y plantones"
+    },
+    {
+      "actor": "Autoridades delegacionales",
+      "accion": "Distribuir agua en pipas"
+    },
+    {
+      "actor": "Entes gubernamentales",
+      "accion": "Otorgar crédito para vivienda"
+    },
+    {
+      "actor": "Empresas constructoras",
+      "accion": "Desarrollar viviendas formales"
+    },
+    {
+      "actor": "ONG y academia",
+      "accion": "Asesorar en proyectos de mejoramiento"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Poner pozos de captación de lluvia"
+    },
+    {
+      "actor": "Cooperativas de vecinos",
+      "accion": "Reciclar PET y residuos"
+    },
+    {
+      "actor": "ONG y organizaciones vecinales",
+      "accion": "Hacer composta y proyectos ecológicos"
+    },
+    {
+      "actor": "Delegaciones y municipios",
+      "accion": "Dar licencias sin evaluación de riesgo"
+    },
+    {
+      "actor": "Habitantes populares",
+      "accion": "Negociar regularización de colonias"
+    },
+    {
+      "actor": "Mujeres de la comunidad",
+      "accion": "Acarrear y almacenar agua"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Organizar luchas por servicios"
+    },
+    {
+      "actor": "Gobierno central D.F",
+      "accion": "Invertir en pozos y obras hidráulicas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Gestionar recursos para mejoras"
+    },
+    {
+      "actor": "Escuela de Maristas",
+      "accion": "Educar sobre reciclaje ambiental"
+    },
+    {
+      "actor": "Asamblea comunitaria",
+      "accion": "Gestionar proyectos colectivos"
+    }
+  ],
+  "input_tokens": 18128,
+  "output_tokens": 917,
+  "error": null,
+  "items_antes_de_tope": {}
+}

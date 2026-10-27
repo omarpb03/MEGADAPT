@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Intereses inmobiliarios",
+    "Asentamientos humanos irregulares"
+  ],
+  "Causas_principales": [
+    "Intereses políticos y económicos",
+    "Descoordinación institucional",
+    "Falta de apoyo al campo",
+    "Políticas de urbanización distorsionadas"
+  ],
+  "Consecuencias": [
+    "Conflictos por recursos hídricos",
+    "Proyectos productivos insostenibles",
+    "Gentrificación en zonas urbanas",
+    "Debilitamiento de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Gestionar servicios para comunidades"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Implementar proyectos de conservación"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Fortalecer instituciones comunitarias"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Captar agua de lluvia"
+    }
+  ],
+  "input_tokens": 10077,
+  "output_tokens": 187,
+  "error": null,
+  "items_antes_de_tope": {}
+}

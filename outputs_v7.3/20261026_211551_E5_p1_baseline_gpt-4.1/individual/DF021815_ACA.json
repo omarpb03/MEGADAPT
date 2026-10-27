@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desigualdad en distribución de agua",
+    "Falta de calidad del agua potable",
+    "Gestión opaca y politizada",
+    "Déficit de drenaje pluvial y alcantarillado",
+    "Desconfianza en el agua de la llave",
+    "Presiones inmobiliarias sobre el recurso",
+    "Vulnerabilidad a inundaciones urbanas"
+  ],
+  "Causas_principales": [
+    "Incapacidad de gestión del recurso",
+    "Intereses particulares y patrimonialismo",
+    "Arreglos opacos internos",
+    "Ausencia de manejo de la demanda",
+    "Esquema tarifario inequitativo",
+    "Presiones de lobbies inmobiliarios",
+    "Expansión urbana informal",
+    "Falta de inversión en drenaje pluvial",
+    "Topografía alterada por extracción de agua"
+  ],
+  "Consecuencias": [
+    "Disparidad en acceso al agua",
+    "Costo elevado para grupos desfavorecidos",
+    "Falta de servicio continuo en colonias",
+    "Desarrollo irregular sin servicios formales",
+    "Enfermedades por mala calidad del agua",
+    "Brotes de cólera y epidemias",
+    "Consolidación de asentamientos en zonas vulnerables",
+    "Inundaciones recurrentes en barrios pobres",
+    "Reacciones y protestas vecinales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Aprobación de licencias de agua"
+    },
+    {
+      "actor": "Grupos inmobiliarios",
+      "accion": "Presión para asegurar suministro"
+    },
+    {
+      "actor": "Delegados políticos",
+      "accion": "Asignación de servicios según interés"
+    },
+    {
+      "actor": "Vecinos y pobladores",
+      "accion": "Protestas y presión por acceso"
+    },
+    {
+      "actor": "Sistema de Aguas y gobierno",
+      "accion": "Instalación de redes tras asentamiento"
+    },
+    {
+      "actor": "Autoridades centrales",
+      "accion": "Negociación con grupos de poder"
+    },
+    {
+      "actor": "Empresas de agua embotellada",
+      "accion": "Promoción de desconfianza en red pública"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Visibilizar problemas de inundación"
+    },
+    {
+      "actor": "Desarrolladores de vivienda",
+      "accion": "Compra de terrenos ejidales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Construcción de infraestructura pluvial"
+    },
+    {
+      "actor": "Consorcios industriales",
+      "accion": "Aseguran agua para su negocio"
+    },
+    {
+      "actor": "Pobladores de zonas irregulares",
+      "accion": "Ocupar ex pueblos por servicios"
+    }
+  ],
+  "input_tokens": 13810,
+  "output_tokens": 479,
+  "error": null,
+  "items_antes_de_tope": {}
+}

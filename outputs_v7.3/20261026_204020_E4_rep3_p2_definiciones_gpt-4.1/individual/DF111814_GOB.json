@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Falta de infiltraci\u0013n al manto acu\u0013fero",
+    "Escasez temporal de agua",
+    "Retenci\u0013n de agua en suelo de conservaci\u0013n"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la poblaci\u0013n",
+    "Tecnolog\u0013a y urbanizaci\u0013n",
+    "Falta de cultura en el usuario",
+    "Dispendio de agua",
+    "Deforestaci\u0013n",
+    "Cambios clim\u0013aticos",
+    "Actividad humana en el bosque"
+  ],
+  "Consecuencias": [
+    "Insuficiencia de agua para la ciudad",
+    "Afectaci\u0013n al residente por no aprovechar el agua",
+    "Temporadas de estiaje con escurrimientos secos",
+    "Alteraciones en el ambiente",
+    "Desertificaci\u0013n y deforestaci\u0013n"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Obras para retener agua"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Apoyos econ\u0013micos para conservaci\u0013n"
+    },
+    {
+      "actor": "CORENA",
+      "accion": "Capacitaci\u0013n y talleres sobre agua"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gesti\u0013n del agua urbana"
+    },
+    {
+      "actor": "Comunidades agrarias",
+      "accion": "Mantenimiento de humedad en suelos"
+    },
+    {
+      "actor": "Secretar\u0013a de Medio Ambiente",
+      "accion": "Programas de conservaci\u0013n del suelo"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigaci\u00133n en sanidad forestal"
+    }
+  ],
+  "input_tokens": 14082,
+  "output_tokens": 491,
+  "error": null,
+  "items_antes_de_tope": {}
+}

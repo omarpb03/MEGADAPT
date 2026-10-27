@@ -1,0 +1,360 @@
+﻿Id_entrevista,prompt_variant,Preocupacion_principal_acerca_del_agua,Causas_principales,Consecuencias,Acciones_y_Actores_que_realizan_dichas_acciones
+DF012015_GOB,p3_perfil,"Abastecimiento de agua
+Inundaciones
+Calidad del agua","Falta de inversión en infraestructura
+Programas sociales sin servicios
+Mala planificación urbana","Comunidades sufren escasez
+Aumento de inundaciones
+Costos elevados de vivienda","Gobierno: Destinar presupuesto a infraestructura
+INVI: Proveer vivienda a bajo costo
+CONAGUA: Implementar proyectos de potabilización
+Gobierno: Invertir 18 mil millones en agua"
+DF012815_ACA,p3_perfil,"Obtención y distribución del agua
+Calidad del agua
+Escasez de agua
+Crecimiento inadecuado de la ciudad
+Asentamientos irregulares","Crecimiento de la ciudad
+Falta de previsión en infraestructura
+Decisiones políticas absurdas
+Extracción excesiva de agua
+Pérdidas en redes de agua","Disminución de la recarga de agua
+Problemas de abastecimiento
+Desigualdades en el acceso al agua
+Dependencia de pipas para el suministro
+Conflictos sociales por el agua","Gobierno: Implementar infraestructura de agua
+SACMEX: Gestionar dotación de agua
+Inversionistas privados: Concesionar servicios de agua
+Comunidades: Protestar por acceso al agua"
+DF013015_ACA,p3_perfil,"Falta de agua en zonas periféricas
+Calidad del agua
+Costos altos del agua
+Falta de coordinación institucional
+Discriminación en el acceso al agua","Extracción de agua del subsuelo
+Falta de infraestructura adecuada
+Corrupción en permisos de construcción
+Políticas de vivienda inadecuadas
+Desigualdad social en el acceso al agua","Desigualdad en el acceso al agua
+Contaminación del agua
+Inundaciones y encharcamientos
+Deterioro de viviendas
+Conflictos sociales por el agua","Movimiento Urbano Popular: Gestionar servicios básicos
+Gobierno local: Proveer agua en pipas
+Comunidades organizadas: Protestar por acceso al agua
+ONGs: Apoyar proyectos comunitarios
+Gobierno: Instalar pozos de captación de agua"
+DF020415_ACA,p3_perfil,"Riesgo en la ciudad
+Acceso a bienes urbanos
+Calidad de vida
+Construcción del hábitat","Políticas públicas urbanas
+Inversión privada
+Corrupción y tráfico de influencias
+Desarrollo urbano neoliberal","Alteración del medio ambiente
+Aumento del riesgo
+Desigualdad en el acceso a servicios
+Impacto en la calidad de vida","Movimiento urbano popular: Lucha por vivienda y servicios
+Organizaciones vecinales: Protestas y propuestas al gobierno
+ONG’s de vivienda: Asesoría y apoyo a movimientos
+Gobierno del D.F: Implementación de programas de vivienda"
+DF021215_ACA,p3_perfil,"Escasez de agua
+Control de piperos
+Calidad del agua
+Problemática del agua constante","Intereses inmobiliarios
+Descoordinación institucional
+Desmantelamiento de políticas rurales
+Falta de estudios de factibilidad","Conflictos por recursos
+Gentrificación
+Proyectos distorsionados
+Presión urbana sobre comunidades","Gestores comunitarios: Gestionar servicios para asentamientos
+ONGs: Proyectos de captación de agua
+Comunidades: Captación de agua de lluvia
+Gobierno: Fortalecer instituciones comunitarias"
+DF021815_ACA,p3_perfil,"Desconfianza en la calidad del agua
+Escasez de agua en ciertas zonas
+Inequidad en el acceso al agua
+Problemas de inundaciones en la ciudad","Mala gestión del recurso hídrico
+Intereses políticos y económicos
+Desigualdad en la distribución del agua
+Falta de infraestructura adecuada","Aumento de enfermedades por agua contaminada
+Desplazamiento de comunidades por falta de agua
+Inundaciones recurrentes en zonas vulnerables
+Desconfianza generalizada en el sistema de agua","Gobierno: Implementar políticas de gestión del agua
+Comités de colonias: Crear interlocutores para el sistema de agua
+Investigadores: Estudiar la calidad y distribución del agua
+Ciudadanos: Protestar por el acceso al agua"
+DF022515_ACA,p3_perfil,"Escasez de agua en la ciudad
+Inundaciones en ciertas zonas
+Complejidad del fenómeno urbano
+Problemática de agua en la zona conurbada","Población flotante que utiliza servicios
+Fuentes de abastecimiento diversas
+Acuífero metropolitano limitado
+Desigualdad en el acceso al agua","Crisis del agua en ciertas zonas
+Riesgo hídrico ya ocurre
+Escasez e inundación simultáneas",
+DF022615_ACA,p3_perfil,"Desperdicio de agua
+Falta de cultura del agua
+Problemas de acceso al agua
+Contaminación del agua
+Salinización del agua","Construcción sin reciclaje de agua
+Desinterés del gobierno
+Uso de aguas negras
+Corrupción en distribución de agua
+Falta de normatividad y supervisión","Desigualdad en acceso al agua
+Contaminación de fuentes de agua
+Problemas de salud por agua no tratada
+Dificultades para la agricultura
+Aumento de la pobreza","Gobierno: Propuestas de cambio en uso de agua
+Comunidad: Almacenamiento de agua en cisternas
+Investigadores: Estudios sobre calidad de agua
+ONGs: Restauración ecológica y educación sobre agua"
+DF031215_ACA,p3_perfil,"Abastecimiento irregular de agua
+Inundaciones frecuentes
+Calidad del agua
+Distribución desigual del agua","Falta de infraestructura adecuada
+Crecimiento urbano descontrolado
+Prioridades políticas sesgadas
+Discrecionalidad en el suministro","Desabasto de agua en colonias
+Aumento de inundaciones
+Conflictos por el agua
+Desigualdad en el acceso al agua","Gobierno: Implementación de tandeo
+Comunidades organizadas: Defensa de derechos de agua
+Secretaría de Medio Ambiente: Defensa de proyectos urbanísticos
+Vecinos: Protestas por desabasto"
+DF042115_GOB,p3_perfil,"Abastecimiento de agua
+Calidad del agua
+Contaminación del agua
+Efectos de eventos extremos","Crecimiento de la población
+Extracción de acuíferos
+Construcción descontrolada
+Falta de mantenimiento de infraestructura
+Desconfianza en el agua potable","Problemas de salud
+Aumento de enfermedades respiratorias
+Falta de higiene
+Interrupciones en el suministro de agua
+Vulnerabilidad de asentamientos irregulares","Gobierno local: Construcción de infraestructura de regulación
+Cenapred: Instalación de estaciones meteorológicas
+Gobierno del DF: Desarrollo de políticas de captación de agua
+Comisión Nacional del Agua: Monitoreo de calidad del agua
+Organizaciones no gubernamentales: Propuestas para restaurar cuerpos de agua"
+DF042215_GOB,p3_perfil,"Inundaciones por lluvias intensas
+Zonas susceptibles a inundaciones
+Falta de información sobre inundaciones
+Sistemas de drenaje insuficientes
+Basura en drenajes y alcantarillas
+Cambio climático y lluvias intensas
+Falta de mantenimiento en infraestructura","Crecimiento urbano descontrolado
+Basura acumulada en drenajes
+Falta de cultura de cuidado
+Sistemas de drenaje obsoletos
+Cambio en patrones de precipitación
+Falta de información oficial
+Falta de colaboración entre instituciones","Aumento de inundaciones en la ciudad
+Pérdidas humanas por inundaciones
+Afectaciones a la movilidad
+Daños a la infraestructura
+Pérdida de confianza en autoridades
+Desinformación en la población","Cenapred: Mapear zonas de inundación
+Cenapred: Divulgar información sobre inundaciones
+Gobierno local: Realizar obras de infraestructura
+Cenapred: Elaborar infografías educativas
+Cenapred: Generar base de datos de vulnerabilidad
+Comunidades: Identificar problemas locales de inundación
+Sedesol: Financiar atlas de riesgo"
+DF042415_GOB,p3_perfil,"Inundaciones
+Escasez de agua
+Enfermedades derivadas de inundaciones
+Contaminación del agua","Cambio climático
+Infraestructura inadecuada
+Falta de servicios sanitarios
+Pobreza y vulnerabilidad social","Enfermedades de la piel
+Enfermedades gástricas
+Irritaciones de mucosas
+Subregistro de enfermedades","Secretaría de Salud: Campañas de prevención y vacunación
+Protección Civil: Evacuación y limpieza de casas
+Gobierno del D.F: Provisión de agua potable y cloro
+Brigadas de salud: Fumigación y desinfección"
+DF111814_GOB,p3_perfil,"Suministro del agua
+Demanda exagerada de agua
+Falta de cultura en el uso del agua
+Escurrimiento del agua
+Escasez de agua en temporada seca","Crecimiento de la población
+Tecnología que consume más agua
+Urbanización descontrolada
+Falta de infraestructura
+Abuso en el uso del agua","Escasez de agua en la ciudad
+Afectación a la calidad de vida
+Conflictos por el uso del agua
+Dificultades en la conservación del suelo
+Impacto en la sanidad forestal","CORENA: Incentivar conservación del suelo
+Sistema de Aguas de la Ciudad de México: Gestionar suministro de agua
+Secretaría de Medio Ambiente: Realizar obras de retención de agua
+Comunidades: Mantener áreas en buenas condiciones de humedad"
+I021415_OTR,p3_perfil,"Abastecimiento de agua
+Calidad del agua
+Agua como bandera política
+Agua en tiempos de sequía
+Distribución del agua
+Corrupción en el manejo del agua","Asentamientos irregulares
+Falta de compromiso gubernamental
+Políticas públicas inadecuadas
+Corrupción en la distribución
+Condiciones geográficas desfavorables
+Desigualdad en el acceso al agua","Escasez de agua
+Agua de mala calidad
+Protestas y movilizaciones
+Desperdicio de agua
+Problemas de salud en la comunidad
+Desigualdad en el acceso al agua","Comunidad: Protestas por el agua
+Gobierno: Condonación de pagos de agua
+Organizaciones: Defensa del agua
+Comunidad: Recolección de agua de lluvia
+Comunidad: Reutilización de agua
+Comunidad: Organización para el uso del agua"
+I032615_OTR,p3_perfil,"Fugas de agua potable
+Mala calidad del agua
+Escasez de agua
+Inundaciones en la zona
+Problemas de infraestructura hidráulica","Infraestructura hidráulica antigua
+Mala administración del agua
+Pavimentación excesiva
+Falta de captación de agua de lluvia
+Crecimiento poblacional descontrolado","Desperdicio de agua
+Contaminación del agua
+Grietas en viviendas
+Inseguridad hídrica
+Problemas de salud por agua contaminada","Gobierno del DF: Instalación de plantas potabilizadoras
+Comunidad: Construcción de cisternas de captación
+Organizaciones comunitarias: Educación ambiental sobre el agua
+CONAGUA: Manejo de pozos de agua
+Instituciones educativas: Proyectos de saneamiento y captación de agua"
+MC031915_OTR,p3_perfil,"Escasez de agua
+Calidad del agua
+Problemas de tandeo
+Fugas en tuberías
+Acceso al agua potable","Crecimiento urbano descontrolado
+Antigua infraestructura de agua
+Desperdicio de agua
+Expropiaciones de tierras
+Falta de información del gobierno","Dificultad para obtener agua
+Aumento en costos de agua
+Conflictos comunitarios
+Dependencia de agua embotellada
+Problemas de salud por agua contaminada","Gobierno: Regular el suministro de agua
+Comunidad: Reuniones para informar sobre agua
+Ejidatarios: Construcción de cisternas
+Delegación: Mantenimiento de tuberías
+Comisión del Pueblo: Solicitar información al gobierno"
+MC032415_GOB,p3_perfil,"Escasez de agua
+Fugas en tuberías
+Contaminación del agua
+Suministro irregular de agua
+Deforestación y tala clandestina
+Basura en ríos y manantiales
+Necesidad de infraestructura adecuada","Agotamiento de fuentes de abastecimiento
+Tala clandestina
+Fugas en tuberías viejas
+Crecimiento urbano descontrolado
+Falta de reforestación
+Basura arrastrada por lluvias
+Falta de conciencia ambiental","Desabasto de agua en temporadas de estiaje
+Contaminación del agua potable
+Inundaciones en zonas bajas
+Reducción de la calidad del agua
+Conflictos comunitarios por el agua
+Dificultades en el suministro de agua","Sistema de Aguas: Sustitución de tuberías viejas
+Gobierno local: Programas de reforestación
+Comunidad: Participación en limpieza de ríos
+Sistema de Aguas: Monitoreo de calidad del agua
+Delegación: Limpieza de cauces y barrancas
+Comunidad: Solicitud de pipas de agua"
+MC032515_GOB,p3_perfil,"Deslizamientos de talud
+Inundaciones en domicilios
+Riesgos en asentamientos irregulares
+Contaminación por desbordamientos","Cortes a los cerros
+Terraceo inadecuado
+Quema de raíces de árboles
+Basura en ríos y barrancas","Deslizamientos de tierra
+Inundaciones en viviendas
+Deterioro del suelo
+Riesgos para la salud","Protección Civil: Notificación a vecinos sobre riesgos
+Ecología: Limpieza de ríos y barrancas
+Dirección General de Tenencia de la Tierra: Recorridos para evitar asentamientos
+Protección Civil: Recomendaciones de mitigación a la población
+Secretaría de Protección Civil: Evaluación de riesgos en asentamientos"
+MC042415_OTR,p3_perfil,"Contaminación del agua
+Escasez de agua
+Calidad del agua
+Crecimiento urbano descontrolado","Asentamientos humanos irregulares
+Falta de educación ambiental
+Crecimiento urbano no planeado
+Contaminación por basura","Pérdida de recursos hídricos
+Contaminación de mantos freáticos
+Destrucción de ecosistemas
+Problemas de salud","Ejido: Construcción de presas filtrantes
+Ejido: Proyectos de reforestación
+Gobierno: Programas de conservación limitados
+Ejido: Proyectos de pozos filtrantes
+Ejido: Cinturón ecológico para proteger el bosque
+Ejido: Educación ambiental a la comunidad"
+X011915_GOB,p3_perfil,"Contaminación en los canales
+Descargas de drenaje
+Hundimiento de chinampas
+Falta de infraestructura de drenaje
+Desdoblamiento de la sociedad","Construcción de casas sin drenaje
+Corrupción en permisos
+Falta de cumplimiento de normativas
+Destrucción de la zona lacustre
+Cambio de uso de suelo","Aumento de la contaminación
+Pérdida de recursos hídricos
+Problemas de salud pública
+Destrucción del ecosistema
+Inundaciones en barrios","Gobierno local: Implementar proyectos de limpieza
+Delegación de Xochimilco: Realizar limpieza de canales
+Sistemas de Aguas de la Ciudad de México: Monitorear calidad del agua
+Comunidad: Participar en limpieza de canales
+SEDEREC: Proyectos productivos de conservación"
+X022415_ACA,p3_perfil,"Problemas de abastecimiento de agua
+Contaminación de fuentes de agua
+Acceso desigual al agua
+Impacto de la urbanización en el agua","Extracción de acuíferos
+Modificaciones culturales y físicas
+Decisiones políticas y económicas
+Falta de regulación en el uso de agua","Deterioro de ríos
+Pérdida de tierras agrícolas
+Desplazamiento de comunidades
+Aumento de vulnerabilidades sociales","Gobierno del D.F: Promoción de producción orgánica
+Productores locales: Defensa de recursos hídricos
+ONGs: Educación ambiental y sensibilización
+Comisión de Cuenca: Regulación del uso de agua"
+X022415_GOB,p3_perfil,"Contaminación del agua
+Fugas en el sistema
+Calidad del agua
+Acceso insuficiente al agua","Asentamientos irregulares
+Uso de pesticidas y agroquímicos
+Fugas en el sistema de drenaje
+Desecación de humedales
+Descoordinación institucional","Impacto en la producción agrícola
+Pérdida de biodiversidad
+Problemas de salud pública
+Deterioro del turismo
+Abandono de chinampas","Autoridad de la Zona Patrimonio Mundial: Coordinar políticas de gestión
+Productores locales: Implementar tratamientos de agua
+Instituto de Biología de la UNAM: Realizar estudios de calidad de agua
+Secretaría de Medio Ambiente: Regular el uso del agua
+Comunidad local: Restaurar chinampas y ecosistemas"
+X042315_GOB,p3_perfil,"Desaparición de lagos y humedales
+Falta de niveles hidráulicos
+Contaminación del agua
+Hundimientos diferenciales
+Explotación de agua subterránea","Construcción del nuevo aeropuerto
+Explotación de pozos y ojos de agua
+Cierre de casa de bombas
+Crecimiento urbano descontrolado
+Asentamientos irregulares","Pérdida de producción agrícola
+Aumento de la temperatura en la zona
+Contaminación de aguas
+Desaparición de tradiciones culturales
+Desigualdad en el acceso al agua","SEMARNAT: Registrar zona como sitio Ramsar
+Gobierno local: Proponer infraestructura para conservar agua
+Chinamperos: Mantener producción agrícola tradicional
+Universidades: Elaborar programas de manejo ambiental
+Organizaciones sociales: Promover iniciativas comunitarias"

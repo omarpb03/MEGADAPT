@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del río Eslava",
+    "Escasez de agua potable",
+    "Destrucción de manantiales y canales",
+    "Calidad del agua de consumo",
+    "Cuidado de mantos freáticos",
+    "Recarga de mantos acuíferos",
+    "Pérdida de suelo de conservación"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Asentamientos humanos irregulares",
+    "Falta de planeación urbana",
+    "Falta de educación en la población",
+    "Basura y contaminación humana",
+    "Falta de inversión gubernamental",
+    "Ganado defecando en los cerros"
+  ],
+  "Consecuencias": [
+    "Río convertido en drenaje",
+    "Agua contaminada",
+    "Disminución de presión y cantidad de agua",
+    "Pérdida de tierras de conservación",
+    "Problemas de salud por calidad de agua",
+    "Escasez crónica de agua",
+    "Pérdida de valores para conservación"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporación a reserva ecológica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento urbano cero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestaciones masivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Creación de cinturón ecológico"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Recuperación de tierras perdidas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producción agrícola sustentable"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Manejo de ganadería ordenada"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Educación interna para conservación"
+    },
+    {
+      "actor": "Secretaría del Medio Ambiente",
+      "accion": "Colaboración en programas de conservación"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Apoyo a proyectos específicos"
+    },
+    {
+      "actor": "Instituciones extranjeras",
+      "accion": "Unión a causas ambientales"
+    },
+    {
+      "actor": "Gobierno (en general)",
+      "accion": "Provisión de fondos limitados"
+    },
+    {
+      "actor": "Cuadrillas ejidales",
+      "accion": "Mantenimiento de bosques y brechas"
+    }
+  ],
+  "input_tokens": 6922,
+  "output_tokens": 458,
+  "error": null,
+  "items_antes_de_tope": {}
+}

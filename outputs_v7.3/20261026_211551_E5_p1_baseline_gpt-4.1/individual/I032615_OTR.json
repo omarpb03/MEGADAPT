@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "Id_entrevista": "I032615_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Infraestructura hidráulica vieja y obsoleta",
+    "Pérdida de agua por fugas",
+    "Mala calidad del agua potable",
+    "Escasa infiltración de agua de lluvia",
+    "Agrietamiento de viviendas por extracción de agua",
+    "Sobrerecarga de pozos y uso de agua fósil",
+    "Inundaciones frecuentes",
+    "Privatización y manejo político del agua",
+    "Falta de conciencia en el consumo del agua",
+    "Ausencia de políticas de vivienda en riesgo",
+    "Trampas en la gestión gubernamental del agua",
+    "Falta de participación comunitaria efectiva",
+    "Desorganización de la sociedad civil",
+    "Exclusión de la comunidad en toma de decisiones",
+    "Contaminación de ríos y drenajes"
+  ],
+  "Causas_principales": [
+    "Infraestructura hidráulica antigua y obsoleta",
+    "Territorio sobre lago y suelos endebles",
+    "Zona sísmica y volcánica",
+    "Pavimentación excesiva impide infiltración",
+    "Modelo de desarrollo urbano extractivista",
+    "Gestión incorrecta del agua",
+    "Desperdicio del agua de lluvia en drenaje",
+    "Falta de aplicación de recursos públicos",
+    "Clientelismo político y privatización",
+    "Ausencia de visión sustentable en gobierno",
+    "Incremento constante de la población",
+    "Importación de agua de otras cuencas",
+    "Fracciones de la red hidráulica y drenaje",
+    "Mal organización o desinterés comunitario",
+    "Falta de educación ambiental",
+    "Intereses económicos de concesionarios",
+    "Insuficientes plantas potabilizadoras"
+  ],
+  "Consecuencias": [
+    "Desperdicio masivo por fugas de agua",
+    "Fractura de viviendas y suelo",
+    "Mala calidad del agua",
+    "Inseguridad en viviendas con grietas",
+    "Debilitamiento del tejido social",
+    "Racionamiento o tandeo del agua",
+    "Uso de pipas en zonas altas",
+    "Abastecimiento desigual por motivos políticos",
+    "Enfermedades potenciales por agua contaminada",
+    "Hundimientos y movimientos del terreno",
+    "Rompimiento de infraestructura hidráulica",
+    "Privatización y encarecimiento del servicio",
+    "Conformismo de la población ante el problema",
+    "Degradación de ecosistemas y ríos entubados",
+    "Inundaciones por falta de infiltración",
+    "Dependencia de comunidades externas por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Gestiona proyectos de captación de lluvia"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Construye cisternas de ferrocemento"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instala zanjas filtrantes y pozos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Instala baños secos"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Mantiene espacios verdes con adopasto"
+    },
+    {
+      "actor": "Comunidad organizada",
+      "accion": "Realiza asambleas y guardias comunitarias"
+    },
+    {
+      "actor": "Comité de grietas",
+      "accion": "Diagnostica viviendas afectadas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Asesora sobre viviendas en grietas"
+    },
+    {
+      "actor": "Universidad y empresas",
+      "accion": "Realizan estudios geofísicos"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Opera y administra pozos"
+    },
+    {
+      "actor": "Delegación Iztapalapa",
+      "accion": "Distribuye agua en pipas"
+    },
+    {
+      "actor": "Sistema de Aguas Ciudad de México",
+      "accion": "Gestiona infraestructura de agua"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Invierte en túneles emisores"
+    },
+    {
+      "actor": "Slim y empresas privadas",
+      "accion": "Concesionan y administran aguas residuales"
+    },
+    {
+      "actor": "Colectivos ciudadanos",
+      "accion": "Organizan foros y caravanas por el agua"
+    },
+    {
+      "actor": "Colectivo cultural",
+      "accion": "Incide en educación ambiental y ecológica"
+    },
+    {
+      "actor": "ONGs y universidades",
+      "accion": "Desarrollan e impulsan proyectos sustentables"
+    },
+    {
+      "actor": "Mercados públicos",
+      "accion": "Construyen infraestructura de captación"
+    },
+    {
+      "actor": "Escuelas secundarias",
+      "accion": "Implementan proyectos de agricultura urbana"
+    },
+    {
+      "actor": "Comisiones de cuenca",
+      "accion": "Promueven manejo regional del agua"
+    },
+    {
+      "actor": "Programa comunitario barrial",
+      "accion": "Apoya financiamiento de cisternas"
+    },
+    {
+      "actor": "Presupuesto participativo",
+      "accion": "Financia propuestas de cosecha de lluvia"
+    },
+    {
+      "actor": "Grupo promotor de cuenca",
+      "accion": "Articula organizaciones para gestión del agua"
+    },
+    {
+      "actor": "Centro de monitoreo de riesgo",
+      "accion": "Vigila grietas y hundimientos"
+    }
+  ],
+  "input_tokens": 24925,
+  "output_tokens": 1259,
+  "error": null,
+  "items_antes_de_tope": {}
+}

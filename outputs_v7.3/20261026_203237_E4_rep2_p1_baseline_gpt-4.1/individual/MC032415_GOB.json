@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u00133n de fuentes de abastecimiento",
+    "Fugas por tuber\u0013das viejas",
+    "Desabasto en temporada de estiaje",
+    "Oposici\u00133n a obras de mejora",
+    "Contaminaci\u00133n por basura en r\u0013os",
+    "Crecimiento de la mancha urbana",
+    "Falta de reforestaci\u00133n en zonas altas"
+  ],
+  "Causas_principales": [
+    "Tala clandestina en zonas boscosas",
+    "Tuber\u0013das rebasadas en vida \u0013bt\u0013il",
+    "Falta de presupuesto para obras",
+    "Oposici\u00133n de comuneros y ejidatarios",
+    "Crecimiento poblacional y urbano",
+    "Falta de cultura para manejo de basura",
+    "Reducci\u0013bn de agua enviada desde Estado de M\u0013xico"
+  ],
+  "Consecuencias": [
+    "Baja recarga de manantiales",
+    "P\u0013rdida de agua por fugas",
+    "Servicio de agua por tandeo",
+    "Desabasto en colonias nuevas",
+    "Taponamientos por basura en lluvias",
+    "Inundaciones en zonas bajas",
+    "Afectaci\u0013bn de viviendas cercanas a cauces",
+    "Suspensi\u0013bn temporal del suministro"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u0013bn",
+      "accion": "Distribuci\u0013bn de agua en colonias"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Sustituci\u0013bn de tuber\u0013das viejas"
+    },
+    {
+      "actor": "Delegaci\u0013bn y Sistema de Aguas",
+      "accion": "Mantenimiento y reparaci\u0013bn de fugas"
+    },
+    {
+      "actor": "Delegaci\u0013bn y Sistema de Aguas",
+      "accion": "Limpieza de captaciones y tanques"
+    },
+    {
+      "actor": "Delegaci\u0013bn",
+      "accion": "Abastecimiento de agua por pipas"
+    },
+    {
+      "actor": "Delegaci\u0013bn y Ecolog\u0013a",
+      "accion": "Limpieza de cauces y barrancas"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Monitoreo de calidad de agua"
+    },
+    {
+      "actor": "Delegaci\u0013bn y Sistema de Aguas",
+      "accion": "Reuni\u0013bn con comuneros para concertaci\u0013bn"
+    },
+    {
+      "actor": "Poblaci\u0013bn civil",
+      "accion": "Participaci\u0013bn en reforestaci\u0013bn"
+    },
+    {
+      "actor": "Poblaci\u0013bn civil",
+      "accion": "Tirar basura en barrancas"
+    },
+    {
+      "actor": "Comuneros y ejidatarios",
+      "accion": "Oponerse a obras de infraestructura"
+    },
+    {
+      "actor": "Delegaci\u0013bn y participaci\u0013bn ciudadana",
+      "accion": "Reuni\u0013bn para informar sobre proyectos"
+    },
+    {
+      "actor": "Delegaci\u0013bn y Sistema de Aguas",
+      "accion": "Solicitud de construcci\u0013bn de nuevos tanques"
+    },
+    {
+      "actor": "Delegaci\u0013bn y Ecolog\u0013a",
+      "accion": "Limpieza de matorral en cauces"
+    }
+  ],
+  "input_tokens": 11703,
+  "output_tokens": 663,
+  "error": null,
+  "items_antes_de_tope": {}
+}

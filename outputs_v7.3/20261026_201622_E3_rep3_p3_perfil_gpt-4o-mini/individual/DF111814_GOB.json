@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF111814_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro del agua",
+    "Demanda exagerada de agua",
+    "Falta de cultura en el uso del agua",
+    "Escurrimiento del agua",
+    "Escasez de agua en temporada seca"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Tecnología que consume más agua",
+    "Urbanización descontrolada",
+    "Falta de infraestructura",
+    "Desperdicio de agua"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en la ciudad",
+    "Afectación a la calidad de vida",
+    "Conflictos por el uso del agua",
+    "Dificultades para la conservación del suelo",
+    "Impacto en la biodiversidad"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "CORENA",
+      "accion": "Incentivar conservación del suelo"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de México",
+      "accion": "Gestionar suministro de agua"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Realizar obras de retención de agua"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Mantener áreas en buenas condiciones de humedad"
+    }
+  ],
+  "input_tokens": 14316,
+  "output_tokens": 228,
+  "error": null,
+  "items_antes_de_tope": {}
+}

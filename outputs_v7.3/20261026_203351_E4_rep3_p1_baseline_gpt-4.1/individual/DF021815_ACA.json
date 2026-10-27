@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en la calidad del agua",
+    "Acceso desigual al servicio de agua",
+    "Escasez y tandeos en ciertas zonas",
+    "Falta de manejo de la demanda",
+    "Opacidad en la gestión técnica",
+    "Presiones inmobiliarias sobre el agua",
+    "Deficiencia en drenaje pluvial",
+    "Inundaciones recurrentes en zonas vulnerables"
+  ],
+  "Causas_principales": [
+    "Gestión deficiente del recurso",
+    "Intereses particulares en la gestión",
+    "Ausencia de manejo de la demanda",
+    "Esquema tarifario inequitativo",
+    "Presión inmobiliaria en zonas de recarga",
+    "Crecimiento urbano informal",
+    "Falta de inversión en drenaje",
+    "Circuitos de agua usados como control político",
+    "Opacidad y arreglos internos en la distribución"
+  ],
+  "Consecuencias": [
+    "Agua turbia y con olor",
+    "Epidemias como el cólera",
+    "Crecimiento de la industria de agua embotellada",
+    "Zonas con servicio irregular o limitado",
+    "Población pobre pagando más por litro",
+    "Inundaciones con aguas negras",
+    "Enfermedades y secuelas por inundaciones",
+    "Conflictos entre comunidades y desarrollos inmobiliarios",
+    "Consolidación de asentamientos irregulares sin servicios adecuados"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controlar circuitos de distribución"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Aprobar factibilidad de agua para desarrollos"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presionar para obtener agua"
+    },
+    {
+      "actor": "Vecinos y pobladores",
+      "accion": "Protestar por falta de agua"
+    },
+    {
+      "actor": "Delegados políticos",
+      "accion": "Negociar acceso a servicios"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Instalar redes de agua y drenaje"
+    },
+    {
+      "actor": "Industria de agua embotellada",
+      "accion": "Aprovechar desconfianza en agua de llave"
+    },
+    {
+      "actor": "Prensa",
+      "accion": "Visibilizar inundaciones y problemas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Realizar obras de infraestructura hidráulica"
+    },
+    {
+      "actor": "Ejidatarios y ex pueblos",
+      "accion": "Vender terrenos para urbanización"
+    },
+    {
+      "actor": "Grupos de interés inmobiliario",
+      "accion": "Influir en decisiones de urbanización"
+    },
+    {
+      "actor": "Autoridades urbanas",
+      "accion": "Recalificar terrenos para desarrollos"
+    },
+    {
+      "actor": "Movimientos contestatarios",
+      "accion": "Presionar por acceso equitativo al agua"
+    }
+  ],
+  "input_tokens": 13810,
+  "output_tokens": 508,
+  "error": null,
+  "items_antes_de_tope": {}
+}

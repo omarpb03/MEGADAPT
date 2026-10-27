@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del rio Eslava",
+    "Asentamientos humanos irregulares toman agua",
+    "Escasez de agua en el pueblo",
+    "Calidad del agua consumida",
+    "Recarga de mantos acuiferos",
+    "Pérdida de suelo de conservación",
+    "Presion urbana sobre zonas de recarga",
+    "Ganado en zonas de agua",
+    "Falta de apoyo gubernamental"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Asentamientos humanos irregulares",
+    "Falta de planeacion urbana",
+    "Falta de educacion ambiental",
+    "Perdida de valores y respeto",
+    "Falta de programas gubernamentales suficientes",
+    "Desdoblamiento de familias",
+    "Abandono de agricultura",
+    "Ganado en la parte alta",
+    "Contaminacion por basura"
+  ],
+  "Consecuencias": [
+    "Conversion del rio en drenaje",
+    "Contaminacion de mantos freáticos",
+    "Escasez de agua potable",
+    "Perdida de presion en el agua",
+    "Perdida de tierras de conservación",
+    "Desaparicion de areas verdes",
+    "Venta de tierras ejidales",
+    "Deterioro de calidad de vida",
+    "Dificultad para consolidar proyectos productivos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporacion a reserva ecologica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento urbano cero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construccion de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construccion de pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestacion masiva"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Sistemas de riego por gravedad"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Produccion de alfalfa, zacate, maiz"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Produccion y comercializacion de trucha"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de bosques"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Limpieza y brechas contra incendios"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Propuesta de muro ecologico"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Desalojos en zonas invadidas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de conservacion de suelo y agua"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Propuesta de ordenamiento ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Bajar ganado de la parte alta"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Produccion de alimentos organicos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Generacion de empleos rurales"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Apoyo en programas de conservacion"
+    },
+    {
+      "actor": "Secretaria del Medio Ambiente",
+      "accion": "Colaboracion en proyectos de conservacion"
+    },
+    {
+      "actor": "Grupos internacionales",
+      "accion": "Union a la causa ambiental"
+    },
+    {
+      "actor": "Biólogos y cuadrillas",
+      "accion": "Mantenimiento y monitoreo de bosques"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Educacion y concientizacion ambiental"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Recuperacion de tierras perdidas"
+    }
+  ],
+  "input_tokens": 6922,
+  "output_tokens": 637,
+  "error": null,
+  "items_antes_de_tope": {}
+}

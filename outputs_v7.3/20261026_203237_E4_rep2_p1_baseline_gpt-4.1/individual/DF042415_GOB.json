@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por falta de infraestructura",
+    "Enfermedades derivadas de fenómenos naturales",
+    "Escasez de agua en el D.F",
+    "Exposición a aguas negras",
+    "Subregistro de enfermedades",
+    "Vulnerabilidad de grupos específicos",
+    "Contaminación del agua de consumo"
+  ],
+  "Causas_principales": [
+    "Infraestructura insuficiente para desfogue",
+    "Cambio climático sequías e inundaciones",
+    "Asentamientos en zonas irregulares",
+    "Falta de servicios sanitarios",
+    "Agua entubada de baja calidad",
+    "Falta de cultura de prevención",
+    "Falta de acceso a información epidemiológica",
+    "Agua de pipas no totalmente limpia"
+  ],
+  "Consecuencias": [
+    "Dermatitis por contacto con agua",
+    "Conjuntivitis e irritación de mucosas",
+    "Enfermedades gastrointestinales",
+    "Intoxicación por químicos de limpieza",
+    "Subregistro de casos de enfermedad",
+    "Mayor vulnerabilidad en niños y mujeres",
+    "Dificultad para volver a la normalidad",
+    "Pérdida de pertenencias por inundación",
+    "Proliferación de moscos tras inundación"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Campañas de prevención y limpieza"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Emisión de medidas preventivas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Brigadas de atención y limpieza"
+    },
+    {
+      "actor": "Ejército",
+      "accion": "Evacuación y resguardo de casas"
+    },
+    {
+      "actor": "Bomberos",
+      "accion": "Sacar agua y limpieza"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Limpieza y desinfección de casas"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Proporcionar cloro y agua potable"
+    },
+    {
+      "actor": "Secretaría de Salud",
+      "accion": "Fumigación y desinfección"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difusión de información y recomendaciones"
+    },
+    {
+      "actor": "Dirección General de Epidemiología",
+      "accion": "Análisis y mapas de enfermedades"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Solicitar ayuda a delegaciones contiguas"
+    },
+    {
+      "actor": "Sector salud",
+      "accion": "Vacunación y entrega de sueros"
+    },
+    {
+      "actor": "Brigadas de salud",
+      "accion": "Educación en escuelas sobre prevención"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Subir pertenencias para evitar daños"
+    },
+    {
+      "actor": "Sector salud",
+      "accion": "Levantamiento de personas afectadas"
+    },
+    {
+      "actor": "Protección Civil",
+      "accion": "Coordinación con jurisdicción sanitaria"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Uso de encuestas para monitoreo"
+    }
+  ],
+  "input_tokens": 12564,
+  "output_tokens": 519,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "Id_entrevista": "I021415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Corrupción en la distribución del agua",
+    "Uso político del agua",
+    "Escasez de agua",
+    "Desperdicio de agua"
+  ],
+  "Causas_principales": [
+    "Asentamientos irregulares",
+    "Falta de compromiso del gobierno",
+    "Corrupción en el manejo del agua",
+    "Políticas públicas inadecuadas",
+    "Condiciones geográficas desfavorables",
+    "Desigualdad en la distribución del agua"
+  ],
+  "Consecuencias": [
+    "Lucha por el derecho al agua",
+    "Problemas de salud en la comunidad",
+    "Dependencia de pipas",
+    "Desorganización en el uso del agua",
+    "Desperdicio de agua en la comunidad",
+    "Dificultades en el acceso a servicios básicos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Comunidad",
+      "accion": "Protestas por el abastecimiento de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Condonación de pagos por agua"
+    },
+    {
+      "actor": "Organizaciones comunitarias",
+      "accion": "Defensa del derecho al agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Recolección de agua de lluvia"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Reutilización de agua"
+    }
+  ],
+  "input_tokens": 8987,
+  "output_tokens": 258,
+  "error": null,
+  "items_antes_de_tope": {}
+}

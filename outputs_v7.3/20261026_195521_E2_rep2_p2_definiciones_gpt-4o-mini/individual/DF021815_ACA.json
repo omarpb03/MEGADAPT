@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en la calidad del agua",
+    "Escasez de agua en ciertas zonas",
+    "Inequidad en el acceso al agua",
+    "Problemas de infraestructura de agua"
+  ],
+  "Causas_principales": [
+    "Mala gestión del recurso hídrico",
+    "Intereses políticos y económicos",
+    "Desigualdad en la distribución del agua",
+    "Falta de mantenimiento de la infraestructura"
+  ],
+  "Consecuencias": [
+    "Aumento de la desconfianza en el agua potable",
+    "Inundaciones en zonas vulnerables",
+    "Dificultades para acceder a agua potable",
+    "Problemas de salud por agua contaminada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Crear comités de colonias"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Controlar distribución del agua"
+    },
+    {
+      "actor": "Ciudadanos",
+      "accion": "Protestar por acceso al agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Influir en decisiones de urbanización"
+    }
+  ],
+  "input_tokens": 13937,
+  "output_tokens": 213,
+  "error": null,
+  "items_antes_de_tope": {}
+}

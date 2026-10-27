@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF013015_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problemas de abastecimiento en periferia",
+    "Agua de mala calidad",
+    "Costo elevado para gente pobre",
+    "Falta de servicios básicos en viviendas",
+    "Distribución desigual del agua",
+    "Tandeo y acceso irregular",
+    "Contaminación de fuentes de agua",
+    "Inundaciones y encharcamientos",
+    "Falta de coordinación institucional"
+  ],
+  "Causas_principales": [
+    "Extracción excesiva del subsuelo",
+    "Falta de coordinación entre organismos",
+    "Criterios económicos en distribución",
+    "Corrupción en permisos de construcción",
+    "Falta de planeación urbana",
+    "Crecimiento poblacional sin control",
+    "Políticas parciales y no integrales",
+    "Falta de educación y capacitación",
+    "Visión de modernidad sobre ríos y barrancas",
+    "Privatización de propiedad social",
+    "Falta de mantenimiento en infraestructura"
+  ],
+  "Consecuencias": [
+    "Grietas y deslaves en viviendas",
+    "Abandonos de viviendas",
+    "Gasto extra en agua embotellada",
+    "Enfermedades por mala calidad",
+    "Fracturas y lesiones por cargar agua",
+    "Deterioro de construcciones",
+    "Desigualdad social acentuada",
+    "Conflictos y protestas sociales",
+    "Contaminación de barrancas y ríos",
+    "Falta de espacios públicos",
+    "Problemas de salud pública"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento Urbano Popular",
+      "accion": "Gestionar servicios básicos"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Protestar y demandar agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Distribuir agua en pipas"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Aprobar permisos de construcción"
+    },
+    {
+      "actor": "ONG y académicos",
+      "accion": "Asesorar en gestión comunitaria"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Instalar pozos de captación de lluvia"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Crear proyectos ambientales"
+    },
+    {
+      "actor": "Instituciones de vivienda",
+      "accion": "Otorgar créditos y regularizar"
+    },
+    {
+      "actor": "Pobladores",
+      "accion": "Autoconstrucción de vivienda"
+    },
+    {
+      "actor": "Autoridades educativas",
+      "accion": "Promover educación ambiental"
+    },
+    {
+      "actor": "Delegación y DGCOH",
+      "accion": "Manejar plantas de tratamiento"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Reciclar PET y composta"
+    },
+    {
+      "actor": "Gobierno y sociedad",
+      "accion": "Proponer proyectos integrales"
+    }
+  ],
+  "input_tokens": 18255,
+  "output_tokens": 694,
+  "error": null,
+  "items_antes_de_tope": {}
+}

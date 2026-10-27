@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua tratada",
+    "Falta de calidad del agua",
+    "Cantidad insuficiente de agua",
+    "Hundimientos diferenciales",
+    "Fugas de agua en canales",
+    "Descargas de aguas negras",
+    "Impacto en la produccion chinampera",
+    "Abandono de chinampas",
+    "Descoordinacion institucional",
+    "Falta de mantenimiento en plantas de tratamiento"
+  ],
+  "Causas_principales": [
+    "Descargas de asentamientos irregulares",
+    "Falta de drenaje adecuado",
+    "Uso excesivo de agroquimicos y pesticidas",
+    "Limpieza de establos de ganado",
+    "Fugas en canales y vertederos",
+    "Hundimientos diferenciales por variacion de niveles de suelo",
+    "Falta de mantenimiento en plantas de tratamiento",
+    "Desinteres de nuevas generaciones",
+    "Descoordinacion entre dependencias",
+    "Decisiones aisladas y politicas",
+    "Falta de adaptacion de tecnologias a condiciones locales"
+  ],
+  "Consecuencias": [
+    "Contaminacion de productos agricolas",
+    "Dificultad para comercializar productos",
+    "Perdida economica para productores",
+    "Abandono de chinampas",
+    "Impacto negativo en biodiversidad",
+    "Inundaciones en zonas productivas",
+    "Zonas potencialmente insalubres",
+    "Degradacion de zonas chinamperas",
+    "Turismo afectado por agua sucia",
+    "Riesgos de salud por aguas negras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento de canales y apantles"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Construccion de barreras de filtracion"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Reactivacion chinampera con refugios"
+    },
+    {
+      "actor": "Instituto de biologia UNAM",
+      "accion": "Colaboracion en proyectos de reactivacion"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Coordinacion estrategica con academia y sociedad"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Catalogacion geo referenciada de chinampas"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Propuestas de ordenamiento territorial"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Promocion de turismo alternativo"
+    },
+    {
+      "actor": "Delegacion",
+      "accion": "Manejo de esclusas junto con productores"
+    },
+    {
+      "actor": "Sistema de aguas CDMX",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Sistema de aguas CDMX",
+      "accion": "Canalizacion y rebombeo de drenajes"
+    },
+    {
+      "actor": "Sederec",
+      "accion": "Garantia de agua para produccion"
+    },
+    {
+      "actor": "Sedema",
+      "accion": "Apoyo a sistema productivo"
+    },
+    {
+      "actor": "Secretaria de turismo",
+      "accion": "Apoyo a turismo chinampero"
+    },
+    {
+      "actor": "Conam",
+      "accion": "Responsabilidad en sitio Ramsar"
+    },
+    {
+      "actor": "Uam y unam",
+      "accion": "Definicion de criterios tecnicos"
+    },
+    {
+      "actor": "Uam y conam",
+      "accion": "Liberacion de ajolotes"
+    },
+    {
+      "actor": "Productores y chef",
+      "accion": "Turismo culinario en chinampas"
+    },
+    {
+      "actor": "Productores y observadores",
+      "accion": "Promocion de observacion de aves"
+    },
+    {
+      "actor": "Autoridad de zona patrimonio",
+      "accion": "Organizacion de mega coloquio participativo"
+    }
+  ],
+  "input_tokens": 12070,
+  "output_tokens": 664,
+  "error": null,
+  "items_antes_de_tope": {}
+}

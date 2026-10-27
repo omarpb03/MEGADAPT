@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problema de abastecimiento de agua",
+    "Distribuci\u000fn desigual del agua",
+    "Contaminaci\u000fn de fuentes de agua",
+    "Falta de regulaci\u000fn en uso agr\u001acola del agua",
+    "Impacto de la urbanizaci\u000fn en el agua",
+    "Conflictos por uso de suelo y agua",
+    "Gobernanza fragmentada del agua",
+    "Acceso desigual al agua para agricultura"
+  ],
+  "Causas_principales": [
+    "Expansi\u000fn urbana sobre zonas agr\u001acolas",
+    "Extracci\u000fn de acu\u001aferos",
+    "Decisiones influenciadas por racionalidad tecnol gica o econ mica",
+    "Mercado como motor de cambio",
+    "Rezago de pol ticas p\u001ablicas",
+    "Falta de regulaci\u000fn y monitoreo",
+    "Presiones pol ticas y negociaciones locales",
+    "Historia de ocupaci\u000fn y uso de suelo",
+    "Cambios en la mano de obra agr\u001acola",
+    "Falta de educaci\u000fn ambiental"
+  ],
+  "Consecuencias": [
+    "P\u001a9rdida de suelo agr\u001acola",
+    "Contaminaci\u000fn por agroqu micos",
+    "Reducci\u000fn de producci\u000fn agr\u001acola",
+    "Asentamientos irregulares",
+    "Disyuntivas en uso de la tierra",
+    "Desplazamiento de productores locales",
+    "Fragmentaci\u000fn social y cultural",
+    "Falta de autosuficiencia alimentaria",
+    "Conflictos por acceso al agua",
+    "Deterioro de r dos y canales",
+    "Falta de participaci\u000fn social de largo alcance"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores locales",
+      "accion": "Defender acceso al agua"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Adaptar uso de suelo"
+    },
+    {
+      "actor": "Productores avecindados",
+      "accion": "Mantener producci\u000fn agr\u001acola"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Promover producci\u000fn org\u001anica"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Apoyar con programas p\u001ablicos"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Organizarse por servicios urbanos"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Negociar con pobladores por uso de suelo"
+    },
+    {
+      "actor": "ONGs y t\u001a9cnicos agr\u001acolas",
+      "accion": "Capacitar en manejo ambiental"
+    },
+    {
+      "actor": "Comisi\u000fn de cuenca",
+      "accion": "Gestionar gobernanza del agua"
+    },
+    {
+      "actor": "Productores y t\u001a9cnicos",
+      "accion": "Participar en programas de extensionismo"
+    },
+    {
+      "actor": "Universidad",
+      "accion": "Realizar sensibilizaci\u000fn ambiental"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Regular asentamientos irregulares"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Usar agua de manera clandestina"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Reutilizar agua dom\u001a9stica"
+    }
+  ],
+  "input_tokens": 20180,
+  "output_tokens": 896,
+  "error": null,
+  "items_antes_de_tope": {}
+}

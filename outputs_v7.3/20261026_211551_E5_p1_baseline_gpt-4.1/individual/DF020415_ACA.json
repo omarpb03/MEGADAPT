@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF020415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Alteración del medio ambiente",
+    "Alteración de la vocación natural del suelo urbano",
+    "Afectación de la infraestructura existente",
+    "Calidad de vida",
+    "Seguridad para vivir en condiciones adecuadas",
+    "Servicios urbanos y agua"
+  ],
+  "Causas_principales": [
+    "Política urbana del gobierno",
+    "Preferencia a inversionistas privados",
+    "Construcción de vías de comunicación",
+    "Macro proyectos inmobiliarios",
+    "Condición neoliberal de la ciudad",
+    "Corrupción y tráfico de influencias",
+    "Reducción de recursos para vivienda y servicios",
+    "Competencia con actores políticos",
+    "Estructura de oportunidades políticas"
+  ],
+  "Consecuencias": [
+    "Afectación a asentamientos populares",
+    "Daños en casas y calles",
+    "Aumento del riesgo",
+    "Violación de usos del suelo",
+    "Alteración de la calidad de vida",
+    "Perdida de acceso a espacio público",
+    "Insuficiencia de vivienda y servicios"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Lucha por vivienda y servicios urbanos"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Seguimiento a política urbana del gobierno"
+    },
+    {
+      "actor": "ONG’s de vivienda",
+      "accion": "Asesorar movimientos urbanos"
+    },
+    {
+      "actor": "Gobierno del D.F",
+      "accion": "Inversión en programas de vivienda popular"
+    },
+    {
+      "actor": "Organizaciones civiles asesoras",
+      "accion": "Asesorar en sistemas alternativos de agua"
+    },
+    {
+      "actor": "Movimiento urbano popular",
+      "accion": "Introducir sistemas alternativos de agua"
+    },
+    {
+      "actor": "Organizaciones vecinales",
+      "accion": "Poner denuncias y propuestas"
+    },
+    {
+      "actor": "Movimientos sociales",
+      "accion": "Toman calles y hacen plantones"
+    },
+    {
+      "actor": "ONG’s de vivienda y desarrollo urbano",
+      "accion": "Proponer nuevas normas y reglamentos"
+    },
+    {
+      "actor": "Organizaciones internacionales",
+      "accion": "Fortalecer propuestas locales"
+    },
+    {
+      "actor": "Habitat International Coalition",
+      "accion": "Trabajo por derecho a la ciudad"
+    }
+  ],
+  "input_tokens": 6439,
+  "output_tokens": 562,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Inundaciones por lluvias intensas",
+    "Zonas susceptibles a inundaciones",
+    "Falta de información sobre inundaciones",
+    "Sistemas de drenaje insuficientes",
+    "Basura en drenajes y alcantarillas",
+    "Cambio climático y urbanización"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Mala gestión de residuos",
+    "Falta de mantenimiento del drenaje",
+    "Cambio climático",
+    "Falta de información oficial",
+    "Desbordamiento de ríos"
+  ],
+  "Consecuencias": [
+    "Daños materiales por inundaciones",
+    "Pérdidas humanas",
+    "Afectaciones a la movilidad",
+    "Impacto en la salud pública",
+    "Desinformación en la población",
+    "Vulnerabilidad de comunidades"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Mapear zonas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar información sobre inundaciones"
+    },
+    {
+      "actor": "Gobiernos locales",
+      "accion": "Realizar obras de infraestructura"
+    },
+    {
+      "actor": "Comunidades",
+      "accion": "Identificar problemas de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar infografías educativas"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Actualizar bases de datos de inundación"
+    }
+  ],
+  "input_tokens": 15322,
+  "output_tokens": 269,
+  "error": null,
+  "items_antes_de_tope": {}
+}

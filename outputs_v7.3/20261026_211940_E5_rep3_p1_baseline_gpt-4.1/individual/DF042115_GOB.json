@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua insuficiente",
+    "Trasvase de agua desde otros lugares",
+    "Extracci\u0003fn excesiva de acu\u00003diferos",
+    "Contaminaci\u00003fn del agua potable",
+    "Calidad desigual del agua en la ciudad",
+    "Exposici\u00003fn a fen\u00003fmenos extremos",
+    "Infraestructura vulnerable a sismos",
+    "Enfermedades por agua contaminada",
+    "Desconfianza en el agua potable de casa",
+    "Falta de mantenimiento de tinacos",
+    "Asentamientos irregulares vulnerables"
+  ],
+  "Causas_principales": [
+    "Crecimiento de poblaci\u00003fn y bienes",
+    "Consumo industrial de agua elevado",
+    "Invasi\u00003fn de reservas y espacios peligrosos",
+    "Edificaci\u00003fn sin freno ni criterio",
+    "Improvisaci\u00003fn de viviendas precarias",
+    "Migraci\u00003fn de otras regiones",
+    "Falta de conocimiento regional en migrantes",
+    "Contaminaci\u00003fn urbana",
+    "Falta de higiene en almacenamiento de agua",
+    "Falta de mantenimiento de infraestructuras",
+    "Diferencias ideol\u00003fgicas entre gobiernos",
+    "Gobiernos locales autosuficientes",
+    "Infraestructura antigua y en riesgo de falla",
+    "Organizaci\u00003fn administrativa fragmentada"
+  ],
+  "Consecuencias": [
+    "Exposici\u00003fn de poblaci\u00003fn vulnerable",
+    "Aumentos de enfermedades respiratorias",
+    "Brotes de alergias",
+    "Rendimiento escolar afectado",
+    "Problemas de salud por falta de higiene",
+    "Enfermedades gastrointestinales",
+    "Enfermedades dermatol\u00003fgicas",
+    "Cortes de agua tras sismos",
+    "Falla de grandes tuber\u00003edas",
+    "Interrupci\u00003fn de servicios b\u00003fsicos",
+    "Problemas en cinturones periurbanos",
+    "Inundaciones locales controladas",
+    "Falta de confianza en el agua potable",
+    "Consumo excesivo de agua embotellada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno local DF",
+      "accion": "Manejo de vasos reguladores"
+    },
+    {
+      "actor": "Gobierno local DF",
+      "accion": "Construcci\u00003fn de lagunas de regulaci\u00003fn"
+    },
+    {
+      "actor": "Gobierno local DF",
+      "accion": "Inundar zonas para evitar saturaci\u00003fn"
+    },
+    {
+      "actor": "Secretar\u00003fa de Agua CDMX",
+      "accion": "Tratamiento y distribuci\u00003fn de agua"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Almacenamiento en tinacos sin mantenimiento"
+    },
+    {
+      "actor": "Familias",
+      "accion": "Consumo de agua embotellada"
+    },
+    {
+      "actor": "Poblaci\u00003fn urbana",
+      "accion": "Uso incipiente de captaci\u00003fn de lluvia"
+    },
+    {
+      "actor": "Poblaci\u00003fn urbana",
+      "accion": "Instalaci\u00003fn de calentadores solares"
+    },
+    {
+      "actor": "Poblaci\u00003fn urbana",
+      "accion": "Techos verdes y siembra en azoteas"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Difusi\u00003fn y capacitaci\u00003fn a unidades estatales/municipales"
+    },
+    {
+      "actor": "Cenapred y Conagua",
+      "accion": "Instalaci\u00003fn de sistemas de alerta hidrometeorol\u00003fgica"
+    },
+    {
+      "actor": "Secretar\u00003fa de Salud federal",
+      "accion": "Acciones sanitarias tras desastres"
+    },
+    {
+      "actor": "Gobierno federal y local",
+      "accion": "Coordinaci\u00003fn en eventos extremos"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Propuesta de almacenar agua en subsuelo"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Propuestas para recuperar cuerpos de agua antiguos"
+    },
+    {
+      "actor": "Universidades (especialmente UNAM)",
+      "accion": "Capacitaci\u00003fn y trabajo t\u000039cnico regional"
+    }
+  ],
+  "input_tokens": 9811,
+  "output_tokens": 815,
+  "error": null,
+  "items_antes_de_tope": {}
+}

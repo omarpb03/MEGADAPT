@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion de los canales",
+    "Descargas de drenaje domiciliario",
+    "Hundimiento de chinampas",
+    "Acumulacion de lirio acuatico",
+    "Perdida de profundidad de canales",
+    "Falta de circulacion del agua",
+    "Asentamientos irregulares",
+    "Falta de infraestructura de drenaje",
+    "Descenso del nivel de agua",
+    "Invasion de la zona lacustre",
+    "Falta de calidad del agua",
+    "Perdida de especies acuaticas nativas",
+    "Acumulacion de basura y residuos solidos",
+    "Falta de oxigenacion del agua",
+    "Abandono de chinampas",
+    "Conflictos por uso de suelo",
+    "Falta de presupuesto para proyectos",
+    "Falta de coordinacion institucional"
+  ],
+  "Causas_principales": [
+    "Descargas domiciliarias a canales",
+    "Falta de infraestructura de drenaje",
+    "Infraestructura antigua y deteriorada",
+    "Crecimiento de la mancha urbana",
+    "Corrupcion y tolerancia gubernamental",
+    "Abandono de chinampas por nuevas generaciones",
+    "Cambios de uso de suelo",
+    "Contradiccion de leyes y normatividad",
+    "Falta de cumplimiento de ordenamientos legales",
+    "Proyectos politicos de corto plazo",
+    "Extraccion de agua de pozos",
+    "Proyectos mal implementados",
+    "Introduccion de especies invasoras",
+    "Turismo irresponsable",
+    "Falta de inspectores ambientales",
+    "Falta de presupuesto",
+    "Falta de coordinacion entre dependencias",
+    "Falta de conciencia ambiental"
+  ],
+  "Consecuencias": [
+    "Contaminacion del agua",
+    "Perdida de especies acuaticas nativas",
+    "Acumulacion de sedimentos y nutrientes",
+    "Perdida de profundidad de canales",
+    "Desequilibrio ecologico",
+    "Deterioro de la calidad del agua",
+    "Inundaciones en zonas bajas",
+    "Perdida de superficie de suelo de conservacion",
+    "Abandono de chinampas",
+    "Conflictos sociales por propiedad",
+    "Dificultad para navegar canales",
+    "Reduccion de turismo de calidad",
+    "Afectacion a la salud publica",
+    "Perdida de biodiversidad",
+    "Problemas de abastecimiento de agua potable"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Canaleros y sector turistico",
+      "accion": "Limpieza parcial de canales"
+    },
+    {
+      "actor": "Medio Ambiente delegacional",
+      "accion": "Apoyo en limpieza de lirio"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gestion de pozos de agua potable"
+    },
+    {
+      "actor": "Vecinos y residentes",
+      "accion": "Protesta y demanda a autoridades"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservacion"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Programas de cero crecimiento poblacional"
+    },
+    {
+      "actor": "Gobierno del DF y federal",
+      "accion": "Coordinacion para limpieza y dragado"
+    },
+    {
+      "actor": "CORENA y Medio Ambiente",
+      "accion": "Regulacion ambiental y vigilancia"
+    },
+    {
+      "actor": "Poblacion local",
+      "accion": "Separacion de residuos solidos"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Recoleccion diferenciada de basura"
+    },
+    {
+      "actor": "UNAM y Secretaria Agricultura",
+      "accion": "Introduccion de tilapia y carpa"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Estacacion y conservacion de orillas"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Recuperacion de zanjas y apantles"
+    },
+    {
+      "actor": "Asamblea y camara diputados",
+      "accion": "Aprobacion de proyectos sustentables"
+    },
+    {
+      "actor": "Laboratorio Sistemas de Aguas",
+      "accion": "Analisis de calidad de agua"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Apoyo a invernaderos"
+    },
+    {
+      "actor": "Poblacion local",
+      "accion": "Cultivo protegido en invernaderos"
+    },
+    {
+      "actor": "Delegacion Xochimilco",
+      "accion": "Proyectos piloto de recuperacion"
+    }
+  ],
+  "input_tokens": 25368,
+  "output_tokens": 815,
+  "error": null,
+  "items_antes_de_tope": {}
+}

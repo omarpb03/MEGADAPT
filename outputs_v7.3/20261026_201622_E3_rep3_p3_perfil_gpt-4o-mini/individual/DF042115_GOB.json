@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042115_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Calidad del agua",
+    "Contaminación del agua",
+    "Efectos de eventos extremos"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la población",
+    "Extracción de acuíferos",
+    "Construcción descontrolada",
+    "Falta de mantenimiento de infraestructura",
+    "Desconfianza en el agua potable"
+  ],
+  "Consecuencias": [
+    "Problemas de salud",
+    "Aumento de enfermedades respiratorias",
+    "Falta de higiene",
+    "Interrupciones en el suministro de agua",
+    "Vulnerabilidad de asentamientos irregulares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del DF",
+      "accion": "Construcción de lagunas de regulación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Instalación de estaciones meteorológicas"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Mantenimiento de infraestructura hidráulica"
+    },
+    {
+      "actor": "Comisión Nacional del Agua",
+      "accion": "Monitoreo de calidad del agua"
+    },
+    {
+      "actor": "Sociedad civil",
+      "accion": "Recolección de agua de lluvia"
+    }
+  ],
+  "input_tokens": 10172,
+  "output_tokens": 223,
+  "error": null,
+  "items_antes_de_tope": {}
+}

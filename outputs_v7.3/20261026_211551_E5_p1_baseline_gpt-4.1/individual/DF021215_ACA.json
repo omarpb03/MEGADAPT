@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua deficiente",
+    "Presión urbana sobre fuentes de agua",
+    "Uso de agua como eje de planeación",
+    "Falta de continuidad generacional en proyectos productivos",
+    "Irregularidad en el acceso a servicios hídricos"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios",
+    "Intereses políticos",
+    "Especulación inmobiliaria",
+    "Descoordinación institucional",
+    "Desmantelamiento de políticas rurales",
+    "Escala inadecuada de planeación",
+    "Prioridad al desarrollo urbano sobre lo ambiental",
+    "Débil fortalecimiento de instituciones comunitarias",
+    "Control de grupos de piperos",
+    "Insuficiente apoyo al campo",
+    "Debilitamiento de la estructura ejidal",
+    "Distorsión de políticas públicas",
+    "Expansión urbana",
+    "Poca transparencia institucional"
+  ],
+  "Consecuencias": [
+    "Proyectos ambientales distorsionados",
+    "Conflictos comunitarios",
+    "Demora en entrega de servicios",
+    "Desgaste social y psico-social",
+    "Presión sobre zonas de conservación",
+    "Incompatibilidad de usos de suelo",
+    "Problemas de acceso a agua",
+    "Gentrificación",
+    "Fragmentación comunitaria",
+    "Aumento de importaciones agrícolas",
+    "Conflictos por expropiaciones",
+    "Expansión de asentamientos irregulares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gestiona servicio de agua por tuberías"
+    },
+    {
+      "actor": "Piperos locales",
+      "accion": "Venta de agua con pipas"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Organizan captación de agua de lluvia"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Implementan filtración y cisternas"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Promueve captación de agua de lluvia"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Reconocimiento de avecindados para servicios"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Toman decisiones sobre agua y servicios"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Desarrollan proyectos comunitarios ambientales"
+    },
+    {
+      "actor": "Secretaría de Medio Ambiente",
+      "accion": "Implementa políticas ambientales"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Prioriza construcción de vivienda"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribuyen servicios y reconocen asentamientos"
+    },
+    {
+      "actor": "CORET",
+      "accion": "Expropia terrenos para servicios urbanos"
+    },
+    {
+      "actor": "Proyectos agrarios comunitarios",
+      "accion": "Promueven uso sostenible del agua"
+    },
+    {
+      "actor": "Instituciones académicas",
+      "accion": "Asesoran diseño de proyectos"
+    },
+    {
+      "actor": "Líderes comunitarios",
+      "accion": "Gestionan servicios y proyectos"
+    }
+  ],
+  "input_tokens": 9716,
+  "output_tokens": 532,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF042215_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Zonas susceptibles de inundación",
+    "Inundaciones súbitas en áreas urbanas",
+    "Falta de divulgación de mapas de peligro",
+    "Crecimiento urbano vertical y microclimas",
+    "Saturación y falta de mantenimiento del drenaje",
+    "Acumulación de basura en alcantarillas",
+    "Falta de información oficial y validada",
+    "Ausencia de cultura de prevención en la población"
+  ],
+  "Causas_principales": [
+    "Lluvias intensas y eventos hidrometeorológicos",
+    "Desbordamiento de ríos y cuerpos de agua",
+    "Crecimiento urbano desordenado",
+    "Cambio de zonas verdes por concreto",
+    "Saturación del sistema de drenaje",
+    "Falta de mantenimiento del alcantarillado",
+    "Acumulación de basura en drenaje y barrancas",
+    "Falta de cultura de la población",
+    "Falta de colaboración y divulgación de información oficial",
+    "Ausencia de mapas de peligro accesibles",
+    "Falta de evaluación de vulnerabilidad en mapas"
+  ],
+  "Consecuencias": [
+    "Pérdidas humanas por inundaciones",
+    "Afectaciones a la movilidad urbana",
+    "Charcos y encharcamientos en zonas bajas",
+    "Pérdida de tiempo en transporte",
+    "Afectaciones socioeconómicas",
+    "Incremento de temperatura urbana",
+    "Mayor frecuencia de lluvias intensas",
+    "Falta de preparación de la población",
+    "Desinformación sobre zonas de riesgo",
+    "Problemas crónicos en zonas específicas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Cenapred",
+      "accion": "Identificar zonas susceptibles de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Elaborar mapas nacionales de inundación"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Divulgar infografías sobre inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Generar base de datos de vulnerabilidad"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Validar información oficial de inundaciones"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Emitir recomendaciones estructurales"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Proponer talleres y jornadas regionales"
+    },
+    {
+      "actor": "Cenapred",
+      "accion": "Aplicar metodología de percepción de riesgo"
+    },
+    {
+      "actor": "CONAGUA",
+      "accion": "Compartir información detallada de inundaciones"
+    },
+    {
+      "actor": "Unidades estatales y municipales de Protección Civil",
+      "accion": "Compilar y compartir información local"
+    },
+    {
+      "actor": "Unidades estatales y municipales de Protección Civil",
+      "accion": "Elaborar mapas de peligro locales"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Realizar obras de infraestructura preventiva"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Modificar obras de toma en presas"
+    },
+    {
+      "actor": "Sedatu",
+      "accion": "Financiar atlas de riesgo municipales"
+    },
+    {
+      "actor": "Universidad Popular de Veracruz",
+      "accion": "Aplicar encuestas de percepción de riesgo"
+    },
+    {
+      "actor": "Población local",
+      "accion": "Identificar zonas de riesgo en su comunidad"
+    },
+    {
+      "actor": "Población local",
+      "accion": "Acudir a refugios en caso de inundación"
+    },
+    {
+      "actor": "Sarmex",
+      "accion": "Proporcionar datos de estaciones hidrométricas"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Difundir información sobre inundaciones"
+    },
+    {
+      "actor": "Delegaciones del D.F",
+      "accion": "Mostrar mapas de peligro en instalaciones"
+    }
+  ],
+  "input_tokens": 14961,
+  "output_tokens": 667,
+  "error": null,
+  "items_antes_de_tope": {}
+}

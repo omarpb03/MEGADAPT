@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Calidad del agua",
+    "Problemas de tandeo",
+    "Fugas en tuberías",
+    "Acceso al agua potable"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Antigua infraestructura de agua",
+    "Desperdicio de agua",
+    "Expropiaciones de tierras",
+    "Falta de información del gobierno"
+  ],
+  "Consecuencias": [
+    "Dificultad para obtener agua",
+    "Aumento en costos de agua",
+    "Conflictos comunitarios",
+    "Dependencia de agua embotellada",
+    "Problemas de salud por agua contaminada"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Regular el suministro de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Reuniones para informar sobre agua"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Construcción de cisternas"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Mantenimiento de tuberías"
+    },
+    {
+      "actor": "Comisión del Pueblo",
+      "accion": "Solicitar información al gobierno"
+    }
+  ],
+  "input_tokens": 9794,
+  "output_tokens": 220,
+  "error": null,
+  "items_antes_de_tope": {}
+}

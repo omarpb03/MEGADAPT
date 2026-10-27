@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del agua",
+    "Escasez de agua",
+    "Calidad del agua",
+    "Crecimiento urbano descontrolado"
+  ],
+  "Causas_principales": [
+    "Asentamientos humanos irregulares",
+    "Crecimiento urbano anárquico",
+    "Falta de educación ambiental",
+    "Contaminación por basura"
+  ],
+  "Consecuencias": [
+    "Destrucción de ríos y mantos acuíferos",
+    "Pérdida de áreas verdes",
+    "Problemas de salud por agua contaminada",
+    "Dificultades en la producción agrícola y ganadera"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de reforestación"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de pozos filtrantes"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programas de conservación de suelo y agua"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Cinturón ecológico para proteger el bosque"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Educación ambiental a la comunidad"
+    }
+  ],
+  "input_tokens": 6911,
+  "output_tokens": 233,
+  "error": null,
+  "items_antes_de_tope": {}
+}

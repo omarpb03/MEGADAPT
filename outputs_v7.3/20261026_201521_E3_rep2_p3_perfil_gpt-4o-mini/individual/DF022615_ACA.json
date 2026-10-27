@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua",
+    "Falta de cultura del agua",
+    "Problemas de acceso al agua",
+    "Contaminación del agua",
+    "Salinización del agua"
+  ],
+  "Causas_principales": [
+    "Construcción sin reciclaje de agua",
+    "Desinterés del gobierno",
+    "Uso de aguas negras",
+    "Corrupción en distribución de agua",
+    "Falta de normatividad y supervisión"
+  ],
+  "Consecuencias": [
+    "Desabastecimiento de agua",
+    "Contaminación de fuentes de agua",
+    "Problemas de salud",
+    "Desigualdad en acceso al agua",
+    "Aumento de la pobreza"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Propuestas de cambio en uso de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Almacenamiento de agua en cisternas"
+    },
+    {
+      "actor": "Investigadores",
+      "accion": "Estudios sobre calidad de agua"
+    },
+    {
+      "actor": "ONGs",
+      "accion": "Proyectos de restauración ecológica"
+    },
+    {
+      "actor": "Agricultores",
+      "accion": "Uso de estiércol para mejorar suelo"
+    }
+  ],
+  "input_tokens": 13651,
+  "output_tokens": 228,
+  "error": null,
+  "items_antes_de_tope": {}
+}

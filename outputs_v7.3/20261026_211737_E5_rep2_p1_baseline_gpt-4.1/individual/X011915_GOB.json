@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u0003n de los canales de Xochimilco",
+    "Descargas de drenaje domiciliario a los canales",
+    "Falta de infraestructura de drenaje y red secundaria",
+    "P\u00021rdida de calidad del agua",
+    "Hundimiento y levantamiento del suelo",
+    "Invasi\u00021n y urbanizaci\u00021n de la zona lacustre",
+    "Abandono de chinampas",
+    "Acumulaci\u00021n de basura y s\u00021lidos",
+    "Ingreso de especies invasoras como tilapia",
+    "Sedimentaci\u00021n y azolve de los canales",
+    "Falta de circulaci\u00021n y oxigenaci\u00021n del agua",
+    "Falta de coordinaci\u00021n entre autoridades"
+  ],
+  "Causas_principales": [
+    "Permisividad gubernamental ante invasiones",
+    "Administraciones cortas y proyectos inconclusos",
+    "Infraestructura de drenaje antigua y deteriorada",
+    "Corrupci\u00021n y falta de aplicaci\u00021n de la ley",
+    "Descargas domiciliarias directas a los canales",
+    "Cambio de uso de suelo",
+    "Extracci\u00021n de agua por pozos",
+    "Urbanizaci\u00021n en zona de chinampas",
+    "Contradicciones y vac\u00021os legales",
+    "Ingreso de aguas residuales tratadas",
+    "Turismo irresponsable",
+    "Falta de inspectores ambientales",
+    "Falta de presupuesto para proyectos",
+    "Abandono de cultivos por nuevas generaciones",
+    "Mala implementaci\u00021n de proyectos, como tilapia",
+    "Mal manejo de residuos por turismo"
+  ],
+  "Consecuencias": [
+    "Contaminaci\u00021n del agua con jabones y detergentes",
+    "Acumulaci\u00021n de materia org\u00021nica y nutrientes",
+    "Desaparici\u00021n de especies acu\u000221ticas nativas",
+    "Deterioro de la calidad del agua",
+    "Canales azolvados y menos profundos",
+    "P\u00021rdida de capacidad de captaci\u00021n de agua",
+    "Problemas de inundaci\u00021n en barrios bajos",
+    "P\u00021rdida de usos tradicionales de chinampas",
+    "Invasiones y conflictos de propiedad",
+    "P\u00021rdida de biodiversidad vegetal y animal",
+    "Proliferaci\u00021n de especies invasoras como tilapia",
+    "Sedimentos acumulados y menos navegaci\u00021n",
+    "Turismo genera residuos y basura en canales",
+    "Desequilibrio hidrogeol\u000221gico",
+    "Incremento de asentamientos irregulares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u00021n Xochimilco",
+      "accion": "Limpieza de orillas de canales"
+    },
+    {
+      "actor": "Canaleros y prestadores de servicios",
+      "accion": "Limpieza parcial de canales"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Uso de lirio como abono"
+    },
+    {
+      "actor": "Delegaci\u00021n Xochimilco y Medio Ambiente",
+      "accion": "Retiro de lirio acu\u000221tico"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Permitir asentamientos en zona lacustre"
+    },
+    {
+      "actor": "Comunidad y vecinos",
+      "accion": "Protesta social para presionar autoridades"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de M\u00023xico",
+      "accion": "Operaci\u00021n de plantas y pozos de agua"
+    },
+    {
+      "actor": "Conagua y Cuenca de Aguas",
+      "accion": "Regulaci\u00021n legal del agua"
+    },
+    {
+      "actor": "Sistemas de Aguas y Delegaci\u00021n",
+      "accion": "Abastecimiento de agua potable"
+    },
+    {
+      "actor": "Secretar\u00021a del Medio Ambiente",
+      "accion": "Supervisi\u00021n ambiental y proyectos"
+    },
+    {
+      "actor": "CORENA y DVA",
+      "accion": "Vigilancia y regulaci\u00021n ambiental"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Cultivo con poco uso de agroqu\u000221micos"
+    },
+    {
+      "actor": "SEDEREC",
+      "accion": "Proyectos productivos de conservaci\u00021n"
+    },
+    {
+      "actor": "Gobierno Federal y GDF",
+      "accion": "Responsabilidad coordinada en dragado"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad de M\u00023xico",
+      "accion": "Muestreo de calidad del agua"
+    },
+    {
+      "actor": "Vecinos de Xochimilco",
+      "accion": "Separaci\u00021n de residuos s\u00021lidos y org\u000221nicos"
+    },
+    {
+      "actor": "Turismo juvenil",
+      "accion": "Generaci\u00021n de basura en canales"
+    },
+    {
+      "actor": "Comunidad local",
+      "accion": "Control de crecimiento urbano (cero crecimiento)"
+    },
+    {
+      "actor": "UNAM",
+      "accion": "Ingreso de tilapia en canales"
+    },
+    {
+      "actor": "Secretar\u00021a de Agricultura y Recursos Hidr\u000221ulicos",
+      "accion": "Solicitud del proyecto tilapia"
+    },
+    {
+      "actor": "Delegaci\u00021n y productores",
+      "accion": "Estacaci\u00021n y conservaci\u00021n de orillas de chinampas"
+    },
+    {
+      "actor": "Gobierno de Francia",
+      "accion": "Aporte de fondos para proyectos"
+    }
+  ],
+  "input_tokens": 25007,
+  "output_tokens": 1387,
+  "error": null,
+  "items_antes_de_tope": {}
+}

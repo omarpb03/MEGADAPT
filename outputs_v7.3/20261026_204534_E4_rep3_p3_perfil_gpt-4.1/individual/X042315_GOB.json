@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Bajando el nivel de agua",
+    "Zona ya no es autosuficiente",
+    "Hundimientos diferenciales",
+    "Contaminaci\u0003n de agua",
+    "Explotaci\u0003n de agua subterránea",
+    "Cambio de uso de suelo",
+    "P\u000003rdida de humedad en chinampas",
+    "Escasez de agua en la parte alta",
+    "Falta de infraestructura adecuada",
+    "Conflictos por manejo de compuertas",
+    "Fragmentaci\u000003n institucional",
+    "Falta de planeaci\u000003n a largo plazo",
+    "Desconfianza hacia el gobierno",
+    "Presi\u000003n urbana sobre zona lacustre"
+  ],
+  "Causas_principales": [
+    "Grieta tras el sismo del 85",
+    "Explotaci\u000003n de pozos",
+    "Extracci\u000003n hist\u000003rica de agua",
+    "Bloqueo de escurrimientos naturales",
+    "Asentamientos irregulares",
+    "Descargas de aguas negras",
+    "Falta de mantenimiento de infraestructura",
+    "Fragmentaci\u000003n institucional",
+    "Criterios pol\u000003ticos de delegaciones",
+    "Cambio generacional y patrimonialismo",
+    "Crecimiento urbano",
+    "Falta de pol\u000003tica de suelo",
+    "Falta de planeaci\u000003n a mediano plazo",
+    "Infraestructura obsoleta"
+  ],
+  "Consecuencias": [
+    "P\u000003rdida de niveles hidr\u000003ulicos",
+    "Secado de chinampas",
+    "Cambio de uso de suelo",
+    "Contaminaci\u000003n de canales y subsuelo",
+    "Reducci\u000003n de biodiversidad",
+    "P\u000003rdida de servicios ambientales",
+    "Conflictos entre comunidades",
+    "Inundaciones en zona chinampera",
+    "P\u000003rdida de identidad patrimonial",
+    "Desconfianza hacia autoridades",
+    "Deterioro de calidad de agua",
+    "Reducci\u000003n de productividad agropecuaria",
+    "Presi\u000003n para regularizar asentamientos",
+    "Plusval\u000003a urbana sobre zona ambiental"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad local",
+      "accion": "Registro ante RAMSAR"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Generar comunicaci\u000003n pluvial"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de compuertas y esclusas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Pago de servicios ambientales"
+    },
+    {
+      "actor": "FAO",
+      "accion": "Registro ante SIPAM"
+    },
+    {
+      "actor": "Planta de tratamiento",
+      "accion": "Surtimiento de agua tratada"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Dotaci\u000003n de servicios a asentamientos"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Manejo de vasos reguladores"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Elaboraci\u000003n de estudios y censos"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Mantenimiento de ollas de captaci\u000003n"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Programa maestro de manejo de compuertas"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Propuestas comunitarias"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Difusi\u000003n de valores patrimoniales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Monitoreo digital de niveles hidr\u000003ulicos"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Relleno de canales para ampliar parcelas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Desazolve y reapertura de canales"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Propuesta de banco de suelo productivo"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Solidaridad en faenas y nivelaci\u000003n"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Zonas de amortiguamiento patrimonial"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Convocatorias abiertas a propuestas"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Apoyo a iniciativas comunitarias"
+    },
+    {
+      "actor": "Autoridad local",
+      "accion": "Estrategias pedag\u000003gicas para nuevas generaciones"
+    }
+  ],
+  "input_tokens": 14029,
+  "output_tokens": 1200,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtención y distribución del agua",
+    "Calidad del agua",
+    "Escasez de agua",
+    "Crecimiento inadecuado de la ciudad",
+    "Asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad",
+    "Falta de previsión en infraestructura",
+    "Decisiones políticas absurdas",
+    "Extracción excesiva de agua",
+    "Pérdidas en redes de agua"
+  ],
+  "Consecuencias": [
+    "Problemas de abastecimiento",
+    "Inundaciones",
+    "Desigualdad en el acceso al agua",
+    "Dependencia de pipas para el suministro",
+    "Conflictos sociales por el agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno",
+      "accion": "Implementar infraestructura de agua"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Gestionar dotación de agua"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regular asentamientos informales"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Concesionar servicios de agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Protestar por acceso al agua"
+    }
+  ],
+  "input_tokens": 9945,
+  "output_tokens": 226,
+  "error": null,
+  "items_antes_de_tope": {}
+}

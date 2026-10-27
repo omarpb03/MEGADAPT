@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u0003n del r\u0000edo Eslava",
+    "P\u0000e9rdida de agua limpia",
+    "Escasez de agua en el pueblo",
+    "Calidad del agua para consumo",
+    "Recarga de mantos acu\u0000edferos",
+    "Conservaci\u0000f3n de agua en el ejido"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano",
+    "Asentamientos humanos irregulares",
+    "Falta de planeaci\u0000f3n urbana",
+    "P\u0000e9rdida de valores y educaci\u0000f3n",
+    "Contaminaci\u0000f3n por basura",
+    "Ganado en la parte alta",
+    "Desdoblamiento de familias",
+    "Abandono de la agricultura",
+    "Programas de gobierno insuficientes"
+  ],
+  "Consecuencias": [
+    "R\u0000edo convertido en drenaje",
+    "Agua contaminada para consumo",
+    "P\u0000e9rdida de suelo de conservaci\u0000f3n",
+    "Escasez de agua en el pueblo",
+    "Presi\u0000f3n sobre las tierras ejidales",
+    "Disminuci\u0000f3n de recarga de mantos acu\u0000edferos",
+    "P\u0000e9rdida de biodiversidad",
+    "Problemas para la vida silvestre y humana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporaci\u0000f3n a reserva ecol\u0000f3gica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento cero urbano"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcci\u0000f3n de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcci\u0000f3n de pozos filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestaci\u0000f3n masiva"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de cadenas productivas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Sistemas de riego por gravedad"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Producci\u0000f3n de alimentos org\u0000e1nicos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyecto de muro ecol\u0000f3gico"
+    },
+    {
+      "actor": "Ejido y gobierno",
+      "accion": "Proyectos de conservaci\u0000f3n de suelo y agua"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Ordenamiento ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Bajar ganado de la parte alta"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Programas de apoyo limitados"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de bosques y limpieza"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Empleo en proyectos productivos"
+    }
+  ],
+  "input_tokens": 7049,
+  "output_tokens": 793,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021815_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desconfianza en la calidad del agua",
+    "Acceso desigual al agua entubada",
+    "Escasez de agua en ciertas zonas",
+    "Inundaciones recurrentes en zonas urbanas",
+    "Gestión opaca y politizada del agua",
+    "Infraestructura hidráulica deficiente o vieja",
+    "Servicio de agua insuficiente en asentamientos irregulares"
+  ],
+  "Causas_principales": [
+    "Gestión del recurso ineficiente",
+    "Intereses particulares en la gestión",
+    "Falta de manejo de la demanda",
+    "Esquema tarifario injusto",
+    "Presiones inmobiliarias sobre el sistema",
+    "Crecimiento urbano informal",
+    "Infraestructura hidráulica obsoleta",
+    "Falta de planeación en drenaje pluvial",
+    "Negociaciones políticas en la distribución",
+    "Opacidad en decisiones técnicas"
+  ],
+  "Consecuencias": [
+    "Pago elevado por litro en zonas pobres",
+    "Desigualdad en acceso al agua",
+    "Proliferación de agua embotellada",
+    "Inundaciones con aguas negras",
+    "Enfermedades por agua insalubre",
+    "Consolidación de asentamientos irregulares",
+    "Conflictos entre comunidades y desarrollos",
+    "Presión social y protestas",
+    "Servicio de agua intermitente",
+    "Deterioro de infraestructura urbana"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Autoriza licencias de agua"
+    },
+    {
+      "actor": "Sistemas de Aguas",
+      "accion": "Negocia distribución de agua"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Presionan para obtener agua"
+    },
+    {
+      "actor": "Vecinos y pobladores",
+      "accion": "Protestan por falta de agua"
+    },
+    {
+      "actor": "Delegados políticos",
+      "accion": "Deciden prioridades de servicio"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Instalan redes de agua"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Atienden emergencias de inundación"
+    },
+    {
+      "actor": "Industria de agua embotellada",
+      "accion": "Fomenta desconfianza en agua de llave"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Invierte en infraestructura hidráulica"
+    },
+    {
+      "actor": "Comités de colonias",
+      "accion": "Buscan interlocución con autoridades"
+    },
+    {
+      "actor": "Medios de comunicación",
+      "accion": "Visibilizan problemas de inundación"
+    }
+  ],
+  "input_tokens": 14171,
+  "output_tokens": 463,
+  "error": null,
+  "items_antes_de_tope": {}
+}

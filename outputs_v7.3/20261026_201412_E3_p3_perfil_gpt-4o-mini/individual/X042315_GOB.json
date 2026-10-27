@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desaparición de lagos y humedales",
+    "Falta de niveles hidráulicos",
+    "Contaminación del agua",
+    "Hundimientos diferenciales",
+    "Explotación de agua subterránea"
+  ],
+  "Causas_principales": [
+    "Construcción del nuevo aeropuerto",
+    "Explotación de pozos y ojos de agua",
+    "Cierre de casa de bombas",
+    "Crecimiento urbano descontrolado",
+    "Asentamientos irregulares"
+  ],
+  "Consecuencias": [
+    "Pérdida de producción agrícola",
+    "Aumento de la temperatura en la zona",
+    "Contaminación de aguas",
+    "Desaparición de tradiciones culturales",
+    "Desigualdad en el acceso al agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registrar zona como sitio Ramsar"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Proponer infraestructura para conservar agua"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Mantener producción agrícola tradicional"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Elaborar programas de manejo ambiental"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Promover iniciativas comunitarias"
+    }
+  ],
+  "input_tokens": 14029,
+  "output_tokens": 236,
+  "error": null,
+  "items_antes_de_tope": {}
+}

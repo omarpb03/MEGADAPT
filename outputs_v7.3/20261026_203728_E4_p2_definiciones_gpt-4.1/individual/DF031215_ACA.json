@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribuci\u0003n desigual del agua",
+    "Suministro irregular en colonias populares",
+    "Desabasto por nuevas construcciones",
+    "Manejo discrecional del tandeo",
+    "Prioridad baja del agua en pol\u0000edticas urbanas",
+    "Impacto de obras urbanas en inundaciones",
+    "Falta de infraestructura en asentamientos irregulares",
+    "Falta de innovaci\u000003n en periferias"
+  ],
+  "Causas_principales": [
+    "Peso pol\u00000dtico de secretar\u00000edas de obras",
+    "Intereses inmobiliarios en desarrollo urbano",
+    "Designaci\u000003n pol\u00000dtica de funcionarios incompetentes",
+    "Crecimiento urbano m\u000001s r\u000001pido que infraestructura",
+    "Sesgo presupuestal hacia zonas centrales",
+    "Manejo discrecional de v\u000001lvulas de agua",
+    "Falta de planeaci\u000003n urbana actualizada",
+    "Prejuicio hacia sectores populares"
+  ],
+  "Consecuencias": [
+    "Baja presi\u000003n y desabasto de agua",
+    "Inundaciones frecuentes en zonas vulnerables",
+    "Grietas y da\u000003os en viviendas",
+    "Organizaciones vecinales por amenazas",
+    "Incertidumbre en acceso a servicios",
+    "Duplicidad de viviendas vac\u000001as",
+    "Uso desigual de innovaciones urbanas",
+    "Proyectos comunitarios bloqueados por grandes obras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Control discrecional de v\u000001lvulas"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar grietas y riesgos"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    },
+    {
+      "actor": "Secretar\u00000da de Obras",
+      "accion": "Bloquear proyectos comunitarios"
+    },
+    {
+      "actor": "Secretar\u00000da de Medio Ambiente",
+      "accion": "Defender obras urbanas"
+    },
+    {
+      "actor": "Habitantes de asentamientos",
+      "accion": "Almacenar agua en tambos"
+    },
+    {
+      "actor": "Protecci\u000003n Civil",
+      "accion": "Desasolve y campa\u00000f1as preventivas"
+    },
+    {
+      "actor": "Comit\u000001s t\u000009cnicos mixtos",
+      "accion": "Dictaminar proyectos barriales"
+    },
+    {
+      "actor": "Grupos promotores de cuenca",
+      "accion": "Reuniones y articulaci\u000003n social"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Introducir tuber\u00000da por etapas"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Recurrir a instrumentos urbanos viejos"
+    }
+  ],
+  "input_tokens": 12237,
+  "output_tokens": 720,
+  "error": null,
+  "items_antes_de_tope": {}
+}

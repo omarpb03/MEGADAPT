@@ -1,0 +1,16 @@
+﻿condicion,campo,repeticiones,casos,ambos,ambos_vacios,solo_humano,solo_modelo
+E1 · p1_baseline,preocupacion,3,69,69,0,0,0
+E1 · p1_baseline,causa,3,69,69,0,0,0
+E1 · p1_baseline,consecuencia,3,69,66,0,0,3
+E1 · p1_baseline,accion,3,69,63,0,3,3
+E1 · p1_baseline,TOTAL,3,276,267,0,3,6
+E2 · p2_definiciones,preocupacion,3,69,69,0,0,0
+E2 · p2_definiciones,causa,3,69,69,0,0,0
+E2 · p2_definiciones,consecuencia,3,69,66,0,0,3
+E2 · p2_definiciones,accion,3,69,64,0,2,3
+E2 · p2_definiciones,TOTAL,3,276,268,0,2,6
+E3 · p3_perfil,preocupacion,3,69,69,0,0,0
+E3 · p3_perfil,causa,3,69,69,0,0,0
+E3 · p3_perfil,consecuencia,3,69,66,0,0,3
+E3 · p3_perfil,accion,3,69,63,0,3,3
+E3 · p3_perfil,TOTAL,3,276,267,0,3,6

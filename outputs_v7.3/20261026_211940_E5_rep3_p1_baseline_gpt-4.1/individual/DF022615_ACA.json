@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio del agua",
+    "Falta de reciclaje de agua",
+    "Cultura del agua inexistente",
+    "Problemas de acceso al agua",
+    "Tandeo y distribución desigual",
+    "Calidad del agua potable",
+    "Sobreexplotación de pozos",
+    "Contaminación por desechos agrícolas y ganaderos",
+    "Falta de vigilancia de normatividad",
+    "Salinización del agua en Xochimilco",
+    "Contaminación de ojos de agua",
+    "Uso intensivo de agroquímicos",
+    "Corrupción en distribución de agua",
+    "Falta de programas de captación de agua de lluvia",
+    "Inundaciones en épocas de lluvia"
+  ],
+  "Causas_principales": [
+    "Falta de interés del gobierno",
+    "Falta de financiamiento",
+    "Diseño urbano sin reciclaje de agua",
+    "Corrupción a nivel institucional",
+    "Falta de vigilancia gubernamental",
+    "Uso indiscriminado de aguas tratadas y grises",
+    "Fragmentación histórica y social",
+    "Presión de urbanización sobre suelos de conservación",
+    "Usos agrícolas sin restricciones",
+    "Aplicación nula de normatividad",
+    "Mal manejo de desechos orgánicos",
+    "Falta de conciencia social",
+    "Pobreza y bajos recursos económicos",
+    "Falta de programas de captura de agua de lluvia",
+    "Sobreuso de pozos y mantos freáticos"
+  ],
+  "Consecuencias": [
+    "Agua desperdiciada",
+    "Escasez de agua en colonias",
+    "Reparto desigual de agua",
+    "Dependencia de pipas y cisternas",
+    "Contaminación de cuerpos de agua",
+    "Agua no potable sin hervir",
+    "Acumulación de sales en suelos agrícolas",
+    "Inundaciones en zonas urbanizadas",
+    "Muerte de abejas por agroquímicos",
+    "Filtración insuficiente al acuífero",
+    "Deterioro del sistema de recarga",
+    "Toma de poder político local",
+    "Corrupción en servicios públicos",
+    "Persistencia de pobreza",
+    "Uso prohibido de agroquímicos sigue"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ingeniería industrial",
+      "accion": "Propuesta de reciclaje de agua doméstica"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Tandeo de agua en colonias"
+    },
+    {
+      "actor": "Vecinos de Iztapalapa",
+      "accion": "Almacenamiento de agua en cisternas"
+    },
+    {
+      "actor": "Cuenca lechera de Xochimilco",
+      "accion": "Acuerdo político para suministro de agua"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Uso de excreta animal como abono"
+    },
+    {
+      "actor": "Plantas de composta",
+      "accion": "Compostaje de estiércol"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "No vigilancia de normatividad ambiental"
+    },
+    {
+      "actor": "Comunidad ganadera",
+      "accion": "Traslado de estiércol a Xochimilco"
+    },
+    {
+      "actor": "Grupo de UAM-Xochimilco",
+      "accion": "Programa de desalinización de parcelas"
+    },
+    {
+      "actor": "Productores de chinampas",
+      "accion": "Creación de filtros de tepetate y piedras"
+    },
+    {
+      "actor": "Asociación de charros",
+      "accion": "Uso de caballos para equinoterapia"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Reemplazo de agua potable por aguas tratadas en riego"
+    },
+    {
+      "actor": "Productores agropecuarios de Hidalgo",
+      "accion": "Estudio del cambio en recursos hídricos"
+    },
+    {
+      "actor": "Universidades y productores",
+      "accion": "Investigación sobre pozos sobreexplotados"
+    },
+    {
+      "actor": "REDES en Xochimilco",
+      "accion": "Restauración ecológica"
+    },
+    {
+      "actor": "Pueblos originarios",
+      "accion": "Mantener organización y uso tradicional del agua"
+    }
+  ],
+  "input_tokens": 13290,
+  "output_tokens": 1007,
+  "error": null,
+  "items_antes_de_tope": {}
+}

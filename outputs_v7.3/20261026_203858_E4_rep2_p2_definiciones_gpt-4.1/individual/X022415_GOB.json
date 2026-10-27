@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua en Xochimilco",
+    "Mala calidad del agua tratada",
+    "Cantidad insuficiente de agua en canales",
+    "Hundimientos diferenciales por manejo de agua",
+    "Abandono de chinampas por problemas de agua",
+    "Falta de coordinacion institucional en manejo de agua"
+  ],
+  "Causas_principales": [
+    "Descargas de asentamientos irregulares",
+    "Falta de drenaje en asentamientos",
+    "Descargas de establos y ganado",
+    "Uso excesivo de agroquimicos en invernaderos",
+    "Fugas en la red de canales",
+    "Mantenimiento deficiente de plantas de tratamiento",
+    "Falta de adaptacion de tecnologias a condiciones locales",
+    "Decisiones aisladas y politicas no integrales",
+    "Desinteres de nuevas generaciones por la chinamperia",
+    "Manejo operativo del agua por sistema de aguas",
+    "Falta de vision ecologica en sistema de aguas"
+  ],
+  "Consecuencias": [
+    "Productos contaminados no se venden",
+    "Productores deben abaratar productos",
+    "Impacto negativo en economia local",
+    "Abandono de chinampas",
+    "Perdida de biodiversidad",
+    "Turismo afectado por agua sucia",
+    "Inundaciones en zonas chinamperas",
+    "Riesgos de salud por aguas negras",
+    "Zonas degradadas y contaminadas",
+    "Poca navegabilidad de canales"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio",
+      "accion": "Coordinacion institucional y politica"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento de canales y barreras"
+    },
+    {
+      "actor": "Instituto de Biologia UNAM",
+      "accion": "Estudios de calidad de agua"
+    },
+    {
+      "actor": "UNAM y UAM",
+      "accion": "Definir criterios tecnicos y manejo"
+    },
+    {
+      "actor": "Productores y turismo",
+      "accion": "Reactivacion chinampera y turismo alternativo"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Delegaciones y productores",
+      "accion": "Manejo de esclusas en canales"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Decretos y figuras de proteccion"
+    },
+    {
+      "actor": "Conam y dependencias",
+      "accion": "Coordinacion en sitio Ramsar"
+    },
+    {
+      "actor": "Autoridad y academia",
+      "accion": "Catalogacion y mapeo de chinampas"
+    },
+    {
+      "actor": "Productores y chefs",
+      "accion": "Turismo culinario en chinampas"
+    },
+    {
+      "actor": "Productores y observadores",
+      "accion": "Promocion de observacion de aves"
+    }
+  ],
+  "input_tokens": 12197,
+  "output_tokens": 704,
+  "error": null,
+  "items_antes_de_tope": {}
+}

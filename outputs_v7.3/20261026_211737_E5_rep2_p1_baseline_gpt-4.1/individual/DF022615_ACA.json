@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio del agua",
+    "Falta de cultura del agua",
+    "Acceso limitado en Iztapalapa",
+    "Calidad del agua potable",
+    "Contaminacion por excretas animales",
+    "Salinizacion en Xochimilco",
+    "Normatividad sin vigilancia",
+    "Corrupción en distribución",
+    "Uso intensivo de agroquímicos",
+    "Sobreexplotación de pozos"
+  ],
+  "Causas_principales": [
+    "Construcción sin reciclaje de agua",
+    "Falta de interés del gobierno",
+    "Tandeos por escasez",
+    "Ausencia de diseño para recolección de desperdicios",
+    "Corrupción institucional",
+    "Presión de urbanización",
+    "Ausencia de supervisión",
+    "Transacciones y privatización en llaves públicas",
+    "Recursos económicos limitados",
+    "Aplicación deficiente de normatividad"
+  ],
+  "Consecuencias": [
+    "Agua desperdiciada en casas",
+    "Uso de aguas no potables en jardines",
+    "Acceso desigual al agua",
+    "Contaminación de mantos freáticos",
+    "Enfermedades como cólera",
+    "Demanda de excreta para chinampas",
+    "Contaminación con sales en suelos agrícolas",
+    "Inundaciones con aguas negras",
+    "Mortalidad de abejas por químicos",
+    "Corrupción en el suministro"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gente de biotecnología",
+      "accion": "Proponer uso de aguas grises"
+    },
+    {
+      "actor": "Vecinos de Iztapalapa",
+      "accion": "Almacenar agua en cisternas"
+    },
+    {
+      "actor": "Presidente asociación y autoridades",
+      "accion": "Acuerdo político para agua"
+    },
+    {
+      "actor": "Productores Xochimilco",
+      "accion": "Usar excreta para suelos"
+    },
+    {
+      "actor": "Gobierno municipal",
+      "accion": "Tandeo y distribución de agua"
+    },
+    {
+      "actor": "Grupo UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    },
+    {
+      "actor": "Productores Xochimilco",
+      "accion": "Filtro en chinampas para riego"
+    },
+    {
+      "actor": "Programas de composta",
+      "accion": "Promover composta sobre excreta"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Planta de composta"
+    },
+    {
+      "actor": "ONG redes",
+      "accion": "Restauración ecológica"
+    },
+    {
+      "actor": "Pueblos originarios",
+      "accion": "Organización para gestión local"
+    },
+    {
+      "actor": "Secretaría recursos hidráulicos",
+      "accion": "Programa de suelos conservación"
+    },
+    {
+      "actor": "Productores Hidalgo",
+      "accion": "Estudio sobre uso de pozos"
+    },
+    {
+      "actor": "Universidades, gobierno, productores",
+      "accion": "Investigación conjunta sobre agua"
+    },
+    {
+      "actor": "Concesiones empresas",
+      "accion": "Manejo hidrológico en bosques"
+    },
+    {
+      "actor": "Policía montada",
+      "accion": "Cría de caballos para trabajo"
+    },
+    {
+      "actor": "Asociación charros",
+      "accion": "Equinoterapia en cuadras"
+    },
+    {
+      "actor": "Grupo veterinaria UNAM",
+      "accion": "Atención gratuita a caballos"
+    },
+    {
+      "actor": "Comisión de Cuencas",
+      "accion": "Manejo cuerpos agua Sierra Nevada"
+    }
+  ],
+  "input_tokens": 13290,
+  "output_tokens": 614,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012015_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Abastecimiento de agua",
+    "Inundaciones",
+    "Problemas con la calidad del agua",
+    "Falta de infraestructura hidráulica",
+    "Fugas en las redes",
+    "Baja presión de agua"
+  ],
+  "Causas_principales": [
+    "Proyectos urbanos sin infraestructura hidráulica",
+    "Falta de inversión en infraestructura",
+    "Terrenos baratos sin servicios",
+    "Recursos públicos insuficientes",
+    "Zonas alejadas de fuentes de agua",
+    "Mala calidad de pozos"
+  ],
+  "Consecuencias": [
+    "Comunidades sufren abastecimiento insuficiente",
+    "Comunidades sufren inundaciones",
+    "Alto costo de introducir agua",
+    "Gente recibe poca agua a la semana",
+    "Problemas de calidad del agua",
+    "Necesidad de plantas potabilizadoras"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno federal",
+      "accion": "Presupuestos para infraestructura hidráulica"
+    },
+    {
+      "actor": "INVI",
+      "accion": "Fondo para vivienda social"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Distribución de agua en pipas"
+    },
+    {
+      "actor": "Iniciativa privada",
+      "accion": "Inversión en programas de agua"
+    },
+    {
+      "actor": "Autoridades hidráulicas",
+      "accion": "Rehabilitación de redes para fugas"
+    },
+    {
+      "actor": "Autoridades hidráulicas",
+      "accion": "Construcción de plantas potabilizadoras"
+    },
+    {
+      "actor": "Autoridades hidráulicas",
+      "accion": "Proyectos de rebombeo para presión"
+    },
+    {
+      "actor": "Técnicos especialistas",
+      "accion": "Diagnóstico y propuestas de solución"
+    }
+  ],
+  "input_tokens": 4452,
+  "output_tokens": 310,
+  "error": null,
+  "items_antes_de_tope": {}
+}

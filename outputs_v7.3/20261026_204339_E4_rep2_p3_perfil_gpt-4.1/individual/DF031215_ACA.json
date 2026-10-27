@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Distribuci\u0003n desigual del agua",
+    "Suministro irregular en colonias populares",
+    "Desabasto por nuevas construcciones",
+    "Manejo discrecional de v\u0000e1lvulas",
+    "Impacto de obras urbanas en inundaciones",
+    "Falta de infraestructura en asentamientos irregulares",
+    "Prioridad baja del agua en pol\u0000edticas urbanas",
+    "Tandeo inequitativo",
+    "Falta de pol\u0000edtica de riesgo ante inundaciones"
+  ],
+  "Causas_principales": [
+    "Peso pol\u0000edtico de secretar\u0000edas de obras",
+    "Intereses inmobiliarios en desarrollo urbano",
+    "Designaci\u0000f3n pol\u0000edtica de funcionarios",
+    "Crecimiento urbano m\u0000e1s r\u0000e1pido que infraestructura",
+    "Sesgo presupuestal hacia zonas centrales",
+    "Manejo discrecional por coordinadores territoriales",
+    "Falta de planeaci\u0000f3n urbana actualizada",
+    "Expansi\u0000f3n de asentamientos sin servicios",
+    "Decisiones centralizadas en infraestructura primaria"
+  ],
+  "Consecuencias": [
+    "Baja presi\u0000f3n y menos agua",
+    "Inundaciones frecuentes en Iztapalapa",
+    "Grietas y da\u0000f1o a viviendas",
+    "Incertidumbre en acceso al agua",
+    "Uso de tambos y pipas",
+    "Consolidaci\u0000f3n lenta de servicios",
+    "Desigualdad en innovaci\u0000f3n urbana",
+    "Percepci\u0000f3n de injusticia en tandeo",
+    "Servicio deficiente en colonias nuevas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Control discrecional de v\u0000e1lvulas"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar aparici\u0000f3n de grietas"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    },
+    {
+      "actor": "Secretar\u0000eda de Obras",
+      "accion": "Bloquear proyectos comunitarios"
+    },
+    {
+      "actor": "Habitantes asentamientos irregulares",
+      "accion": "Almacenar agua en tambos"
+    },
+    {
+      "actor": "Habitantes colonias populares",
+      "accion": "Gestionar servicios tras regularizaci\u0000f3n"
+    },
+    {
+      "actor": "Autoridades locales",
+      "accion": "Introducir tuber\u0000edas por etapas"
+    },
+    {
+      "actor": "Protecci\u0000f3n Civil",
+      "accion": "Desasolve y limpieza de coladeras"
+    },
+    {
+      "actor": "Secretar\u0000eda de Medio Ambiente",
+      "accion": "Defender obras que afectan agua"
+    },
+    {
+      "actor": "Vecinos zonas centrales",
+      "accion": "Organizarse ante amenazas"
+    },
+    {
+      "actor": "Comit\u0000e9s t\u0000e9cnicos mixtos",
+      "accion": "Dictaminar proyectos barriales"
+    }
+  ],
+  "input_tokens": 12471,
+  "output_tokens": 781,
+  "error": null,
+  "items_antes_de_tope": {}
+}

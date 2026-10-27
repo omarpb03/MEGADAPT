@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Obtención y distribución del agua",
+    "Calidad del agua",
+    "Escasez de agua",
+    "Asentamientos irregulares sin servicios",
+    "Infraestructura hidráulica obsoleta",
+    "Manejo político del agua",
+    "Control político sobre servicios",
+    "Crecimiento urbano sin planeación",
+    "Sobreexplotación de mantos freáticos"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad inadecuado",
+    "Ocupación de suelo de conservación",
+    "Decisiones políticas sin base técnica",
+    "Permisividad de autoridades a asentamientos informales",
+    "Sobreexplotación de acuíferos",
+    "Infraestructura vieja y pérdida de agua",
+    "Planes de desarrollo obsoletos",
+    "Falta de actualización en planeación urbana",
+    "Control político del acceso al agua",
+    "Corrupción y colusión en distribución de servicios",
+    "Carencia de sistemas de información confiables",
+    "Desviación de recursos a zonas informales por voto",
+    "Falta de coordinación entre planeación y agua",
+    "Ausencia de visión técnica en toma de decisiones"
+  ],
+  "Consecuencias": [
+    "Inundaciones recurrentes",
+    "Hundimiento del suelo urbano",
+    "Escasez en zonas populares",
+    "Tandeo de agua por horas",
+    "Negocio de agua en pipas",
+    "Servicios deficientes en desarrollos formales",
+    "Degradación de servicios en zonas urbanas",
+    "Conflictos sociales por agua",
+    "Desigualdad en acceso al agua",
+    "Servicios suministrados a cambio de votos",
+    "Fugas de agua elevadas",
+    "Crecimiento en zonas de recarga",
+    "Reducción de recarga de acuíferos"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades",
+      "accion": "Permitir asentamientos informales"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regular tandeo de agua"
+    },
+    {
+      "actor": "Jefes territoriales",
+      "accion": "Coordinar distribución en colonias"
+    },
+    {
+      "actor": "SACMEX",
+      "accion": "Operar dotación de agua"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Invertir en asentamientos irregulares"
+    },
+    {
+      "actor": "Inversionistas privados",
+      "accion": "Participar en servicios urbanos"
+    },
+    {
+      "actor": "Empresa concesionaria",
+      "accion": "Instalar medidores de agua"
+    },
+    {
+      "actor": "Sistema de Aguas de la Ciudad",
+      "accion": "Proveer información oficial general"
+    },
+    {
+      "actor": "Academicos",
+      "accion": "Realizar estudios sobre agua"
+    },
+    {
+      "actor": "Asamblea legislativa",
+      "accion": "Modificar usos de suelo politicamente"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Presionar para resolver servicios"
+    },
+    {
+      "actor": "Políticos",
+      "accion": "Coaccionar votos a cambio de servicios"
+    },
+    {
+      "actor": "Desarrolladores inmobiliarios",
+      "accion": "Negociar permisos a cambio de obsequios"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Asignar recursos basados en control político"
+    },
+    {
+      "actor": "Autoridades",
+      "accion": "No actualizar planes urbanos"
+    },
+    {
+      "actor": "Población informal",
+      "accion": "Demandar servicios durante elecciones"
+    }
+  ],
+  "input_tokens": 9584,
+  "output_tokens": 594,
+  "error": null,
+  "items_antes_de_tope": {}
+}

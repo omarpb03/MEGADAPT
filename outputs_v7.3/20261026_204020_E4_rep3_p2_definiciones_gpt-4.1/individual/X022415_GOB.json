@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_GOB"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminacion del agua en Xochimilco",
+    "Mala calidad del agua tratada",
+    "Cantidad insuficiente de agua en canales",
+    "Hundimientos diferenciales por manejo de agua",
+    "Abandono de chinampas por problemas de agua",
+    "Falta de coordinacion institucional en manejo de agua"
+  ],
+  "Causas_principales": [
+    "Descargas de asentamientos irregulares",
+    "Falta de drenaje en asentamientos",
+    "Descargas de establos y ganado",
+    "Uso excesivo de agroquimicos en invernaderos",
+    "Fugas en la red de canales",
+    "Falta de mantenimiento en plantas de tratamiento",
+    "Decisiones aisladas y sin coordinacion institucional",
+    "Visión operativa del sistema de aguas",
+    "Desarraigo de nuevas generaciones",
+    "Abandono de tecnologías no adaptadas localmente"
+  ],
+  "Consecuencias": [
+    "Dificultad para comercializar productos",
+    "Impacto negativo en economia de productores",
+    "Abandono de chinampas",
+    "Pérdida de biodiversidad",
+    "Turismo afectado por agua sucia",
+    "Inundaciones en zonas chinamperas y urbanas",
+    "Riesgos de salud por mezcla con aguas negras",
+    "Zonas degradadas y contaminadas",
+    "Pérdida de identidad y arraigo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridad de la Zona Patrimonio",
+      "accion": "Coordinacion institucional y politica"
+    },
+    {
+      "actor": "Productores chinamperos",
+      "accion": "Mantenimiento de canales y refugios"
+    },
+    {
+      "actor": "Instituto de Biologia UNAM",
+      "accion": "Estudios de calidad de agua"
+    },
+    {
+      "actor": "UAM y UNAM",
+      "accion": "Monitoreo de biodiversidad y manejo"
+    },
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Manejo operativo del agua"
+    },
+    {
+      "actor": "Productores y delegacion",
+      "accion": "Manejo de esclusas en canales"
+    },
+    {
+      "actor": "Conam y Conabio",
+      "accion": "Colaboracion en biodiversidad y agua"
+    },
+    {
+      "actor": "Productores y chefs",
+      "accion": "Turismo alternativo en chinampas"
+    },
+    {
+      "actor": "Gobierno local y federal",
+      "accion": "Decretos y figuras de proteccion"
+    },
+    {
+      "actor": "Organizaciones sociales",
+      "accion": "Participacion en mega coloquio"
+    }
+  ],
+  "input_tokens": 12197,
+  "output_tokens": 626,
+  "error": null,
+  "items_antes_de_tope": {}
+}

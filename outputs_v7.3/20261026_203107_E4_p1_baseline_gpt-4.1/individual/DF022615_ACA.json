@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio de agua en casas",
+    "Falta de cultura del agua",
+    "Problemas de acceso al agua en Iztapalapa",
+    "Uso de aguas negras para riego",
+    "Contaminaci\u0003n de mantos fre\u001at icos",
+    "Falta de restricci nes a contaminantes",
+    "Corrupci n en distribuci n de agua",
+    "Salinizaci n del agua en Xochimilco",
+    "Contaminaci n de ojos de agua",
+    "Uso intensivo de agroqu micos",
+    "Falta de supervisi n en uso de qu micos",
+    "Falta de programas de captura de agua",
+    "Inundaciones en zonas urbanizadas",
+    "Abandono de programas de conservaci n h rol gica"
+  ],
+  "Causas_principales": [
+    "Falta de inter s del gobierno",
+    "Falta de financiamiento",
+    "Urbanizaci n de zonas lacustres",
+    "Corrupci n en distribuci n de agua",
+    "Falta de vigilancia y cumplimiento de leyes",
+    "Adelgazamiento de los gobiernos",
+    "Uso indiscriminado de agroqu micos",
+    "Falta de dise o en recolecci n de desperdicios",
+    "Desarrollo urbano sobre suelos de conservaci n",
+    "Presi n de urbanizaci n sobre programas h rol gicos",
+    "Pobreza y bajos salarios",
+    "Falta de programas de captura de agua de lluvia",
+    "Ruptura de flujos naturales de agua"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua potable",
+    "Riegos con aguas negras",
+    "Falta de acceso regular al agua",
+    "Contaminaci n de suelos y acu feros",
+    "Salinizaci n de suelos en Xochimilco",
+    "Mortalidad de abejas por agroqu micos",
+    "Presencia de hongos en invernaderos",
+    "Corrupci n en acceso al agua",
+    "Privatizaci n de llaves p blicas",
+    "Inundaciones en colonias urbanizadas",
+    "P rdida de programas de recarga de acu feros",
+    "Persistencia de pobreza y desigualdad",
+    "Falta de conciencia sobre calidad del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gente de biotecnolog a",
+      "accion": "Propuesta de reciclo de agua"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Cambio en uso de agua para riego"
+    },
+    {
+      "actor": "Vecinos de Iztapalapa",
+      "accion": "Quejas por consumo de agua en establos"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Uso de excreta de ganado en suelos"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Filtros en chinampas para riego"
+    },
+    {
+      "actor": "Grupo UAM-Xochimilco",
+      "accion": "Programa para desalinizar parcelas"
+    },
+    {
+      "actor": "Productores de Iztapalapa",
+      "accion": "Almacenamiento de agua en cisternas"
+    },
+    {
+      "actor": "Autoridades y asociaciones",
+      "accion": "Acuerdos pol ticos para abastecimiento"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Compra de esti rcol de Iztapalapa"
+    },
+    {
+      "actor": "Delegaci n",
+      "accion": "Planta de composta"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Normatividad para control de desechos"
+    },
+    {
+      "actor": "Productores",
+      "accion": "Uso de agua de pozo"
+    },
+    {
+      "actor": "ONG REDES",
+      "accion": "Restauraci n ecol gica en Xochimilco"
+    },
+    {
+      "actor": "Pueblos originarios",
+      "accion": "Organizaci n propia para gesti n"
+    },
+    {
+      "actor": "Asociaci n de charros",
+      "accion": "Uso de caballos para actividades"
+    },
+    {
+      "actor": "Polic a montada",
+      "accion": "Cr a de caballos"
+    },
+    {
+      "actor": "Productores de Nezahualc yotl",
+      "accion": "Uso de caballos para basura"
+    },
+    {
+      "actor": "UNAM veterinaria",
+      "accion": "Atenci n gratuita a caballos"
+    },
+    {
+      "actor": "Chapingo",
+      "accion": "Construcci n de terrazas para capturar agua"
+    },
+    {
+      "actor": "Comisi n de Cuencas",
+      "accion": "Estudio y mejora de cuerpos de agua"
+    },
+    {
+      "actor": "Productores agropecuarios Hidalgo",
+      "accion": "Estudio de pozos y uso de agua"
+    }
+  ],
+  "input_tokens": 13290,
+  "output_tokens": 1338,
+  "error": null,
+  "items_antes_de_tope": {}
+}

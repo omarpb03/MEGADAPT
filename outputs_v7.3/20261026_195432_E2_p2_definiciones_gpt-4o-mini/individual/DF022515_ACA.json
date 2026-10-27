@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022515_ACA"
+  },
+  "prompt_variant": "p2_definiciones",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Inundación en ciertas zonas",
+    "Complejidad del fenómeno urbano",
+    "Crisis del agua en ciertas zonas"
+  ],
+  "Causas_principales": [
+    "Población flotante",
+    "Fuentes de abastecimiento diversas",
+    "Mosaico de unidades político-administrativas",
+    "Movimiento de habitantes entre zonas"
+  ],
+  "Consecuencias": [
+    "Escasez en algunas áreas",
+    "Abundancia en otras zonas",
+    "Inundaciones en ciertas áreas",
+    "Gran riesgo ya ocurre"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [],
+  "input_tokens": 1126,
+  "output_tokens": 128,
+  "error": null,
+  "items_antes_de_tope": {}
+}

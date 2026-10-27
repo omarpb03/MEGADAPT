@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "X011915_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación en los canales",
+    "Descargas de drenaje",
+    "Escasez de agua potable",
+    "Hundimiento de chinampas",
+    "Falta de infraestructura de drenaje"
+  ],
+  "Causas_principales": [
+    "Construcción de casas sin drenaje",
+    "Irregularidades en el gobierno",
+    "Crecimiento de la mancha urbana",
+    "Falta de cumplimiento de normatividad",
+    "Corrupción en permisos de construcción"
+  ],
+  "Consecuencias": [
+    "Contaminación del agua",
+    "Pérdida de biodiversidad",
+    "Inundaciones en barrios",
+    "Deterioro de la calidad del agua",
+    "Destrucción de ecosistemas lacustres"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegación de Xochimilco",
+      "accion": "Realiza limpieza de canales"
+    },
+    {
+      "actor": "Sistemas de Aguas de la Ciudad de México (SACMEX)",
+      "accion": "Maneja el agua potable y drenaje"
+    },
+    {
+      "actor": "Secretaría de Desarrollo y Equidad (SEDEREC)",
+      "accion": "Implementa proyectos productivos de conservación"
+    },
+    {
+      "actor": "Población local",
+      "accion": "Participa en la limpieza y conservación de chinampas"
+    },
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Coordina acciones para el manejo del agua"
+    }
+  ],
+  "input_tokens": 24996,
+  "output_tokens": 274,
+  "error": null,
+  "items_antes_de_tope": {}
+}

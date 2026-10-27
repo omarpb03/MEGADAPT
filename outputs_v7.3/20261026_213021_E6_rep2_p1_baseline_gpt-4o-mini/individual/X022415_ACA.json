@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Acceso limitado al agua",
+    "Contaminación de fuentes de agua",
+    "Desigualdad en la distribución del agua",
+    "Impacto de la urbanización en el agua",
+    "Cambio climático y sus efectos en el agua"
+  ],
+  "Causas_principales": [
+    "Extracción de acuíferos",
+    "Urbanización descontrolada",
+    "Uso de agroquímicos",
+    "Falta de regulación en el uso del agua",
+    "Corrupción en la gestión del agua"
+  ],
+  "Consecuencias": [
+    "Deterioro de ríos",
+    "Pérdida de tierras agrícolas",
+    "Conflictos por el acceso al agua",
+    "Desplazamiento de comunidades",
+    "Aumento de asentamientos irregulares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gobierno del Distrito Federal",
+      "accion": "Implementación de programas de gestión del agua"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Adaptación de cultivos a invernaderos"
+    },
+    {
+      "actor": "Organizaciones no gubernamentales",
+      "accion": "Sensibilización sobre el uso del agua"
+    },
+    {
+      "actor": "Comisión de Cuenca de México",
+      "accion": "Regulación y monitoreo del uso del agua"
+    },
+    {
+      "actor": "Universidades",
+      "accion": "Investigación y capacitación sobre gestión del agua"
+    }
+  ],
+  "input_tokens": 19808,
+  "output_tokens": 262,
+  "error": null,
+  "items_antes_de_tope": {}
+}

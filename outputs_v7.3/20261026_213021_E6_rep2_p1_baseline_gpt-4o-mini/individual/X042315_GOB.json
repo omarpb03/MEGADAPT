@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "Id_entrevista": "X042315_GOB"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desaparición de los ojos de agua",
+    "Bajo nivel de agua en la zona",
+    "Contaminación del agua",
+    "Hundimientos diferenciales",
+    "Falta de infraestructura para el manejo del agua",
+    "Explotación de agua subterránea",
+    "Crisis de agua desde el sismo del 85",
+    "Impacto del nuevo aeropuerto en el agua"
+  ],
+  "Causas_principales": [
+    "Construcción del acueducto",
+    "Explotación excesiva de pozos",
+    "Crecimiento urbano descontrolado",
+    "Asentamientos irregulares",
+    "Falta de mantenimiento a la infraestructura",
+    "Contaminación por aguas negras",
+    "Cambio climático",
+    "Destrucción de humedales"
+  ],
+  "Consecuencias": [
+    "Pérdida de la capacidad de producción agrícola",
+    "Aumento de la temperatura en la zona",
+    "Desaparición de la biodiversidad",
+    "Inundaciones en zonas cercanas",
+    "Desabastecimiento de agua",
+    "Deterioro de la calidad del agua",
+    "Conflictos entre comunidades por el agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "SEMARNAT",
+      "accion": "Registrar la zona como sitio Ramsar"
+    },
+    {
+      "actor": "PAOT",
+      "accion": "Realizar estudios sobre hundimientos diferenciales"
+    },
+    {
+      "actor": "Gobierno local",
+      "accion": "Implementar programas de conservación y manejo del agua"
+    },
+    {
+      "actor": "Chinamperos",
+      "accion": "Mantener la producción agrícola en chinampas"
+    },
+    {
+      "actor": "Universidades (UAM, UNAM)",
+      "accion": "Colaborar en proyectos de investigación y conservación"
+    },
+    {
+      "actor": "Gobierno francés",
+      "accion": "Financiar proyectos de infraestructura para el agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Participar en iniciativas de conservación y educación ambiental"
+    }
+  ],
+  "input_tokens": 13657,
+  "output_tokens": 362,
+  "error": null,
+  "items_antes_de_tope": {}
+}

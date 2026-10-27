@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en el ejido",
+    "Problemas de calidad del agua",
+    "Tandeo del agua",
+    "Fugas en la tubería",
+    "Desperdicio de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano descontrolado",
+    "Antigua infraestructura de agua",
+    "Falta de mantenimiento a la red",
+    "Expropiación de tierras",
+    "Desinformación de la delegación"
+  ],
+  "Consecuencias": [
+    "Dificultad para obtener agua potable",
+    "Dependencia de agua embotellada",
+    "Problemas de salud por agua contaminada",
+    "Conflictos comunitarios por el agua",
+    "Aumento de costos para obtener agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejidatarios",
+      "accion": "Construcción de cisternas"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Mantenimiento de la red de agua"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Control del tandeo de agua"
+    },
+    {
+      "actor": "Comisiones del Pueblo",
+      "accion": "Reuniones para informar sobre el agua"
+    },
+    {
+      "actor": "Comunidad",
+      "accion": "Captación de agua de lluvia"
+    }
+  ],
+  "input_tokens": 9794,
+  "output_tokens": 240,
+  "error": null,
+  "items_antes_de_tope": {}
+}

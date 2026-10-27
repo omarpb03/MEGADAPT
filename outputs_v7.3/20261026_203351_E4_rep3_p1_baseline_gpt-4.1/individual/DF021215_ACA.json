@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua en zonas urbanas",
+    "Calidad del agua no es muy buena",
+    "Presión urbana sobre zonas de conservación",
+    "Problemática del agua en asentamientos irregulares",
+    "Control del agua por grupos de piperos"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios y políticos",
+    "Descoordinación institucional entre dependencias",
+    "Desmantelamiento de políticas rurales",
+    "Expansión urbana desordenada",
+    "Falta de estudios de factibilidad de agua",
+    "Distorsión de políticas de vivienda",
+    "Debilitamiento de instituciones comunitarias",
+    "Lógica de tubería para distribución de agua",
+    "Presencia de grupos de poder como piperos"
+  ],
+  "Consecuencias": [
+    "Conflictos por acceso al agua",
+    "Proyectos productivos afectados",
+    "Gentrificación en zonas urbanas",
+    "Conservación debilitada por presión urbana",
+    "Problemas internos en comunidades",
+    "Necesidad de soluciones autogestivas",
+    "Servicios públicos insuficientes",
+    "Confusión en tenencia de la tierra"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Gestiona distribución de agua por tubería"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Controlan venta y reparto de agua"
+    },
+    {
+      "actor": "Comunidades locales",
+      "accion": "Implementan filtración y captación de agua"
+    },
+    {
+      "actor": "Isla Urbana",
+      "accion": "Promueve captación de agua de lluvia"
+    },
+    {
+      "actor": "Autoridades agrarias",
+      "accion": "Reconocen derechos de agua en asamblea"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Reparten agua mediante pipas"
+    },
+    {
+      "actor": "ONG’s",
+      "accion": "Desarrollan proyectos comunitarios de agua"
+    },
+    {
+      "actor": "Asambleas comunitarias",
+      "accion": "Gestionan acceso y servicios de agua"
+    },
+    {
+      "actor": "Gobierno central",
+      "accion": "Diseña políticas ambientales y urbanas"
+    },
+    {
+      "actor": "Gestores comunitarios",
+      "accion": "Negocian recursos y servicios"
+    },
+    {
+      "actor": "PAOT",
+      "accion": "Visualiza incompatibilidades de uso de suelo"
+    },
+    {
+      "actor": "Productores agrícolas",
+      "accion": "Conservan territorio con proyectos productivos"
+    },
+    {
+      "actor": "Proyectos de invernaderos",
+      "accion": "Captan agua de lluvia para producción"
+    },
+    {
+      "actor": "CORET",
+      "accion": "Regula expropiaciones y tenencia de tierra"
+    }
+  ],
+  "input_tokens": 9716,
+  "output_tokens": 482,
+  "error": null,
+  "items_antes_de_tope": {}
+}

@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p1_baseline",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminación del río Eslava",
+    "Crecimiento urbano descontrolado",
+    "Escasez de agua limpia",
+    "Pérdida de suelo de conservación",
+    "Invasión de asentamientos humanos",
+    "Preservar recarga de mantos acuíferos",
+    "Calidad del agua para consumo",
+    "Degradación de zonas de bosque",
+    "Fuga de valores y educación ambiental"
+  ],
+  "Causas_principales": [
+    "Crecimiento anárquico de la ciudad",
+    "Asentamientos humanos irregulares",
+    "Falta de planeación urbana",
+    "Pérdida de valores y educación",
+    "Débil compromiso del gobierno",
+    "Expansión de la mancha urbana",
+    "Deforestación y pérdida de suelos",
+    "Escaso financiamiento a programas",
+    "Descargas de drenaje en ríos",
+    "Abandono de actividades agrícolas",
+    "Aumento de población local"
+  ],
+  "Consecuencias": [
+    "Agua del río convertida en drenaje",
+    "Contaminación de mantos freáticos",
+    "Disminución de presión de agua",
+    "Desplazamiento de áreas verdes",
+    "Pérdida de biodiversidad",
+    "Deterioro de calidad de vida",
+    "Venta de tierras por falta de empleo",
+    "Reducción de recarga de acuíferos",
+    "Problemas de abastecimiento",
+    "Fin de vida silvestre",
+    "Agotamiento de recursos para el pueblo"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Implementación de crecimiento cero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de conservación de suelo"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de presas filtrantes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcción de pozos de absorción"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Reforestación masiva de montes"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Cadenas productivas agropecuarias"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Acuerdo con Secretaría del Medio Ambiente"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Mantenimiento de bosques y limpieza"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Control del censo ganadero"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Prohibir apertura de nuevas tierras agrícolas"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Desalojos en la parte alta"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Monitoreo con cuadrillas y biólogos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Proyectos de ganado tabulado"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Comercialización local de productos"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Promoción de empleo local"
+    },
+    {
+      "actor": "Gobierno federal",
+      "accion": "Apoyo en proyectos de conservación"
+    },
+    {
+      "actor": "Secretaría del Medio Ambiente",
+      "accion": "Colaboración en ordenamiento ganadero"
+    },
+    {
+      "actor": "Visitantes del parque",
+      "accion": "Prácticas responsables de turismo"
+    },
+    {
+      "actor": "Otros países",
+      "accion": "Apoyo en reforestación y conservación"
+    },
+    {
+      "actor": "Compañía francesa",
+      "accion": "Colocación de medidores de agua"
+    },
+    {
+      "actor": "Ejidatarios",
+      "accion": "Educación ambiental interna"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Cinturón ecológico entre bosque y asentamientos"
+    }
+  ],
+  "input_tokens": 6922,
+  "output_tokens": 642,
+  "error": null,
+  "items_antes_de_tope": {}
+}
