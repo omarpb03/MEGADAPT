@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC031915_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua por tandeo",
+    "Fugas en la tubería",
+    "Desperdicio de agua en ojo de agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano desordenado",
+    "Expropiación y venta de tierras",
+    "Aumento de población"
+  ],
+  "Consecuencias": [
+    "Batallar para obtener agua",
+    "Gasto en cisternas y bombas",
+    "Compra de agua en garrafón"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Vecinos",
+      "accion": "Reportar fugas a delegación"
+    },
+    {
+      "actor": "Delegación",
+      "accion": "Arreglar fugas de agua"
+    },
+    {
+      "actor": "Habitantes",
+      "accion": "Hacer cisternas y tinacos"
+    }
+  ],
+  "input_tokens": 9794,
+  "output_tokens": 647,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 8,
+    "Causas_principales": 9,
+    "Consecuencias": 9,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 13
+  }
+}

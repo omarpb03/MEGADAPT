@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF021215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Escasez de agua",
+    "Control de pipas de agua",
+    "Calidad del agua no muy buena"
+  ],
+  "Causas_principales": [
+    "Intereses inmobiliarios",
+    "Intereses pol ticos",
+    "Desmantelamiento de pol ticas rurales"
+  ],
+  "Consecuencias": [
+    "Consolidaci on de grupos de poder piperos",
+    "Conflictos por propiedad comunitaria",
+    "Proyectos distorsionados en implementaci on"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Sistema de Aguas CDMX",
+      "accion": "Distribuci on de agua por tuber a"
+    },
+    {
+      "actor": "Grupos de piperos",
+      "accion": "Venta y control de pipas"
+    },
+    {
+      "actor": "Residentes",
+      "accion": "Compra de pipas de agua"
+    }
+  ],
+  "input_tokens": 10077,
+  "output_tokens": 941,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 8,
+    "Causas_principales": 12,
+    "Consecuencias": 11,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 15
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC042415_OTR"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Contaminaci\u0003n del r\u000edo Eslava",
+    "Escasez de agua en el pueblo",
+    "Calidad del agua que se consume"
+  ],
+  "Causas_principales": [
+    "Asentamientos humanos irregulares",
+    "Crecimiento urbano no planeado",
+    "Falta de educaci\u000003n ambiental"
+  ],
+  "Consecuencias": [
+    "R\u00000edo convertido en drenaje",
+    "Agua contaminada para consumo",
+    "Disminuci\u000003n de presi\u000003n del agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Ejido",
+      "accion": "Incorporaci\u000003n a reserva ecol\u000003gica"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Crecimiento cero urbano"
+    },
+    {
+      "actor": "Ejido",
+      "accion": "Construcci\u000003n de presas filtrantes"
+    }
+  ],
+  "input_tokens": 7283,
+  "output_tokens": 768,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 6,
+    "Causas_principales": 9,
+    "Consecuencias": 8,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 15
+  }
+}

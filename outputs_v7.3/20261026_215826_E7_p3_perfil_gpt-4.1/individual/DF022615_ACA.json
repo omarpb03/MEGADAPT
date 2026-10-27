@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF022615_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Desperdicio del agua",
+    "Falta de cultura del agua",
+    "Problemas de acceso en Iztapalapa"
+  ],
+  "Causas_principales": [
+    "Falta de interés del gobierno",
+    "Falta de financiamiento",
+    "Urbanización de zonas lacustres"
+  ],
+  "Consecuencias": [
+    "Desperdicio de agua potable",
+    "Acceso limitado a agua en colonias",
+    "Uso de aguas negras en riego"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Gente de biotecnología",
+      "accion": "Proponer reciclaje de aguas grises"
+    },
+    {
+      "actor": "Gobierno",
+      "accion": "Cambiar uso de agua en jardines"
+    },
+    {
+      "actor": "Productores de Xochimilco",
+      "accion": "Usar excreta de ganado en suelos"
+    }
+  ],
+  "input_tokens": 13651,
+  "output_tokens": 633,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 12,
+    "Causas_principales": 12,
+    "Consecuencias": 11,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 15
+  }
+}

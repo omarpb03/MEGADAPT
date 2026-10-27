@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "MC032415_GOB"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Disminuci\u00133n de fuentes de abastecimiento",
+    "Fugas por tuber\u0013das viejas",
+    "Desabasto en temporada de estiaje"
+  ],
+  "Causas_principales": [
+    "Tala clandestina en zona boscosa",
+    "Tuber\u0013das rebasadas en vida \u0013dt\u0013l",
+    "Falta de presupuesto para sustituci\u0013fn de tuber\u0013das"
+  ],
+  "Consecuencias": [
+    "Baja recarga de manantiales",
+    "Disminuci\u0013fn del gasto de agua",
+    "Suspensi\u0013fn temporal del suministro"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Delegaci\u0013fn",
+      "accion": "Distribuci\u0013fn de agua en colonias"
+    },
+    {
+      "actor": "Sistema de Aguas",
+      "accion": "Env\u0013do de agua en bloque"
+    },
+    {
+      "actor": "Delegaci\u0013fn y Sistema de Aguas",
+      "accion": "Mantenimiento y reparaci\u0013fn de fugas"
+    }
+  ],
+  "input_tokens": 12064,
+  "output_tokens": 1034,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 8,
+    "Causas_principales": 11,
+    "Consecuencias": 11,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 15
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "X022415_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Problema de abastecimiento de agua",
+    "Distribuci\u000fn desigual del agua",
+    "Contaminaci\u000fn de fuentes de agua"
+  ],
+  "Causas_principales": [
+    "Expansi\u00000fn urbana",
+    "Extracci\u00000fn de acu feros",
+    "Decisiones influenciadas por racionalidad tecnol gica o econ mica"
+  ],
+  "Consecuencias": [
+    "Contaminaci\u00000fn por agroqu micos",
+    "P\u00000drdida de tierras agr colas",
+    "Asentamientos irregulares"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Productores locales",
+      "accion": "Defensa de recursos h drico"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Cambio de uso de suelo"
+    },
+    {
+      "actor": "Productores locales",
+      "accion": "Uso de agua sin regulaci\u00000fn"
+    }
+  ],
+  "input_tokens": 20180,
+  "output_tokens": 881,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 10,
+    "Causas_principales": 10,
+    "Consecuencias": 10,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 12
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF012815_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Dotaci\u0003n insuficiente de agua",
+    "Mala calidad del agua",
+    "P\u0000e9rdidas en la red hidr\u000001ulica"
+  ],
+  "Causas_principales": [
+    "Crecimiento de la ciudad sin planeaci\u000001on",
+    "Asentamientos informales permitidos por autoridades",
+    "Decisiones pol\u000001iticas sin base t\u000001ecnica"
+  ],
+  "Consecuencias": [
+    "Escasez de agua en colonias",
+    "Agua sucia y de mala calidad",
+    "Desigualdad entre zonas urbanas"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Autoridades locales",
+      "accion": "Permiten asentamientos informales"
+    },
+    {
+      "actor": "Delegaciones",
+      "accion": "Regulan tandeo y pipas"
+    },
+    {
+      "actor": "Jefes territoriales",
+      "accion": "Gestionan servicios por votos"
+    }
+  ],
+  "input_tokens": 9945,
+  "output_tokens": 780,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 8,
+    "Causas_principales": 10,
+    "Consecuencias": 10,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 12
+  }
+}

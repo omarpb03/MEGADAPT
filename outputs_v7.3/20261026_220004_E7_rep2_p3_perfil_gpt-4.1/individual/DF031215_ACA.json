@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Id_entrevista": "DF031215_ACA"
+  },
+  "prompt_variant": "p3_perfil",
+  "Preocupacion_principal_acerca_del_agua": [
+    "Suministro irregular de agua",
+    "Tandeo diferenciado entre colonias",
+    "Desigualdad en acceso al agua"
+  ],
+  "Causas_principales": [
+    "Crecimiento urbano acelerado",
+    "Decisiones políticas discrecionales",
+    "Sesgo presupuestal hacia zonas centrales"
+  ],
+  "Consecuencias": [
+    "Baja presión de agua",
+    "Desabasto en colonias populares",
+    "Conflictos entre vecinos por agua"
+  ],
+  "Acciones_y_Actores_que_realizan_dichas_acciones": [
+    {
+      "actor": "Coordinador territorial",
+      "accion": "Controlar válvulas de agua"
+    },
+    {
+      "actor": "Vecinos organizados",
+      "accion": "Documentar aparición de grietas"
+    },
+    {
+      "actor": "UPREZ",
+      "accion": "Realizar estudios con vecinos"
+    }
+  ],
+  "input_tokens": 12471,
+  "output_tokens": 509,
+  "error": null,
+  "items_antes_de_tope": {
+    "Preocupacion_principal_acerca_del_agua": 10,
+    "Causas_principales": 10,
+    "Consecuencias": 10,
+    "Acciones_y_Actores_que_realizan_dichas_acciones": 14
+  }
+}
